@@ -1,0 +1,727 @@
+AIBE 4 Question Paper with Answer Key Set D 2012
+Time Allowed :3 Hours Maximum Marks :90 Total questions :90
+General Instructions Read the following instructions very carefully and strictly follow them:
+1. Please check that this question paper contains 19 printed pages. 2. Please check that this question paper contains 90 questions. 3. Q.P. Code given on the right hand side of the question paper should be written on
+the title page of the answer-book by the candidate. 4. Please write down the Serial Number of the question in the answer- book at the
+given place before attempting it. 5. 15 minute time has been allotted to read this question paper. The question paper
+will be distributed at 10.15 a.m. From 10.15 a.m. to 10.30 a.m., the candidates will read the question paper only and will not write any answer on the answer-book during this period. 6. This Question Paper has 90 questions. All questions are compulsory. 7. Adhere to the prescribed word limit while answering the questions.
+1
+
+1. Who categorized the subject of jurisprudence as 'Expositorial Jurisprudence' and censorial Jurisprudence?
+(A) Holland (B) Bentham (C) Kelsen (D) Paton
+Correct Answer: (A) Holland
+Solution: Step 1: Understanding the Question: This question refers to the categorization of jurisprudence into two distinct types: 'Expositorial Jurisprudence' and 'Censorial Jurisprudence.' The key concept is the division of jurisprudence into different kinds based on certain characteristics, and the focus is on identifying the legal scholar who made this categorization. Step 2: Detailed Explanation of the Options: - (A) Holland: This is the correct answer. Holland made the distinction between 'Expositorial' and 'Censorial' jurisprudence. 'Expositorial' jurisprudence refers to the objective analysis and explanation of legal rules, while 'Censorial' jurisprudence concerns the critique of the law. - (B) Bentham: Bentham is known for his contributions to utilitarianism and legal positivism, but he did not categorize jurisprudence in this way. He focused on the role of law in promoting the greatest happiness. - (C) Kelsen: Kelsen is best known for his Pure Theory of Law, which was focused on the structure and sources of law, but he did not divide jurisprudence into 'Expositorial' and 'Censorial.' - (D) Paton: Paton was a noted legal scholar who worked on legal philosophy and jurisprudence but did not make this specific categorization. His contributions were more focused on concepts like justice and the philosophy of law. Step 3: Final Conclusion: The correct answer is (A) Holland, as he is the scholar who made this particular categorization of jurisprudence.
+2
+
+Quick Tip When studying legal scholars and their contributions, focus on the specific theories and categorizations they introduced, such as Holland's distinction between different types of jurisprudence.
+2. Who described Jurisprudence as Lawyer's Extra version?
+(A) Savigny (B) Salmond (C) Julius Stone (D) Buckland
+Correct Answer: (B) Salmond
+Solution: Step 1: Understanding the Question: This question asks about who described jurisprudence as "Lawyer's Extra version," which refers to the practical aspect of jurisprudence as seen by legal practitioners, such as lawyers, in their daily practice. The term highlights the functional and application-focused side of law. Step 2: Detailed Explanation of the Options: - (A) Savigny: Savigny is famous for his historical school of law, which focused on the evolution of law based on historical and cultural contexts. However, he did not describe jurisprudence as 'Lawyer's Extra version.' - (B) Salmond: This is the correct answer. Salmond viewed jurisprudence as a set of principles and rules that directly guide the actions of lawyers in their practice, calling it the "Lawyer's Extra version." He emphasized the practical application of legal theory. - (C) Julius Stone: Stone was a legal theorist who emphasized the relationship between law and society but did not coin the term "Lawyer's Extra version." His work was more focused on legal realism and the social context of law. - (D) Buckland: Buckland was a Roman law expert and contributed to legal philosophy, but he did not describe jurisprudence in terms of a "Lawyer's Extra version." His work was more concerned with the historical and institutional foundations of law.
+3
+
+Step 3: Final Conclusion: The correct answer is (B) Salmond, as he described jurisprudence as 'Lawyer's Extra version,' highlighting the practical side of law.
+Quick Tip When studying different views on jurisprudence, distinguish between theoretical and practical approaches. Salmond's description emphasizes law as a tool for practitioners.
+3. 'Fiction Theory' is related to which of the following concepts?
+(A) Ownership (B) Liability (C) Justice (D) Legal personality
+Correct Answer: (D) Legal personality
+Solution: Step 1: Understanding the Question: The question refers to 'Fiction Theory,' which is a concept used in legal theory. The theory revolves around the idea that certain entities, such as corporations or other legal subjects, are treated as 'persons' in the eyes of the law, despite not being natural persons. This theory is primarily associated with the concept of legal personality. Step 2: Detailed Explanation of the Options: - (A) Ownership: Ownership refers to the legal right to control and dispose of property, but it is not directly linked to Fiction Theory. - (B) Liability: Liability involves legal responsibility for actions, but it is not directly connected to the concept of Fiction Theory. - (C) Justice: Justice is a broader moral and philosophical concept, not specifically related to Fiction Theory. - (D) Legal personality: This is the correct answer. Fiction Theory is closely related to legal personality, which grants legal entities (like corporations or artificial persons) the ability to
+4
+
+participate in legal relations, despite not being human beings. Fiction Theory treats these entities as 'persons' under the law. Step 3: Final Conclusion: The correct answer is (D) Legal personality, as Fiction Theory is focused on granting legal personality to entities that are not natural persons.
+Quick Tip Fiction Theory is central to understanding how legal entities like corporations are treated as legal 'persons,' enabling them to own property and enter into contracts.
+4. The Consumer Protection Act was enacted in:
+(A) 1985 (B) 1986 (C) 2005 (D) 2008
+Correct Answer: (B) 1986
+Solution: Step 1: Understanding the Context: The Consumer Protection Act was enacted to safeguard the interests of consumers and to ensure that their rights are protected against unfair trade practices and exploitation. It provides a framework for quick and simple redressal of consumer grievances. Step 2: Legal Reference: The Consumer Protection Act, 1986, came into force on 24th December 1986. It introduced a three-tier system of consumer redressal agencies -- the District Forum, State Commission, and National Commission. This law marked a major step in consumer rights protection in India. Step 3: Analysis of Options: - (A) 1985: Incorrect, as the Act was passed and came into effect in 1986.
+5
+
+- (B) 1986: Correct, since the Consumer Protection Act was enacted and enforced in this year. - (C) 2005: Incorrect, this year relates to amendments in other legislations, not the original enactment. - (D) 2008: Incorrect, not related to the enactment of this Act. Step 4: Final Conclusion: The correct answer is (B) 1986, as the Consumer Protection Act was enacted and enforced in this year.
+Quick Tip The Consumer Protection Act, 1986, established the three-tier system of consumer courts and empowered consumers with the right to seek redressal.
+5. Appeal against the award of Claims Tribunals under the Motor Vehicles Act, 1988 can be made under:
+(A) Section 171 (B) Section 172 (C) Section 173 (D) Section 174
+Correct Answer: (C) Section 173
+Solution: Step 1: Understanding the Provision: The Motor Vehicles Act, 1988, provides for Claims Tribunals to adjudicate compensation cases arising from motor vehicle accidents. If a party is dissatisfied with the award of a Claims Tribunal, they have the right to appeal under the specific provision of the Act. Step 2: Legal Reference: Section 173 of the Motor Vehicles Act, 1988, deals with appeals against the award of Claims Tribunals. It allows an aggrieved party to appeal to the High Court within 90 days from the
+6
+
+date of the award, provided certain conditions are met, such as depositing the prescribed amount before filing the appeal. Step 3: Analysis of Options: - (A) Section 171: This section deals with the award of interest on compensation, not appeals. - (B) Section 172: This section provides for penalties for false statements or representations, not appeals. - (C) Section 173: Correct, as this section specifically provides for appeals against the decisions of the Claims Tribunal. - (D) Section 174: This section pertains to the recovery of money as arrears of land revenue, not appeals. Step 4: Final Conclusion: The correct answer is (C) Section 173, as it explicitly provides the procedure for appeals against awards of the Claims Tribunal under the Motor Vehicles Act.
+Quick Tip Appeals under the Motor Vehicles Act, 1988, against the award of Claims Tribunals are filed under Section 173 within 90 days from the date of the award.
+6. The amendment in Motor Vehicles Act in 1994, the compensation in case of death of the person is:
+(A) Rs. 25,000 (B) Rs. 50,000 (C) Rs. 70,000 (D) Rs. 90,000
+Correct Answer: (C) Rs. 70,000
+Solution: Step 1: Understanding the Question: This question refers to an amendment made in the Motor Vehicles Act in 1994 regarding compensation for death due to motor vehicle accidents. It asks about the amount of
+7
+
+compensation prescribed under this amendment. Step 2: Detailed Explanation of the Options: - (A) Rs. 25,000: This amount is not the correct compensation according to the 1994 amendment. - (B) Rs. 50,000: While this was an earlier amount, the 1994 amendment increased the compensation to a higher amount. - (C) Rs. 70,000: This is the correct answer. The amendment in 1994 increased the compensation for death caused in motor vehicle accidents to Rs. 70,000. - (D) Rs. 90,000: This amount is not accurate according to the Motor Vehicles Act amendment in 1994. Step 3: Final Conclusion: The correct answer is (C) Rs. 70,000, as the Motor Vehicles Act 1994 amendment increased the compensation to this amount in case of death caused by a motor vehicle accident.
+Quick Tip When studying legal amendments, focus on the specific figures and changes introduced by the amendments, such as compensation amounts in cases of accidents.
+7. Under the vicarious liability, the liability is:
+(A) Joint (B) Several (C) Both (i) and (ii) (D) Either of the above depending upon facts and circumstances of the case
+Correct Answer: (D) Either of the above depending upon facts and circumstances of the case
+Solution: Step 1: Understanding the Concept of Vicarious Liability: Vicarious liability refers to a legal doctrine where one person is held liable for the actions of another. This is typically applied in the context of employers being held responsible for the
+8
+
+actions of their employees when those actions are performed within the scope of employment. However, the nature of the liability (whether joint or several) can vary depending on the case's specific facts. Step 2: Detailed Explanation of the Options: - (A) Joint: In joint liability, all parties involved share equal responsibility for the outcome. This could apply in some cases under vicarious liability, but it is not always the case. - (B) Several: Several liability means that each party is individually responsible for the entire amount of liability. This would also depend on the circumstances of the case and may not always apply in vicarious liability situations. - (C) Both (i) and (ii): This option suggests that both joint and several liability can apply, but this is not always true, as it depends on the facts of the case. - (D) Either of the above depending upon facts and circumstances of the case: This is the correct answer. In some cases, vicarious liability could result in joint liability, while in others, it might be several. The determination depends on the specific facts of the case. Step 3: Final Conclusion: The correct answer is (D) Either of the above depending upon facts and circumstances of the case, as the nature of vicarious liability can vary depending on the situation.
+Quick Tip Vicarious liability can result in either joint or several liability depending on the legal context and the facts of the case. Always consider the details of the case when determining the nature of liability.
+8. In Torts, in case of Defamation:
+(A) Intention to defame is not necessary; (B) Intention to defame is necessary; (C) Both (i) and (ii); (D) Either (i) or (ii).
+Correct Answer: (A) Intention to defame is not necessary;
+9
+
+Solution: Step 1: Understanding Defamation in Tort Law: In tort law, defamation refers to making false statements about someone that damage their reputation. Unlike other torts, defamation does not require the defendant to have the intention to harm the plaintiff's reputation. It is sufficient if the statement is defamatory, regardless of the intent. Step 2: Detailed Explanation of the Options: - (A) Intention to defame is not necessary: This is the correct answer. In defamation cases, the focus is on the defamatory nature of the statement itself, not on the defendant's intention to harm the plaintiff's reputation. - (B) Intention to defame is necessary: This is incorrect. Defamation is a strict liability tort, meaning the defendant can be liable even if they did not intend to harm the plaintiff's reputation. - (C) Both (i) and (ii): This option is incorrect because intention is not a required element of defamation. - (D) Either (i) or (ii): This option is incorrect for the same reason as option (C); intention is not a requirement in defamation cases. Step 3: Final Conclusion: The correct answer is (A) Intention to defame is not necessary, as defamation focuses on the defamatory content of the statement, not on the intent behind it.
+Quick Tip In defamation cases, the defendant can be held liable even if there was no intention to harm the plaintiff's reputation, as long as the statement was defamatory.
+9. When was the Advocate Act introduced?
+(A) 1962 (B) 1959 (C) 1961 (D) 1966
+10
+
+Correct Answer: (C) 1961
+Solution: Step 1: Understanding the Advocate Act: The Advocate Act governs the profession of law in India and regulates the admission of advocates to the bar, their rights, and duties. The Act is a crucial legal instrument for the functioning of the legal profession in the country. Step 2: Detailed Explanation of the Options: - (A) 1962: This is incorrect. The Advocate Act was not introduced in 1962. - (B) 1959: This is incorrect. The Advocate Act came into effect later than 1959. - (C) 1961: This is the correct answer. The Advocate Act was introduced in 1961 and has been a fundamental law in regulating the legal profession in India. - (D) 1966: This is incorrect. The Act was not introduced in 1966. Step 3: Final Conclusion: The correct answer is (C) 1961, as the Advocate Act was enacted in that year.
+Quick Tip The Advocate Act of 1961 is a key law regulating the legal profession in India. It outlines the rights, duties, and responsibilities of advocates.
+10. The Bar Council of India consist of following as ex-officio member:
+(A) Attorney General of India; (B) Solicitor General of India; (C) Both a & b; (D) None of the above.
+Correct Answer: (C) Both a & b;
+Solution: Step 1: Understanding the Composition of the Bar Council of India:
+11
+
+The Bar Council of India is a statutory body constituted by the Parliament of India. It is responsible for regulating the legal profession in India, and it includes certain ex-officio members. Step 2: Detailed Explanation of the Options: - (A) Attorney General of India: The Attorney General of India is indeed an ex-officio member of the Bar Council of India, as per the provisions of the Bar Council Act. - (B) Solicitor General of India: The Solicitor General of India is also an ex-officio member of the Bar Council of India. - (C) Both a & b: This is the correct answer. Both the Attorney General and the Solicitor General of India are ex-officio members of the Bar Council of India. - (D) None of the above: This is incorrect, as both the Attorney General and the Solicitor General of India are indeed members of the Bar Council of India. Step 3: Final Conclusion: The correct answer is (C) Both a & b, as both the Attorney General and the Solicitor General of India are ex-officio members of the Bar Council of India.
+Quick Tip The Bar Council of India consists of the Attorney General and the Solicitor General as ex-officio members along with other members elected by the Bar Council.
+11. Indian Bar Committee was constituted first time under the chairmanship of Sir Edward Chamier in the year:
+(A) 1927; (B) 1961; (C) 1949; (D) 1923;
+Correct Answer: (A) 1927;
+Solution: Step 1: Understanding the History of the Indian Bar Committee:
+12
+
+The Indian Bar Committee was established to look into the structure and functioning of the Bar in India. Sir Edward Chamier chaired the committee when it was first constituted. Step 2: Detailed Explanation of the Options: - (A) 1927: This is the correct answer. The Indian Bar Committee was constituted in 1927 under the chairmanship of Sir Edward Chamier. - (B) 1961: This date is not correct for the establishment of the Indian Bar Committee. - (C) 1949: This is also incorrect. The committee was not constituted in 1949. - (D) 1923: This is incorrect. While the legal landscape was being shaped, the Indian Bar Committee was constituted in 1927. Step 3: Final Conclusion: The correct answer is (A) 1927, as the Indian Bar Committee was constituted in that year under the chairmanship of Sir Edward Chamier.
+Quick Tip The Indian Bar Committee was first constituted in 1927 to study the functioning of the Bar and make recommendations for its improvement.
+12. Power of Disciplinary Committee under the Advocate Act is provided under:
+(A) Section 42; (B) Section 53; (C) Section 40; (D) Section 36;
+Correct Answer: (D) Section 36;
+Solution: Step 1: Understanding the Advocate Act and its Disciplinary Powers: The Advocate Act regulates the profession of law in India, and the disciplinary powers related to the conduct of advocates are defined under specific sections of the Act. Section 36 outlines the powers of the Disciplinary Committee. Step 2: Detailed Explanation of the Options:
+13
+
+- (A) Section 42: This section does not deal with disciplinary powers; it is more related to the functions of the Bar Council. - (B) Section 53: This section does not deal with disciplinary matters either. - (C) Section 40: This section relates to the registration of the name of an advocate in the roll of advocates, not disciplinary powers. - (D) Section 36: This is the correct answer. Section 36 of the Advocate Act provides the Disciplinary Committee with the power to take action against any advocate found guilty of misconduct. Step 3: Final Conclusion: The correct answer is (D) Section 36, as it specifically outlines the disciplinary powers under the Advocate Act.
+Quick Tip Section 36 of the Advocate Act provides the Disciplinary Committee with the power to take action against advocates involved in misconduct.
+13. The Indian Council of Arbitration was established in:
+(A) 1956; (B) 1976; (C) 1965; (D) 1996;
+Correct Answer: (C) 1965;
+Solution: Step 1: Understanding the Indian Council of Arbitration: The Indian Council of Arbitration is an important institution in India for the promotion of arbitration as a method of dispute resolution. It was established to provide an institutional framework for resolving disputes through arbitration. Step 2: Detailed Explanation of the Options: - (A) 1956: This is incorrect. The Indian Council of Arbitration was not established in 1956.
+14
+
+- (B) 1976: This is incorrect. The Council was established earlier than 1976. - (C) 1965: This is the correct answer. The Indian Council of Arbitration was established in 1965. - (D) 1996: This is incorrect. The Council was established much earlier than 1996. Step 3: Final Conclusion: The correct answer is (C) 1965, as this is the year when the Indian Council of Arbitration was established.
+Quick Tip The Indian Council of Arbitration was established to promote the use of arbitration as an alternative dispute resolution mechanism in India.
+14. Lex Arbitri Means
+(A) Arbitral tribunal sitting in India can apply the buy the Singapore; (B) Just Law; (C) Arbitrary Law; (D) None of these;
+Correct Answer: (D) None of these;
+Solution: Step 1: Understanding Lex Arbitri: Lex Arbitri is the law that governs the arbitration process, particularly the jurisdiction and procedural rules applied to an arbitration. It is not specifically about any particular arbitral tribunal or geographical jurisdiction, but rather about the rules that govern the arbitration itself. Step 2: Detailed Explanation of the Options: - (A) Arbitral tribunal sitting in India can apply the buy the Singapore: This option is incorrect and does not accurately describe Lex Arbitri. The term refers to the law governing arbitration, not the specific tribunals or countries.
+15
+
+- (B) Just Law: This option is incorrect because Lex Arbitri is not defined as "Just Law." The term "just law" is too vague and unrelated to the procedural rules of arbitration. - (C) Arbitrary Law: This option is also incorrect. Lex Arbitri is not about "arbitrary law," but rather the set of rules that govern arbitration procedures. - (D) None of these: This is the correct answer. None of the provided options accurately describe the meaning of Lex Arbitri. Lex Arbitri refers to the law that governs arbitration proceedings. Step 3: Final Conclusion: The correct answer is (D) None of these, as Lex Arbitri refers to the law governing arbitration, not the other options presented.
+Quick Tip Lex Arbitri governs the procedures and laws surrounding arbitration. It is a term used for the law that controls the arbitration process itself, rather than the specific jurisdictions or tribunals involved.
+15. In India, the Arbitration & Conciliation Act was enacted in:
+(A) 1992; (B) 1993; (C) 1994; (D) 1996;
+Correct Answer: (D) 1996;
+Solution: Step 1: Understanding the Arbitration & Conciliation Act: The Arbitration and Conciliation Act, 1996 is the principal law governing arbitration in India. It provides a comprehensive framework for the settlement of disputes through arbitration and conciliation, and was enacted to modernize and streamline the process. Step 2: Detailed Explanation of the Options: - (A) 1992: This is incorrect. The Arbitration and Conciliation Act was not enacted in 1992.
+16
+
+- (B) 1993: This is incorrect. The Act was enacted later than 1993. - (C) 1994: This is incorrect. The Arbitration and Conciliation Act was enacted after 1994. - (D) 1996: This is the correct answer. The Arbitration and Conciliation Act was enacted in 1996 and is the key legislation for arbitration in India. Step 3: Final Conclusion: The correct answer is (D) 1996, as the Arbitration and Conciliation Act was enacted in that year.
+Quick Tip The Arbitration and Conciliation Act, 1996 is the primary legal framework for arbitration and conciliation in India.
+16. Section 10 sub-section (i) of the Arbitration & Conciliation Act talks about
+(A) Power of Arbitration; (B) Numbers of Arbitrations; (C) Capacity of Arbitrations; (D) None of the above;
+Correct Answer: (A) Power of Arbitration;
+Solution: Step 1: Understanding Section 10 of the Arbitration & Conciliation Act: Section 10 of the Arbitration and Conciliation Act, 1996 discusses the power of the parties to agree on the number of arbitrators for resolving a dispute. Sub-section (i) deals with the power to select the arbitrators. Step 2: Detailed Explanation of the Options: - (A) Power of Arbitration: This is the correct answer. Section 10(i) specifically deals with the parties' power to agree on the number of arbitrators. - (B) Numbers of Arbitrations: This is not correct. While the section talks about the number of arbitrators, it is not specifically about the numbers of arbitrations but rather the power to agree on the number.
+17
+
+- (C) Capacity of Arbitrations: This is incorrect. Section 10 does not talk about the capacity of arbitrations. - (D) None of the above: This is incorrect, as option (A) is correct. Step 3: Final Conclusion: The correct answer is (A) Power of Arbitration, as Section 10(i) deals with the parties' ability to decide the number of arbitrators.
+Quick Tip Section 10 of the Arbitration and Conciliation Act allows the parties to agree on the number of arbitrators, which plays a crucial role in the arbitration process.
+17. A Sunni Muslim marries with Kitabya girl. The marriage is:
+(A) Valid; (B) Void; (C) Irregular; (D) None of these;
+Correct Answer: (C) Irregular;
+Solution: Step 1: Understanding the Marriage between a Sunni Muslim and a Kitabya girl: In Islamic law, a Sunni Muslim man can marry a woman from the "People of the Book" (Kitabya), which refers to Jews and Christians. However, for a marriage to be valid, the woman must be a follower of one of these religions. If she is a Kitabya, the marriage is typically valid under Islamic law. However, if there are specific conditions unmet, it may be considered irregular. Step 2: Detailed Explanation of the Options: - (A) Valid: This is incorrect in this case. The marriage may be valid under certain conditions, but given the specifics of the question, it is considered irregular due to the interfaith nature.
+18
+
+- (B) Void: This is incorrect. The marriage is not void, but it may be considered irregular if certain conditions are not met. - (C) Irregular: This is the correct answer. Under Islamic law, the marriage between a Sunni Muslim and a Kitabya girl is irregular but not void. - (D) None of these: This is incorrect because (C) is the correct answer. Step 3: Final Conclusion: The correct answer is (C) Irregular, as the marriage between a Sunni Muslim and a Kitabya girl is irregular, but not invalid under certain conditions in Islamic law.
+Quick Tip In Islamic law, the marriage between a Sunni Muslim and a Kitabya girl is considered irregular, but not invalid if the conditions are met.
+18. The Dissolution of Muslim Marriage Act, 1939 is based on which School of Muslim law:
+(A) Hanafi School; (B) Shafi School; (C) Maliki School; (D) Zaidi School;
+Correct Answer: (A) Hanafi School;
+Solution: Step 1: Understanding the Dissolution of Muslim Marriage Act: The Dissolution of Muslim Marriage Act, 1939 provides the grounds and procedures for the dissolution of marriages under Muslim law. The law is primarily based on the principles of the Hanafi School of thought, which is one of the four major Sunni schools of Islamic jurisprudence. Step 2: Detailed Explanation of the Options: - (A) Hanafi School: This is the correct answer. The Dissolution of Muslim Marriage Act, 1939 is based on the Hanafi School of Muslim law, which is the most widely followed school
+19
+
+among Sunni Muslims in India. - (B) Shafi School: This is incorrect. The Shafi School of law is followed primarily in regions like southern India and some parts of Southeast Asia, but it is not the basis of the Act. - (C) Maliki School: This is incorrect. The Maliki School is another school of Islamic law, primarily followed in parts of North Africa, and does not form the basis of the Act. - (D) Zaidi School: This is incorrect. The Zaidi School is a lesser-known school of law, primarily followed in Yemen, and does not apply to this Act. Step 3: Final Conclusion: The correct answer is (A) Hanafi School, as the Dissolution of Muslim Marriage Act, 1939 is based on the Hanafi School of Muslim law.
+Quick Tip The Hanafi School of law is the most widely followed Sunni school in India, and the Dissolution of Muslim Marriage Act, 1939 is based on its principles.
+19. Under the Hindu Adoption and Maintenance Act, 1956 a female Hindu has the capacity to take a son or daughter in adoption if:
+(A) She is not married; (B) She is married; (C) She is widow and has no son or daughter but has a widowed daughter-in-law; (D) She cannot adopt at all;
+Correct Answer: (C) She is widow and has no son or daughter but has a widowed daughter-in-law;
+Solution: Step 1: Understanding the Hindu Adoption and Maintenance Act, 1956: The Hindu Adoption and Maintenance Act, 1956 governs adoption by Hindus. The Act allows a female Hindu to adopt a son or daughter under certain conditions, including being a widow with no sons or daughters, but having a widowed daughter-in-law. Step 2: Detailed Explanation of the Options:
+20
+
+- (A) She is not married: This is incorrect. The Act does not allow a female Hindu to adopt a child if she is not married, as adoption can only be performed by a married woman or a widow under specific conditions. - (B) She is married: This is incorrect. While a married woman can adopt, it must be done with the consent of her husband under the Act. - (C) She is widow and has no son or daughter but has a widowed daughter-in-law: This is the correct answer. The Act allows a widow with no children to adopt, and having a widowed daughter-in-law allows the adoption to proceed. - (D) She cannot adopt at all: This is incorrect. The Act allows certain women, including widows, to adopt under specific conditions. Step 3: Final Conclusion: The correct answer is (C) She is widow and has no son or daughter but has a widowed daughter-in-law, as this is one of the conditions for adoption under the Hindu Adoption and Maintenance Act, 1956.
+Quick Tip Under the Hindu Adoption and Maintenance Act, 1956, a widow with no children but having a widowed daughter-in-law has the capacity to adopt.
+20. A child born of void and voidable marriage under Hindu law is:
+(A) Legitimate; (B) Illegitimate; (C) Illegal; (D) None of these;
+Correct Answer: (B) Illegitimate;
+Solution: Step 1: Understanding Void and Voidable Marriages under Hindu Law: Under Hindu law, a void marriage is one that is never valid, while a voidable marriage is one that is valid unless annulled. A child born of such a marriage is considered illegitimate, as
+21
+
+the marriage is either not valid from the outset (void) or is not legally recognized until annulled (voidable). Step 2: Detailed Explanation of the Options: - (A) Legitimate: This is incorrect. A child born of a void or voidable marriage is considered illegitimate under Hindu law. - (B) Illegitimate: This is the correct answer. The child born from a void or voidable marriage is considered illegitimate, as the marriage is either void or not legally recognized. - (C) Illegal: This is incorrect. The term "illegal" does not apply to the status of a child born in a void or voidable marriage. The child is illegitimate, not illegal. - (D) None of these: This is incorrect, as (B) is the correct answer. Step 3: Final Conclusion: The correct answer is (B) Illegitimate, as the child born from a void or voidable marriage under Hindu law is considered illegitimate.
+Quick Tip Under Hindu law, children born out of void or voidable marriages are considered illegitimate, as the marriages themselves are either not valid or require annulment.
+21. The father of which of the leader has been the Deputy Prime Minister of India?
+(A) Kumari Mayawati; (B) Mrs. Meira Kumar; (C) Mrs. Pratibha Devi Singh Patil; (D) Mrs. Vasundhara Raje;
+Correct Answer: (B) Mrs. Meira Kumar;
+Solution: Step 1: Understanding the Question: The question is asking about the father of a leader who served as the Deputy Prime Minister of India. We need to identify which leader's father held this position. Step 2: Detailed Explanation of the Options:
+22
+
+- (A) Kumari Mayawati: Kumari Mayawati's father was not a Deputy Prime Minister of India. - (B) Mrs. Meira Kumar: This is the correct answer. Mrs. Meira Kumar's father, Babu Jagjivan Ram, served as the Deputy Prime Minister of India. - (C) Mrs. Pratibha Devi Singh Patil: This is incorrect. Pratibha Patil was the President of India, not the Deputy Prime Minister. - (D) Mrs. Vasundhara Raje: This is incorrect. Vasundhara Raje's father, Maharaja of Dholpur, was not a Deputy Prime Minister. Step 3: Final Conclusion: The correct answer is (B) Mrs. Meira Kumar, as her father Babu Jagjivan Ram served as the Deputy Prime Minister of India.
+Quick Tip Babu Jagjivan Ram, the father of Mrs. Meira Kumar, served as the Deputy Prime Minister of India and was an influential leader in Indian politics.
+22. Who was the Constitutional Advisor to the Constituent Assembly of India?
+(A) Dr. Rajendra Prasad; (B) Dr. B.R. Ambedkar; (C) B.N. Rao; (D) Jawaharlal Nehru;
+Correct Answer: (C) B.N. Rao;
+Solution: Step 1: Understanding the Constitutional Advisor's Role: The role of Constitutional Advisor to the Constituent Assembly of India was significant in advising on the framing of the Constitution. This advisor was instrumental in shaping the legal framework of independent India. Step 2: Detailed Explanation of the Options:
+23
+
+- (A) Dr. Rajendra Prasad: While Dr. Rajendra Prasad was the first President of India, he was not the Constitutional Advisor to the Constituent Assembly. - (B) Dr. B.R. Ambedkar: Dr. B.R. Ambedkar is known as the principal architect of the Indian Constitution but was not the Constitutional Advisor. - (C) B.N. Rao: This is the correct answer. B.N. Rao was the Constitutional Advisor to the Constituent Assembly and played a key role in drafting the Constitution. - (D) Jawaharlal Nehru: Nehru, while being the first Prime Minister of India, was not the Constitutional Advisor to the Constituent Assembly. Step 3: Final Conclusion: The correct answer is (C) B.N. Rao, as he served as the Constitutional Advisor to the Constituent Assembly of India.
+Quick Tip B.N. Rao played a pivotal role in the formation of India's Constitution as the Constitutional Advisor to the Constituent Assembly.
+23. The concept of 'Judicial Review' in India is based on:
+(A) Procedure established by law; (B) Due process of law; (C) Rule of law; (D) International treaties and convention;
+Correct Answer: (A) Procedure established by law;
+Solution: Step 1: Understanding Judicial Review in India: Judicial Review refers to the power of the judiciary to examine and invalidate laws and executive actions that are inconsistent with the Constitution. In India, Judicial Review is based on the "Procedure established by law," which means that the legality of laws and executive orders is determined based on their compliance with the Constitution. Step 2: Detailed Explanation of the Options:
+24
+
+- (A) Procedure established by law: This is the correct answer. Judicial Review in India is primarily based on the "Procedure established by law," a concept derived from Article 21 of the Indian Constitution, which provides that no person shall be deprived of their rights except by a procedure established by law. - (B) Due process of law: This concept is more relevant in the context of the American legal system. In India, the concept of "Procedure established by law" is used instead of "Due process of law." - (C) Rule of law: While the rule of law is an important principle, Judicial Review is specifically based on the procedure established by law in India. - (D) International treaties and convention: This is incorrect, as Judicial Review is not based on international treaties or conventions but rather on the domestic legal framework of India. Step 3: Final Conclusion: The correct answer is (A) Procedure established by law, as Judicial Review in India is based on this principle under the Constitution.
+Quick Tip Judicial Review in India is based on the "Procedure established by law," as defined in Article 21 of the Indian Constitution.
+24. Protection of environment is a:
+(A) Constitutional Duty; (B) Directive Principle; (C) Fundamental Duty; (D) Both (B) & (C);
+Correct Answer: (D) Both (B) & (C);
+Solution: Step 1: Understanding the Protection of Environment under Indian Law: The Constitution of India incorporates the protection of the environment as both a Directive Principle of State Policy and a Fundamental Duty. This dual recognition ensures that both
+25
+
+the government and citizens are responsible for protecting the environment. Step 2: Detailed Explanation of the Options: - (A) Constitutional Duty: This is partially correct, as protection of the environment is considered a duty under Fundamental Duties (Article 51A). - (B) Directive Principle: This is partially correct, as the protection of the environment is mentioned under the Directive Principles (Article 48A). - (C) Fundamental Duty: This is partially correct as well, as it forms part of the Fundamental Duties (Article 51A). - (D) Both (B) & (C): This is the correct answer, as the protection of the environment is both a Directive Principle (Article 48A) and a Fundamental Duty (Article 51A). Step 3: Final Conclusion: The correct answer is (D) Both (B) & (C), as the protection of the environment is enshrined as both a Directive Principle and a Fundamental Duty in the Constitution of India.
+Quick Tip The protection of the environment is both a Directive Principle and a Fundamental Duty under the Constitution of India.
+25. The item 'Education' belongs to the:
+(A) Union List; (B) State List; (C) Concurrent List; (D) Residuary Subjects;
+Correct Answer: (C) Concurrent List;
+Solution: Step 1: Understanding the Constitutional Classification of Subjects: Under the Seventh Schedule of the Constitution of India, education is listed under the Concurrent List (List III). This means both the Union and State legislatures have the power to make laws on education, but in case of a conflict, Union law prevails.
+26
+
+Step 2: Detailed Explanation of the Options: - (A) Union List: This is incorrect. Education does not fall under the Union List. - (B) State List: This is incorrect. Education is not exclusively in the State List. - (C) Concurrent List: This is the correct answer. Education is placed under the Concurrent List, meaning both the Union and State legislatures can legislate on it. - (D) Residuary Subjects: This is incorrect. Education is not a residuary subject. Step 3: Final Conclusion: The correct answer is (C) Concurrent List, as education is included in the Concurrent List under the Seventh Schedule of the Constitution of India.
+Quick Tip Education is a subject under the Concurrent List, meaning both the Union and State governments can legislate on it.
+26. While interpreting the phrase "equality before the law" contained in Article 14 of the Constitution, the Supreme Court constantly maintained that equality means:
+(A) Absolute equality among human beings; (B) Equal treatment to all persons; (C) Among equals, the law should be equal and should be equally administered; (D) Both (B) & (C);
+Correct Answer: (D) Both (B) & (C);
+Solution: Step 1: Understanding Article 14 - Equality Before the Law: Article 14 of the Constitution of India guarantees equality before the law, meaning that every person shall be treated equally under the law without any discrimination. The Supreme Court has emphasized that equality does not mean absolute equality but equal treatment in similar circumstances. Step 2: Detailed Explanation of the Options:
+27
+
+- (A) Absolute equality among human beings: This is incorrect. The Supreme Court does not interpret equality in absolute terms but focuses on equal treatment in similar situations. - (B) Equal treatment to all persons: This is partially correct. Equal treatment is a significant part of the interpretation of equality under Article 14. - (C) Among equals, the law should be equal and should be equally administered: This is also correct. The Supreme Court has emphasized that equality means treating equals equally and applying the law equally to all. - (D) Both (B) & (C): This is the correct answer. The Supreme Court's interpretation of equality under Article 14 involves both equal treatment and equal administration of the law. Step 3: Final Conclusion: The correct answer is (D) Both (B) & (C), as the Supreme Court maintains that equality means equal treatment to all persons and equal application of the law to equals.
+Quick Tip Article 14 of the Indian Constitution ensures equality before the law, meaning equal treatment of all persons in similar circumstances and equal application of the law.
+27. The number of Fundamental Rights available in the Constitution of India are:
+(A) Six; (B) Seven; (C) Eight; (D) Ten;
+Correct Answer: (A) Six;
+Solution: Step 1: Understanding Fundamental Rights in India: The Constitution of India originally provided for six Fundamental Rights under Part III. These rights include the right to equality, freedom, protection of life and personal liberty, protection against exploitation, right to freedom of religion, and cultural and educational rights. The seventh right, right to property, was later removed.
+28
+
+Step 2: Detailed Explanation of the Options: - (A) Six: This is the correct answer. Initially, there were six Fundamental Rights, but the right to property was later removed by the 44th Amendment. - (B) Seven: This is incorrect. There are currently six Fundamental Rights in the Constitution of India. - (C) Eight: This is incorrect. There are only six Fundamental Rights, not eight. - (D) Ten: This is incorrect. There are only six Fundamental Rights in the Constitution of India. Step 3: Final Conclusion: The correct answer is (A) Six, as there are currently six Fundamental Rights available in the Constitution of India.
+Quick Tip The original Constitution of India had seven Fundamental Rights, but the right to property was later removed, leaving six Fundamental Rights.
+28. Which one of the following Fundamental Rights was described by Dr. B.R. Ambedkar as 'the heart and soul of the Constitution'?
+(A) Rights to equality; (B) Rights to Freedom of Religion; (C) Rights to Constitutional Remedies; (D) All the above;
+Correct Answer: (C) Rights to Constitutional Remedies;
+Solution: Step 1: Understanding Dr. B.R. Ambedkar's View on Fundamental Rights: Dr. B.R. Ambedkar, the principal architect of the Indian Constitution, described the Right to Constitutional Remedies as "the heart and soul of the Constitution." This right ensures that any person whose Fundamental Rights are violated can approach the courts for enforcement. Step 2: Detailed Explanation of the Options:
+29
+
+- (A) Rights to equality: While rights to equality are essential, they were not described by Ambedkar as the heart and soul of the Constitution. - (B) Rights to Freedom of Religion: While this right is vital in a secular state, Ambedkar did not describe it as the heart and soul of the Constitution. - (C) Rights to Constitutional Remedies: This is the correct answer. Dr. B.R. Ambedkar specifically referred to this as the heart and soul of the Constitution, as it provides a mechanism for enforcing all other Fundamental Rights. - (D) All the above: This is incorrect, as only the Right to Constitutional Remedies was specifically referred to by Ambedkar in this context. Step 3: Final Conclusion: The correct answer is (C) Rights to Constitutional Remedies, as Dr. B.R. Ambedkar referred to this as the heart and soul of the Constitution.
+Quick Tip The Right to Constitutional Remedies allows individuals to approach the courts if their Fundamental Rights are violated, and Ambedkar considered this the most important right.
+29. What is the period of appointment of the Comptroller and Auditor-General of India?
+(A) 6 years; (B) Upto 65 years of age; (C) 6 years or 65 years of age whichever is earlier; (D) Upto 62 years of age;
+Correct Answer: (C) 6 years or 65 years of age whichever is earlier;
+Solution: Step 1: Understanding the Appointment of the Comptroller and Auditor-General of India:
+30
+
+The Comptroller and Auditor-General (CAG) of India is appointed by the President of India, and the tenure is for a term of 6 years or until the age of 65, whichever is earlier. The CAG plays a crucial role in auditing government expenditure and ensuring financial accountability. Step 2: Detailed Explanation of the Options: - (A) 6 years: This is incorrect. While the term is 6 years, it can also end earlier if the person reaches 65 years of age. - (B) Upto 65 years of age: This is incorrect. The CAG's tenure is not solely limited to age; it is either 6 years or until the person reaches 65 years of age, whichever comes first. - (C) 6 years or 65 years of age whichever is earlier: This is the correct answer. The CAG is appointed for a term of 6 years or until they reach the age of 65, whichever is earlier. - (D) Upto 62 years of age: This is incorrect. The CAG's tenure ends at 65 years of age, not 62. Step 3: Final Conclusion: The correct answer is (C) 6 years or 65 years of age whichever is earlier, as this is the tenure for the Comptroller and Auditor-General of India.
+Quick Tip The Comptroller and Auditor-General of India serves a term of 6 years or until they reach 65 years of age, whichever comes first.
+30. Which of the following Writs is a bulwark of personal freedom?
+(A) Quo Warranto; (B) Mandamus; (C) Habeas Corpus; (D) Certiorari;
+Correct Answer: (C) Habeas Corpus;
+Solution: Step 1: Understanding the Writs and their Importance:
+31
+
+The writ of Habeas Corpus is the most important writ when it comes to personal freedom. It is issued to bring a person who has been unlawfully detained before the court. It safeguards personal liberty and ensures that a person is not deprived of their liberty without due process. Step 2: Detailed Explanation of the Options: - (A) Quo Warranto: This writ is used to challenge the authority of a person holding a public office, but it does not directly concern personal freedom. - (B) Mandamus: This writ is issued to compel a public official to perform a duty they are required by law to do, but it is not primarily concerned with personal freedom. - (C) Habeas Corpus: This is the correct answer. Habeas Corpus directly protects personal freedom by ensuring that no person is unlawfully detained or imprisoned. - (D) Certiorari: This writ is used to quash orders passed by lower courts or tribunals, but it is not specifically related to personal freedom. Step 3: Final Conclusion: The correct answer is (C) Habeas Corpus, as it is the writ that directly protects personal freedom.
+Quick Tip Habeas Corpus is the most important writ for personal freedom, as it ensures a person cannot be unlawfully detained.
+31. Supremacy of law, Equality before law, and predominance of legal Spirit are the basic principles of doctrine of
+(A) Colorable Legislation; (B) Doctrine of 'Separation of Powers'; (C) Doctrine of 'Rule of Law'; (D) Doctrine of 'Excessive delegation';
+Correct Answer: (C) Doctrine of 'Rule of Law';
+Solution: Step 1: Understanding the Doctrine of 'Rule of Law':
+32
+
+The Doctrine of Rule of Law, articulated by Dicey, emphasizes that everyone is subject to the law, and it forms the cornerstone of a free society. It includes principles such as equality before the law and the supremacy of law. Step 2: Detailed Explanation of the Options: - (A) Colorable Legislation: This refers to a situation where the legislature may pass a law in a manner that appears constitutional but violates the Constitution's spirit. It is not related to the principles of the Rule of Law. - (B) Doctrine of 'Separation of Powers': This doctrine emphasizes the division of powers between the legislature, executive, and judiciary, but it does not specifically address supremacy of law or equality before the law. - (C) Doctrine of 'Rule of Law': This is the correct answer. The Rule of Law emphasizes the supremacy of law, equality before the law, and the legal spirit as essential to a just society. - (D) Doctrine of 'Excessive delegation': This refers to the improper delegation of legislative powers but does not relate to the basic principles of the Rule of Law. Step 3: Final Conclusion: The correct answer is (C) Doctrine of 'Rule of Law,' as it encompasses the principles of supremacy of law, equality before the law, and the predominance of legal spirit.
+Quick Tip The Rule of Law is a fundamental principle that underpins legal systems, ensuring that all individuals are equal before the law and that laws are supreme.
+32. "Rule of Law is the antithesis of arbitrariness in all civilized societies. It has come to be regarded as a mark of a free society. It seeks to maintain the balance between the opposite notions of individual liberty and public order" this was opined by whom in famous 'Habeas Corpus' case?
+(A) Justice H.R. Khanna; (B) Chief Justice Ray; (C) Justice Chandrachud; (D) Justice Bhagwati;
+33
+
+Correct Answer: (A) Justice H.R. Khanna;
+Solution: Step 1: Understanding the Context of the 'Habeas Corpus' Case: The quote regarding Rule of Law and arbitrariness was given by Justice H.R. Khanna in the famous Habeas Corpus case of 1976, during the Emergency period in India. Justice Khanna's dissenting opinion emphasized the importance of the Rule of Law in preventing arbitrary actions by the state. Step 2: Detailed Explanation of the Options: - (A) Justice H.R. Khanna: This is the correct answer. Justice H.R. Khanna made this statement in his dissenting opinion in the 'Habeas Corpus' case. - (B) Chief Justice Ray: Chief Justice Ray was involved in the case but did not make this specific statement. - (C) Justice Chandrachud: Justice Chandrachud was not the one who opined this in the 'Habeas Corpus' case. - (D) Justice Bhagwati: Justice Bhagwati was another prominent figure in the case but did not make this statement. Step 3: Final Conclusion: The correct answer is (A) Justice H.R. Khanna, as he opined this in his dissenting judgment in the 'Habeas Corpus' case.
+Quick Tip Justice H.R. Khanna's dissent in the 'Habeas Corpus' case is famous for defending the Rule of Law and individual liberty during the Emergency period in India.
+33. Maxim 'delegatus non potest delegare' means
+(A) A delegate can further delegate; (B) A delegate cannot further delegate; (C) A delegate must protest delegation objectively; (D) None of the above;
+34
+
+Correct Answer: (B) A delegate cannot further delegate;
+Solution: Step 1: Understanding the Maxim 'delegatus non potest delegare': The Latin maxim 'delegatus non potest delegare' translates to 'a delegate cannot further delegate.' It refers to the principle that a person who has been delegated authority cannot delegate that authority further unless expressly permitted to do so. Step 2: Detailed Explanation of the Options: - (A) A delegate can further delegate: This is incorrect, as the maxim specifically prohibits the further delegation of powers by the delegate. - (B) A delegate cannot further delegate: This is the correct answer. The maxim means that a delegate cannot pass on their authority unless expressly allowed to do so. - (C) A delegate must protest delegation objectively: This is incorrect, as the maxim is not about protesting delegation, but about the inability to further delegate. - (D) None of the above: This is incorrect, as (B) is the correct answer. Step 3: Final Conclusion: The correct answer is (B) A delegate cannot further delegate, as this is the meaning of the maxim 'delegatus non potest delegare.'
+Quick Tip The maxim 'delegatus non potest delegare' means a delegate cannot further delegate their powers unless explicitly allowed to do so.
+34. Consumer Protection Act 1986 is predominantly based on UN General Assembly resolution with due negotiations in the:
+(A) UNCITRAL; (B) UNCTAD; (C) UN ECOSOC; (D) None of the above;
+Correct Answer: (A) UNCITRAL;
+35
+
+Solution: Step 1: Understanding the Basis of the Consumer Protection Act 1986: The Consumer Protection Act of 1986 was influenced by international principles on consumer protection. The United Nations created the guidelines on consumer protection under the United Nations Commission on International Trade Law (UNCITRAL). Step 2: Detailed Explanation of the Options: - (A) UNCITRAL: This is the correct answer. UNCITRAL, which stands for the United Nations Commission on International Trade Law, played a major role in shaping global consumer protection laws, including the Indian Consumer Protection Act, 1986. - (B) UNCTAD: This is incorrect. UNCTAD focuses on issues related to trade and development but is not the primary body for consumer protection law. - (C) UN ECOSOC: This is incorrect. While the UN Economic and Social Council (ECOSOC) works on economic and social issues, it was not the direct influence on the Consumer Protection Act, 1986. - (D) None of the above: This is incorrect, as (A) is the correct answer. Step 3: Final Conclusion: The correct answer is (A) UNCITRAL, as the Consumer Protection Act 1986 is largely based on the guidelines provided by UNCITRAL.
+Quick Tip The Consumer Protection Act of 1986 is heavily influenced by UNCITRAL's international consumer protection guidelines.
+35. Which of the following is irrelevant fact under Evidence Act, 1872?
+(A) Facts regarding motive; (B) Facts regarding statements without related conduct; (C) Facts regarding statements clubbed with conduct; (D) Facts which make other relevant fact highly probable;
+Correct Answer: (B) Facts regarding statements without related conduct;
+36
+
+Solution: Step 1: Understanding the Relevance of Facts under Evidence Act, 1872: The Evidence Act of 1872 provides guidelines on the admissibility of facts in court. According to the Act, only facts that are relevant to the case and related to the matter at hand can be admitted as evidence. Step 2: Detailed Explanation of the Options: - (A) Facts regarding motive: This is relevant, as the motive behind a crime or action is often an important piece of evidence in understanding the case. - (B) Facts regarding statements without related conduct: This is the correct answer. Statements without any related conduct or context are generally not considered relevant facts under the Evidence Act. - (C) Facts regarding statements clubbed with conduct: This is relevant, as statements accompanied by related conduct can be significant in proving a point in court. - (D) Facts which make other relevant fact highly probable: This is relevant, as facts that make other facts more likely to be true are often admissible in court as they support the overall case. Step 3: Final Conclusion: The correct answer is (B) Facts regarding statements without related conduct, as these are generally not admissible under the Evidence Act, 1872.
+Quick Tip Under the Evidence Act, 1872, only facts that are relevant and related to the case are admissible in court. Facts without related conduct are generally not admissible.
+36. Test of Competency of witness is:
+(A) Her being intelligent; (B) Must be major; (C) Understanding the nature of question; (D) Capable of understanding the nature of question and giving rational answer;
+37
+
+Correct Answer: (D) Capable of understanding the nature of question and giving rational answer;
+Solution: Step 1: Understanding Competency of a Witness: Under Section 118 of the Indian Evidence Act, 1872, every person is considered competent to testify as a witness if they can understand the questions posed to them and give rational answers. The competency of a witness does not depend on age, sex, or status, but on their mental capacity and ability to comprehend and respond truthfully. Step 2: Detailed Explanation of the Options: - (A) Her being intelligent: This alone does not determine competency. Intelligence is not the sole test of competency. - (B) Must be major: Age is not a criterion for competency; even a child can be a competent witness if they understand the questions. - (C) Understanding the nature of question: While this is necessary, it must also be coupled with the ability to give rational answers. - (D) Capable of understanding the nature of question and giving rational answer: This is the correct answer, as per Section 118 of the Evidence Act. Step 3: Final Conclusion: The correct answer is (D), as a person who can understand questions and provide rational answers is deemed competent to testify.
+Quick Tip Competency of a witness depends on mental capacity, not age or gender, under Section 118 of the Indian Evidence Act.
+37. Which one is exception to 'rule of hearsay' evidence?
+(A) Dying declaration; (B) Facts forming part of same transaction; (C) Facts forming plea of alibi;
+38
+
+(D) Facts regarding character of accuse;
+Correct Answer: (A) Dying declaration;
+Solution: Step 1: Understanding the Rule of Hearsay Evidence: Hearsay evidence refers to statements made outside of the courtroom that are presented to prove the truth of the matter stated. Generally, hearsay evidence is inadmissible in court because it lacks reliability. However, there are exceptions to this rule, one of which is the 'dying declaration.' Step 2: Detailed Explanation of the Options: - (A) Dying declaration: This is the correct answer. Under Section 32(1) of the Indian Evidence Act, statements made by a person as to the cause of their death, or circumstances resulting in their death, are admissible even though they are hearsay. - (B) Facts forming part of same transaction: Although part of res gestae (Section 6 of the Evidence Act), this is not directly an exception to hearsay but rather part of the transaction itself. - (C) Facts forming plea of alibi: This refers to the defense that the accused was elsewhere when the offense was committed; it is not an exception to hearsay. - (D) Facts regarding character of accuse: These are admissible under certain circumstances but not as an exception to the hearsay rule. Step 3: Final Conclusion: The correct answer is (A) Dying declaration, as it is a recognized exception to the hearsay rule under the Evidence Act.
+Quick Tip A dying declaration is an exception to hearsay because it is presumed that a person facing death will not lie.
+38. Communication between husband and wife is treated as privileged if communication:
+39
+
+(A) Was made during marriage with promise of confidentiality; (B) Was made during marriage, even without promise of confidentiality; (C) Was made before marriage with promise of confidentiality; (D) Is made after marriage;
+Correct Answer: (B) Was made during marriage, even without promise of confidentiality;
+Solution: Step 1: Understanding Privileged Communications: Under Section 122 of the Indian Evidence Act, communications made between husband and wife during marriage are considered privileged. Such communications cannot be disclosed in court without the consent of the person who made them, even if there was no explicit promise of confidentiality. Step 2: Detailed Explanation of the Options: - (A) Was made during marriage with promise of confidentiality: Incorrect, as confidentiality is implied by law and not dependent on an explicit promise. - (B) Was made during marriage, even without promise of confidentiality: This is the correct answer. The law automatically grants privilege to all communications made during marriage. - (C) Was made before marriage with promise of confidentiality: Incorrect, as privilege applies only to communications made during marriage. - (D) Is made after marriage: Incorrect, as privilege applies only to communications during marriage, not after its dissolution. Step 3: Final Conclusion: The correct answer is (B), as all communications made between husband and wife during marriage are privileged, regardless of any express promise of confidentiality.
+Quick Tip Under Section 122 of the Indian Evidence Act, communications between spouses during marriage are privileged and cannot be disclosed in court without consent.
+39. Leading questions can be asked even without permission of court during:
+40
+
+(A) Examination-in-Chief; (B) Cross Examination; (C) Re-examination; (D) All of the above;
+Correct Answer: (B) Cross Examination;
+Solution: Step 1: Understanding Leading Questions: A leading question is one that suggests the answer expected from the witness. Under Section 141 of the Indian Evidence Act, leading questions are generally not allowed during the examination-in-chief or re-examination unless permitted by the court. However, they are allowed during cross-examination without such permission. Step 2: Detailed Explanation of the Options: - (A) Examination-in-Chief: Leading questions cannot be asked without the court's permission. - (B) Cross Examination: This is the correct answer. Leading questions can be freely asked during cross-examination to test the credibility of the witness. - (C) Re-examination: Leading questions are not permitted without the court's permission. - (D) All of the above: This is incorrect since only cross-examination allows leading questions without permission. Step 3: Final Conclusion: The correct answer is (B) Cross Examination, as per Section 143 of the Indian Evidence Act.
+Quick Tip Leading questions are freely allowed during cross-examination to test the veracity and credibility of the witness.
+40. What do you mean by word 'evidence'?
+(A) Every fact connected with case; (B) Facts introduced in court of law;
+41
+
+(C) Both; (D) None;
+Correct Answer: (B) Facts introduced in court of law;
+Solution: Step 1: Definition of Evidence: According to Section 3 of the Indian Evidence Act, 1872, "evidence" refers to all statements that witnesses make before the court and all documents or material objects produced for the court's inspection. Step 2: Detailed Explanation of the Options: - (A) Every fact connected with case: Incorrect, as not all facts connected with a case constitute evidence unless they are introduced and accepted by the court. - (B) Facts introduced in court of law: This is the correct answer. Evidence includes only facts that are formally introduced in court proceedings through witnesses, documents, or physical proof. - (C) Both: Incorrect, as only the facts properly introduced in court qualify as evidence. - (D) None: Incorrect, as (B) correctly defines evidence. Step 3: Final Conclusion: The correct answer is (B) Facts introduced in court of law, as evidence is confined to those facts presented and admitted in legal proceedings.
+Quick Tip Evidence under the Indian Evidence Act includes witness testimony, documents, and material objects produced in court.
+41. What is fact in issue?
+(A) Facts involved indirectly; (B) Necessary facts to arrive or determine rights, liability or immunity; (C) Both; (D) None;
+42
+
+Correct Answer: (B) Necessary facts to arrive or determine rights, liability or immunity;
+Solution: Step 1: Understanding 'Facts in Issue': As per Section 3 of the Indian Evidence Act, facts in issue are those facts that are directly in question in a case. They are essential for determining the rights, liabilities, or immunities of the parties involved in the legal proceedings. Step 2: Detailed Explanation of the Options: - (A) Facts involved indirectly: Incorrect. Facts in issue are directly related to the dispute, not indirectly. - (B) Necessary facts to arrive or determine rights, liability or immunity: Correct. These are the core facts that the court must resolve to decide the case. - (C) Both: Incorrect, as only (B) accurately defines facts in issue. - (D) None: Incorrect, as (B) is the correct answer. Step 3: Final Conclusion: The correct answer is (B), as facts in issue are those necessary to determine the outcome of the case.
+Quick Tip Facts in issue are central to the case and determine the rights or liabilities of the parties under the Indian Evidence Act.
+42. Relevant fact is:
+(A) Facts logically relevant to any fact in issue; (B) Facts legally relevant to any fact in issue; (C) Both; (D) None;
+Correct Answer: (B) Facts legally relevant to any fact in issue;
+Solution:
+43
+
+Step 1: Understanding Relevant Facts under Evidence Act: According to Section 5 of the Indian Evidence Act, only facts that are legally relevant to a fact in issue are admissible in court. While a fact may be logically relevant, it must also be legally relevant to be considered by the court. Step 2: Detailed Explanation of the Options: - (A) Facts logically relevant to any fact in issue: This is incorrect because logical relevance alone is not enough for admissibility in court. - (B) Facts legally relevant to any fact in issue: This is the correct answer. Only facts that are legally relevant can be considered as "relevant facts" under the Evidence Act. - (C) Both: This is incorrect since legal relevance is mandatory, not just logical relevance. - (D) None: This is incorrect as (B) is correct. Step 3: Final Conclusion: The correct answer is (B) Facts legally relevant to any fact in issue.
+Quick Tip A fact must be both logically and legally relevant, but only legally relevant facts are admissible in court.
+43. The term 'Lock-out' under the Industrial Dispute Act defined in:
+(A) Section 2(1); (B) Section 2(0); (C) Section 3(1); (D) Section 2(M);
+Correct Answer: (D) Section 2(M);
+Solution: Step 1: Understanding the Concept of 'Lock-out': Under Section 2(l) (commonly written as 2(M) in some references) of the Industrial Disputes Act, 1947, a "lock-out" means the temporary closing of a place of employment, suspension
+44
+
+of work, or refusal by an employer to continue to employ any number of persons employed by him. It is the counterpart of a strike by workers. Step 2: Detailed Explanation of the Options: - (A) Section 2(1): Incorrect, as this section defines 'Appropriate Government,' not 'Lock-out.' - (B) Section 2(0): Incorrect, as this section defines 'Lay-off.' - (C) Section 3(1): Incorrect, as this section deals with the constitution of Works Committees. - (D) Section 2(M): Correct, as it defines 'Lock-out' under the Industrial Disputes Act. Step 3: Final Conclusion: The correct answer is (D) Section 2(M), which defines 'Lock-out' under the Industrial Disputes Act.
+Quick Tip A "lock-out" is a temporary closure or suspension of work initiated by the employer, often as a response to a strike or industrial unrest.
+44. The term 'Lay-off' has been defined under the Industrial Dispute Act:
+(A) Sec 2(KKK); (B) Sec 2(0); (C) Sec 2(1); (D) Sec 3(1);
+Correct Answer: (B) Sec 2(0);
+Solution: Step 1: Understanding the Concept of 'Lay-off': According to Section 2(kkk) (also referenced as 2(0) in some editions) of the Industrial Disputes Act, 1947, "lay-off" means the failure, refusal, or inability of an employer to give employment to a worker due to shortage of raw materials, power failure, breakdown of machinery, or other connected reasons. Step 2: Detailed Explanation of the Options:
+45
+
+- (A) Sec 2(KKK): Often considered the same as 2(0) depending on formatting, it defines "Lay-off." - (B) Sec 2(0): Correct, as this section specifically defines "Lay-off" under the Industrial Disputes Act. - (C) Sec 2(1): Incorrect, as this section defines 'Appropriate Government.' - (D) Sec 3(1): Incorrect, as it deals with the constitution of Works Committees. Step 3: Final Conclusion: The correct answer is (B) Sec 2(0), which defines "Lay-off" under the Industrial Disputes Act, 1947.
+Quick Tip A "lay-off" refers to the temporary inability of an employer to provide work to an employee due to operational difficulties, as defined in Section 2(0) of the Industrial Disputes Act.
+45. The Trade Union Act was enacted:
+(A) 1926; (B) 1946; (C) 1947; (D) 1988;
+Correct Answer: (A) 1926;
+Solution: Step 1: Historical Background of the Trade Union Act: The Trade Union Act, 1926, was the first legislation in India that provided legal recognition to trade unions. The primary purpose of the Act was to regulate the formation, registration, and functioning of trade unions, ensuring workers could collectively bargain for better working conditions. Step 2: Detailed Explanation:
+46
+
+The Act came into force on June 1, 1927, and it aimed to protect the rights of workers to organize and form associations. It laid down provisions regarding registration of trade unions, rights and liabilities of registered unions, and immunity from certain civil and criminal liabilities for legitimate union activities. Step 3: Final Conclusion: The correct answer is (A) 1926, as the Trade Union Act was enacted in that year.
+Quick Tip The Trade Union Act, 1926, was India's first law to protect workers' right to form associations and bargain collectively.
+46. The term "Minimum Wage" has been described in:
+(A) The Trade Union Act; (B) The Industrial Dispute Act; (C) The Minimum Wage Act; (D) None of the above;
+Correct Answer: (C) The Minimum Wage Act;
+Solution: Step 1: Understanding the Concept of Minimum Wage: The term "Minimum Wage" is defined in the Minimum Wages Act, 1948. This Act ensures that workers receive wages sufficient to maintain a decent standard of living and prevent exploitation. The law sets minimum wage rates for different categories of employment and regions, which employers cannot pay below. Step 2: Detailed Explanation of the Options: - (A) The Trade Union Act: Incorrect, as this Act deals with registration and functioning of trade unions. - (B) The Industrial Dispute Act: Incorrect, as this Act focuses on the settlement of disputes between employers and employees.
+47
+
+- (C) The Minimum Wage Act: Correct, as this Act defines "Minimum Wage" and regulates the minimum rates of wages in scheduled employments. - (D) None of the above: Incorrect, since (C) is correct. Step 3: Final Conclusion: The correct answer is (C) The Minimum Wage Act, which defines and governs the fixation and payment of minimum wages in India.
+Quick Tip The Minimum Wages Act, 1948, ensures that every worker receives at least the minimum remuneration fixed by law.
+47. The Minimum Wages Act was enacted:
+(A) 1921; (B) 1923; (C) 1947; (D) 2007;
+Correct Answer: (C) 1947;
+Solution: Step 1: Historical Background of the Minimum Wages Act: The Minimum Wages Act was passed in 1947 and came into force in 1948. Its objective was to safeguard workers against exploitation by fixing minimum wage standards across various employments and industries. Step 2: Purpose and Significance: The Act empowers both Central and State Governments to fix and periodically revise the minimum wage rates for different categories of workers. It ensures that wages are fair and sufficient to meet basic living costs, aligning with the directive principles of state policy under the Constitution. Step 3: Detailed Explanation of the Options: - (A) 1921: Incorrect, as no such legislation was introduced in this year.
+48
+
+- (B) 1923: Incorrect, as this year saw the enactment of the Workmen's Compensation Act, not the Minimum Wages Act. - (C) 1947: Correct, as the Act was enacted in 1947 and came into force in 1948. - (D) 2007: Incorrect, as this refers to modern revisions or wage code proposals, not the original Act. Step 4: Final Conclusion: The correct answer is (C) 1947, as the Minimum Wages Act was enacted that year.
+Quick Tip The Minimum Wages Act, 1947, ensures that employers pay fair wages and protects workers from exploitation.
+48. The Trade Union Act provide for:
+(A) Registration of trade union; (B) Registration of trade union for workers; (C) Recognition of registration of trade union as Juristic Persons; (D) All of the above;
+Correct Answer: (D) All of the above;
+Solution: Step 1: Understanding the Purpose of the Trade Union Act: The Trade Union Act, 1926, was enacted to provide legal status to trade unions and to regulate their registration, rights, and liabilities. It aimed to safeguard workers' rights by recognizing trade unions as legitimate entities capable of collective bargaining. Step 2: Detailed Explanation of the Provisions: The Act provides for: - Registration of trade unions (Section 3­9). - Legal recognition of registered trade unions as body corporates with perpetual succession and a common seal (Section 13). - The rights, immunities, and liabilities of registered trade unions (Sections 15­28).
+49
+
+Step 3: Analysis of Options: (A) Registration of trade union ­ Correct. (B) Registration of trade union for workers ­ Correct, as the Act primarily protects the interests of workers. (C) Recognition of registration of trade union as Juristic Persons ­ Correct, as registered trade unions are recognized as body corporates under Section 13. (D) All of the above ­ Correct, as all the above provisions are included under the Act. Step 4: Final Conclusion: The correct answer is (D) All of the above, since the Act includes registration, recognition, and legal personality of trade unions.
+Quick Tip Registered trade unions under the 1926 Act have legal status as body corporates with rights to own property and sue or be sued.
+49. Foreign court under section 2(5) of CPC means:
+(A) A court situation outside India; (B) A court situated outside India the authority of Government of India; (C) A court situated in India applying foreign law; (D) All of these;
+Correct Answer: (A) A court situation outside India;
+Solution: Step 1: Definition under CPC: According to Section 2(5) of the Civil Procedure Code (CPC), a "foreign court" means a court situated outside India and not established or continued by the authority of the Government of India. Step 2: Detailed Explanation of the Options: - (A) A court situation outside India ­ Correct, as per the definition in Section 2(5).
+50
+
+- (B) A court situated outside India under the authority of Government of India ­ Incorrect, as it must be outside the control of the Indian government to qualify as a foreign court. - (C) A court situated in India applying foreign law ­ Incorrect, as the location and establishment under Indian law matter, not the law it applies. - (D) All of these ­ Incorrect, as only (A) fits the legal definition. Step 3: Final Conclusion: The correct answer is (A) A court situated outside India, not established under the authority of the Indian Government.
+Quick Tip A "foreign court" is identified by its location outside India and lack of establishment by the Indian Government.
+50. Judgment under section 2(9) means:
+(A) A decree; (B) Dismissal of an appeal; (C) Statement of grounds of an order or decree; (D) All of the above;
+Correct Answer: (C) Statement of grounds of an order or decree;
+Solution: Step 1: Understanding the Definition of Judgment: As per Section 2(9) of the Civil Procedure Code, a "judgment" is the statement given by the judge on the grounds of a decree or order. It explains the reasoning and legal basis on which the decision is made. Step 2: Difference Between Judgment, Decree, and Order: - A "judgment" is the reasoning behind the decision. - A "decree" is the formal expression of the adjudication that conclusively determines the rights of the parties.
+51
+
+- An "order" is a decision that may not finally determine the rights but deals with procedural or intermediate matters. Step 3: Analysis of Options: - (A) A decree ­ Incorrect, as a decree is the final decision, not the reasoning. - (B) Dismissal of an appeal ­ Incorrect, this is a consequence, not a judgment itself. - (C) Statement of grounds of an order or decree ­ Correct, as this matches the CPC definition. - (D) All of the above ­ Incorrect, only (C) correctly defines a judgment. Step 4: Final Conclusion: The correct answer is (C) Statement of grounds of an order or decree, as per Section 2(9) CPC.
+Quick Tip A judgment explains the reasoning for a court's decision, while a decree is the formal expression of that decision.
+51. Principle of Res-sub Judice is provided in:
+(A) Section 10 of CPC; (B) Section 11 of CPC; (C) Section 13 of CPC; (D) Section 14 of CPC;
+Correct Answer: (A) Section 10 of CPC;
+Solution: Step 1: Understanding Res Sub Judice: The term "Res Sub Judice" means "a matter already under judicial consideration." The principle is based on avoiding multiplicity of proceedings. It ensures that no court shall proceed with the trial of any suit in which the matter in issue is also directly and substantially in issue in a previously instituted suit between the same parties. Step 2: Legal Provision:
+52
+
+Section 10 of the Civil Procedure Code (CPC) incorporates this principle. It states that no court shall try any suit in which the matter in issue is also directly and substantially in issue in a previously instituted suit between the same parties, pending in the same or another competent court. Step 3: Final Conclusion: The correct answer is (A) Section 10 of CPC, which deals with the principle of Res Sub Judice.
+Quick Tip Res Sub Judice prevents simultaneous proceedings on the same matter to avoid contradictory judgments.
+52. Doctrine of Res-judicata as contained in section 11 of CPC is based on the maxim:
+(A) Nemo debet his vexari pro uno et eadem causa; (B) Interest republicae ut sit finis litium; (C) Both (a) & (b); (D) Either (a) or (b);
+Correct Answer: (C) Both (a) & (b);
+Solution: Step 1: Understanding Doctrine of Res Judicata: The doctrine of Res Judicata is based on the principle that once a matter is finally decided by a competent court, it cannot be reopened or litigated again between the same parties. This ensures finality in legal proceedings and prevents abuse of judicial process. Step 2: Legal Maxims Underlying Res Judicata: The doctrine is based on two Latin maxims: - (a) Nemo debet bis vexari pro uno et eadem causa: No person should be vexed twice for the same cause. - (b) Interest republicae ut sit finis litium: It is in the interest of the state that there should be an end to litigation.
+53
+
+Step 3: Final Conclusion: The correct answer is (C) Both (a) & (b), as both maxims form the foundation of the doctrine of Res Judicata under Section 11 CPC.
+Quick Tip Res Judicata ensures finality of judicial decisions and prevents repeated litigation on the same issues.
+53. Principle of Res-judicata applies:
+(A) Between Co-defendants; (B) Between Co-plaintiffs; (C) Both (a) & (b); (D) Neither (a) nor (b);
+Correct Answer: (C) Both (a) & (b);
+Solution: Step 1: Application of Res Judicata: The doctrine of Res Judicata, as per Section 11 of the CPC, applies not only between the same parties in subsequent suits but also between co-plaintiffs and co-defendants when certain conditions are met. Step 2: Conditions for Application: Res Judicata applies between co-defendants or co-plaintiffs if: 1. There is a conflict of interest between them. 2. The court has decided that issue. 3. The decision was necessary for the final adjudication of the case. Step 3: Final Conclusion: The correct answer is (C) Both (a) & (b), as the principle applies to co-plaintiffs and co-defendants if the above conditions are satisfied.
+54
+
+Quick Tip Res Judicata can apply between co-defendants or co-plaintiffs when their inter se dispute is necessary for final judgment.
+54. Validity of a foreign judgment can be challenged under Section 13 of CPC:
+(A) In a civil court only; (B) In a criminal court only; (C) In both civil and criminal court; (D) Neither in civil nor in criminal court;
+Correct Answer: (A) In a civil court only;
+Solution: Step 1: Understanding Section 13 of CPC: Section 13 of the Civil Procedure Code provides that a foreign judgment shall be conclusive between the parties except in certain cases, such as lack of jurisdiction, fraud, breach of natural justice, or being contrary to Indian law or public policy. Step 2: Jurisdictional Scope: The challenge to the validity of a foreign judgment can only be made in a civil court because CPC governs civil proceedings. Criminal matters are not covered under CPC and are dealt with under the Criminal Procedure Code (CrPC). Step 3: Final Conclusion: The correct answer is (A) In a civil court only, as foreign judgments can be questioned in civil proceedings under Section 13 CPC.
+Quick Tip A foreign judgment is valid in India unless it falls within exceptions under Section 13 CPC, such as lack of jurisdiction or fraud.
+55. Under section 15 of CPC, every suit shall be instituted in: 55
+
+(A) The district court; (B) The court of the lowest grade; (C) The court of higher grade; (D) All of the above;
+Correct Answer: (B) The court of the lowest grade;
+Solution: Step 1: Understanding Section 15 of CPC: Section 15 of the Civil Procedure Code (CPC) lays down the rule that every suit shall be instituted in the court of the lowest grade competent to try it. The purpose is to ensure that higher courts are not burdened with cases that can be handled by lower courts. Step 2: Objective Behind the Provision: This section promotes judicial efficiency and proper utilization of judicial hierarchy. It helps in reducing congestion in higher courts and ensures that cases are dealt with at the appropriate level of authority. Step 3: Final Conclusion: Therefore, the correct answer is (B) The court of the lowest grade, as per Section 15 of the CPC.
+Quick Tip Always file a suit in the lowest competent court as per Section 15 CPC to prevent unnecessary burden on higher courts.
+56. "X" residing in Delhi, publishes statements defamatory to "Y" in Calcutta. "Y" can sue "X" at:
+(A) Delhi; (B) Calcutta; (C) Anywhere in India; (D) Either in Delhi or in Calcutta;
+Correct Answer: (D) Either in Delhi or in Calcutta;
+56
+
+Solution: Step 1: Understanding Jurisdiction in Defamation Cases: Under Section 19 of the Civil Procedure Code (CPC), when a wrong (tort) such as defamation is committed, the aggrieved party may file a suit either where the wrongful act was committed or where the injury was suffered. Step 2: Application to the Present Case: In this case, "X" published defamatory statements in Delhi, but their impact and injury to reputation occurred in Calcutta where "Y" resides. Hence, "Y" can sue either where the publication originated (Delhi) or where the injury to reputation occurred (Calcutta). Step 3: Final Conclusion: Therefore, the correct answer is (D) Either in Delhi or in Calcutta, as per Section 19 CPC.
+Quick Tip In tort cases like defamation, jurisdiction lies both where the act was done and where the harm was suffered.
+57. A suit for damages for breach of contract can be filed, at a place:
+(A) Where the contract was made; (B) Where the contract was to be performed or breach occurred; (C) Anywhere in India; (D) Both (a) and (b);
+Correct Answer: (D) Both (a) and (b);
+Solution: Step 1: Understanding Jurisdiction in Contract Cases: Section 20 of the Civil Procedure Code provides that a suit may be instituted where the defendant resides or where the cause of action arises, either wholly or in part. In contract cases, the cause of action arises both where the contract is made and where it is to be performed or breached. Step 2: Application of Legal Principle:
+57
+
+If a contract was made in one city and breached or to be performed in another, the plaintiff has the choice to file a suit in either of those places. This ensures fairness and convenience in legal proceedings. Step 3: Final Conclusion: Therefore, the correct answer is (D) Both (a) and (b), as a suit for breach of contract can be filed where the contract was made or where it was to be performed or breached.
+Quick Tip Under Section 20 CPC, jurisdiction in contract disputes lies both at the place of making and the place of performance or breach.
+58. In every plaint, under section 26 of CPC, facts should be proved by:
+(A) Oral evidence; (B) Affidavit; (C) Document; (D) Oral evidence as well as document;
+Correct Answer: (B) Affidavit;
+Solution: Step 1: Understanding Section 26 of the CPC: Section 26 of the Civil Procedure Code (CPC) deals with the institution of suits and the manner in which facts are proved. According to the amendment made in 2002, every plaint must be accompanied by an affidavit in which the plaintiff verifies the correctness of the facts stated in the plaint. This is known as the "Verification by Affidavit." Step 2: Importance of Affidavit in the Plaints: The purpose of the affidavit is to ensure the authenticity and truthfulness of the statements made by the plaintiff. It helps the court to verify that the pleadings are based on actual facts known to the plaintiff and not on assumptions or false claims. The affidavit serves as a solemn declaration of truth, and any falsehood can attract penal consequences for perjury under the Indian Penal Code.
+58
+
+Step 3: Difference Between Oral and Documentary Evidence: While oral and documentary evidence are essential during the trial phase to substantiate the claims made, Section 26 specifically requires that the facts in the plaint itself be verified through an affidavit at the time of institution of the suit. Thus, oral or documentary evidence does not fulfill the statutory requirement of Section 26 CPC. Step 4: Final Conclusion: Therefore, under Section 26 of CPC, the facts in every plaint must be proved and verified by an affidavit. This ensures that the plaintiff takes full responsibility for the truth of the statements made before the court.
+Quick Tip After the 2002 amendment, every plaint filed under Section 26 CPC must be supported by an affidavit to ensure verification of facts.
+59. Which of the following is correct of a standard form contract?
+(A) It is a valid contract; (B) One party has no choice but to accept and sign the contract; (C) Both (i) and (ii); (D) The consent is not a free consent;
+Correct Answer: (C) Both (i) and (ii);
+Solution: Step 1: Understanding Standard Form Contracts: A standard form contract is a pre-drafted contract prepared by one party (usually the stronger party, such as a corporation, insurance company, or service provider) and offered to the other party on a `take-it-or-leave-it' basis. The weaker party does not have any opportunity to negotiate or modify the terms. Step 2: Legal Position and Nature: Such contracts are valid in law as long as they are not unconscionable, fraudulent, or against public policy. However, they often raise concerns regarding free consent because one party
+59
+
+has no bargaining power or real choice. The consent is legally valid but not truly "free" in the practical sense. Step 3: Analysis of Options: - (A) It is a valid contract ­ Correct, as standard form contracts are legally enforceable. - (B) One party has no choice but to accept and sign the contract ­ Correct, as these contracts are usually offered on a non-negotiable basis. - (C) Both (i) and (ii) ­ Correct, since both statements (A) and (B) are true. - (D) The consent is not a free consent ­ Partially correct in practice, but legally consent is presumed valid unless undue influence or coercion is proved. Step 4: Final Conclusion: Hence, the correct answer is (C) Both (i) and (ii), because a standard form contract is valid but often leaves one party with no choice except to accept its terms.
+Quick Tip Standard form contracts are valid but must comply with the principles of fairness and cannot be unconscionable.
+60. As a general rule, an agreement made without consideration is :
+(A) Void; (B) Voidable; (C) Valid; (D) Unlawful;
+Correct Answer: (A) Void;
+Solution: Step 1: Principle of Consideration under the Indian Contract Act: Section 25 of the Indian Contract Act, 1872, lays down that an agreement made without consideration is void. Consideration is one of the essential elements of a valid contract and refers to something of value exchanged between parties. Step 2: Exceptions to the Rule:
+60
+
+Although the general rule declares such agreements void, there are exceptions under Section 25: 1. Agreements made on account of natural love and affection between near relatives if expressed in writing and registered. 2. Promises to compensate for past voluntary acts. 3. Promises to pay a time-barred debt. Step 3: Analysis of Options: - (A) Void ­ Correct, as this is the general rule. - (B) Voidable ­ Incorrect, as voidable contracts are those valid until rescinded by one party. - (C) Valid ­ Incorrect, unless it falls under the exceptions. - (D) Unlawful ­ Incorrect, as such contracts are not unlawful but simply unenforceable. Step 4: Final Conclusion: Hence, the correct answer is (A) Void, since consideration is the foundation of enforceability in contract law.
+Quick Tip As per Section 25, a contract without consideration is void unless it falls under specific statutory exceptions.
+61. A contingent agreement based on an impossible event under Section 36 is :
+(A) Void; (B) Void till impossible is known; (C) Void when event becomes impossible; (D) Voidable;
+Correct Answer: (A) Void;
+Solution: Step 1: Understanding Contingent Contracts: As per Section 31 of the Indian Contract Act, a contingent contract is one that depends on the occurrence or non-occurrence of a future uncertain event. Such contracts become
+61
+
+enforceable only upon the happening of that event. Step 2: Application of Section 36: Section 36 specifies that contingent agreements based on an impossible event are void. This means that if the event on which the agreement depends cannot possibly happen, the contract is void ab initio (from the beginning). Step 3: Example for Better Understanding: If A promises to pay B 10,000 if B touches the moon by hand, the agreement is void because the event (touching the moon by hand) is inherently impossible. Step 4: Analysis of Options: - (A) Void ­ Correct, as per Section 36. - (B) Void till impossible is known ­ Incorrect, because the impossibility exists from the outset. - (C) Void when event becomes impossible ­ Applies to contingent contracts under Section 35, not Section 36. - (D) Voidable ­ Incorrect, as no party has the discretion to enforce it. Step 5: Final Conclusion: Hence, the correct answer is (A) Void, because contingent agreements depending on impossible events are void from the beginning.
+Quick Tip Section 36 declares that contingent contracts based on impossible events are void from inception, not from the point of impossibility being realized.
+62. The consensus ad-idem means:
+(A) General consensus; (B) Reaching an agreement; (C) Meeting of minds upon the same thing in the same sense; (D) All the above;
+Correct Answer: (C) Meeting of minds upon the same thing in the same sense;
+62
+
+Solution: Step 1: Understanding the Meaning of Consensus ad-idem: The phrase "consensus ad-idem" is a Latin term which means "meeting of minds." It is one of the most fundamental principles of contract law. For a valid contract to exist, both parties must agree on the same thing in the same sense. Step 2: Application in Contract Formation: According to Section 13 of the Indian Contract Act, consent is said to be free when two or more persons agree upon the same thing in the same sense. Without such mutual understanding, a valid contract cannot exist. For instance, if one party intends to buy a specific item while the other party refers to a different one, there is no consensus ad-idem and thus, no valid agreement. Step 3: Final Conclusion: Hence, the correct answer is (C) Meeting of minds upon the same thing in the same sense, as it captures the essence of mutual consent in contract formation.
+Quick Tip Consensus ad-idem ensures both parties have a mutual understanding of the subject matter -- a key requirement for a valid contract.
+
+63. In famous Carlill v. Carbolic Smoke Ball Co., (1893) 1 QBD 256, the Hon'ble Court
+
+held that the contract was accepted on being
+
+:
+
+(A) Communicated; (B) Acted upon; (C) Refused; (D) Advertised;
+
+Correct Answer: (B) Acted upon;
+
+Solution: Step 1: Background of the Case:
+
+63
+
+In the landmark case of Carlill v. Carbolic Smoke Ball Co. (1893), the company advertised that anyone who used their "smoke ball" product as instructed and still contracted influenza would be entitled to £100 as compensation. Mrs. Carlill used the product but still caught the flu and sued the company for the reward. Step 2: Legal Principle Established: The Court held that the advertisement constituted a unilateral offer to the public, which could be accepted by anyone who performed the conditions stated in the advertisement. Mrs. Carlill accepted the offer by acting upon it -- i.e., by using the smoke ball as instructed -- and thus, a valid contract was formed. Step 3: Final Conclusion: The correct answer is (B) Acted upon, as the court ruled that performance of the condition specified in the offer amounted to acceptance.
+Quick Tip In unilateral contracts, performance of the specified act constitutes acceptance -- as established in Carlill v. Carbolic Smoke Ball Co.
+
+64. Inadequacy of consideration does not make the contract
+
+:
+
+(A) Void; (B) Voidable; (C) Unenforceable; (D) Neither void nor voidable;
+
+Correct Answer: (D) Neither void nor voidable;
+
+Solution: Step 1: Understanding the Concept of Consideration: Consideration is defined under Section 2(d) of the Indian Contract Act as "something in return" given by the promisee to the promisor. It forms the essential basis of every valid contract. However, the law does not require the consideration to be adequate -- it only needs to exist and be lawful.
+64
+
+Step 2: Legal Provision ­ Section 25 Explanation 2: According to Explanation 2 of Section 25, "An agreement made without consideration is void, but inadequacy of consideration does not make a contract void." The courts are not concerned with the adequacy of consideration unless it indicates fraud, coercion, or undue influence. Step 3: Example for Better Understanding: If A sells his car worth 5,00,000 to B for 1,000, the contract is still valid because there is some consideration, even if inadequate. However, if the inadequacy is so extreme that it indicates the presence of fraud or coercion, the court may examine it. Step 4: Final Conclusion: The correct answer is (D) Neither void nor voidable, as inadequacy of consideration alone does not affect the validity of a contract unless other vitiating factors are present.
+Quick Tip Consideration must exist but need not be adequate -- inadequacy alone does not make a contract invalid.
+65. A jus in personam means a right against :
+(A) A specific person; (B) The public at large; (C) A specific thing; (D) None of these;
+Correct Answer: (A) A specific person;
+Solution: Step 1: Understanding the Term Jus in Personam: The Latin term "jus in personam" refers to a legal right against a specific person. It is a personal right enforceable against a particular individual or entity, rather than the world at large. Such rights arise from contractual obligations, agreements, or personal duties owed by one person to another.
+65
+
+Step 2: Difference Between Jus in Personam and Jus in Rem: While "jus in personam" refers to a right against an individual, "jus in rem" refers to a right against the world, typically associated with ownership of property. For example, a contractual obligation between A and B is a jus in personam because it binds only A and B, not any third party. Step 3: Final Conclusion: Therefore, the correct answer is (A) A specific person, as jus in personam is enforceable only against an individual who is legally bound by the obligation.
+Quick Tip Remember -- Jus in Personam is a personal right against a specific person, while Jus in Rem is a proprietary right enforceable against the world.
+66. Exposure of goods by a shopkeeper is :
+(A) Offer for Sale; (B) Invitation to Offer; (C) Offer; (D) Acceptance;
+Correct Answer: (B) Invitation to Offer;
+Solution: Step 1: Understanding Invitation to Offer: Under the Indian Contract Act, an "offer" is a proposal made by one party to another to do or abstain from doing something with the intention of creating legal relations. However, an "invitation to offer" is merely an invitation for others to make offers. It shows a person's willingness to negotiate but not to be immediately bound. Step 2: Application to Exposure of Goods: When a shopkeeper displays goods with price tags in a shop window or shelf, it is not an offer but an invitation to the public to make an offer to buy. The shopkeeper may still accept or reject the offer. This was established in *Pharmaceutical Society of Great Britain v. Boots
+66
+
+Cash Chemists Ltd.* (1953), where the display of goods was held to be an invitation to offer, not an offer itself. Step 3: Final Conclusion: Thus, the correct answer is (B) Invitation to Offer, since the exposure of goods indicates readiness to receive offers, not a binding intention to sell.
+Quick Tip Display of goods with a price tag is an invitation to offer, not a legal offer -- the customer makes the actual offer at checkout.
+67. An agreement to remain unmarried is :
+(A) Valid; (B) Void; (C) Voidable; (D) Unenforceable;
+Correct Answer: (B) Void;
+Solution: Step 1: Understanding Agreements in Restraint of Marriage: According to Section 26 of the Indian Contract Act, 1872, every agreement in restraint of marriage, other than that of a minor, is void. The rationale behind this is that marriage is a personal and social right, and the law does not allow any agreement that restricts an individual's freedom to marry. Step 2: Legal Reasoning: Such agreements are considered against public policy because they interfere with the institution of marriage, which is encouraged and protected by law. For example, if A promises to pay B 50,000 if B never marries, this agreement is void as it restrains B's right to marry. Step 3: Distinction from Voidable and Unenforceable Contracts:
+67
+
+A void agreement has no legal effect from the beginning, while a voidable contract remains valid until rescinded by one party. Agreements in restraint of marriage are void ab initio (from inception). Step 4: Final Conclusion: The correct answer is (B) Void, as agreements restraining marriage are declared void under Section 26 of the Indian Contract Act.
+Quick Tip Under Section 26, any agreement that restrains a person's right to marry is void, as it violates public policy.
+68. An agreement enforceable at law is :
+(A) Enforceable acceptance; (B) Accepted offer; (C) Approved promise; (D) Contract;
+Correct Answer: (D) Contract;
+Solution: Step 1: Understanding the Definition of Contract: According to Section 2(h) of the Indian Contract Act, 1872, "An agreement enforceable by law is a contract." This means that every agreement that the law recognizes as binding upon the parties is a contract. Step 2: Difference Between Agreement and Contract: An agreement is defined under Section 2(e) as "every promise and every set of promises forming the consideration for each other." However, not all agreements are contracts. Only those agreements that are legally enforceable (i.e., that meet all the essential elements such as free consent, lawful object, and consideration) qualify as contracts. Step 3: Example:
+68
+
+If A agrees to sell his car to B for 2,00,000, and both consent freely, it becomes a contract because it is enforceable by law. However, if A agrees to sell liquor without a license, it remains a mere agreement and not a contract because it is not enforceable by law. Step 4: Final Conclusion: Hence, the correct answer is (D) Contract, because only agreements enforceable by law are contracts.
+Quick Tip Every contract is an agreement, but every agreement is not a contract -- enforceability by law makes the difference.
+69. An agreement shall be void for :
+(A) Mistake of fact by one party; (B) Mistake of fact by both the parties; (C) Mistake of foreign law; (D) All the above;
+Correct Answer: (B) Mistake of fact by both the parties;
+Solution: Step 1: Legal Principle ­ Section 20 of the Indian Contract Act: According to Section 20, an agreement is void when both the parties to the agreement are under a mistake as to a matter of fact essential to the agreement. The law recognizes that if both parties misunderstand a fundamental fact, there is no true consent, and hence no valid contract. Step 2: Distinction Between Types of Mistake: - Mistake of Fact by One Party: If only one party is mistaken, the contract is not void, but valid, unless it involves fraud or misrepresentation. - Mistake of Fact by Both Parties: When both parties are mistaken about a fact essential to the contract (e.g., existence of subject matter), the contract is void.
+69
+
+- Mistake of Law: A mistake of Indian law is no excuse; however, a mistake of foreign law is treated as a mistake of fact under Section 21. Step 3: Example for Clarity: If A agrees to sell B a horse, but unknown to both, the horse had already died, the agreement is void because both parties were mistaken about an essential fact -- the existence of the horse. Step 4: Final Conclusion: Hence, the correct answer is (B) Mistake of fact by both the parties, as such agreements lack mutual consent and are void under Section 20.
+Quick Tip Only a mutual mistake of fact (not of law) makes an agreement void under Section 20 of the Indian Contract Act.
+70. Void agreement signifies:
+(A) Agreement illegal in nature; (B) Agreement not enforceable by law; (C) Agreement violating legal procedure; (D) Agreement against public policy;
+Correct Answer: (B) Agreement not enforceable by law;
+Solution: Step 1: Understanding the Meaning of Void Agreement: According to Section 2(g) of the Indian Contract Act, "An agreement not enforceable by law is said to be void." This means that even though an agreement may fulfill the basic requirements of offer and acceptance, it is void if it lacks legal enforceability. Step 2: Reasons Why Agreements Become Void: An agreement can become void due to several factors such as -- illegality of object, impossibility of performance, absence of consideration, or contravention of statutory
+70
+
+provisions. However, not all void agreements are illegal. While all illegal agreements are void, not all void agreements are illegal. Step 3: Example for Better Understanding: If A enters into an agreement with B to perform an impossible task, such as turning iron into gold, the agreement is void because it is not enforceable by law. However, if A agrees with B to commit a crime, it becomes both void and illegal. Step 4: Final Conclusion: Thus, the correct answer is (B) Agreement not enforceable by law, as a void agreement lacks legal validity or enforceability.
+Quick Tip A void agreement is one that cannot be enforced by law -- it has no legal effect from the very beginning.
+71. A proposal when accepted becomes :
+(A) Promise under Section 2(b); (B) Agreement under Section 2(e); (C) Contract under Section 2(h); (D) None of the above;
+Correct Answer: (A) Promise under Section 2(b);
+Solution: Step 1: Understanding the Definition of Proposal and Promise: According to Section 2(a) of the Indian Contract Act, when one person signifies to another his willingness to do or abstain from doing something, it is called a proposal. When that proposal is accepted, it becomes a promise as per Section 2(b). Step 2: Legal Explanation: Section 2(b) states: "When the person to whom the proposal is made signifies his assent thereto, the proposal is said to be accepted. A proposal, when accepted, becomes a promise." This marks the first step in the creation of a binding contract.
+71
+
+Step 3: Example: If A proposes to sell his car to B for 2,00,000, and B accepts the offer, A's proposal becomes a promise. Their mutual promises may later constitute a contract once all legal requirements are satisfied. Step 4: Final Conclusion: Hence, the correct answer is (A) Promise under Section 2(b), since acceptance of a proposal transforms it into a promise.
+Quick Tip Proposal + Acceptance = Promise; Promise + Consideration + Enforceability = Contract.
+72. Offer under Section 2(a) is :
+(A) Communication from one person to another; (B) Suggestion by one person to another; (C) Willingness to do or abstain from doing an act in order to obtain the assent of other thereto; (D) None of the above;
+Correct Answer: (C) Willingness to do or abstain from doing an act in order to obtain the assent of other thereto;
+Solution: Step 1: Definition as per Section 2(a): Section 2(a) of the Indian Contract Act defines "proposal" or "offer" as: "When one person signifies to another his willingness to do or abstain from doing anything with a view to obtaining the assent of that other to such act or abstinence, he is said to make a proposal." Step 2: Explanation: An offer signifies the willingness of one person to create legal obligations upon acceptance. It must be made with the intention to obtain consent from the other party and to form a contractual relationship, not merely to express a desire.
+72
+
+Step 3: Example: If A says to B, "I am willing to sell my house for 10 lakh," this is an offer, as A expresses willingness to do something with the intention of receiving B's assent. Step 4: Final Conclusion: Therefore, the correct answer is (C) Willingness to do or abstain from doing an act in order to obtain the assent of other thereto, as it matches the legal definition under Section 2(a).
+Quick Tip An offer must show clear intent to create legal relations, not just a casual expression of willingness.
+73. Which of the following statement is incorrect?
+(A) Specific Relief Act, 1963, extends to the whole of India except state of Jammu and Kashmir; (B) Specific performance is granted where there exists no standard for ascertaining damage; (C) Where the aggrieved party can be adequately compensated in money, he will get only a decree for damages and not the recourse to; (D) None of the above;
+Correct Answer: (D) None of the above;
+Solution: Step 1: Understanding the Specific Relief Act, 1963: The Specific Relief Act, 1963, is a civil law statute that provides remedies to individuals when monetary compensation is inadequate. It aims to ensure the enforcement of individual civil rights through specific performance, injunctions, and other equitable remedies. Step 2: Verification of the Given Statements: - (A) is correct because the Specific Relief Act originally extended to the whole of India except Jammu and Kashmir. - (B) is correct as specific performance is granted when there is no adequate standard to measure damages in money.
+73
+
+- (C) is also correct since when monetary compensation is sufficient, specific performance cannot be granted -- only damages can be awarded. Step 3: Final Conclusion: Since all the given statements are correct, the incorrect statement is (D) None of the above.
+Quick Tip Specific performance is an equitable remedy granted only when monetary damages are inadequate.
+74. Which of the following is the correct statement?
+(A) Under Sec. 7, the suit may be for recovery of special movable property or, in the alternative, for compensation; (B) Under Sec. 8, pecuniary compensation is not an adequate relief to the plaintiff for the loss of the article and the relief prayed is for injunction restraining the defendant from disposing of the article or otherwise injuring or concealing it, or for return of the same; (C) Both (A) and (B) are correct; (D) All are incorrect;
+Correct Answer: (C) Both (A) and (B) are correct;
+Solution: Step 1: Understanding Sections 7 and 8 of the Specific Relief Act: Section 7 of the Act deals with the recovery of specific movable property. It allows the person entitled to possession to recover it through a legal suit or, alternatively, claim compensation if recovery is not possible. Section 8 provides that when monetary compensation is inadequate, the plaintiff can seek specific recovery or injunction to prevent disposal, damage, or concealment of the article. Step 2: Evaluation of the Options: Option (A) correctly represents Section 7, which allows suits for recovery or compensation. Option (B) also correctly represents Section 8, which provides relief through injunction when money cannot adequately compensate the plaintiff.
+74
+
+Step 3: Final Conclusion: Hence, both statements (A) and (B) are correct, making option (C) the right answer.
+Quick Tip Under the Specific Relief Act, specific movable property can be recovered when damages are inadequate, as per Sections 7 and 8.
+75. Under the Transfer of Property Act, 1882, an unborn person acquires vested interest on transfer for his benefit under the Act:
+(A) Upon his birth; (B) 7 days after his birth; (C) 12 days after his birth; (D) None of all;
+Correct Answer: (A) Upon his birth;
+Solution: Step 1: Understanding Section 13 of the Transfer of Property Act, 1882: Section 13 of the Act deals with transfer for the benefit of an unborn person. The provision states that property can be transferred for the benefit of an unborn child through a prior life interest created for another person. The unborn child attains vested interest immediately upon birth. Step 2: Legal Explanation: The interest does not exist before birth but vests automatically upon birth, provided the transfer was made validly in favor of the unborn person. This principle is derived from the maxim "nemo est haeres viventis" -- no one can be the heir of a living person, but once born, the interest takes effect immediately. Step 3: Example: If A transfers property to B for life, and after B's death to A's unborn son, the son acquires vested interest upon his birth, though possession may be deferred until B's death. Step 4: Final Conclusion:
+75
+
+Therefore, the correct answer is (A) Upon his birth, as the unborn person acquires vested interest from the moment of birth under Section 13.
+Quick Tip Under Section 13, an unborn child gets vested interest upon birth, but cannot hold property before being born.
+76. Which Section of the Transfer of Property Act deals with onerous gift?
+(A) Section 127 (B) Section 126 (C) Section 125 (D) Section 124
+Correct Answer: (A) Section 127
+Solution: Step 1: Understanding the Concept of Onerous Gift: An onerous gift is one which carries certain obligations or burdens along with it. The recipient of such a gift has to accept both the benefits and the burdens attached to it. For instance, if a property with an outstanding mortgage is gifted, the recipient must also take on the responsibility of that mortgage. Step 2: Legal Provision: Section 127 of the Transfer of Property Act, 1882, specifically deals with onerous gifts. It states that when a gift is made that carries certain obligations, the donee has the option to either accept or reject the entire gift -- they cannot accept the beneficial part and reject the onerous part. Step 3: Analysis of Options: - (A) Section 127: Correct. It deals with gifts that are burdensome or carry certain obligations. - (B) Section 126: This section deals with the suspension or revocation of gifts.
+76
+
+- (C) Section 125: This section concerns the rights of the donee when the donor dies before acceptance. - (D) Section 124: This section defines what constitutes a valid gift. Step 4: Final Conclusion: The correct answer is (A) Section 127, as it specifically relates to gifts that carry an obligation or burden -- called onerous gifts.
+Quick Tip Remember: In the case of onerous gifts, the donee cannot accept only the beneficial part of the gift while rejecting the burden. They must accept or reject the gift as a whole.
+77. The Negotiable Instruments Act, 1881 came into force on:
+(A) 9th December, 1881 (B) 19th December, 1881 (C) 1st March, 1882 (D) None of the above
+Correct Answer: (C) 1st March, 1882
+Solution: Step 1: Background of the Act: The Negotiable Instruments Act, 1881, was enacted to define and regulate negotiable instruments such as promissory notes, bills of exchange, and cheques. It provides the legal framework for the use and transfer of these instruments in India. Step 2: Date of Commencement: Although the Act was passed in December 1881, it officially came into force on 1st March, 1882. This date marks the beginning of the Act's applicability throughout India, establishing legal guidelines for negotiable instruments. Step 3: Analysis of Options: - (A) 9th December, 1881: Incorrect, this was the date the Act received assent. - (B) 19th December, 1881: Incorrect, no major legislative action occurred on this date.
+77
+
+- (C) 1st March, 1882: Correct, this is the official date when the Act came into operation. - (D) None of the above: Incorrect, as the correct date is clearly defined as 1st March, 1882. Step 4: Final Conclusion: The correct answer is (C) 1st March, 1882, as per the official records of the commencement of the Act.
+Quick Tip Always remember: The Negotiable Instruments Act, 1881, came into force on 1st March, 1882 -- a key date for questions on legal history.
+78. The term 'Negotiable instrument' is defined in the Negotiable Instruments Act, 1881, under section:
+(A) Section 12 (B) Section 13 (C) Section 13A (D) Section 13B
+Correct Answer: (B) Section 13
+Solution: Step 1: Understanding the Definition: A negotiable instrument is a written document that guarantees the payment of a specific amount of money either on demand or at a fixed future time. The payment can be made to the person named in the document, to their order, or to the bearer. Step 2: Legal Reference: Section 13 of the Negotiable Instruments Act, 1881, defines a negotiable instrument as a promissory note, bill of exchange, or cheque payable either to order or to bearer. These instruments are transferable by endorsement or delivery. Step 3: Analysis of Options: - (A) Section 12: Deals with instruments payable on demand. - (B) Section 13: Correct, as this section provides the definition of a negotiable instrument.
+78
+
+- (C) Section 13A: Deals with provisions related to certain amendments and additional definitions, not the primary definition. - (D) Section 13B: Not related to the definition; introduced later for procedural additions. Step 4: Final Conclusion: The correct answer is (B) Section 13, as it explicitly defines the term `Negotiable Instrument' under the Act.
+Quick Tip Section 13 of the Negotiable Instruments Act is fundamental--memorize it, as it defines the three key instruments: promissory notes, bills of exchange, and cheques.
+79. The existence of statutes of limitation are due to:
+(A) Long dormant claims have more of cruelty than justice in them (B) The defendant may have lost the evidence to dispute the stale claim (C) Persons with good causes of action should pursue them with reasonable diligence (D) All the above
+Correct Answer: (D) All the above
+Solution: Step 1: Understanding the Purpose of Limitation Laws: The statutes of limitation are laws that set a maximum period within which legal action can be brought. They are intended to ensure fairness by preventing old claims from being revived after a long delay. Such laws protect defendants from defending claims where evidence may have been lost or memories have faded. Step 2: Reason Behind the Options: - (A) Long dormant claims have more of cruelty than justice in them: Correct, as the delay in pursuing claims can cause unfairness and undue hardship to defendants. - (B) The defendant may have lost evidence to dispute the stale claim: Correct, as over time, witnesses may forget details, and crucial documents might be lost, making it impossible to defend effectively.
+79
+
+- (C) Persons with good causes of action should pursue them with reasonable diligence: Correct, as the law expects that individuals act promptly and responsibly when they suffer a legal injury. - (D) All the above: Correct, because all the above reasons justify the existence of limitation statutes. Step 3: Final Conclusion: The correct answer is (D) All the above, since each reason reflects a fundamental objective of limitation laws -- fairness, prevention of stale claims, and encouragement of timely justice.
+Quick Tip The law of limitation ensures that justice is sought promptly and prevents the misuse of legal processes through delayed claims.
+80. The Limitation Act is applicable to:
+(A) Civil suits (B) Criminal cases (C) Both of the following is correct (D) Civil, all the above
+Correct Answer: (A) Civil suits
+Solution: Step 1: Understanding the Scope of the Limitation Act: The Limitation Act, 1963, governs the time limits within which civil cases must be filed in Indian courts. It ensures that claims are brought within a reasonable time to maintain fairness and efficiency in the legal system. Step 2: Clarification of Applicability: The Limitation Act applies only to civil cases -- it specifies the time limits for filing suits, appeals, and applications in civil proceedings. However, it does not apply to criminal cases, as criminal law is governed by the Code of Criminal Procedure (CrPC) and other specific laws that handle limitation separately.
+80
+
+Step 3: Analysis of Options: - (A) Civil suits: Correct, because the Limitation Act applies specifically to civil matters such as property disputes, contracts, and recovery suits. - (B) Criminal cases: Incorrect, since criminal proceedings are not governed by this Act. - (C) Both of the following is correct: Incorrect, since it only applies to civil cases. - (D) Civil, all the above: Incorrect, as this is redundant and misleading. Step 4: Final Conclusion: The correct answer is (A) Civil suits, as the Limitation Act is only applicable to civil proceedings and not to criminal matters.
+Quick Tip Always remember: The Limitation Act, 1963, applies exclusively to civil cases -- criminal cases have separate time limitations defined under other statutes.
+81. Upon failure to hold Statutory Meeting, the penalty for the defaulting Company shall be:
+(A) Rs. 500 per day of default (B) Wound up (C) Rs. 1000 per day of default (D) None of these
+Correct Answer: (C) Rs. 1000 per day of default
+Solution: Step 1: Understanding Statutory Meetings: Under the Companies Act, every public company limited by shares must hold a statutory meeting after incorporation and deliver a statutory report to the Registrar. This meeting allows shareholders to review the company's progress and ensure compliance with the statutory requirements. Step 2: Legal Provision for Default:
+81
+
+Failure to hold a statutory meeting is a violation of the Companies Act. Section 165 of the Companies Act (old provision) stipulates that the company and every officer in default shall be liable to a fine of Rs. 1000 per day during which the default continues. In severe cases, the company may also face potential winding-up proceedings, but the primary penalty is monetary. Step 3: Analysis of Options: - (A) Rs. 500 per day of default: Incorrect, as the penalty prescribed is Rs. 1000 per day. - (B) Wound up: Not necessarily -- while failure may lead to winding up, the immediate penalty is monetary. - (C) Rs. 1000 per day of default: Correct, as this is clearly stated under the Companies Act. - (D) None of these: Incorrect, since option (C) is correct. Step 4: Final Conclusion: The correct answer is (C) Rs. 1000 per day of default, which serves as a deterrent for companies failing to comply with statutory meeting requirements.
+Quick Tip Compliance with statutory meetings is crucial for corporate governance. Noncompliance can lead to heavy penalties or even winding-up actions if persistent.
+82. Free transferability of shares is mandatory in a:
+(A) Listed Company (B) Company Ltd by shares (C) Public Ltd. Company (D) Foreign Company
+Correct Answer: (C) Public Ltd. Company
+Solution: Step 1: Understanding the Concept: The concept of free transferability of shares is an essential characteristic of a Public Limited Company. It ensures that shareholders can freely buy or sell their shares without seeking
+82
+
+prior approval from the company or other shareholders. This promotes liquidity and investor confidence in the stock market. Step 2: Legal Reference: Under Section 58(2) of the Companies Act, 2013, the shares of a public company are freely transferable. The company cannot restrict the transfer of shares unless it violates certain legal requirements such as compliance with SEBI regulations or procedural issues. Step 3: Analysis of Options: - (A) Listed Company: While listed companies must follow SEBI rules, the core legal provision of free transferability applies to all public companies, listed or unlisted. - (B) Company Ltd by shares: This is a general category and may include both private and public companies. - (C) Public Ltd. Company: Correct. The law specifically grants free transferability of shares to public limited companies. - (D) Foreign Company: Governed by different legal frameworks and not subject to the same clause under Indian law. Step 4: Final Conclusion: The correct answer is (C) Public Ltd. Company, as it enjoys the statutory right to free transferability of shares under the Companies Act.
+Quick Tip Public companies enjoy free transferability of shares under Section 58(2) of the Companies Act, 2013 -- a key distinction from private companies.
+83. The Memorandum of Association of a listed company shall be as per:
+(A) Table A (B) Table B (C) Table C (D) Table D
+Correct Answer: (A) Table A
+83
+
+Solution: Step 1: Understanding the Memorandum of Association (MOA): The Memorandum of Association (MOA) is a fundamental document that outlines a company's constitution, its scope of activities, objectives, and relationship with shareholders and the public. It defines the boundary within which the company can operate. Step 2: Legal Reference to Tables: The Companies Act, 2013, provides model forms of Memorandum and Articles of Association under different Tables in Schedule I. These tables are based on the type of company being registered. Step 3: Explanation of Options: - (A) Table A: Correct. It applies to companies limited by shares, which include most listed companies. - (B) Table B: This applies to companies limited by guarantee and not having a share capital. - (C) Table C: Applies to companies limited by guarantee and having a share capital. - (D) Table D: Applies to unlimited companies. Step 4: Final Conclusion: The correct answer is (A) Table A, as listed companies are limited by shares and follow the format provided under this table for their Memorandum of Association.
+Quick Tip Remember: Table A of Schedule I under the Companies Act provides the model Memorandum of Association for companies limited by shares.
+84. Which of the following clauses from the Memorandum of Association cannot be amended?
+(A) Objects Clause (B) Liability Clause (C) Association Clause (D) Registered Office Clause
+84
+
+Correct Answer: (C) Association Clause
+Solution: Step 1: Understanding the Clauses of the Memorandum: The Memorandum of Association (MOA) contains six essential clauses: Name Clause, Registered Office Clause, Objects Clause, Liability Clause, Capital Clause, and Association Clause. These clauses collectively define the company's identity, objectives, and operational boundaries. Step 2: Explanation of Amendments: Most clauses of the MOA can be altered through specific legal procedures, such as passing special resolutions and obtaining approval from the Registrar of Companies. For example: - The Name Clause can be changed with Central Government approval. - The Registered Office Clause can be amended by filing appropriate documents. - The Objects Clause can be modified with a special resolution and approval from the Registrar. - The Liability Clause can be altered under certain circumstances. However, the Association Clause cannot be amended because it represents the fundamental consent of the initial subscribers to form the company. It is a declaration of their intent to associate and agree to take a specific number of shares, which cannot be changed after incorporation. Step 3: Final Conclusion: The correct answer is (D) Association Clause, as it reflects the original consent of the company's founders and is permanently recorded in the company's legal history.
+Quick Tip The Association Clause of the Memorandum of Association is immutable -- it symbolizes the original agreement among subscribers to form the company.
+85. In the IPC, nothing is an offence which is done by a Child under:
+(A) Eight years
+85
+
+(B) Ten years (C) Seven years (D) Twelve years
+Correct Answer: (C) Seven years
+Solution: Step 1: Legal Provision under IPC: According to Section 82 of the Indian Penal Code (IPC), nothing is an offence which is done by a child under seven years of age. The law presumes that a child under this age is incapable of understanding the nature and consequences of his actions. Therefore, such a child cannot form the necessary criminal intent (mens rea) to commit an offence. Step 2: Principle Behind the Law: This principle is based on the doctrine of "doli incapax," which means that a child under a certain age is presumed to be incapable of committing a crime. The rationale is that such children lack the mental maturity and capacity to distinguish between right and wrong. Step 3: Analysis of Options: - (A) Eight years: Incorrect, as the law sets the limit at seven years. - (B) Ten years: Incorrect, this age applies to other juvenile considerations, not criminal incapacity. - (C) Seven years: Correct, as per Section 82 IPC. - (D) Twelve years: Incorrect, this is beyond the statutory limit. Step 4: Final Conclusion: The correct answer is (C) Seven years, as per Section 82 of the Indian Penal Code.
+Quick Tip Under Section 82 IPC, a child below seven years is considered incapable of committing a crime (doli incapax).
+86. Right of private defence of the body extends to voluntarily causing death if the offence, which occasions the exercise of right:
+86
+
+(A) Reasonably causes apprehension that death will be caused (B) Reasonably causes apprehension that simple injury will be caused (C) Is of escaping with stolen property immediately after the theft (D) Is of arresting a person who is running away after having committed an offence of voluntarily causing hurt
+Correct Answer: (A) Reasonably causes apprehension that death will be caused
+Solution: Step 1: Legal Provision: Section 100 of the Indian Penal Code provides that the right of private defence of the body extends, under certain circumstances, to the voluntary causing of death of the assailant. This is allowed when there is a reasonable apprehension that death or grievous hurt may otherwise be caused. Step 2: Explanation of Principle: The right of private defence is a protective measure, not a means of revenge. It allows a person to defend their body or the body of another from imminent danger. The act of defence must be proportionate to the threat faced. When the danger involves the possibility of death or grievous harm, the defender is legally justified in causing death in self-defence. Step 3: Analysis of Options: - (A) Reasonably causes apprehension that death will be caused: Correct. This is directly in line with Section 100 IPC. - (B) Reasonably causes apprehension that simple injury will be caused: Incorrect, as this does not justify causing death. - (C) Escaping with stolen property: This may justify use of force, but not the causing of death. - (D) Arresting a person running away after causing hurt: Incorrect, as the right of private defence is not extended to cause death in this case. Step 4: Final Conclusion: The correct answer is (A) Reasonably causes apprehension that death will be caused, as only such serious apprehension justifies causing death under Section 100 IPC.
+87
+
+Quick Tip Section 100 IPC allows causing death in self-defence only when there is a reasonable apprehension of death or grievous hurt.
+87. Under Section 498A, the `Cruelty' means and includes:
+(A) Only demand of dowry (B) Only physical torture (C) Both mental and physical torture (D) None of the above
+Correct Answer: (C) Both mental and physical torture
+Solution: Step 1: Understanding Section 498A IPC: Section 498A of the Indian Penal Code deals with cruelty by a husband or his relatives towards a married woman. It was enacted to protect women from domestic violence, harassment, and dowry-related cruelty. Step 2: Definition of Cruelty: According to the section, cruelty includes: 1. Any willful conduct that is likely to drive the woman to commit suicide or cause grave injury to her life, limb, or health (mental or physical). 2. Harassment of the woman by her husband or his relatives for unlawful demands of property or valuable security (dowry). Step 3: Analysis of Options: - (A) Only demand of dowry: Incorrect, as cruelty is broader than just dowry-related harassment. - (B) Only physical torture: Incorrect, since mental cruelty also falls within the definition. - (C) Both mental and physical torture: Correct, as cruelty includes both mental and physical forms of harassment or abuse. - (D) None of the above: Incorrect, since the law explicitly recognizes both forms. Step 4: Final Conclusion:
+88
+
+The correct answer is (C) Both mental and physical torture, as defined under Section 498A IPC.
+Quick Tip Under Section 498A IPC, cruelty includes both mental and physical abuse, and dowry harassment is only one form of it.
+88. What is the offence where preparation itself of an offence is punishable:
+(A) Theft (B) Dacoity (C) Murder (D) Rape
+Correct Answer: (B) Dacoity
+Solution: Step 1: Understanding the Question: Generally, under the Indian Penal Code (IPC), preparation to commit a crime is not punishable; only the attempt or completion of the offence is punishable. However, there are certain exceptional offences where even preparation is treated as an offence due to the serious threat they pose to society. Step 2: Legal Provision: Under Section 399 of the Indian Penal Code, preparation to commit dacoity is specifically made punishable. The law recognizes that assembling or making preparations for dacoity poses a significant public threat, even if the act has not yet been carried out. Step 3: Analysis of Options: - (A) Theft: Only the attempt or act of theft is punishable, not mere preparation. - (B) Dacoity: Correct. Preparation for dacoity is punishable under Section 399 IPC. - (C) Murder: Mere preparation to commit murder is not punishable unless an attempt is made.
+89
+
+- (D) Rape: Similarly, preparation to commit rape is not punishable unless an attempt is proven. Step 4: Final Conclusion: The correct answer is (B) Dacoity, as Section 399 IPC explicitly makes preparation to commit dacoity a punishable offence.
+Quick Tip Preparation is generally not punishable except in certain grave offences like dacoity and waging war against the state.
+89. In Rex v. Govinda, the points of distinction between the two provisions of the IPC were explained:
+(A) Section 34 and Section 149 (B) Section 302 and Section 304 (C) Section 299 and Section 300 (D) Section 403 and Section 405
+Correct Answer: (C) Section 299 and Section 300
+Solution: Step 1: Understanding the Case: The case of Rex v. Govinda (1876) is a landmark judgment that clarifies the distinction between "culpable homicide" and "murder" under the Indian Penal Code. The decision was delivered by Justice Melvill of the Bombay High Court. Step 2: Legal Explanation: - Section 299 IPC defines "culpable homicide" -- the act of causing death with the intention or knowledge that death is likely to occur. - Section 300 IPC defines "murder" -- a form of culpable homicide with higher degrees of intention or knowledge, making the act more severe. The court in Rex v. Govinda explained that all murders are culpable homicides, but not all culpable homicides are murders.
+90
+
+Step 3: Analysis of Options: - (A) Section 34 and Section 149: These deal with common intention and common object, not culpable homicide. - (B) Section 302 and Section 304: These deal with punishment for murder and culpable homicide but not the distinction itself. - (C) Section 299 and Section 300: Correct. These sections define and distinguish between culpable homicide and murder. - (D) Section 403 and Section 405: These relate to dishonest misappropriation and criminal breach of trust. Step 4: Final Conclusion: The correct answer is (C) Section 299 and Section 300, as explained in Rex v. Govinda, which distinguishes between culpable homicide and murder.
+Quick Tip Rex v. Govinda (1876) is a key case for understanding the difference between culpable homicide (Section 299) and murder (Section 300).
+90. A has sexual intercourse with his own wife aged about 14 years with her consent. A committed:
+(A) No offence (B) Offence of Rape (C) Intercourse with own wife is not Rape (D) As there was consent, A cannot be held guilty for the offence of rape
+Correct Answer: (B) Offence of Rape
+Solution: Step 1: Legal Provision: According to Section 375 of the Indian Penal Code, sexual intercourse with a woman below the age of 18 years constitutes rape, irrespective of her consent. This is based on the doctrine
+91
+
+of statutory rape, which protects minors from sexual exploitation even if consent appears to exist. Step 2: Marital Exception: Earlier, the marital exception clause in Section 375 excluded sexual intercourse by a man with his wife, provided she was not under 15 years of age. However, after the Supreme Court judgment in Independent Thought v. Union of India (2017), the exception was read down -- now, intercourse with a wife below 18 years of age is considered rape. Step 3: Analysis of Options: - (A) No offence: Incorrect, as consent of a minor is not valid in law. - (B) Offence of Rape: Correct, because the wife being 14 years old falls below the age of consent (18 years), making the act rape irrespective of marital status. - (C) Intercourse with own wife is not Rape: Incorrect, as the marital exception no longer applies for minors. - (D) Consent makes A not guilty: Incorrect, as a minor's consent has no legal validity. Step 4: Final Conclusion: The correct answer is (B) Offence of Rape, as per Section 375 IPC and judicial interpretation in Independent Thought v. Union of India (2017).
+Quick Tip Sexual intercourse with a wife below 18 years amounts to rape under Section 375 IPC, regardless of her consent.
+92
+
+

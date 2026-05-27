@@ -1,0 +1,156 @@
+[
+  {
+    "question_number": 11,
+    "question_text": "Who is an adolescent as per Factories Act, 1948?",
+    "option_a": "Who has completed 17 years",
+    "option_b": "Who is less than 18 years of age",
+    "option_c": "Who is more than 15 years but less than 18 years of age",
+    "option_d": "None of these",
+    "correct_option": "C",
+    "subject": "Labour & Employment Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 29,
+    "question_text": "Who is responsible for payment to a person employed by him in a factory under the Payment of Wages Act, 1936",
+    "option_a": "Accounts manager",
+    "option_b": "Works manager",
+    "option_c": "Employer",
+    "option_d": "Government",
+    "correct_option": "C",
+    "subject": "Labour & Employment Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 38,
+    "question_text": "What is the maximum number of witnesses which can be produced in a case",
+    "option_a": "5",
+    "option_b": "10",
+    "option_c": "15",
+    "option_d": "No limit",
+    "correct_option": "D",
+    "subject": "Evidence Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 39,
+    "question_text": "Under the Bharatiya Nyaya Sanhita, the First Investigating Officer shall submit a report to the Magistrate within",
+    "option_a": "24 hours",
+    "option_b": "48 hours",
+    "option_c": "72 hours",
+    "option_d": "7 days",
+    "correct_option": "B",
+    "subject": "Criminal Procedure",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 44,
+    "question_text": "Which condition is not required to be satisfied by an invention to be patentable subject matter under Patent Act",
+    "option_a": "Novelty",
+    "option_b": "Inventive steps",
+    "option_c": "Distinctiveness",
+    "option_d": "Usefulness",
+    "correct_option": "C",
+    "subject": "Intellectual Property Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 45,
+    "question_text": "A contract of `indemnity' under the Indian Contract Act, 1872, has been defined in Section",
+    "option_a": "Section 124",
+    "option_b": "Section 125",
+    "option_c": "Section 126",
+    "option_d": "Section 127",
+    "correct_option": "A",
+    "subject": "Contract Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 50,
+    "question_text": "Indian Computer Emergency Response Team to serve as National Agency for incident response is constituted under section",
+    "option_a": "Section 67 of Information Technology Act",
+    "option_b": "Section 68 of Information Technology Act",
+    "option_c": "Section 69 of Information Technology Act",
+    "option_d": "Section 70 of Information Technology Act",
+    "correct_option": "A",
+    "subject": "Information Technology Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 56,
+    "question_text": "Part III of Arbitration and Conciliation Act, 1996 formalizes",
+    "option_a": "Process of Conciliation",
+    "option_b": "Process of Arbitration",
+    "option_c": "Enforcement of Foreign Awards under New York and Geneva Conventions",
+    "option_d": "Both (A) and (C)",
+    "correct_option": "A",
+    "subject": "ADR & Alternative Dispute Resolution",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 65,
+    "question_text": "Which of the following case is leading case in term of `deliberate delay in filing of the suit resulting in huge losses to the complainant'",
+    "option_a": "Prof. Krishnaraj Goswami Vs. Vishwanath D. Mukashikar",
+    "option_b": "Bansal Vs. Bansal",
+    "option_c": "Bhagwati Vs. D. Rajaram",
+    "option_d": "Delhi Vs. Yadav",
+    "correct_option": "A",
+    "subject": "Civil Procedure",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 69,
+    "question_text": "In which section of the Hindu Succession Act, 1956 the Law of Mitakshara has been incorporated",
+    "option_a": "Section 8",
+    "option_b": "Section 9",
+    "option_c": "Section 10",
+    "option_d": "Section 11",
+    "correct_option": "A",
+    "subject": "Family Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 73,
+    "question_text": "The undertaking contained in a promissory note, to pay a certain sum of money is",
+    "option_a": "Conditional",
+    "option_b": "Unconditional",
+    "option_c": "Contingent",
+    "option_d": "Absolute",
+    "correct_option": "B",
+    "subject": "Negotiable Instruments Act",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 74,
+    "question_text": "Recently, in which case the Kerala High Court held that a University Grant Commission criterion which allowed certain relaxation in marks to reserved categories as violation of Article 16(1) of the Constitution",
+    "option_a": "Dr. Priyanka Reddy Vs UGC",
+    "option_b": "Savitri Vs. State of Kerala",
+    "option_c": "P. A. Inamdar & Others Vs. State of Maharashtra",
+    "option_d": "None of the above",
+    "correct_option": "B",
+    "subject": "Constitutional Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 75,
+    "question_text": "In which of the following cases, it was said that unless a right of appeal is clearly given by statute it does not exist",
+    "option_a": "Dhananjayya Vs. State of Karnataka",
+    "option_b": "Ratan Lal Vs. State of U.P.",
+    "option_c": "Mohinder Singh Gill Vs. Chief Election Commissioner",
+    "option_d": "Sunil Batra Vs. Delhi Administration",
+    "correct_option": "C",
+    "subject": "Criminal Procedure",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 99,
+    "question_text": "Under which section of CPC, option for settlement of dispute is provided outside the court?",
+    "option_a": "Section 89",
+    "option_b": "Section 90",
+    "option_c": "Section 91",
+    "option_d": "Section 92",
+    "correct_option": "A",
+    "subject": "Civil Procedure",
+    "explanation": "No explanation"
+  }
+]

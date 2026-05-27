@@ -1,0 +1,134 @@
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(245, 240, 232, 0.82);
+  backdrop-filter: blur(14px) saturate(140%);
+  -webkit-backdrop-filter: blur(14px) saturate(140%);
+  border-bottom: 1px solid transparent;
+  transition: border-color 220ms ease, box-shadow 220ms ease, background 220ms ease;
+}
+
+.navbar.scrolled {
+  border-bottom-color: var(--line);
+  box-shadow: 0 1px 0 rgba(61, 46, 30, 0.02);
+}
+
+.navbar-inner {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 76px;
+}
+
+.navbar-logo {
+  font-family: var(--serif);
+  font-size: 28px;
+  letter-spacing: -0.01em;
+  font-weight: 600;
+  color: var(--ink);
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  margin: 0;
+}
+
+.brand-dot {
+  color: var(--gold);
+  font-style: italic;
+  font-weight: 500;
+}
+
+.navbar-actions {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.nav-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--sans);
+  font-size: 14px;
+  font-weight: 500;
+  padding: 12px 22px;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: transform 200ms cubic-bezier(0.2, 0.7, 0.2, 1), box-shadow 220ms ease, background 200ms ease, color 200ms ease;
+  background: var(--ink);
+  color: var(--cream);
+  box-shadow: var(--shadow-sm);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.nav-button:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  background: #2d2114;
+}
+
+.nav-button:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.nav-button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.nav-button-ghost {
+  background: transparent;
+  color: var(--ink);
+  box-shadow: none;
+  border-color: var(--line);
+}
+
+.nav-button-ghost:hover {
+  background: var(--light-beige);
+  border-color: var(--warm-tan);
+}
+
+.nav-button-primary {
+  background: var(--gold);
+  color: var(--ink);
+}
+
+.nav-button-primary:hover {
+  background: var(--gold-deep);
+}
+
+.nav-button-secondary {
+  background: var(--beige);
+  color: var(--ink);
+}
+
+.nav-button-secondary:hover {
+  background: var(--warm-tan);
+  color: var(--cream);
+}
+
+@media (max-width: 768px) {
+  .navbar-inner {
+    padding: 0 24px;
+  }
+
+  .navbar-logo {
+    font-size: 24px;
+  }
+
+  .navbar-actions {
+    gap: 12px;
+  }
+
+  .nav-button {
+    padding: 10px 16px;
+    font-size: 12px;
+  }
+}

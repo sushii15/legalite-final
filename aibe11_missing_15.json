@@ -1,0 +1,167 @@
+[
+  {
+    "question_number": 2,
+    "question_text": "Which of the following is not included in the Capital Asset under Section 2 (14) of Income Tax Act",
+    "option_a": "Any stock in Trade",
+    "option_b": "Special Bearer Bonds 1991 issued by Central Government",
+    "option_c": "(a) and (b)",
+    "option_d": "None of the above",
+    "correct_option": "C",
+    "subject": "Tax Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 5,
+    "question_text": "Every Award of a Lok Adalat is deemed to be",
+    "option_a": "an order capable of being executed as a decree of the court",
+    "option_b": "an arbitral award",
+    "option_c": "a decision of the court",
+    "option_d": "None of the above",
+    "correct_option": "A",
+    "subject": "ADR & Alternative Dispute Resolution",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 27,
+    "question_text": "The powers under Section 159 of Cr.PC can be exercised by a magistrate",
+    "option_a": "only of a district court",
+    "option_b": "of any jurisdiction",
+    "option_c": "only of metropolitan area",
+    "option_d": "of district and sub-district court",
+    "correct_option": "B",
+    "subject": "Criminal Procedure",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 39,
+    "question_text": "Section 24 of Advocate Act deals with",
+    "option_a": "Roll of Advocates",
+    "option_b": "Qualifications",
+    "option_c": "Suspension from practice",
+    "option_d": "Removal from roll",
+    "correct_option": "C",
+    "subject": "Professional Conduct",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 40,
+    "question_text": "Under the Workmen's Compensation Act, which is helpful in deciding the extent of injury for compensation",
+    "option_a": "Workmen's compensation court",
+    "option_b": "Schedule",
+    "option_c": "Wage board",
+    "option_d": "Labour commission",
+    "correct_option": "B",
+    "subject": "Labour & Employment Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 53,
+    "question_text": "A Public Interest Litigation can be filed under",
+    "option_a": "CPC",
+    "option_b": "Cr.PC",
+    "option_c": "CPC and Cr.PC",
+    "option_d": "Constitution",
+    "correct_option": "D",
+    "subject": "Constitutional Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 57,
+    "question_text": "Court's power to award compensation is provided in Specific Relief Act",
+    "option_a": "Section 40",
+    "option_b": "Section 41",
+    "option_c": "Section 38",
+    "option_d": "Section 39",
+    "correct_option": "A",
+    "subject": "General Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 58,
+    "question_text": "Proving of hand writing is provided in Indian Evidence Act",
+    "option_a": "Section 46",
+    "option_b": "Section 47",
+    "option_c": "Section 45",
+    "option_d": "Section 48",
+    "correct_option": "C",
+    "subject": "Evidence Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 59,
+    "question_text": "Section 26 of Indian Evidence Act provides",
+    "option_a": "Competence to testify",
+    "option_b": "Right of complainant",
+    "option_c": "Facts which need not to be proved",
+    "option_d": "Facts admissible though not proved",
+    "correct_option": "C",
+    "subject": "Evidence Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 61,
+    "question_text": "Which is the authority that determines the language of the Court other than High Court within a given State, under Section 272 of Cr.PC",
+    "option_a": "State government",
+    "option_b": "Central government",
+    "option_c": "Supreme Court of India",
+    "option_d": "Both (a) and (b)",
+    "correct_option": "A",
+    "subject": "Criminal Procedure",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 63,
+    "question_text": "Foreign Judgement is defined in CPC",
+    "option_a": "Under Section 2(6) of CPC",
+    "option_b": "Under Section 2(7) of CPC",
+    "option_c": "Under Section 2(8) of CPC",
+    "option_d": "None of the above",
+    "correct_option": "A",
+    "subject": "Civil Procedure",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 73,
+    "question_text": "In a suit where the doctrine of res judicata applies",
+    "option_a": "The suit is barred by the sub-rules of res judicata",
+    "option_b": "Fresh evidence can be led",
+    "option_c": "The court assumes the facts to be true",
+    "option_d": "New findings can be made",
+    "correct_option": "A",
+    "subject": "Civil Procedure",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 74,
+    "question_text": "Mesne Profits is dealt in",
+    "option_a": "Section 551 of CPC",
+    "option_b": "Section 550 of CPC",
+    "option_c": "Section 552 of CPC",
+    "option_d": "Section 553 of CPC",
+    "correct_option": "B",
+    "subject": "Civil Procedure",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 87,
+    "question_text": "Outraging the modesty of a woman is punishable under IPC",
+    "option_a": "Section 509",
+    "option_b": "Section 510",
+    "option_c": "Section 508",
+    "option_d": "Section 507",
+    "correct_option": "A",
+    "subject": "Criminal Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 91,
+    "question_text": "Under the Evidence Act, 'Court' includes",
+    "option_a": "Only judges",
+    "option_b": "Judges and jury",
+    "option_c": "All judicial officers",
+    "option_d": "Only magistrates",
+    "correct_option": "C",
+    "subject": "Evidence Law",
+    "explanation": "No explanation"
+  }
+]

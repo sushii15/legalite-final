@@ -1,0 +1,35 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "This Booklet contains 100 questions and each question carries 1 mark. 2. In case of any confusion in translation, kindly refer to the English version for clarification. 3. Make sure that same Question Booklet Set code is mentioned on all the sheets of question paper, in case of any discrepancy immediately inform the invigilator. 4. There is no negative marking for wrong answer of a question. 5. Duration of this exam is 3 hours only. 6. Fill in your Roll number and Question Booklet Set code very carefully, as the answer sheet will be evaluated as per the code you mention on the answer sheet. 7. Under no circumstances will the answer sheet be evaluated with any other Question Booklet Set code. 8. Only books and notes are allowed for this examination. 9. Mobile phones, laptop, tabs and/or any other electronic devices are strictly prohibited in the examination hall. 10. On possession of any electronic device inside the examination hall, the candidate will be disqualified from the examination. 11. Candidate shall not be allowed to leave the Examination Hall before the conclusion of the examination. 12. Do not forget to submit the answer sheet back to the invigilator. Failing to do so would lead to disqualification. 13. Use only blue/black ball pen to fill the OMR answer sheet. 14. OMR filled with pencil or ink pen would be disqualified. 15. Use of whitener/eraser/blade or fluid on answer sheet is strictly prohibited. It will lead to disqualification. 16. Do not make any stray marks or tear the OMR answer sheet. It will lead to disqualification. 17. Write your roll number carefully and darken the correct corresponding ovals, in case wrong ovals are darkened your answer sheet will not be evaluated. 18. Candidate must follow the instructions strictly as mentioned on the answer sheet.",
+    "option_a": "Organised workers",
+    "option_b": "Unorganised workers",
+    "option_c": "Unorganized sector workers belonging to BPL category and their family members",
+    "option_d": "Organized sector workers belonging to BPL category and their family members",
+    "correct_option": "C",
+    "subject": "General Law",
+    "explanation": "Step 2: Detailed Explanation: The scheme was launched by the Ministry of Labour and Employment, Government of India, to provide health insurance coverage for BPL families. The target group was specifically workers in the unorganized sector, who often lack social security and access to affordable healthcare. The scheme aimed to protect these vulnerable families from catastrophic health expenditures that could push them deeper into poverty. Therefore, the most accurate description of the beneficia"
+  },
+  {
+    "question_number": 2,
+    "question_text": "Courage: The spirit to stand up for a client's cause against all odds. 3. Industry: Hard work and diligence in preparation. 4. Wit: The ability to use humour and cleverness to make a point effectively. 5. Eloquence: The art of fluent, persuasive speaking. 6. Judgment: The ability to make sound decisions and assess situations wisely. 7. Fellowship: Maintaining courtesy and respect towards fellow members of the bar. These \"lamps\" serve as guiding principles for aspiring and practicing lawyers to illuminate their path in the profession. Justice P.N. Bhagwati (Option C) was a renowned Chief Justice of India known for pioneering Public Interest Litigation (PIL), but he is not associated with the seven lamps. Quick Tip For questions on professional ethics, remember key concepts like the \"Seven Lamps of Advocacy\" by Judge Abbot Parry and the duties of an advocate towards the court, client, opponent, and colleagues as laid down in the Bar Council of India Rules.",
+    "option_a": "35",
+    "option_b": "37",
+    "option_c": "36",
+    "option_d": "39",
+    "correct_option": "C",
+    "subject": "Professional Conduct",
+    "explanation": "Step 2: Detailed Explanation: Let's analyze the relevant sections: - Section 35: This section grants disciplinary powers to the State Bar Councils. It states that where on receipt of a complaint or otherwise a State Bar Council has reason to believe that any advocate on its roll has been guilty of professional or other misconduct, it shall refer the case for disposal to its disciplinary committee. - Section 36: This section grants disciplinary powers to the Bar Council of India. It allows the BC"
+  },
+  {
+    "question_number": 12,
+    "question_text": "\"Pollution is a civil wrong. By its very nature, it is a tort committed against the community as a whole. A person, therefore, who is guilty of causing pollution, has to pay damages (compensation) for restoration\" of the environment. He has also to pay damages to those who have suffered loss on account of the act of the offender. Further, the offender can also be held liable to pay exemplary damages so that it may act as a deterrent for others not to cause pollution in any manner. However, the court cannot impose any pollution fine in absence of any trial and",
+    "option_a": "M.C. Mehta v. Kamal Nath",
+    "option_b": "Calcutta Tanneries Case",
+    "option_c": "M.C. Mehta v. UOI",
+    "option_d": "A.P. Pollution Control Board v. M.V. Nayudu",
+    "correct_option": "A",
+    "subject": "Tort Law",
+    "explanation": "Step 2: Detailed Explanation: The observation quoted in the question was made by the Supreme Court of India in the case of M.C. Mehta v. Kamal Nath (1997), also known as the Span Motels Case. Context of the Case: A private company, Span Motels, had built a motel on the bank of the River Beas. It encroached upon forest land and used earthmovers to divert the river's course to protect the motel from floods, causing significant ecological damage. Key Holdings: The Court made the quoted observations"
+  }
+]

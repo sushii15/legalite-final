@@ -1,0 +1,999 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>How It Works — Legalite.ai</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=DM+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #F5F0E8;
+    --ink: #3D2E1E;
+    --ink-2: #5a4730;
+    --ink-3: #806a4f;
+    --gold: #C9A96E;
+    --gold-deep: #b59154;
+    --tan: #D4C5A9;
+    --tan-soft: #e3d6bb;
+    --card: #EDE6D6;
+    --card-2: #ece3cf;
+    --cream: #FBF7F0;
+    --line: rgba(61, 46, 30, 0.12);
+    --line-2: rgba(61, 46, 30, 0.18);
+    --ok: #4f7a3a;
+    --shadow-sm: 0 1px 2px rgba(61,46,30,0.06), 0 1px 1px rgba(61,46,30,0.04);
+    --shadow-md: 0 8px 24px -10px rgba(61,46,30,0.18), 0 2px 6px rgba(61,46,30,0.06);
+    --shadow-lg: 0 24px 48px -18px rgba(61,46,30,0.28), 0 6px 14px rgba(61,46,30,0.08);
+    --shadow-xl: 0 36px 80px -24px rgba(61,46,30,0.35), 0 10px 24px rgba(61,46,30,0.1);
+    --serif: 'Cormorant Garamond', 'Times New Roman', serif;
+    --sans: 'DM Sans', -apple-system, system-ui, sans-serif;
+    --mono: 'JetBrains Mono', ui-monospace, monospace;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 16px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  ::selection { background: var(--gold); color: var(--ink); }
+  a { color: inherit; }
+
+  .wrap { max-width: 1240px; margin: 0 auto; padding: 0 40px; }
+
+  /* ---------- NAV ---------- */
+  .nav {
+    position: sticky; top: 0; z-index: 50;
+    background: rgba(245, 240, 232, 0.82);
+    backdrop-filter: blur(14px) saturate(140%);
+    -webkit-backdrop-filter: blur(14px) saturate(140%);
+    border-bottom: 1px solid transparent;
+    transition: border-color 220ms ease, box-shadow 220ms ease, background 220ms ease;
+  }
+  .nav.scrolled {
+    border-bottom-color: var(--line);
+    box-shadow: 0 1px 0 rgba(61,46,30,0.02);
+  }
+  .nav-inner {
+    display: flex; align-items: center; justify-content: space-between;
+    height: 76px;
+  }
+  .brand {
+    font-family: var(--serif);
+    font-size: 28px;
+    letter-spacing: -0.01em;
+    font-weight: 600;
+    color: var(--ink);
+    display: flex; align-items: center;
+    text-decoration: none;
+  }
+  .brand-dot {
+    color: var(--gold);
+    font-style: italic;
+    font-weight: 500;
+  }
+  .nav-links {
+    display: flex; align-items: center; gap: 32px;
+  }
+  .nav-link {
+    font-size: 14px; font-weight: 500;
+    color: var(--ink-2);
+    text-decoration: none;
+    transition: color 200ms ease;
+    cursor: pointer;
+  }
+  .nav-link:hover { color: var(--ink); }
+
+  /* ---------- BUTTONS ---------- */
+  .btn {
+    display: inline-flex; align-items: center; gap: 10px;
+    font-family: var(--sans);
+    font-size: 14px; font-weight: 500;
+    padding: 12px 22px;
+    border-radius: 999px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: transform 200ms cubic-bezier(.2,.7,.2,1), box-shadow 220ms ease, background 200ms ease, color 200ms ease, border-color 220ms ease;
+    text-decoration: none;
+    white-space: nowrap;
+    background: none;
+    color: inherit;
+  }
+  .btn-primary {
+    background: var(--ink);
+    color: var(--cream);
+    box-shadow: var(--shadow-sm);
+  }
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    background: #2d2114;
+  }
+  .btn-gold {
+    background: var(--gold);
+    color: var(--ink);
+    box-shadow: var(--shadow-sm);
+  }
+  .btn-gold:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    background: var(--gold-deep);
+  }
+  .btn-ghost {
+    background: transparent;
+    color: var(--cream);
+    border-color: rgba(251, 247, 240, 0.4);
+  }
+  .btn-ghost:hover {
+    transform: translateY(-2px);
+    border-color: var(--cream);
+    background: rgba(251,247,240,0.1);
+  }
+  .btn-lg {
+    padding: 16px 28px;
+    font-size: 15px;
+  }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* ---------- TYPOGRAPHY ---------- */
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 10px;
+    font-size: 12px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--gold-deep);
+    font-weight: 600;
+    margin-bottom: 28px;
+  }
+  .eyebrow::before {
+    content: "";
+    width: 24px; height: 1px;
+    background: var(--gold);
+  }
+  .h1 {
+    font-family: var(--serif);
+    font-size: 76px;
+    line-height: 0.98;
+    letter-spacing: -0.025em;
+    font-weight: 500;
+    color: var(--ink);
+    margin: 0 0 24px;
+    text-wrap: balance;
+  }
+  .h2 {
+    font-family: var(--serif);
+    font-size: 56px;
+    font-weight: 500;
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+    margin: 0 0 16px;
+  }
+  .h3 {
+    font-family: var(--serif);
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 1.15;
+    letter-spacing: -0.015em;
+    color: var(--ink);
+    margin: 0 0 12px;
+  }
+  .lede {
+    font-size: 18px;
+    line-height: 1.55;
+    color: var(--ink-2);
+    max-width: 520px;
+    margin: 0 0 36px;
+    text-wrap: pretty;
+  }
+  .section-sub {
+    font-size: 17px;
+    color: var(--ink-2);
+    max-width: 540px;
+    margin: 0 auto;
+  }
+
+  /* ---------- HERO SECTION ---------- */
+  .hero {
+    padding: 96px 0;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: "";
+    position: absolute;
+    top: -160px; right: -200px;
+    width: 560px; height: 560px;
+    background: radial-gradient(closest-side, rgba(201,169,110,0.18), transparent 70%);
+    pointer-events: none;
+  }
+
+  /* ---------- STEPS SECTION ---------- */
+  .steps {
+    padding: 96px 0;
+  }
+  .step {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 80px;
+    align-items: center;
+    margin-bottom: 128px;
+    position: relative;
+  }
+  .step:last-child { margin-bottom: 0; }
+  .step-alt { direction: rtl; }
+  .step-alt > * { direction: ltr; }
+  
+  .step-num {
+    font-family: var(--serif);
+    font-size: 140px;
+    line-height: 0.9;
+    font-weight: 500;
+    color: var(--gold);
+    opacity: 0.15;
+    letter-spacing: -0.03em;
+    position: absolute;
+    top: -40px;
+    left: -20px;
+    pointer-events: none;
+  }
+  .step-alt .step-num {
+    left: auto;
+    right: -20px;
+  }
+
+  .step-content {
+    position: relative;
+    z-index: 2;
+  }
+  .step-tag {
+    display: inline-block;
+    font-size: 12px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--gold-deep);
+    font-weight: 600;
+    margin-bottom: 16px;
+  }
+  .step-desc {
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--ink-2);
+    margin-bottom: 0;
+    text-wrap: pretty;
+    max-width: 480px;
+  }
+
+  .step-visual {
+    background: linear-gradient(135deg, var(--card) 0%, var(--card-2) 100%);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 60px 40px;
+    display: flex; align-items: center; justify-content: center;
+    min-height: 360px;
+    box-shadow: var(--shadow-md);
+    transition: transform 300ms ease, box-shadow 300ms ease;
+    position: relative;
+    overflow: hidden;
+  }
+  .step-visual:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+  }
+  .step-visual::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: repeating-linear-gradient(
+      90deg,
+      transparent,
+      transparent 10px,
+      rgba(61,46,30,0.03) 10px,
+      rgba(61,46,30,0.03) 20px
+    );
+    pointer-events: none;
+  }
+  .visual-placeholder {
+    text-align: center;
+    color: var(--ink-3);
+    font-size: 15px;
+    font-family: var(--mono);
+    letter-spacing: 0.04em;
+    font-weight: 500;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* Mockups */
+  .mockup {
+    width: 100%;
+    max-width: 520px;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* Exam mockup */
+  .mockup-exam {
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(61,46,30,0.08);
+  }
+  .exam-header {
+    background: var(--ink);
+    color: var(--cream);
+    padding: 16px 20px;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .exam-title {
+    font-family: var(--serif);
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .exam-meta {
+    font-size: 12px;
+    opacity: 0.8;
+  }
+  .exam-content {
+    padding: 20px;
+  }
+  .question-block {
+    margin-bottom: 20px;
+  }
+  .q-number {
+    font-size: 12px;
+    color: var(--gold-deep);
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    margin-bottom: 8px;
+  }
+  .q-text {
+    font-family: var(--serif);
+    font-size: 14px;
+    line-height: 1.5;
+    color: var(--ink);
+    margin-bottom: 14px;
+    font-weight: 500;
+  }
+  .q-options {
+    display: flex; flex-direction: column; gap: 8px;
+  }
+  .option {
+    padding: 10px 12px;
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    font-size: 13px;
+    color: var(--ink-2);
+  }
+  .bare-act-ref {
+    background: rgba(201,169,110,0.1);
+    border: 1px solid rgba(201,169,110,0.2);
+    border-radius: 8px;
+    padding: 12px;
+  }
+  .bare-act-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--gold-deep);
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+  .bare-act-text {
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--ink);
+    font-weight: 500;
+  }
+
+  /* Companion mockup */
+  .mockup-companion {
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(61,46,30,0.08);
+  }
+  .companion-header {
+    background: var(--gold);
+    color: var(--ink);
+    padding: 16px 20px;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .companion-title {
+    font-family: var(--serif);
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .timer {
+    text-align: right;
+  }
+  .timer-label {
+    font-size: 11px;
+    opacity: 0.7;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .timer-display {
+    font-family: var(--mono);
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--ink);
+  }
+  .companion-content {
+    padding: 20px;
+  }
+  .pace-guide {
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 14px;
+    margin-bottom: 16px;
+  }
+  .pace-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--gold-deep);
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+  .pace-text {
+    font-family: var(--serif);
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--ink);
+  }
+  .confidence-tracker {
+    margin-bottom: 16px;
+  }
+  .confidence-title {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--ink-3);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 12px;
+  }
+  .confidence-items {
+    display: flex; flex-direction: column; gap: 8px;
+  }
+  .conf-item {
+    display: flex; align-items: center; gap: 10px;
+    padding: 10px 12px;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 500;
+  }
+  .conf-green {
+    background: rgba(79,122,58,0.12);
+    color: var(--ok);
+  }
+  .conf-orange {
+    background: rgba(201,169,110,0.15);
+    color: var(--gold-deep);
+  }
+  .conf-red {
+    background: rgba(178,70,50,0.12);
+    color: #b24632;
+  }
+  .conf-badge {
+    font-size: 16px;
+  }
+  .checkpoint-alert {
+    background: rgba(79,122,58,0.1);
+    border-left: 3px solid var(--ok);
+    padding: 12px;
+    border-radius: 6px;
+    display: flex; align-items: center; gap: 10px;
+    font-size: 13px;
+    color: var(--ok);
+  }
+  .alert-icon {
+    font-size: 16px;
+  }
+
+  /* Answer mockup */
+  .mockup-answer {
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(61,46,30,0.08);
+  }
+  .answer-header {
+    background: var(--bg);
+    border-bottom: 1px solid var(--line);
+    padding: 16px 20px;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .answer-num {
+    font-family: var(--serif);
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--ink);
+  }
+  .answer-status {
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 4px 10px;
+    border-radius: 999px;
+    background: rgba(79,122,58,0.2);
+    color: var(--ok);
+  }
+  .answer-body {
+    padding: 20px;
+  }
+  .answer-question {
+    font-size: 14px;
+    line-height: 1.5;
+    color: var(--ink-2);
+    margin-bottom: 16px;
+    font-style: italic;
+  }
+  .answer-correct {
+    background: rgba(79,122,58,0.1);
+    border: 2px solid var(--ok);
+    border-radius: 10px;
+    padding: 14px;
+    display: flex; align-items: center; gap: 12px;
+    margin-bottom: 16px;
+  }
+  .correct-badge {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: var(--ok);
+    color: white;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  .correct-text {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--ink);
+  }
+  .answer-explanation {
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 14px;
+    margin-bottom: 16px;
+  }
+  .expl-title {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--gold-deep);
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  .expl-text {
+    font-size: 13px;
+    line-height: 1.55;
+    color: var(--ink-2);
+  }
+  .bare-act-refs {
+    border-top: 1px solid var(--line);
+    padding-top: 16px;
+  }
+  .ref-title {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--gold-deep);
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  .ref-item {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 8px 0;
+    font-size: 13px;
+    color: var(--ink);
+    border-bottom: 1px solid var(--line);
+  }
+  .ref-item:last-child {
+    border-bottom: none;
+  }
+  .ref-label {
+    font-weight: 500;
+    font-family: var(--mono);
+  }
+  .ref-page {
+    color: var(--gold-deep);
+    font-weight: 600;
+  }
+
+  /* ---------- FEATURES GRID ---------- */
+  .features {
+    padding: 96px 0;
+    background: var(--cream);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  .features-head {
+    text-align: center;
+    margin-bottom: 56px;
+  }
+  .features-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 28px;
+  }
+  .fcard {
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    padding: 32px;
+    transition: transform 200ms ease, box-shadow 220ms ease;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .fcard::before {
+    content: "";
+    position: absolute;
+    top: 0; left: -100%;
+    width: 100%; height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(201,169,110,0.1), transparent);
+    transition: left 600ms ease;
+  }
+  .fcard:hover::before {
+    left: 100%;
+  }
+  .fcard:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-md);
+  }
+  .fcard-num {
+    font-family: var(--serif);
+    font-size: 48px;
+    font-weight: 500;
+    color: var(--gold);
+    margin-bottom: 16px;
+    letter-spacing: -0.02em;
+  }
+  .fcard-title {
+    font-family: var(--serif);
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--ink);
+    margin-bottom: 12px;
+  }
+  .fcard-desc {
+    font-size: 14px;
+    color: var(--ink-2);
+    line-height: 1.55;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* ---------- CTA SECTION ---------- */
+  .cta {
+    background: var(--ink);
+    color: var(--cream);
+    padding: 96px 0;
+    text-align: center;
+  }
+  .cta-head {
+    color: var(--cream);
+    margin-bottom: 12px;
+  }
+  .cta-sub {
+    color: rgba(251, 247, 240, 0.7);
+    margin-bottom: 40px;
+  }
+  .cta-buttons {
+    display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;
+  }
+
+  /* ---------- FOOTER ---------- */
+  .foot {
+    border-top: 1px solid var(--line);
+    padding: 40px 0;
+    margin-top: 24px;
+  }
+  .foot-inner {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 24px;
+  }
+  .foot-brand {
+    font-family: var(--serif);
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--ink);
+  }
+  .foot-brand .accent { color: var(--gold-deep); font-style: italic; font-weight: 500; }
+  .foot-disclaim {
+    font-size: 12.5px;
+    color: var(--ink-3);
+    text-align: center;
+  }
+  .foot-links {
+    display: flex; justify-content: flex-end; gap: 22px;
+  }
+  .foot-link {
+    font-size: 13px;
+    color: var(--ink-2);
+    text-decoration: none;
+    transition: color 200ms ease;
+  }
+  .foot-link:hover { color: var(--ink); }
+
+  /* ---------- ANIMATIONS ---------- */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(18px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .fade-up {
+    opacity: 0;
+    animation: fadeUp 700ms cubic-bezier(.2,.7,.2,1) forwards;
+  }
+  .d-1 { animation-delay: 60ms; }
+  .d-2 { animation-delay: 140ms; }
+  .d-3 { animation-delay: 220ms; }
+  .d-4 { animation-delay: 300ms; }
+  .d-5 { animation-delay: 380ms; }
+
+  /* ---------- RESPONSIVE ---------- */
+  @media (max-width: 980px) {
+    .step { grid-template-columns: 1fr; gap: 48px; }
+    .step-alt { direction: ltr; }
+    .step-num { font-size: 100px; top: 20px; }
+    .h1 { font-size: 56px; }
+    .h2 { font-size: 42px; }
+    .features-grid { grid-template-columns: 1fr; }
+    .cta-buttons { flex-direction: column; }
+    .foot-inner { grid-template-columns: 1fr; text-align: center; }
+    .foot-links { justify-content: center; }
+  }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="nav" id="nav">
+  <div class="wrap nav-inner">
+    <a href="Legalite Homepage.html" class="brand">Legalite<span class="brand-dot">.ai</span></a>
+    <div class="nav-links">
+      <a class="nav-link" href="How It Works.html">How it works</a>
+      <a class="nav-link" href="Legalite Homepage.html#pricing">Pricing</a>
+      <a href="#" class="btn btn-primary">Log In</a>
+    </div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="wrap">
+    <div class="fade-up d-1">
+      <div class="eyebrow">How It Works</div>
+      <h1 class="h1">Three steps to pass<span style="display:block;">AIBE.</span></h1>
+    </div>
+    <p class="lede fade-up d-2">Train how you like — on paper or directly in Legalite. We recommend paper. It's how the real exam works.</p>
+  </div>
+</section>
+
+<!-- STEPS -->
+<section class="steps">
+  <div class="wrap">
+
+    <!-- STEP 1 -->
+    <div class="step fade-up d-3">
+      <div class="step-num">01</div>
+      <div class="step-content">
+        <h3 class="h3">Bring the right bare acts to your practice.</h3>
+        <p class="step-desc">Legalite helps you bring the RIGHT bare acts — clean, no commentary, exam-approved. Download the PDF and write on paper with your annotated Bare Acts, just like June 7th. Or take it online in Legalite. Your choice. We recommend paper for the real exam feel.</p>
+      </div>
+      <div class="step-visual">
+        <div class="mockup mockup-exam">
+          <div class="exam-header">
+            <div class="exam-title">AIBE 21 — June 7, 2026</div>
+            <div class="exam-meta">Duration: 3 hours | Questions: 100</div>
+          </div>
+          <div class="exam-content">
+            <div class="question-block">
+              <div class="q-number">Q 47</div>
+              <div class="q-text">Under Article 21 of the Constitution, the right to life and personal liberty has been judicially expanded to include which of the following?</div>
+              <div class="q-options">
+                <div class="option">A. Right to property</div>
+                <div class="option">B. Right to a clean environment</div>
+                <div class="option">C. Right to vote</div>
+                <div class="option">D. Right to bear arms</div>
+              </div>
+            </div>
+            <div class="bare-act-ref">
+              <div class="bare-act-label">📖 Bare Acts Reference</div>
+              <div class="bare-act-text">Universal Ed. — pg. 12</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- STEP 2 -->
+    <div class="step step-alt fade-up d-4">
+      <div class="step-num">02</div>
+      <div class="step-content">
+        <h3 class="h3">Track your confidence. Mark what you'll search.</h3>
+        <p class="step-desc">Legalite uses the Red/Orange/Green method: Green for confident answers, Orange for questions where you'll need to search the bare acts, Red for unsure. Legalite tracks every mark in real-time. After the test, see exactly which topics need more work.</p>
+      </div>
+      <div class="step-visual">
+        <div class="mockup mockup-companion">
+          <div class="companion-header">
+            <div class="companion-title">Live Companion</div>
+            <div class="timer">
+              <div class="timer-label">Time Left</div>
+              <div class="timer-display">1:24:17</div>
+            </div>
+          </div>
+          <div class="companion-content">
+            <div class="pace-guide">
+              <div class="pace-label">Pace Guide</div>
+              <div class="pace-text">You should be on Q 47</div>
+            </div>
+            <div class="confidence-tracker">
+              <div class="confidence-title">Your Answers</div>
+              <div class="confidence-items">
+                <div class="conf-item conf-green">
+                  <div class="conf-badge">●</div>
+                  <div class="conf-text">Green (Confident): 28</div>
+                </div>
+                <div class="conf-item conf-orange">
+                  <div class="conf-badge">●</div>
+                  <div class="conf-text">Orange (Search): 15</div>
+                </div>
+                <div class="conf-item conf-red">
+                  <div class="conf-badge">●</div>
+                  <div class="conf-text">Red (Unsure): 4</div>
+                </div>
+              </div>
+            </div>
+            <div class="checkpoint-alert">
+              <div class="alert-icon">⏱</div>
+              <div class="alert-text">30-min checkpoint: You're on pace</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- STEP 3 -->
+    <div class="step fade-up d-5">
+      <div class="step-num">03</div>
+      <div class="step-content">
+        <h3 class="h3">Find answers in seconds. With your books.</h3>
+        <p class="step-desc">After you finish, reveal answers one by one. Every explanation shows the exact page number in YOUR bare act edition — Universal, EBC, or LexisNexis. The exact books you'll bring to the exam hall. Tab it. You'll find it in seconds on June 7th.</p>
+      </div>
+      <div class="step-visual">
+        <div class="mockup mockup-answer">
+          <div class="answer-header">
+            <div class="answer-num">Q 47</div>
+            <div class="answer-status correct">Correct</div>
+          </div>
+          <div class="answer-body">
+            <div class="answer-question">Under Article 21 of the Constitution, the right to life and personal liberty has been judicially expanded to include which of the following?</div>
+            <div class="answer-correct">
+              <div class="correct-badge">B</div>
+              <div class="correct-text">Right to a clean environment</div>
+            </div>
+            <div class="answer-explanation">
+              <div class="expl-title">Answer Explanation</div>
+              <div class="expl-text">The Supreme Court has read Article 21 expansively — <em>Subhash Kumar v. State of Bihar</em> (1991) established the right to a pollution-free environment as a facet of the right to life.</div>
+            </div>
+            <div class="bare-act-refs">
+              <div class="ref-title">Bare Act References</div>
+              <div class="ref-item">
+                <div class="ref-label">Universal Ed.</div>
+                <div class="ref-page">pg. 12</div>
+              </div>
+              <div class="ref-item">
+                <div class="ref-label">EBC</div>
+                <div class="ref-page">pg. 8</div>
+              </div>
+              <div class="ref-item">
+                <div class="ref-label">LexisNexis</div>
+                <div class="ref-page">pg. 15</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- FEATURES -->
+<section class="features">
+  <div class="wrap">
+    <div class="features-head fade-up">
+      <h2 class="h2">Built for your way.</h2>
+    </div>
+    <div class="features-grid">
+      <div class="fcard fade-up">
+        <div class="fcard-num">01</div>
+        <div class="fcard-title">Print Mode</div>
+        <div class="fcard-desc">Print PDFs or take tests online — your choice</div>
+      </div>
+      <div class="fcard fade-up">
+        <div class="fcard-num">02</div>
+        <div class="fcard-title">Confidence Tracking</div>
+        <div class="fcard-desc">Red, Orange, Green method shows what you'll search</div>
+      </div>
+      <div class="fcard fade-up">
+        <div class="fcard-num">03</div>
+        <div class="fcard-title">Bare Act Refs</div>
+        <div class="fcard-desc">Universal, EBC, LexisNexis page numbers included</div>
+      </div>
+      <div class="fcard fade-up">
+        <div class="fcard-num">04</div>
+        <div class="fcard-title">Progress Tracking</div>
+        <div class="fcard-desc">See your weak subjects after each test</div>
+      </div>
+      <div class="fcard fade-up">
+        <div class="fcard-num">05</div>
+        <div class="fcard-title">AI Mocks</div>
+        <div class="fcard-desc">Unlimited fresh practice questions</div>
+      </div>
+      <div class="fcard fade-up">
+        <div class="fcard-num">06</div>
+        <div class="fcard-title">Re-entry Mode</div>
+        <div class="fcard-desc">Built for people 1–2 years out of law</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta">
+  <div class="wrap">
+    <h2 class="h2 cta-head fade-up">Ready to pass?</h2>
+    <p class="section-sub cta-sub fade-up">Start with a free paper. Upgrade when you're ready.</p>
+    <div class="cta-buttons fade-up">
+      <a href="Legalite Homepage.html" class="btn btn-gold btn-lg">Start Learning Now</a>
+      <a href="#" class="btn btn-ghost btn-lg">Sign Up</a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="foot">
+  <div class="wrap foot-inner">
+    <div class="foot-brand">Legalite<span class="accent">.ai</span></div>
+    <div class="foot-disclaim">Not affiliated with the Bar Council of India.</div>
+    <div class="foot-links">
+      <a class="foot-link" href="#">Privacy</a>
+      <a class="foot-link" href="#">Terms</a>
+      <a class="foot-link" href="#">Contact</a>
+    </div>
+  </div>
+</footer>
+
+<script>
+  // Sticky nav shadow on scroll
+  const nav = document.getElementById('nav');
+  const onScroll = () => {
+    if (window.scrollY > 8) nav.classList.add('scrolled');
+    else nav.classList.remove('scrolled');
+  };
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+[
+  {
+    "question_number": 87,
+    "question_text": "Statement by a person who is dead is a relevant fact under ------- of the Indian Evidence Act",
+    "option_a": "S.32(3)",
+    "option_b": "S.32(4)",
+    "option_c": "S.32(5)",
+    "option_d": "S.32(6)",
+    "correct_option": "A",
+    "subject": "Evidence Law",
+    "explanation": "Step 2: Detailed Explanation: Section 32 has eight clauses, each dealing with a different type of statement. Let's look at the clauses mentioned in the options: - Section 32(1) (Dying Declaration): Statement as to the cause of one's own death. This is the most famous clause. - Section 32(2) (Statements in the ordinary course of business): e.g., an entry in a ledger made by a deceased accountant. - Section 32(3): Statement which is against the pecuniary or proprietary interest of the maker, or wh"
+  },
+  {
+    "question_number": 90,
+    "question_text": "Frost v.Knight is a leading case on",
+    "option_a": "S.32",
+    "option_b": "S.33",
+    "option_c": "S.34",
+    "option_d": "S.39",
+    "correct_option": "D",
+    "subject": "General Law",
+    "explanation": "Step 2: Detailed Explanation: - Frost v. Knight (1872): In this case, the defendant promised to marry the plaintiff upon the death of his father. While his father was still alive, the defendant broke off the engagement. The plaintiff sued for breach of contract immediately, without waiting for the father's death. The court held that the defendant's express repudiation of the contract before the performance was due constituted an actionable breach. The plaintiff was entitled to sue immediately an"
+  }
+]

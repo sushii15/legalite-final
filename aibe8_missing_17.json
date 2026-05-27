@@ -1,0 +1,90 @@
+[
+  {
+    "question_number": 4,
+    "question_text": "Pick out the case that is popularly called as the Solicitor's Case.",
+    "option_a": "Ahmedabad Textile Industry's Research Association v. State of Bombay",
+    "option_b": "National Union of Commercial Employees v. Industrial Tribunal, Bombay",
+    "option_c": "Salem Advocates Bar Association v. Union of India",
+    "option_d": "Central Machine Tools Institute v. Dy. Registrar of Trade Unions",
+    "correct_option": "B",
+    "subject": "General Law",
+    "explanation": "Step 1: Understanding the Concept: The question asks to identify a specific landmark case by its popular name, the \"Solicitor's Case\". This case is famous for its discussion on whether certain professional establishments, like a solicitor's firm, fall under the definition of 'industry' as defined in the Industrial Disputes Act, 1947. Step 2: Detailed Explanation: The case of National Union of Commercial Employees v. Industrial Tribunal, Bombay, AIR 1962 SC 1080, is popularly known as the Solicit"
+  },
+  {
+    "question_number": 19,
+    "question_text": "Law is conceived as a form of the power value � conceived by",
+    "option_a": "Bentham and Austin",
+    "option_b": "Hart",
+    "option_c": "C Lasswell and McDougal",
+    "option_d": "Karl Olivecrona",
+    "correct_option": "C",
+    "subject": "General Law",
+    "explanation": "Step 1: Understanding the Concept: The question asks to identify the jurists who viewed law as a form of \"power value.\" This perspective originates from the American Realist school of jurisprudence, which emphasizes a policy-oriented approach to law, seeing it as a tool for achieving social goals or \"values.\" Step 2: Detailed Explanation: - Bentham and Austin belong to the Analytical/Positivist school. They defined law as the \"command of the sovereign,\" which is backed by sanction. While this in"
+  },
+  {
+    "question_number": 20,
+    "question_text": "The development of the tradition of natural justice into one of natural law is usually attributed to the",
+    "option_a": "Stoics",
+    "option_b": "Positivists",
+    "option_c": "Historical School",
+    "option_d": "Analytical School",
+    "correct_option": "A",
+    "subject": "General Law",
+    "explanation": "Step 1: Understanding the Concept: The question traces the historical and philosophical origin of natural law, which is the foundation for the principles of natural justice. Natural law theory posits that there are universal moral and ethical principles inherent in human nature and that these principles form the basis for a just legal system. Step 2: Detailed Explanation: - The Stoics, ancient Greek and Roman philosophers (like Cicero), are credited with developing the concept of natural law. Th"
+  },
+  {
+    "question_number": 21,
+    "question_text": "The requirement to give reasons in administrative decisions which affect rights and liabilities has been held to be mandatory by the Supreme Court in .........",
+    "option_a": "S.N. Mukherjee v/s Union of India",
+    "option_b": "State of Orissa v/s Dr. Binapani Dei",
+    "option_c": "State of Maharashtra v/s Jalgaon Municipal Council",
+    "option_d": "Motilal Padampat Sugar Mills Co. Ltd. v/s State of U.P",
+    "correct_option": "A",
+    "subject": "Administrative Law",
+    "explanation": "Step 1: Understanding the Concept: This question pertains to a fundamental principle of administrative law, often considered the third pillar of natural justice: the duty to give a 'reasoned decision' (audi alteram partem - hear the other side; nemo judex in causa sua - no one should be a judge in their own cause; and the duty to give reasons). This duty ensures fairness, transparency, and accountability, and allows for effective judicial review. Step 2: Detailed Explanation: While the principle"
+  },
+  {
+    "question_number": 22,
+    "question_text": "Donoughmore Committee Report on Minister's Powers, 1932, relates to",
+    "option_a": "England",
+    "option_b": "Australia",
+    "option_c": "U.S.A",
+    "option_d": "None of the above",
+    "correct_option": "A",
+    "subject": "General Law",
+    "explanation": "Step 1: Understanding the Concept: The question asks for the country of origin of the Donoughmore Committee Report. This report is a historical and foundational document in the development of modern administrative law. Step 2: Detailed Explanation: The Donoughmore Committee, officially known as the Committee on Ministers' Powers, was established in 1929 in the United Kingdom (specifically, England). Its purpose was to investigate the concerns raised by Lord Chief Justice Hewart in his book \"The "
+  },
+  {
+    "question_number": 31,
+    "question_text": "The presumption of continuance of life is contained in Sec. .......................... of the Evidence Act",
+    "option_a": "107",
+    "option_b": "108",
+    "option_c": "207",
+    "option_d": "115",
+    "correct_option": "A",
+    "subject": "Evidence Law",
+    "explanation": "Step 1: Understanding the Concept: The Indian Evidence Act, 1872, contains several presumptions. The question asks for the section that deals with the presumption that a person is still alive if they were known to be alive recently. Step 2: Key Formula or Approach: Let's examine the relevant sections: - Section 107 - Burden of proving death of person known to have been alive within thirty years: \"When the question is whether a man is alive or dead, and it is shown that he was alive within thirty"
+  },
+  {
+    "question_number": 35,
+    "question_text": "Mare Liberum (The Freedom of the Seas), first published in 1609, is a book in Latin on international law written by",
+    "option_a": "Austin",
+    "option_b": "Hugo Grotius",
+    "option_c": "Arvid Pardo",
+    "option_d": "Starke",
+    "correct_option": "B",
+    "subject": "General Law",
+    "explanation": "Step 1: Understanding the Concept: The question asks for the founding treaty or legal instrument that established the International Criminal Court (ICC). Step 2: Detailed Explanation: The International Criminal Court (ICC) is an intergovernmental organization and international tribunal that sits in The Hague, Netherlands. The ICC has jurisdiction to prosecute individuals for the international crimes of genocide, crimes against humanity, war crimes, and the crime of aggression. The ICC was establ"
+  },
+  {
+    "question_number": 46,
+    "question_text": "What is the period of limitation prescribed for the suit instituted by a mortgagor to recover possession of immoveable property mortgaged?",
+    "option_a": "3 years",
+    "option_b": "10 years",
+    "option_c": "30 years",
+    "option_d": "12 years",
+    "correct_option": "C",
+    "subject": "Civil Procedure",
+    "explanation": "Step 1: Understanding the Concept: The question asks for the limitation period for a suit by a mortgagor to recover possession of the mortgaged property. This type of suit is legally known as a suit for redemption. Step 2: Key Formula or Approach: The period of limitation for various suits is provided in the Schedule to the Limitation Act, 1963. We need to find the relevant article for a suit for redemption. - Article 61 of the Schedule to the Limitation Act, 1963, deals with suits by a mortgago"
+  }
+]

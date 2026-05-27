@@ -1,0 +1,1053 @@
+All India Bar Examination - XI [Set Code - A] with Solutions
+
+Time Allowed : 3 Hours Maximum Marks : 100
+
+Total Questions : 100
+
+General Instructions Read the following instructions very carefully and strictly follow them:
+1. This Booklet contains 100 questions and each question carries 1 mark. 2. In case of any confusion in translation, kindly refer to the English version for
+clarification. 3. Make sure that same Question Booklet Set code is mentioned on all the sheets of
+question paper, in case of any discrepancy immediately inform the invigilator. 4. There is no negative marking for wrong answer of a question. 5. Duration of this exam is 3 hours only. 6. Fill in your Roll number and Question Booklet Set code very carefully, as the
+answer sheet will be evaluated as per the code you mention on the answer sheet. 7. Under no circumstances will the answer sheet be evaluated with any other
+Question Booklet Set code. 8. Only books and notes are allowed for this examination. 9. Mobile phones, laptop, tabs and/or any other electronic devices are strictly
+prohibited in the examination hall. 10. On possession of any electronic device inside the examination hall, the candidate
+will be disqualified from the examination. 11. Candidate shall not be allowed to leave the Examination Hall before the conclusion
+of the examination. 12. Do not forget to submit the answer sheet back to the invigilator. Failing to do so
+would lead to disqualification. 13. Use only blue/black ball pen to fill the OMR answer sheet. 14. OMR filled with pencil or ink pen would be disqualified. 15. Use of whitener/eraser/blade or fluid on answer sheet is strictly prohibited. It will
+lead to disqualification. 16. Do not make any stray marks or tear the OMR answer sheet. It will lead to
+disqualification. 17. Write your roll number carefully and darken the correct corresponding ovals, in
+case wrong ovals are darkened your answer sheet will not be evaluated. 18. Candidate must follow the instructions strictly as mentioned on the answer sheet.
+1
+
+1. Section 154 under IT Act is
+(A) For filing return of Income (B) For filing return with late fee (C) Rectification of mistakes (D) Appeal against the order passed by the ITO
+Correct Answer: (C) Rectification of mistakes
+Solution:
+Step 1: Understanding the Concept: The Income Tax Act, 1961, contains various provisions for the assessment of income, filing of returns, and procedures for appeals and rectifications. Section 154 specifically deals with the power of income-tax authorities to correct errors in their orders.
+Step 2: Detailed Explanation: Section 154 of the Income Tax Act, 1961, empowers an income-tax authority to amend any order passed by it with a view to rectifying any mistake apparent from the record. This can be done either by the authority on its own motion (suo motu) or when a mistake is brought to its notice by the assessee. The other options correspond to different sections: - Filing return of Income is primarily dealt with under Section 139. - Late fee for filing return is covered under Section 234F. - Appeal against an order is covered under sections like Section 246A (Appeal to the Commissioner (Appeals)).
+Step 3: Final Answer: Therefore, Section 154 of the Income Tax Act pertains to the rectification of mistakes.
+Quick Tip For law exams, it is crucial to remember the key section numbers of major acts like the Income Tax Act, Cr.PC, and CPC, along with the subject matter they deal with. Creating a quick-reference chart can be very helpful.
+2. Which of the following is not included in the Capital Asset under Section 2 (14) of Income Tax Act
+(A) Any stock in Trade (B) Special Bearer Bonds 1991 issued by Central Government (C) (a) and (b)
+2
+
+(D) None of the above
+Correct Answer: (C) (a) and (b)
+Solution:
+Step 1: Understanding the Concept: Section 2(14) of the Income Tax Act, 1961, defines a "capital asset". The definition is very broad, covering property of any kind held by an assessee. However, the section also provides a list of specific exclusions from this definition.
+Step 2: Detailed Explanation: According to Section 2(14), a capital asset means property of any kind, but it specifically excludes certain items. The key exclusions relevant to this question are: - Stock-in-trade: Any stock in trade (other than securities referred to in sub-clause (b)), consumable stores or raw materials held for the purposes of his business or profession. This is covered under Section 2(14)(i). - Special Bearer Bonds, 1991: These bonds, issued by the Central Government, are specifically excluded from the definition of a capital asset by Section 2(14)(iv). Since both (a) and (b) are explicitly excluded from the definition of a capital asset, the correct option is (c).
+Step 3: Final Answer: Both "Any stock in Trade" and "Special Bearer Bonds 1991" are excluded from the definition of a Capital Asset under Section 2(14) of the Income Tax Act.
+Quick Tip When a definition section in a statute has inclusions and exclusions, pay close attention to the exclusions. Questions are frequently framed around these exceptions to test detailed knowledge.
+3. The language which is to be used in the arbitral proceedings is decided by
+(A) The Tribunal (B) Parties to decide by mutual understanding (C) The petitioner (D) The Defendant
+Correct Answer: (B) Parties to decide by mutual understanding
+Solution:
+3
+
+Step 1: Understanding the Concept: The Arbitration and Conciliation Act, 1996, emphasizes party autonomy, which means the parties involved in the dispute have the freedom to decide on various aspects of the arbitral proceedings.
+Step 2: Detailed Explanation: Section 22 of the Arbitration and Conciliation Act, 1996, deals with the language of the proceedings. - Subsection (1) states that "The parties are free to agree upon the language or languages to be used in the arbitral proceedings." - Subsection (2) clarifies that if the parties fail to reach an agreement, the arbitral tribunal shall determine the language or languages to be used. The primary right to decide the language rests with the parties by mutual agreement. The tribunal's power to decide arises only in the absence of such an agreement.
+Step 3: Final Answer: Therefore, the language to be used in arbitral proceedings is primarily decided by the parties through mutual understanding.
+Quick Tip The principle of "party autonomy" is the cornerstone of the Arbitration and Conciliation Act, 1996. When in doubt about procedural questions in arbitration, consider the option that gives maximum power to the parties to decide by agreement.
+4. The Arbitral proceeding shall stand terminated
+(A) On making of the final award (B) By an order of the arbitral tribunal (C) When the parties to the dispute agree to terminate proceedings (D) All of the above
+Correct Answer: (D) All of the above
+Solution:
+Step 1: Understanding the Concept: Section 32 of the Arbitration and Conciliation Act, 1996, outlines the specific circumstances under which arbitral proceedings are terminated.
+Step 2: Detailed Explanation: According to Section 32(2), the arbitral proceedings shall be terminated: - (a) by the final arbitral award; or - (b) by an order of the arbitral tribunal where the claimant withdraws his claim, or the
+4
+
+parties agree on the termination of the proceedings, or the tribunal finds that the continuation of the proceedings has for any other reason become unnecessary or impossible. The options provided in the question cover these scenarios: - (A) On making of the final award - This is the most common way proceedings terminate. - (B) By an order of the arbitral tribunal - This covers situations like the proceedings becoming impossible. - (C) When the parties agree to terminate - This reflects party autonomy. Since all listed situations are valid grounds for termination under the Act, the correct answer is (D).
+Step 3: Final Answer: All the given options are valid grounds for the termination of arbitral proceedings as per Section 32 of the Act.
+Quick Tip
+In legal multiple-choice questions, if multiple options seem correct and there is an "All of the above" option, carefully check if each individual option is a valid point under the relevant law. Often, "All of the above" is the correct choice in such scenarios.
+5. Every Award of a Lok Adalat is deemed to be
+(A) Order of district collector (B) Order of Income Tax commissioner (C) Decree of a civil court (D) (a) and (b)
+Correct Answer: (C) Decree of a civil court
+Solution:
+Step 1: Understanding the Concept: The Legal Services Authorities Act, 1987, was enacted to provide free and competent legal services to the weaker sections of society and to organize Lok Adalats to ensure that opportunities for securing justice are not denied to any citizen. The Act gives legal sanctity and binding force to the awards passed by Lok Adalats.
+Step 2: Detailed Explanation: Section 21 of the Legal Services Authorities Act, 1987, deals with the 'Award of Lok Adalat'. - Section 21(1) states that every award of the Lok Adalat shall be deemed to be a decree of a civil court or, as the case may be, an order of any other court. - Section 21(2) further clarifies that every award made by a Lok Adalat shall be final and binding on all the parties to the dispute, and no appeal shall lie to any court against the award. This provision gives the award the same status and enforceability as a decree passed by a civil
+5
+
+court after a full trial.
+Step 3: Final Answer: Therefore, an award of a Lok Adalat is deemed to be a decree of a civil court.
+Quick Tip Remember the key feature of a Lok Adalat award: it is considered a decree of a civil court and is final and non-appealable. This highlights its efficacy as an alternative dispute resolution mechanism.
+6. The Arbitration and Conciliation Act 1996, Section 18-27 states
+(A) The Conducting of Arbitral Proceedings (B) Receipt and Written Communications (C) Extent of judicial intervention (D) Awarding final decision
+Correct Answer: (A) The Conducting of Arbitral Proceedings
+Solution:
+Step 1: Understanding the Concept: The Arbitration and Conciliation Act, 1996, is structured into different parts and chapters, each dealing with a specific aspect of arbitration. Knowing the structure of the Act helps in identifying the subject matter of a range of sections.
+Step 2: Detailed Explanation: Chapter V of Part I of the Arbitration and Conciliation Act, 1996, is titled "Conduct of Arbitral Proceedings". This chapter comprises Sections 18 to 27. These sections cover crucial procedural aspects such as: - Section 18: Equal treatment of parties. - Section 19: Determination of rules of procedure. - Section 20: Place of arbitration. - Section 22: Language. - Section 23: Statements of claim and defence. - Section 24: Hearings and written proceedings. - Section 25: Default of a party. - Section 26: Expert appointed by arbitral tribunal. - Section 27: Court assistance in taking evidence. The other options relate to different parts of the Act (e.g., Judicial Intervention is Section 5, Awarding final decision is in Chapter VI).
+6
+
+Step 3: Final Answer: The group of Sections 18-27 of the Act deals with the conduct of arbitral proceedings.
+Quick Tip Instead of memorizing every single section, try to remember the chapter-wise structure of important acts. This allows you to correctly identify the broad topic covered by a range of sections.
+7. Provision of Section 80 of CPC is binding on
+(A) The High Court (B) The court of civil judge (C) The district judge (D) All of the above
+Correct Answer: (D) All of the above
+Solution:
+Step 1: Understanding the Concept: Section 80 of the Code of Civil Procedure, 1908 (CPC) lays down a mandatory procedural requirement for instituting a suit against the Government or a public officer in respect of any act purporting to be done by such public officer in his official capacity.
+Step 2: Detailed Explanation: Section 80 mandates that no suit shall be instituted against the Government or a public officer without serving a notice two months prior to the filing of the suit. This provision is a condition precedent to the institution of the suit. The requirement is mandatory, and failure to comply with it can lead to the rejection of the plaint. This procedural rule is binding on any plaintiff wishing to sue the government and must be enforced by any civil court where such a suit is filed. This includes all levels of the civil judiciary hierarchy, from the court of a civil judge (junior or senior division) to the District Judge's court and the High Court (in its original civil jurisdiction). Therefore, the provision is binding on all these courts, as they cannot entertain a suit that violates this mandatory requirement.
+Step 3: Final Answer: The provision of Section 80 of the CPC is a mandatory procedural requirement that must be adhered to in all civil courts, including the High Court, District Judge's court, and the court of a civil judge.
+7
+
+Quick Tip Provisions in procedural laws like CPC that use prohibitory words like "No suit shall be instituted" are generally considered mandatory. Their compliance is a prerequisite for the court to exercise its jurisdiction.
+8. Temporary Injunction can be granted
+(A) Suo moto (B) Ex parte (C) Hearing both parties (D) None of the above
+Correct Answer: (B) Ex parte
+Solution:
+Step 1: Understanding the Concept: A temporary injunction is a provisional relief granted by the court to preserve the subject matter of a suit in its current state until the final disposal of the case. The rules governing temporary injunctions are primarily found in Order XXXIX of the Code of Civil Procedure, 1908.
+Step 2: Detailed Explanation: A temporary injunction is typically granted after hearing both parties. This is the general rule, ensuring adherence to the principles of natural justice. However, Order XXXIX, Rule 3 of the CPC provides for an exception. The court may grant an ad-interim injunction ex parte (without hearing the other side) if it is satisfied that the object of granting the injunction would be defeated by the delay of giving notice to the opposite party. In such cases, the court must record its reasons for this opinion. - A court cannot grant an injunction suo motu (on its own motion); an application must be made by a party. - Hearing both parties is the standard procedure but not the only one. - Therefore, the fact that it can be granted ex parte makes option (B) a correct statement describing a possible mode of granting the injunction. The question asks what can be done.
+Step 3: Final Answer: While temporary injunctions are usually granted after hearing both sides, the court has the power under specific circumstances to grant an ex parte injunction.
+8
+
+Quick Tip Pay attention to the wording of the question. "Can be granted" implies possibility. Even if a procedure is an exception to the general rule (like ex-parte injunctions), it is a valid possibility and thus a correct answer.
+9. Right to Appeal is a
+(A) Natural Right (B) Inherent right (C) Statutory right (D) Delegated right
+Correct Answer: (C) Statutory right
+Solution:
+Step 1: Understanding the Concept: The right to appeal is the right of a party to a legal proceeding to have their case reviewed by a higher court. The nature of this right is a fundamental concept in procedural law.
+Step 2: Detailed Explanation: It is a well-settled principle of law, established through numerous Supreme Court judgments, that the right to appeal is not a natural or inherent right. A party does not automatically have a right to appeal a decision just because they are aggrieved by it. The right to appeal is a creature of statute. This means it must be expressly conferred by a specific law (statute). If the relevant statute does not provide for an appeal from a particular order or decree, then no appeal can be filed. The statute that grants the right of appeal also prescribes the conditions, limitations, and the forum for filing such an appeal. - It is not a natural right, as it is not fundamental to human existence. - It is not an inherent right, as a court does not have inherent power to hear an appeal without statutory backing.
+Step 3: Final Answer: The right to appeal is a statutory right, meaning it exists only when explicitly provided for by a legislative act.
+Quick Tip Distinguish between the right to file a suit and the right to appeal. The right to file a suit is generally considered an inherent right, but the right to appeal is always a statutory right. This is a frequently tested concept.
+9
+
+10. The last amendment to the Indian Succession Act was made in
+(A) 2000 (B) 2001 (C) 2002 (D) 2004
+Correct Answer: (C) 2002
+Solution:
+Step 1: Understanding the Concept: The Indian Succession Act, 1925, is the primary legislation in India dealing with succession and inheritance. Like many old statutes, it has been amended over time to reflect changing social norms and legal principles.
+Step 2: Detailed Explanation: The Indian Succession Act, 1925, was significantly amended by the Indian Succession (Amendment) Act, 2002 (Act 26 of 2002). A key change introduced by this amendment was the repeal of Section 213(2). This section had previously required that for Christians, a right as an executor or legatee could not be established in any court unless a probate or letters of administration had been granted. The amendment removed this discriminatory provision against Indian Christians, bringing them in line with other communities for whom probate is not always mandatory. While the Hindu Succession Act was famously amended in 2005, the last major amendment to the Indian Succession Act, 1925, was in 2002.
+Step 3: Final Answer: The last significant amendment to the Indian Succession Act was made in the year 2002.
+Quick Tip Be careful not to confuse amendments to different succession laws. The Hindu Succession Act's 2005 amendment (granting equal property rights to daughters) is very famous, but this question specifically asks about the Indian Succession Act, 1925.
+11. Which is the correct statement:
+(A) There can be a will without a codicil (B) There can be a codicil without a will (C) Every will has a codicil
+10
+
+(D) A codicil proceeds a will
+Correct Answer: (A) There can be a will without a codicil Solution:
+Step 1: Understanding the Concept: A 'Will' is a legal declaration of the intention of a testator with respect to his property, which he desires to be carried into effect after his death. A 'Codicil' is an instrument made in relation to a Will, explaining, altering, or adding to its dispositions. It is deemed to be a part of the Will.
+Step 2: Detailed Explanation: Let's analyze the relationship between a will and a codicil: - A will is a primary, standalone document that can exist on its own. A person can make a will and never make any changes to it. Therefore, there can be a will without a codicil. This makes statement (A) correct. - A codicil, by its very definition, is an amendment or addition to an existing will. It has no independent existence and is entirely dependent on the will it modifies. Therefore, there cannot be a codicil without a will. This makes statement (B) incorrect. - Many wills are never amended, so it is not necessary for every will to have a codicil. This makes statement (C) incorrect. - A codicil is made after the will to modify it. It does not precede (proceed) the will. This makes statement (D) incorrect.
+Step 3: Final Answer: The only correct statement is that a will can exist without a codicil.
+Quick Tip Think of a will as the main book and a codicil as an addendum or a list of corrections published later. You can have a book without an addendum, but you cannot have an addendum for a book that doesn't exist.
+12. As per Section 63 of Indian Succession Act, a Will should be attested by
+(A) By two witnesses (B) By two or more witnesses (C) Only one witness who is not a relative of testator (D) None of the above
+Correct Answer: (B) By two or more witnesses Solution:
+11
+
+Step 1: Understanding the Concept: Section 63 of the Indian Succession Act, 1925, lays down the formal requirements for the valid execution of an unprivileged Will. Attestation by witnesses is a crucial part of this process.
+Step 2: Detailed Explanation: Section 63(c) of the Act specifies the rules for attestation: "The Will shall be attested by two or more witnesses, each of whom has seen the testator sign or affix his mark to the Will or has seen some other person sign the Will, in the presence and by the direction of the testator, or has received from the testator a personal acknowledgment of his signature or mark, or of the signature of such other person; and each of the witnesses shall sign the Will in the presence of the testator, but it shall not be necessary that more than one witness be present at the same time, and no particular form of attestation shall be necessary." The key phrase here is "two or more witnesses". This means the minimum requirement is two, but more than two are also permissible. - Option (A) "By two witnesses" is incomplete as it excludes the possibility of more than two. - Option (B) "By two or more witnesses" perfectly captures the statutory language. - Option (C) is incorrect as the requirement is at least two witnesses, and the law does not bar relatives from being witnesses (though it might be inadvisable in some cases to avoid challenges).
+Step 3: Final Answer: According to Section 63, a Will must be attested by a minimum of two witnesses, hence "two or more witnesses" is the correct description.
+Quick Tip In law, precision matters. When a statute says "at least two" or "two or more", choose the option that reflects this inclusiveness over an option that states an exact number, as the latter can be interpreted as restrictive.
+13. 'Iddat' under Mohammadan law refers to
+(A) A gift made on the occasion of marriage (B) The right of the husband to divorce his wife (C) Attaining of puberty (D) None of the above
+Correct Answer: (D) None of the above
+Solution:
+Step 1: Understanding the Concept: 'Iddat' or 'Iddah' is a significant concept in Muslim personal law. It refers to a period of waiting or seclusion that a Muslim woman must observe following the dissolution of her marriage,
+12
+
+either due to the death of her husband or through divorce.
+Step 2: Detailed Explanation: The purpose of Iddat is primarily to ascertain whether the woman is pregnant, so as to avoid confusion regarding the paternity of the child. During this period, the woman is not allowed to remarry. The duration of the iddat period varies depending on the circumstances of the dissolution of the marriage. Let's examine the given options: - (A) A gift made on the occasion of marriage is known as 'Hiba'. - (B) The right of the husband to divorce his wife is known as 'Talaq'. - (C) Attaining of puberty is a stage of life and is relevant for the capacity to marry, but it is not Iddat. Since none of the options correctly define 'Iddat', the correct choice is (D).
+Step 3: Final Answer: 'Iddat' is a period of waiting observed by a woman after the dissolution of her marriage, and none of the given options accurately describe this concept.
+Quick Tip
+For personal law subjects, create a glossary of key terms (like Iddat, Talaq, Hiba, Mahr) and their precise meanings. This will help you quickly eliminate incorrect options in definition-based questions.
+14. Under the Christian Marriage Act the marriage Registrar for any district is appointed by
+(A) State government (B) The central government (C) The Clergyman of the Church (D) High Court judges
+Correct Answer: (A) State government
+Solution:
+Step 1: Understanding the Concept: The Christian Marriage Act, 1872, provides a statutory framework for the solemnization of marriages where one or both parties are Christians. The Act designates certain persons who can grant a certificate of marriage, including a Marriage Registrar.
+Step 2: Detailed Explanation: Section 7 of the Indian Christian Marriage Act, 1872, deals with the appointment of Marriage Registrars.
+13
+
+The section states: "The State Government may appoint one or more Christians, either by name or as holding any office for the time being, to be Marriage Registrars for any district subject to its administration." This clearly vests the power of appointing Marriage Registrars in the State Government. The Central Government, Clergy, or Judiciary do not have this specific power under the Act.
+Step 3: Final Answer: The State Government is the authority responsible for appointing Marriage Registrars for any district under the Christian Marriage Act, 1872.
+Quick Tip Questions about the appointment and powers of statutory authorities are common. When studying an Act, note down which body (Central Govt., State Govt., a specific Tribunal, etc.) is responsible for key appointments and functions.
+15. The word 'Ombudsman' is derived from
+(A) French administration (B) British Administration (C) Swedish Administration (D) German Administration
+Correct Answer: (C) Swedish Administration
+Solution:
+Step 1: Understanding the Concept: An 'Ombudsman' is an official, usually appointed by the government or by parliament, who is charged with representing the interests of the public by investigating and addressing complaints of mal-administration or a violation of rights. The concept has been adopted by many countries under various names (e.g., Lokpal and Lokayukta in India).
+Step 2: Detailed Explanation: The term 'Ombudsman' is of Swedish origin. The office of the Parliamentary Ombudsman was first established in Sweden in 1809. The Swedish word "ombudsman" means "legal representative" or "agent". This institution was created to safeguard the rights of citizens by establishing a supervisory agency independent of the executive branch. The Swedish model has since been emulated and adapted worldwide.
+Step 3: Final Answer: The word and the modern concept of the 'Ombudsman' originated in Swedish administration.
+14
+
+Quick Tip The origin of legal and administrative terms is a common topic in general knowledge sections of law exams. Associate 'Ombudsman' with Sweden, 'LOKPAL' with India, and 'Rule of Law' with the British system (A.V. Dicey).
+16. Under Section 3 of the Commission of Inquiry Act 1952, an Inquiry Commission is appointed by
+(A) Central government or State government (B) Union Public Service Commission (C) State Public commission (D) Supreme Court of India
+Correct Answer: (A) Central government or State government Solution:
+Step 1: Understanding the Concept: The Commissions of Inquiry Act, 1952, is a central legislation that empowers the government to appoint commissions to inquire into matters of definite public importance.
+Step 2: Detailed Explanation: Section 3 of the Act specifies the appointing authority. It states that the "appropriate Government" may, if it is of opinion that it is necessary so to do, by notification in the Official Gazette, appoint a Commission of Inquiry. The term "appropriate Government" is defined in Section 2(a) of the Act. It means: - The Central Government, in relation to any matter relatable to any of the entries enumerated in List I (Union List) or List II (State List) or List III (Concurrent List) in the Seventh Schedule to the Constitution. - The State Government, in relation to any matter relatable to any of the entries enumerated in List II or List III of the Seventh Schedule. Essentially, both the Central Government and the State Governments have the power to appoint a Commission of Inquiry within their respective legislative domains.
+Step 3: Final Answer: Therefore, an Inquiry Commission under the Act is appointed by the Central Government or the State Government, as the case may be.
+15
+
+Quick Tip In Acts dealing with subjects under the Concurrent List, powers are often vested in the "appropriate Government," which usually means both the Centre and the States can act within their spheres. The Commissions of Inquiry Act is a classic example.
+17. Information Technology Act was enacted in
+(A) 1988 (B) 1996 (C) 2000 (D) 2004
+Correct Answer: (C) 2000 Solution:
+Step 1: Understanding the Concept: The Information Technology Act (IT Act) is the primary law in India dealing with cybercrime and electronic commerce. Knowing its enactment year is a basic and important fact.
+Step 2: Detailed Explanation: The Information Technology Act was enacted by the Parliament of India in the year 2000 and is officially known as The Information Technology Act, 2000. It was notified in the official gazette on 17th October 2000. The Act was based on the Model Law on Electronic Commerce adopted by the United Nations Commission on International Trade Law (UNCITRAL) in 1996. It has been subsequently amended, most notably by the IT (Amendment) Act, 2008.
+Step 3: Final Answer: The Information Technology Act was enacted in the year 2000.
+Quick Tip Remember the enactment years of major landmark legislations. For example: Indian Penal Code (1860), Indian Evidence Act (1872), Consumer Protection Act (1986, now 2019), Environment Protection Act (1986), and the IT Act (2000).
+18. Government of India passed Information Technology Act in 2000 with objective
+(A) To provide legal sanction to all transaction for e-commerce (B) To facilitate electronic filing of all documents to the government
+16
+
+(C) To amend Indian Penal Code, Indian Evidence Act, to punish the cyber crimes (D) All of the above
+Correct Answer: (D) All of the above
+Solution:
+Step 1: Understanding the Concept: The Information Technology Act, 2000 was a comprehensive legislation designed to address the new realities of the digital age. Its objectives were multifaceted, covering commercial, administrative, and penal aspects of information technology.
+Step 2: Detailed Explanation: The preamble and various provisions of the IT Act, 2000, reveal its broad objectives: - (A) E-commerce Sanction: A primary goal was to grant legal recognition to electronic records and digital signatures, thereby providing a legal framework for and encouraging ecommerce transactions. - (B) Electronic Filing (E-Governance): The Act aimed to facilitate the electronic filing of documents with Government agencies and also the electronic storage of data. This is a key component of e-governance. - (C) Amending other laws for Cyber Crimes: The Act did not just create new offenses (like hacking). It also made consequential amendments to other key statutes like the Indian Penal Code, 1860, the Indian Evidence Act, 1872, and the Bankers' Books Evidence Act, 1891, to align them with the new digital reality and make electronic evidence admissible. Since the Act's objectives included all the points mentioned, the correct answer is (D).
+Step 3: Final Answer: The objectives of the IT Act, 2000, included providing legal sanction for e-commerce, facilitating e-governance, and amending existing penal and evidentiary laws to deal with cybercrimes.
+Quick Tip When asked about the objectives of a major Act, look for an "All of the above" option. Landmark legislations often have multiple, broad objectives, covering various facets of the issue they seek to regulate.
+19. Right to Personal liberty includes
+(A) Right against custodial violence (B) Right of under trials to separate them from convicted (C) Right against Public hanging (D) All of the above
+17
+
+Correct Answer: (D) All of the above
+Solution:
+Step 1: Understanding the Concept: Article 21 of the Constitution of India guarantees the "Right to life and personal liberty". The Supreme Court of India, through decades of judicial interpretation, has expanded the scope of this fundamental right immensely. It is not merely about animal existence but includes the right to live with human dignity.
+Step 2: Detailed Explanation: The Supreme Court has held that "personal liberty" under Article 21 includes a wide array of rights. Let's examine the options in this context: - (A) Right against custodial violence: In cases like D.K. Basu v. State of West Bengal, the Supreme Court held that custodial violence is a naked violation of human dignity and is prohibited by Article 21. - (B) Right of under trials to be separated from convicted prisoners: The Supreme Court has repeatedly held that undertrials should not be kept with convicted prisoners as it violates their rights under Article 21. It is presumed that they are innocent until proven guilty. - (C) Right against Public hanging: In the case of Attorney General of India v. Lachma Devi, the Supreme Court held that public hanging would be a barbaric and degrading punishment, thus violating Article 21. Since all these rights have been recognized by the judiciary as flowing from Article 21, the correct answer is (D).
+Step 3: Final Answer: The right to personal liberty under Article 21 has been interpreted to include the right against custodial violence, the segregation of undertrials from convicts, and the right against public hanging.
+Quick Tip
+Article 21 is the heart of the fundamental rights in the Indian Constitution. For exams, remember that its interpretation is very wide. Any option that promotes human dignity, fairness, and a civilized standard of life is likely to be considered a part of Article 21.
+20. The Supreme Commander of the Defence Force of India is
+(A) President (B) Prime Minister (C) The Defence Minister (D) Chief Marshal
+Correct Answer: (A) President
+18
+
+Solution:
+Step 1: Understanding the Concept: The Constitution of India establishes the framework for the country's governance, including the structure and command of the armed forces. It specifies who holds the ultimate command.
+Step 2: Detailed Explanation: Article 53 of the Constitution of India deals with the executive power of the Union. - Article 53(1) states that the executive power of the Union shall be vested in the President. - Article 53(2) explicitly states: "Without prejudice to the generality of the foregoing provision, the supreme command of the Defence Forces of the Union shall be vested in the President and the exercise thereof shall be regulated by law." This constitutional provision makes the President of India the Supreme Commander of the Indian Armed Forces (which includes the Army, Navy, and Air Force). While the President acts on the advice of the council of ministers headed by the Prime Minister, the de jure command is vested in the President.
+Step 3: Final Answer: The President of India is the Supreme Commander of the Defence Forces of India.
+Quick Tip This is a fundamental fact about the Indian constitutional structure. Remember the key roles: President (Head of State, Supreme Commander), Prime Minister (Head of Government), Chief Justice of India (Head of Judiciary).
+21. Retirement age of Supreme Court Judges is
+(A) 62 years (B) 60 years (C) 58 years (D) 65 years
+Correct Answer: (D) 65 years
+Solution:
+Step 1: Understanding the Concept: The Constitution of India lays down the provisions regarding the appointment, tenure, and retirement of judges of the higher judiciary (Supreme Court and High Courts).
+Step 2: Detailed Explanation: Article 124(2) of the Constitution of India deals with the appointment and tenure of the judges of the Supreme Court. The proviso to this article states that a judge of the Supreme Court
+19
+
+"shall hold office until he attains the age of sixty-five years". For comparison, the retirement age for a judge of a High Court is 62 years, as per Article 217(1) of the Constitution.
+Step 3: Final Answer: The retirement age for a judge of the Supreme Court of India is 65 years.
+Quick Tip
+Remember the distinction between the retirement ages of Supreme Court judges (65 years) and High Court judges (62 years). This is a very common point of confusion and a frequent question in exams.
+22. Criminal Procedure Code is a subject of
+(A) Concurrent list (B) State list (C) Union list (D) None of the above
+Correct Answer: (A) Concurrent list
+Solution:
+Step 1: Understanding the Concept: The Seventh Schedule of the Constitution of India distributes legislative powers between the Union and the States into three lists: List I (Union List), List II (State List), and List III (Concurrent List). Subjects in the Concurrent List can be legislated upon by both the Parliament and the State Legislatures.
+Step 2: Detailed Explanation: Entry 2 of the Concurrent List (List III) of the Seventh Schedule reads: "Criminal procedure, including all matters included in the Code of Criminal Procedure at the commencement of this Constitution." This explicitly places the Code of Criminal Procedure (Cr.PC) under the Concurrent List. This means that while the Cr.PC is a central law enacted by Parliament, state legislatures can also make amendments to it for application within their respective states, provided such amendments do not conflict with central legislation on the same matter (or if they do, they must receive the President's assent). Similarly, the Indian Penal Code (IPC) and the Indian Evidence Act are also in the Concurrent List (Entry 1 and Entry 12 respectively).
+Step 3: Final Answer: The Criminal Procedure Code is a subject enumerated in the Concurrent List of the Seventh
+20
+
+Schedule of the Constitution.
+Quick Tip Remember that major procedural and substantive laws like Cr.PC, IPC, CPC, and the Evidence Act are on the Concurrent List. This allows for a uniform legal framework across India while also permitting states to make specific local amendments.
+23. Bailable and Non-Bailable offence has been defined in
+(A) Section 2 (a) of Cr.PC (B) Section 2 (b) of Cr. Pc (C) Section 2 (c) of Cr. Pc (D) Section 20 of IPC
+Correct Answer: (A) Section 2 (a) of Cr.PC Solution:
+Step 1: Understanding the Concept: The Code of Criminal Procedure, 1973 (Cr.PC) is the main legislation on procedure for administration of substantive criminal law in India. Section 2 of the Cr.PC provides definitions for various terms used throughout the code.
+Step 2: Detailed Explanation: Section 2 of the Cr.PC contains the definitions. Let's look at the relevant clauses: - Section 2(a) defines "bailable offence". It states that a "bailable offence" means an offence which is shown as bailable in the First Schedule, or which is made bailable by any other law for the time being in force; and "non-bailable offence" means any other offence. - Section 2(b) defines "charge". - Section 2(c) defines "cognizable offence". - Section 20 of the IPC defines "Court of Justice", which is unrelated. Therefore, the definitions of bailable and non-bailable offences are located in Section 2(a) of the Cr.PC.
+Step 3: Final Answer: The terms "Bailable offence" and "Non-Bailable offence" are defined under Section 2(a) of the Code of Criminal Procedure, 1973.
+21
+
+Quick Tip The definitions in Section 2 of the Cr.PC are extremely important. Pay special attention to 2(a) (bailable), 2(c) (cognizable), 2(h) (investigation), 2(l) (non-cognizable), and 2(x) (warrant case). These are frequently asked in exams.
+24. Under Section 21 of Cr.PC, Special Executive Magistrate may be appointed by
+(A) Central Government (B) High court (C) Supreme Court (D) State Government
+Correct Answer: (D) State Government
+Solution:
+Step 1: Understanding the Concept: The Code of Criminal Procedure, 1973 (Cr.PC) provides for different classes of Magistrates to exercise executive and judicial functions. Special Executive Magistrates are appointed for particular areas or for the performance of particular functions.
+Step 2: Detailed Explanation: Section 21 of the Cr.PC deals with the appointment of Special Executive Magistrates. The section reads: "The State Government may appoint, for such term as it may think fit, Executive Magistrates, to be known as Special Executive Magistrates, for particular areas or for the performance of particular functions and confer on such Special Executive Magistrates such of the powers as are conferrable under this Code on Executive Magistrates as it may deem fit." This provision clearly vests the authority of appointment in the State Government.
+Step 3: Final Answer: As per Section 21 of the Cr.PC, a Special Executive Magistrate is appointed by the State Government.
+Quick Tip Remember the appointing authorities for different magistrates under Cr.PC: Judicial Magistrates are appointed by the High Court (Section 11), while Executive Magistrates are appointed by the State Government (Section 20). Special Executive Magistrates also fall under the State Government's purview.
+22
+
+25. Police may carry out personal search on an arrested person,
+(A) U/s 49 Cr.PC (B) U/s 50 Cr.PC (C) U/s 51 Cr.PC (D) U/s 52 Cr.PC
+Correct Answer: (C) U/s 51 Cr.PC
+Solution:
+Step 1: Understanding the Concept: The Code of Criminal Procedure, 1973, contains specific provisions governing the procedure for arrest and the rights and duties of both the police and the arrested person. This includes the power to search the arrested person.
+Step 2: Detailed Explanation: Let's examine the relevant sections mentioned in the options: - Section 49 Cr.PC states that an arrested person shall not be subjected to more restraint than is necessary to prevent his escape. - Section 50 Cr.PC mandates that the police officer must inform the arrested person of the grounds of arrest and the right to bail. - Section 51 Cr.PC deals with the "Search of arrested person". It empowers a police officer to search a person arrested and to place in safe custody all articles, other than necessary wearing-apparel, found upon him. A receipt showing the articles taken in possession must be given to the arrested person. - Section 52 Cr.PC gives police the power to seize offensive weapons from an arrested person. The general power to conduct a personal search is provided under Section 51.
+Step 3: Final Answer: The power of the police to carry out a personal search on an arrested person is provided under Section 51 of the Cr.PC.
+Quick Tip The sections from 41 to 60A of the Cr.PC deal with Arrest of Persons and are extremely important. Create a list of these sections and the specific right or procedure each one deals with (e.g., S.41 - When police may arrest without warrant, S.50 - Right to know grounds of arrest, S.51 - Search, S.57 - Cannot be detained for more than 24 hours).
+26. The Special Court is
+(A) Not subordinate to High Court (B) Superior to High Court
+23
+
+(C) Supplement to High Court (D) Equal to Supreme court
+Correct Answer: (A) Not subordinate to High Court
+Solution:
+Step 1: Understanding the Concept: Special Courts are established under various statutes to try specific types of cases (e.g., cases under the POCSO Act, Prevention of Corruption Act, NDPS Act, etc.). Their position within the judicial hierarchy needs to be understood in the context of the specific statute that creates them. This question is somewhat ambiguous as it doesn't specify which Special Court. However, let's analyze the general structure.
+Step 2: Detailed Explanation: Generally, Special Courts are presided over by a judge of the rank of a Sessions Judge or Additional Sessions Judge. In the judicial hierarchy, the Sessions Court is subordinate to the High Court. The High Court exercises appellate and supervisory jurisdiction over them under the Cr.PC and the Constitution (Articles 227 and 235). However, some specific acts create Special Courts with a unique status. For example, under certain acts, an appeal from the Special Court may lie directly to the Supreme Court, bypassing the High Court. An example is the SC/ST (Prevention of Atrocities) Act. In this context, for the purpose of appeal, it is not subordinate to the High Court. Let's re-evaluate the options based on this complexity: - (B) Superior to High Court: This is incorrect. No court in a state is superior to the High Court. - (C) Supplement to High Court: This is vague and not a recognized hierarchical position. - (D) Equal to Supreme court: This is incorrect. - (A) Not subordinate to High Court: This is the most plausible answer, though potentially controversial. If the statute provides a direct appeal to the Supreme Court, it effectively removes the Special Court from the appellate jurisdiction of the High Court for those specific cases, making it "not subordinate" in that particular aspect. Given the options, this is the best fit, interpreting "subordinate" in terms of appellate channel. For instance, the National Green Tribunal (NGT) is a special tribunal from which appeals lie directly to the Supreme Court.
+Step 3: Final Answer: Given the options, the most appropriate answer is that a Special Court (in certain contexts where appeal lies directly to the Supreme Court) is not subordinate to the High Court in its appellate hierarchy.
+24
+
+Quick Tip Be aware that the term "Special Court" can have different meanings under different laws. When faced with such a general question, consider the exception that makes one of the options true. The existence of special courts with direct appeals to the Supreme Court is such an exception.
+27. The powers under Section 159 of Cr.PC can be exercised by a magistrate
+(A) When the police decides not to investigate the case (B) When the investigation is still going on (C) Both (a) and (b) (D) None of the above
+Correct Answer: (A) When the police decides not to investigate the case
+Solution:
+Step 1: Understanding the Concept: Section 159 of the Cr.PC provides a mechanism for a Magistrate to ensure that a proper investigation is conducted. It outlines the powers a Magistrate can exercise upon receiving a police report under Section 157.
+Step 2: Detailed Explanation: Section 157 Cr.PC requires the police to send a report to the Magistrate forthwith upon receiving information about a cognizable offence. In this report, the police may state that they will investigate the case, or under the proviso to Section 157(1), they may decide not to investigate if the case is not serious or there are insufficient grounds. It is upon receiving such a report that Section 159 comes into play. Section 159 states: "Such Magistrate, on receiving such a report, may direct an investigation, or, if he thinks fit, at once proceed, or depute any Magistrate subordinate to him to proceed, to hold a preliminary inquiry into the case, or otherwise to dispose of the case in the manner provided in this Code." This power is a check on the police's discretion not to investigate. The Magistrate can order the police to investigate even if they have decided not to. The power is exercised after the police have made their initial decision and sent their report, specifically in cases where they choose not to proceed. It is not a power to be used while an investigation is already in progress.
+Step 3: Final Answer: The power under Section 159 Cr.PC is exercised by a Magistrate when he receives a report from the police, particularly when the police have decided not to investigate the case.
+25
+
+Quick Tip Understand the sequence of events in a criminal investigation: FIR (S.154) -¿ Police Report to Magistrate (S.157) -¿ Magistrate's power to order investigation if police refuse (S.159) -¿ Investigation by Police (S.156) -¿ Final Report/Chargesheet (S.173). Knowing this flow helps in placing each section in its correct context.
+28. Statement recorded during investigation U/s. 161 can be used in trial
+(A) For contradicting the witness (B) For corroborating the witness (C) Incorporating in the charge sheet (D) Discharging the accused
+Correct Answer: (A) For contradicting the witness
+Solution:
+Step 1: Understanding the Concept: Section 161 of the Cr.PC empowers a police officer to examine witnesses during an investigation and record their statements. Section 162 of the Cr.PC then places restrictions on the use of these statements during the trial to ensure they are not treated as substantive evidence.
+Step 2: Detailed Explanation: Section 162(1) of the Cr.PC states that no statement made by any person to a police officer in the course of an investigation, if reduced to writing, shall be signed by the person making it; nor shall any such statement or any record thereof be used for any purpose, save as provided in the section. The proviso to Section 162(1) carves out a specific exception. It allows the statement to be used by the accused (and with the permission of the court, by the prosecution) to contradict such a witness in the manner provided by Section 145 of the Indian Evidence Act, 1872. - These statements cannot be used for corroboration (this is explicitly barred, except in limited circumstances under Section 157 of the Evidence Act for statements that amount to an FIR or fall under Section 27). - They form part of the case diary and are filed along with the charge sheet, but are not incorporated into it as evidence. - Their use is for impeachment of credit, not for discharge or conviction.
+Step 3: Final Answer: The primary use of a statement recorded under Section 161 Cr.PC during a trial is for the purpose of contradicting the witness who made the statement.
+26
+
+Quick Tip Remember the general rule: Police statements (S.161) are not substantive evidence. Their main use is to impeach the credibility of a witness by showing that they said something different to the police than what they are saying in court.
+29. Power of taking cognizance of offence by a Magistrate of First class or second class is provided
+(A) Under Section 173 of Criminal Procedure Code (B) Under Section 190 of Criminal Procedure Code (C) Under Section 190 of Indian Penal Code (D) None of the above
+Correct Answer: (B) Under Section 190 of Criminal Procedure Code
+Solution:
+Step 1: Understanding the Concept: "Taking cognizance" is the first step by which a court or Magistrate applies their mind to a suspected commission of an offence for the purpose of initiating judicial proceedings against the offender. The power to do so is a specific statutory power.
+Step 2: Detailed Explanation: Section 190 of the Code of Criminal Procedure, 1973 (Cr.PC) is the key provision dealing with the cognizance of offences by Magistrates. - Section 190(1) states that any Magistrate of the first class, and any Magistrate of the second class specially empowered in this behalf, may take cognizance of any offence: (a) upon receiving a complaint of facts which constitute such offence; (b) upon a police report of such facts; (c) upon information received from any person other than a police officer, or upon his own knowledge, that such offence has been committed. - Section 173 of Cr.PC deals with the police report (chargesheet) submitted after investigation. While a Magistrate takes cognizance upon a police report, the power to take cognizance itself is granted by Section 190. - The Indian Penal Code (IPC) defines offences and punishments; it does not contain procedural provisions like the power to take cognizance.
+Step 3: Final Answer: The power of a Magistrate to take cognizance of an offence is provided under Section 190 of the Criminal Procedure Code.
+27
+
+Quick Tip Distinguish between the document that triggers cognizance and the section that grants the power. The charge sheet (S.173) or complaint (S.200) are documents, but the power to act on them stems from S.190 Cr.PC.
+30. Additions or alteration of charges is provided in Cr. PC
+(A) U/s. 214 (B) U/s. 215 (C) U/s. 216 (D) U/s. 210
+Correct Answer: (C) U/s. 216
+Solution:
+Step 1: Understanding the Concept: A "charge" in criminal law is a formal accusation of an offence. The Code of Criminal Procedure allows for the charge to be altered or added to at any time during the trial to ensure that the trial is fair and based on the evidence that emerges.
+Step 2: Detailed Explanation: Chapter XVII of the Cr.PC deals with "The Charge". Let's look at the relevant sections: - Section 216 of Cr.PC is titled "Court may alter charge". It states that any Court may alter or add to any charge at any time before judgment is pronounced. It also lays down the procedure to be followed after such alteration, such as reading and explaining the new charge to the accused and allowing the parties to recall witnesses. - Section 214 explains that the words used in the charge are to be understood in the sense of the law under which the offence is punishable. - Section 215 deals with the effect of errors in the charge. - Section 210 deals with the procedure to be followed when there is a complaint case and police investigation in respect of the same offence.
+Step 3: Final Answer: The provision for the alteration or addition of charges is contained in Section 216 of the Cr.PC.
+Quick Tip Remember the cluster of sections related to Charge: S.211 (Contents of Charge), S.212 (Particulars as to time, place, and person), S.216 (Alteration of Charge), and S.218 (Separate charges for distinct offences).
+28
+
+31. Which Section of Specific Relief Act prohibits filing a case against the government?
+(A) Section 5 (B) Section 6 (C) Section 7 (D) Section 8
+Correct Answer: (B) Section 6
+Solution:
+Step 1: Understanding the Concept: The Specific Relief Act, 1963, provides remedies for persons whose civil or contractual rights have been infringed. Sections 5 and 6 deal with the recovery of possession of immovable property.
+Step 2: Detailed Explanation: Let's analyze the relevant sections: - Section 5 provides the regular remedy for recovery of possession of immovable property based on title, through a regular suit as provided by the Code of Civil Procedure. - Section 6 provides a summary remedy. It allows a person who has been dispossessed of immovable property without his consent and otherwise than in due course of law to file a suit for recovery of possession, regardless of title. This remedy is based purely on previous possession. - However, Section 6(2)(a) places a crucial restriction. It states that "No suit under this section shall be brought... against the Government." - Section 7 deals with the recovery of specific movable property. - Section 8 deals with the liability of a person in possession, not being the owner, to deliver to the person entitled to immediate possession. Therefore, the specific prohibition against filing a (summary) suit against the government for dispossession is contained in Section 6.
+Step 3: Final Answer: Section 6 of the Specific Relief Act, 1963, prohibits filing a summary suit for recovery of possession against the government.
+Quick Tip Remember the key difference between Section 5 and Section 6 of the Specific Relief Act. Section 5 is a suit based on title (regular, longer process). Section 6 is a suit based on possession (summary, faster remedy), which has limitations like a 6-month filing period, no appeal, and no availability against the government.
+29
+
+32. The Patent Act became a law in
+(A) 1970 (B) 1975 (C) 1996 (D) 1966
+Correct Answer: (A) 1970 Solution:
+Step 1: Understanding the Concept: The Patents Act is the primary legislation in India that governs the system of granting patents for inventions. It replaced the earlier Indian Patents and Designs Act, 1911.
+Step 2: Detailed Explanation: The current patent law in India is governed by the Patents Act, 1970. This Act was passed by the Parliament in the year 1970 but came into force on 20th April 1972. The question asks when it "became a law," which refers to the year of its enactment. The Act was enacted to be compliant with international obligations while also addressing India's specific needs, particularly in sectors like pharmaceuticals and food. It has been significantly amended since, notably in 1999, 2002, and 2005, to align with the WTO's TRIPS agreement.
+Step 3: Final Answer: The Patent Act became a law (was enacted) in the year 1970.
+Quick Tip For Intellectual Property laws in India, remember the key enactment years: The Patents Act (1970), The Trade Marks Act (1999), The Copyright Act (1957), and The Designs Act (2000).
+33. Cheque bouncing cases charged U/s. 138 of Negotiable Instruments Act is trialed by
+(A) Bank Tribunal (B) Consumer Forum (C) Magistrate Court (D) Sessions court
+Correct Answer: (C) Magistrate Court Solution:
+30
+
+Step 1: Understanding the Concept: Section 138 of the Negotiable Instruments Act, 1881, makes the dishonor of a cheque for insufficiency of funds a criminal offence. The Act specifies the court that has jurisdiction to try these offences.
+Step 2: Detailed Explanation: Section 142 of the Negotiable Instruments Act deals with the cognizance of offences under Section 138. It states that notwithstanding anything contained in the Code of Criminal Procedure, no court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try any offence punishable under Section 138. Both the Metropolitan Magistrate (in metropolitan areas) and the Judicial Magistrate of the First Class (in other areas) belong to the category of Magistrate's Courts. - A Bank Tribunal (like the Debt Recovery Tribunal) deals with civil recovery of debts for banks, not criminal cases like cheque bouncing. - A Consumer Forum deals with consumer disputes, which is a different remedy. - A Sessions Court is higher in the hierarchy and tries more serious offences.
+Step 3: Final Answer: Cases under Section 138 of the Negotiable Instruments Act are tried by a Magistrate Court (specifically, a Judicial Magistrate of the First Class or a Metropolitan Magistrate).
+Quick Tip Remember that while a cheque bouncing case has civil implications (recovery of money), the proceeding under Section 138 is criminal in nature. This is why it is tried by a criminal court (Magistrate's Court) and not a civil court or tribunal.
+34. The provision of establishing Public Service Commission is made under
+(A) Article 310 (B) Article 315 (C) Article 320 (D) Article 325
+Correct Answer: (B) Article 315
+Solution:
+Step 1: Understanding the Concept: The Constitution of India provides for the establishment of Public Service Commissions for the Union and for each State to conduct examinations for appointments to the services of the Union and the services of the State respectively.
+31
+
+Step 2: Detailed Explanation: Part XIV of the Constitution of India deals with "Services under the Union and the States". Let's look at the articles mentioned: - Article 310 deals with the tenure of office of persons serving the Union or a State (the doctrine of pleasure). - Article 315 is titled "Public Service Commissions for the Union and for the States". It explicitly states in clause (1) that "...there shall be a Public Service Commission for the Union and a Public Service Commission for each State." It also provides for the possibility of a Joint Public Service Commission for two or more states. - Article 320 lays down the functions of Public Service Commissions. - Article 325 states that there shall be one general electoral roll for every territorial constituency and no person shall be ineligible for inclusion on grounds of religion, race, caste or sex. This is related to elections, not public service commissions.
+Step 3: Final Answer: The constitutional provision for the establishment of Public Service Commissions is contained in Article 315.
+Quick Tip
+When studying constitutional bodies, focus on three key articles for each: one for its establishment (e.g., Art. 315 for PSC), one for its functions (e.g., Art. 320), and one for the appointment/removal of its members.
+35. The case Krishna Gopal V/s State of MP relates to
+(A) Water pollution (B) Air and water pollution (C) Noise and air pollution (D) Water and noise pollution
+Correct Answer: (C) Noise and air pollution
+Solution:
+Step 1: Understanding the Concept: Landmark cases in environmental law have been instrumental in shaping the legal framework for pollution control in India. The case of Krishna Gopal v. State of M.P. is one such case, particularly noted for its stance on pollution.
+Step 2: Detailed Explanation: The case of Krishna Gopal v. State of M.P., 1986 dealt with the issue of pollution caused by a chemical factory. The petitioner complained about the nuisance caused by the factory's emissions and noise. The Madhya Pradesh High Court in this case took a strong stance against
+32
+
+pollution. While the case is very famous for its observations on noise pollution, it also involved complaints related to air pollution from the factory's emissions. The court recognized that pollution which is a public nuisance is a punishable offence and that citizens have a right to a clean environment. Given that the factory's operations involved both noise and emissions, the most comprehensive and accurate description among the options is "Noise and air pollution". While primarily cited for noise, the factual matrix included air pollution as well.
+Step 3: Final Answer: The case of Krishna Gopal V/s State of MP relates to both noise and air pollution caused by industrial activity.
+Quick Tip
+For landmark environmental law cases, try to remember the type of pollution and the principle laid down. For example, M.C. Mehta cases (multiple, on Ganga pollution, Taj Trapezium, Oleum Gas Leak - absolute liability), Vellore Citizens' Welfare Forum (Precautionary Principle, Polluter Pays Principle), and Krishna Gopal (Noise/Air Pollution).
+36. What is the punishment for advocates if the established finding of the Bar Council is misappropriation?
+(A) Impose a fine (B) Name of the advocate will be struck off from the Rolls (C) Suspension from practice (D) All of the above
+Correct Answer: (D) All of the above
+Solution:
+Step 1: Understanding the Concept: The Advocates Act, 1961, governs the legal profession in India. Section 35 of the Act empowers the Disciplinary Committee of a State Bar Council to take action against an advocate for professional or other misconduct. Misappropriation of a client's funds is a grave form of professional misconduct.
+Step 2: Detailed Explanation: Section 35(3) of the Advocates Act, 1961, lists the orders that the Disciplinary Committee of a State Bar Council can pass after giving the advocate an opportunity of being heard. The possible orders are: (a) dismiss the complaint; (b) reprimand the advocate; (c) suspend the advocate from practice for such period as it may deem fit;
+33
+
+(d) remove the name of the advocate from the state roll of advocates. Misappropriation is a very serious misconduct. Depending on the gravity, facts, and circumstances of the case, the Disciplinary Committee can impose any of the punishments, from suspension to the most severe punishment of striking the name off the Rolls. While a fine is not explicitly mentioned as a primary punishment in Section 35(3), the powers are broad, and in practice, costs can be imposed. However, suspension and removal from rolls are the main punishments. Given the options, and the severity of misappropriation, both suspension (c) and striking off the rolls (b) are definitely possible. "Impose a fine" is less common as a standalone punishment for such a grave offence but can be part of the overall order (e.g., as costs). Considering that the committee has a range of punitive measures it can take, and the options listed are all forms of punitive action, "All of the above" is the most encompassing choice representing the spectrum of possible consequences, even if a fine is more of a cost imposition. In the context of misconduct, suspension and removal are the key punishments.
+Step 3: Final Answer: For a serious misconduct like misappropriation, the Bar Council's Disciplinary Committee has the power to reprimand, suspend the advocate from practice, or remove the advocate's name from the rolls entirely. Therefore, all the punitive actions listed are within the realm of possibility.
+Quick Tip
+For questions about punishment for professional misconduct, remember the four key outcomes under Section 35 of the Advocates Act: Dismissal, Reprimand, Suspension, and Removal from Rolls. The severity of the punishment depends on the gravity of the misconduct.
+37. On being aggrieved by the order of State Bar Council, one can appeal to
+(A) High Court (B) Supreme court (C) Bar Council of India (D) Indian Law Commission
+Correct Answer: (B) Supreme court
+Solution:
+Step 1: Understanding the Concept: The Advocates Act, 1961, establishes a hierarchical structure for regulating the legal profession, which includes a clear appellate pathway for orders passed in disciplinary proceedings.
+Step 2: Detailed Explanation: The question is about the appellate authority against an order of a State Bar Council. Let's
+34
+
+trace the appellate hierarchy provided in the Advocates Act: 1. First Appeal: Section 37 of the Advocates Act, 1961, provides that any person aggrieved by an order of the disciplinary committee of a State Bar Council may prefer an appeal to the Bar Council of India (BCI). 2. Second Appeal: Section 38 of the Act provides that any person aggrieved by an order made by the disciplinary committee of the Bar Council of India may prefer an appeal to the Supreme Court. The question is slightly ambiguous. It could mean the immediate appeal or the final appeal. - The immediate appellate authority is the Bar Council of India (Option C). - The final appellate authority in the hierarchy is the Supreme Court (Option B). In competitive exams, such questions often test the knowledge of the entire appellate chain, and the highest forum is considered the most appropriate answer. The chain of appeal ultimately ends at the Supreme Court. Given the options, and the common pattern of such questions, the intended answer is likely the final court of appeal in the statutory scheme.
+Step 3: Final Answer: While the first appeal from a State Bar Council's disciplinary order lies with the Bar Council of India, the final appeal in the hierarchy lies with the Supreme Court. Therefore, the Supreme Court is the ultimate appellate body.
+Quick Tip
+When a question asks about an appeal and lists multiple levels of the hierarchy (e.g., an intermediate appellate body and the final one), consider if the question implies the final authority. Here, the appeal process continues from the State Bar Council to the BCI and then to the Supreme Court.
+38. Which Section of Advocates Act provides punishment for misconduct of advocates
+(A) Section 29 (B) Section 35 (C) Section 37 (D) All of the above
+Correct Answer: (B) Section 35
+Solution:
+Step 1: Understanding the Concept: The Advocates Act, 1961, contains specific provisions that empower the Bar Councils to take disciplinary action against advocates found guilty of professional or other misconduct.
+35
+
+Step 2: Detailed Explanation: Let's analyze the sections mentioned in the options: - Section 29 states that advocates are the only recognized class of persons entitled to practice law. - Section 35 is titled "Punishment of advocates for misconduct". This section lays down the entire procedure. It empowers a State Bar Council to refer any case of misconduct to its disciplinary committee and specifies the orders (punishments) that the committee can pass, such as reprimand, suspension, or removal from the rolls. - Section 37 provides for the appeal to the Bar Council of India against an order of the disciplinary committee of a State Bar Council. It is an appellate provision, not the primary provision for punishment. Therefore, the core provision that deals with the punishment for misconduct is Section 35.
+Step 3: Final Answer: Section 35 of the Advocates Act, 1961, is the provision that provides for the punishment of advocates for misconduct.
+Quick Tip
+Associate key functions with their section numbers in the Advocates Act: S.24 (Qualifications for enrolment), S.35 (Punishment for misconduct), S.37 (Appeal to BCI), S.38 (Appeal to Supreme Court), S.49 (General power of BCI to make rules).
+39. Section 24 of Advocate Act deals with
+(A) Qualification of advocates who should be enrolled in the Bar (B) Qualification to become the Advocate General (C) Qualification to become the Solicitor General of India (D) (b) and (c)
+Correct Answer: (A) Qualification of advocates who should be enrolled in the Bar
+Solution:
+Step 1: Understanding the Concept: The Advocates Act, 1961, sets the eligibility criteria for a person to be admitted as an advocate on a state roll, which then entitles them to practice law in India.
+Step 2: Detailed Explanation: Section 24 of the Advocates Act, 1961 is titled "Persons who may be admitted as advocates on a State roll". This section lays down the conditions that a person must satisfy to be enrolled, which include: - Being a citizen of India. - Having completed the age of twenty-one years.
+36
+
+- Having obtained a degree in law from a recognized university. The qualifications for constitutional posts like the Advocate General are prescribed in the Constitution of India (Article 165 - must be qualified to be a Judge of a High Court). Similarly, the qualifications for the Solicitor General, a statutory post, are determined by the Government. These are not dealt with in Section 24 of the Advocates Act.
+Step 3: Final Answer: Section 24 of the Advocates Act deals with the qualifications or conditions for a person to be enrolled as an advocate on a state roll.
+Quick Tip
+Do not confuse the eligibility criteria for becoming a lawyer (Advocates Act) with the qualifications for high constitutional or statutory legal offices like the Attorney General, Advocate General, or Solicitor General (Constitution and other rules).
+40. Under the Workmen's Compensation Act, which is helpful in deciding the extent of injury for compensation
+(A) Insurance certificate (B) Medical examination (C) Medical Certificate (D) (b) and (c)
+Correct Answer: (D) (b) and (c)
+Solution:
+Step 1: Understanding the Concept: The Workmen's Compensation Act, 1923 (now the Employee's Compensation Act), provides for the payment of compensation to workmen in case of injury by accident arising out of and in the course of employment. The amount of compensation depends heavily on the nature and extent of the injury and the resulting loss of earning capacity.
+Step 2: Detailed Explanation: To determine the extent of an injury and the consequent loss of earning capacity, objective medical evidence is crucial. - (B) Medical examination: The Act contains provisions (e.g., Section 11) that allow the employer to require the workman to submit to a medical examination by a qualified medical practitioner. This examination is the process of assessing the injury. - (C) Medical Certificate: The result of the medical examination is documented in a medical certificate. This certificate provides the official medical opinion on the nature of the injury (e.g., permanent total disablement, permanent partial disablement, temporary disablement) and the percentage of loss of earning capacity. This certificate is a key piece of evidence for the
+37
+
+Commissioner to decide the compensation amount. An insurance certificate (A) is relevant for determining who pays the compensation (the insurer), but not for deciding the extent of the injury itself. Since both the medical examination and the resulting medical certificate are essential for deciding the extent of injury, option (D) is the most complete answer.
+Step 3: Final Answer: Both the medical examination of the worker and the medical certificate issued thereafter are helpful and necessary for deciding the extent of the injury for compensation purposes.
+Quick Tip
+In compensation laws (whether for employees or motor vehicle accidents), medical evidence is paramount. The medical examination, reports, and certificates form the foundation for calculating the quantum of compensation.
+41. Section 23 of Workmen Compensation Act 1923 says that the Commissioner shall have the power of
+(A) A court (B) A Tribunal (C) A quasi judicial form (D) All of the above
+Correct Answer: (A) A court
+Solution:
+Step 1: Understanding the Concept: The Workmen's Compensation Act, 1923, establishes a special authority, the Commissioner, to adjudicate disputes related to compensation. The Act grants this authority specific powers to enable it to function effectively.
+Step 2: Detailed Explanation: Section 23 of the Workmen's Compensation Act, 1923, is titled "Powers and procedure of Commissioners". It explicitly states: "The Commissioner shall have all the powers of a Civil Court under the Code of Civil Procedure, 1908 (5 of 1908), for the purpose of taking evidence on oath (which such Commissioner is hereby empowered to impose) and of enforcing the attendance of witnesses and compelling the production of documents and material objects..." While a Commissioner functions as a quasi-judicial body and can be called a Tribunal, the statute itself specifically grants it the powers of a "Civil Court" for procedural purposes. Therefore, the most precise answer as per the statutory language is (A). The term "A court" in the
+38
+
+option is a direct reference to the "Civil Court" mentioned in the section.
+Step 3: Final Answer: Section 23 of the Act explicitly states that the Commissioner shall have all the powers of a Civil Court for the purpose of evidence and compelling attendance.
+Quick Tip When a question asks what a statute "says", the most accurate answer is the one that uses the language closest to the statute itself. Even if other descriptions are technically correct (like 'Tribunal'), the statutory wording ('Civil Court') is the most precise answer.
+42. The objective of the Industrial Dispute Act 1947 is
+(A) Industrial peace and economic justice (B) To create harmonious relation between employer and employee (C) To prevent illegal strike or lockout etc., (D) All of the above
+Correct Answer: (D) All of the above
+Solution:
+Step 1: Understanding the Concept: The Industrial Disputes Act, 1947, is a cornerstone of Indian labour law. It provides a framework for the investigation and settlement of industrial disputes and for preventing disruptions to industrial production and harmony.
+Step 2: Detailed Explanation: The objectives of the Industrial Disputes Act are broad and multifaceted, as reflected in its preamble and various provisions. Let's analyze the options: - (A) Industrial peace and economic justice: This is a primary goal. The Act aims to prevent industrial strife and ensure that workers receive fair treatment and a just share in the fruits of production. - (B) To create harmonious relations: The Act encourages collective bargaining and provides mechanisms like Works Committees to promote amity and good relations between employers and workmen. - (C) To prevent illegal strikes or lockouts: The Act lays down specific conditions and procedures that must be followed before a strike or lockout can be considered legal. Its aim is to prevent sudden and illegal work stoppages that harm the economy and public interest. Since all the listed options are well-recognized objectives of the Act, the correct answer is (D).
+Step 3: Final Answer: The Industrial Disputes Act, 1947, aims to secure industrial peace and economic justice, foster
+39
+
+harmonious employer-employee relations, and prevent illegal strikes and lockouts.
+Quick Tip The title of the Act itself gives a clue to its objectives. "Industrial Disputes" implies a focus on resolving conflicts to achieve peace and harmony. When asked about objectives of such welfare or regulatory legislation, the "All of the above" option is often correct as these laws usually have multiple, interconnected goals.
+43. Section 2 (q) of Industrial Dispute Act 1947 provides the definition of
+(A) Lock out (B) Lay off (C) Strike (D) Hartal
+Correct Answer: (C) Strike Solution:
+Step 1: Understanding the Concept: Section 2 of the Industrial Disputes Act, 1947, is the definition clause, providing the meaning of various key terms used throughout the Act.
+Step 2: Detailed Explanation: Let's look at the definitions of the terms in the options as per Section 2 of the Act: - Section 2(q): Defines "strike" as "a cessation of work by a body of persons employed in any industry acting in combination, or a concerted refusal, or a refusal under a common understanding, of any number of persons who are or have been so employed to continue to work or to accept employment". - Section 2(l): Defines "lock-out". - Section 2(kk): Defines "lay-off". - "Hartal" is a more general term for a strike or shutdown and is not specifically defined in the Act. Therefore, Section 2(q) specifically defines "strike".
+Step 3: Final Answer: Section 2(q) of the Industrial Disputes Act, 1947, provides the definition of "strike".
+40
+
+Quick Tip The definitions in Section 2 of the Industrial Disputes Act are very important. Remember these key pairs: 2(j) - Industry, 2(k) - Industrial Dispute, 2(l) - Lock-out, 2(q) - Strike, 2(s) - Workman (now employee).
+44. The Land Acquisition Act came into force from
+(A) 1st March 1955 (B) 1st March 1986 (C) 1st March 1994 (D) 1st March 1894
+Correct Answer: (D) 1st March 1894 Solution:
+Step 1: Understanding the Concept: The Land Acquisition Act, 1894 was the primary law governing the acquisition of private land by the government for public purposes in India for over a century. It was a colonial-era legislation.
+Step 2: Detailed Explanation: The Land Acquisition Act, 1894, was enacted by the Imperial Legislative Council and received the assent of the Governor-General on 2nd February 1894. Section 1(3) of the Act states that it "shall come into force on the first day of March, 1894." This Act has since been repealed and replaced by the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013. However, the question specifically asks about the coming into force of the 1894 Act.
+Step 3: Final Answer: The Land Acquisition Act, 1894, came into force on the 1st of March, 1894.
+Quick Tip For historical legislation, it is useful to remember the year of enactment as it places the law in its historical context. The year 1894 for the Land Acquisition Act signifies its colonial origins. Also, be aware of major laws that have been repealed and replaced, like this one.
+45. Under the Land Acquisition Act, the arable land means
+41
+
+(A) Useful for residential purpose (B) Useful for commercial purpose (C) Useful for cultivation (D) Useful for industrial purpose
+Correct Answer: (C) Useful for cultivation
+Solution:
+Step 1: Understanding the Concept: The term "arable land" refers to land that is capable of being ploughed and used to grow crops. This distinction was important under the now-repealed Land Acquisition Act, 1894.
+Step 2: Detailed Explanation: The word 'arable' itself is derived from the Latin word 'arabilis', meaning 'able to be ploughed'. In the context of land use and agriculture, it specifically means land that is fit for cultivation. Under the Land Acquisition Act, 1894, this distinction was particularly relevant in the context of Section 17, which contained an 'urgency clause'. This clause allowed the government to dispense with certain procedures and take immediate possession of land. However, this urgency clause could not be invoked for arable land unless it was for a purpose that was temporary and the land was to be returned after use.
+Step 3: Final Answer: Therefore, under the Land Acquisition Act, "arable land" means land that is useful for cultivation.
+Quick Tip Associate legal terms with their literal meanings. 'Arable' is directly linked to agriculture and ploughing, which makes 'cultivation' the most logical answer. Understanding the etymology of legal terms can often help in answering definition-based questions.
+46. Which one is not a fundamental right?
+(A) Right to Freedom of Assembly (B) Right to Property (C) Right to equality (D) Right to freedom of speech and Expression
+Correct Answer: (B) Right to Property
+Solution:
+42
+
+Step 1: Understanding the Concept: The Constitution of India originally included the Right to Property as a fundamental right. However, this was changed through a constitutional amendment.
+Step 2: Detailed Explanation: - The Right to Freedom of Assembly is a fundamental right guaranteed under Article 19(1)(b). - The Right to Equality is a fundamental right guaranteed under Articles 14 to 18. - The Right to Freedom of Speech and Expression is a fundamental right guaranteed under Article 19(1)(a). - The Right to Property was originally a fundamental right under Article 19(1)(f) and Article 31. However, the 44th Amendment Act, 1978, removed it from the list of Fundamental Rights. It was made a constitutional/legal right under a new article, Article 300-A, which states that "no person shall be deprived of his property save by authority of law."
+Step 3: Final Answer: The Right to Property is no longer a fundamental right; it is a constitutional right. The other options are fundamental rights.
+Quick Tip The removal of the Right to Property from fundamental rights by the 44th Amendment is a very important event in Indian constitutional history. Always remember this change and the new location of the right (Article 300-A).
+47. In Maneka Gandhi case it was observed that
+(A) Confiscation of Passport was correct (B) Right to go abroad is not within the meaning of Article 21 (C) Right to go abroad is within the ambit of Article 21 but the confiscation of Passport is not in accordance to the law (D) None of the above
+Correct Answer: (C) Right to go abroad is within the ambit of Article 21 but the confiscation of Passport is not in accordance to the law
+Solution:
+Step 1: Understanding the Concept: The case of Maneka Gandhi v. Union of India, AIR 1978 SC 597, is a landmark judgment that significantly expanded the interpretation of Article 21 of the Constitution.
+Step 2: Detailed Explanation: The Supreme Court in this case made several crucial observations:
+43
+
+1. The 'Right to go abroad' is a part of the 'Right to personal liberty' under Article 21. Therefore, option (B) is incorrect. 2. The "procedure established by law" under Article 21 must be fair, just, and reasonable, not arbitrary, fanciful, or oppressive. It must also comply with the principles of natural justice. 3. The order impounding Maneka Gandhi's passport did not provide any reasons and did not give her a prior hearing, which was a violation of the principles of natural justice (audi alteram partem). 4. Therefore, the act of confiscating the passport was not in accordance with a procedure that was fair and just, and was thus held to be unlawful. Option (C) accurately summarises this position: the right to go abroad is a fundamental right, but its deprivation in this case (confiscation of passport) was unlawful. (Note: The provided option in the question paper image might have a typo mentioning Article 19(1)(A), but the core finding was on Article 21 and the unlawful nature of the confiscation). Assuming the intent of the question, (C) is the best choice.
+Step 3: Final Answer: The Supreme Court held that the right to go abroad is a part of the right to personal liberty under Article 21, and the impounding of the petitioner's passport was arbitrary and not in accordance with a fair legal procedure.
+Quick Tip
+The Maneka Gandhi case is pivotal for understanding Article 21. It established the "golden triangle" principle, where Articles 14, 19, and 21 are interlinked and any law or procedure must satisfy the tests of all three.
+48. Reasonable restrictions can be imposed on the right of free movement
+(A) In the interest of general public (B) In the interest of political leaders (C) In the interest of women's safety (D) All of the above
+Correct Answer: (A) In the interest of general public
+Solution:
+Step 1: Understanding the Concept: The fundamental rights guaranteed under Article 19 of the Constitution are not absolute. The Constitution itself provides the grounds on which the state can impose reasonable restrictions on these rights.
+Step 2: Detailed Explanation: Article 19(1)(d) guarantees to all citizens the right "to move freely throughout the territory of
+44
+
+India." Article 19(5) provides the grounds for restricting this right. It states that reasonable restrictions can be imposed on this right for two reasons: 1. In the interests of the general public. 2. For the protection of the interests of any Scheduled Tribe. Let's analyze the options: - (A) "In the interest of general public" is an explicit ground mentioned in Article 19(5). - (C) "In the interest of women's safety" is a specific instance that would fall under the broader category of "interests of the general public." - (B) "In the interest of political leaders" is not a constitutionally valid ground for restricting fundamental rights. Since option (A) is the broad, constitutionally specified ground that encompasses other valid specific grounds like (C), it is the most accurate and correct answer.
+Step 3: Final Answer: The Constitution explicitly allows for reasonable restrictions to be imposed on the right of free movement in the interest of the general public.
+Quick Tip
+When answering questions on constitutional restrictions, always refer back to the specific grounds mentioned in the text of the Constitution itself. The phrase "interests of the general public" is a common ground for restrictions on several Article 19 rights.
+49. Which of the following can claim Article 19 of constitution?
+(A) A company (B) A corporation (C) Only citizens (D) Citizens and aliens
+Correct Answer: (C) Only citizens
+Solution:
+Step 1: Understanding the Concept: The Constitution of India distinguishes between rights available to all persons (citizens and non-citizens) and rights available exclusively to citizens.
+Step 2: Detailed Explanation: Article 19 of the Constitution begins with the phrase: "All citizens shall have the right..." This wording makes it explicit that the six freedoms guaranteed under Article 19 (freedom of speech, assembly, association, movement, residence, and profession) are available only to the citizens of India.
+45
+
+- Aliens (non-citizens) cannot claim these rights, although they are entitled to other fundamental rights like the Right to Life (Article 21) and Right to Equality (Article 14). - The Supreme Court has also held in several cases, such as State Trading Corporation of India Ltd. v. CTO, that legal persons like companies and corporations are not "citizens" for the purpose of Article 19 and therefore cannot claim these rights directly.
+Step 3: Final Answer: The rights guaranteed under Article 19 of the Constitution are available exclusively to citizens.
+Quick Tip Remember the fundamental rights that are exclusive to citizens: Articles 15, 16, 19, 29, and 30. Rights like Articles 14, 20, 21, and 25 are available to all persons, including aliens. This is a frequently tested distinction.
+50. Clause (3) of Article 20 of the Indian Constitution says that no accused person shall be compelled to be
+(A) An accused (B) A witness (C) A witness against himself (D) Hostile witness
+Correct Answer: (C) A witness against himself
+Solution:
+Step 1: Understanding the Concept: Article 20 of the Constitution provides protection in respect of conviction for offences. Clause (3) specifically enshrines the right against self-incrimination, a cornerstone of criminal justice.
+Step 2: Detailed Explanation: The exact text of Article 20(3) is: "No person accused of any offence shall be compelled to be a witness against himself." This means that an individual who is accused of a crime cannot be forced by the state to provide evidence or testimony that would incriminate them in that crime. This is also known as the privilege against self-incrimination. - He is already "an accused". - He can be compelled to be "a witness" in a case where he is not the accused. - The prohibition is specifically against being compelled to be a witness against himself.
+Step 3: Final Answer: Article 20(3) states that no accused person shall be compelled to be a witness against himself.
+46
+
+Quick Tip Remember the three protections under Article 20: (1) Protection against ex-post facto laws (no retrospective criminal laws), (2) Protection against double jeopardy (no punishment for the same offence more than once), and (3) Protection against self-incrimination.
+51. Indra Sawhney V/s Union of India is popularly known as
+(A) Judges Transfer Case (B) Illegal Detention case (C) Mandal Commission case (D) Constitutional case
+Correct Answer: (C) Mandal Commission case Solution:
+Step 1: Understanding the Concept: Many landmark Supreme Court cases are known by popular names that refer to the central issue of the case.
+Step 2: Detailed Explanation: The case of Indra Sawhney v. Union of India, AIR 1993 SC 477, arose from challenges to the government's decision to implement the recommendations of the Socially and Educationally Backward Classes Commission, which was headed by B.P. Mandal. The commission, popularly known as the Mandal Commission, recommended 27% reservation for Other Backward Classes (OBCs) in government jobs and educational institutions. The Supreme Court, in this case, upheld the 27% reservation for OBCs but laid down certain conditions, such as excluding the "creamy layer" and setting a 50% cap on total reservations. Due to its direct connection with the commission's report, the case is famously known as the Mandal Commission case.
+Step 3: Final Answer: The case of Indra Sawhney V/s Union of India is popularly known as the Mandal Commission case.
+Quick Tip Associate landmark cases with their popular names and the core issue: S.P. Gupta (First Judges Case - Judicial Appointments), A.K. Gopalan (Personal Liberty - restrictive view), Maneka Gandhi (Personal Liberty - expansive view), Kesavananda Bharati (Basic Structure Doctrine), and Indra Sawhney (Reservations/Mandal Commission).
+47
+
+52. Due to the outcome of this case slum dwellers were benefitted
+(A) N K Chanda V/s. State of Haryana (B) Olga Tellis V/s Bombay Municipal Corporation (C) P.V. Narasimharao V/s. Union of India (D) Ratlam Municipal Council V/s. Vardichand
+Correct Answer: (B) Olga Tellis V/s Bombay Municipal Corporation
+Solution:
+Step 1: Understanding the Concept: This question asks to identify a landmark case that significantly advanced the rights of slum and pavement dwellers.
+Step 2: Detailed Explanation: In the case of Olga Tellis v. Bombay Municipal Corporation, AIR 1986 SC 180, the Supreme Court dealt with the eviction of pavement and slum dwellers in Bombay. The Court made a groundbreaking interpretation of Article 21 (Right to Life). - It held that the 'Right to Life' includes the 'Right to Livelihood'. The Court reasoned that for the poor, the easiest way to deprive them of their life is to deprive them of their means of livelihood. - The Court ruled that pavement dwellers could not be evicted without the principles of natural justice being followed, meaning they had a right to be heard before eviction. This judgment was a major victory for the urban poor and slum dwellers, as it recognized their fundamental rights and provided them with procedural safeguards against arbitrary eviction.
+Step 3: Final Answer: The case of Olga Tellis V/s Bombay Municipal Corporation directly benefitted slum dwellers by linking the right to life with the right to livelihood.
+Quick Tip The Olga Tellis case is a prime example of judicial activism and the expansion of Article 21. Remember it for the connection between the Right to Life and the Right to Livelihood, and its impact on the rights of the urban poor.
+53. A Public Interest Litigation can be filed under
+(A) Article 226 of constitution and Article 32 of the constitution (B) U/s. 133 of Criminal Procedure Code (C) (a) and (b) (D) None of the above
+48
+
+Correct Answer: (C) (a) and (b)
+Solution:
+Step 1: Understanding the Concept: Public Interest Litigation (PIL) is a legal action initiated in a court of law for the enforcement of public interest or general welfare in which the public or a class of the community have some interest by which their legal rights or liabilities are affected.
+Step 2: Detailed Explanation: PILs are filed under different legal provisions: - Article 32 and Article 226: The primary avenues for filing a PIL are the writ jurisdictions of the Supreme Court under Article 32 and the High Courts under Article 226 of the Constitution. This allows the higher judiciary to enforce fundamental rights. - Section 133 of Cr.PC: This section empowers a District Magistrate or a Sub-divisional Magistrate to make a conditional order for the removal of any public nuisance. The Supreme Court has recognized that proceedings under Section 133 Cr.PC can be a potent tool for social justice and can be used to address issues of public nuisance like environmental pollution, effectively functioning as a form of public interest action at the magisterial level. Since both (a) and (b) are recognized methods for bringing matters of public interest before a judicial forum, the correct answer is (c).
+Step 3: Final Answer: A Public Interest Litigation can be filed under the writ jurisdiction of the Supreme Court (Art. 32) and High Courts (Art. 226), and public interest matters can also be agitated under Section 133 of the Cr.PC.
+Quick Tip While Articles 32 and 226 are the most famous routes for PIL, don't forget the power of the magistracy under Section 133 Cr.PC for removing public nuisances, which is often described as a statutory remedy akin to a PIL.
+54. Supreme Court in SP Gupta V/s. Union of India AIR 1982 SC 149, decided on
+(A) Free Legal Aid (B) Bonded labours (C) Judges Transfer (D) Illegal detention
+Correct Answer: (C) Judges Transfer
+Solution:
+49
+
+Step 1: Understanding the Concept: The case of S.P. Gupta v. Union of India is a seminal case concerning the independence of the Indian judiciary.
+Step 2: Detailed Explanation: This case, popularly known as the First Judges Case, primarily dealt with the executive's power in the appointment and transfer of judges of the High Courts and the Supreme Court. The key issues decided were: - The meaning of "consultation" with the Chief Justice of India in the appointment of judges. - The validity of the transfer of judges from one High Court to another. - The non-appointment of additional judges as permanent judges. The case also importantly held that lawyers have a locus standi to file petitions on matters concerning the judiciary's independence. The central theme of the case revolved around the appointment and transfer of judges.
+Step 3: Final Answer: The Supreme Court in the S.P. Gupta case decided on issues related to the appointment and transfer of judges.
+Quick Tip
+Remember the trilogy of "Judges Cases": 1. S.P. Gupta v. UoI (1981 - First Judges Case): Gave primacy to the executive's opinion in appointments. 2. SCAORA v. UoI (1993 - Second Judges Case): Created the "Collegium" system, giving primacy to the judiciary. 3. In re Special Reference (1998 - Third Judges Case): Clarified and expanded the collegium's composition and functioning.
+55. Supreme court in a PIL known as Kamal Nath case evolved,
+(A) Basic Future and Basic structure doctrine (B) Public Trust doctrine (C) Separation of power doctrine (D) Public Interest doctrine
+Correct Answer: (B) Public Trust doctrine
+Solution:
+Step 1: Understanding the Concept: The Kamal Nath case is a landmark judgment in Indian environmental law that applied a key environmental principle to protect natural resources.
+Step 2: Detailed Explanation: The case is M.C. Mehta v. Kamal Nath, (1997) 1 SCC 388. The case involved the diversion
+50
+
+of the course of the River Beas to protect a motel owned by a private company (Span Motels), in which the family of politician Kamal Nath had interests. The Supreme Court invoked the Public Trust Doctrine for the first time in the Indian context. The court held that certain natural resources, such as rivers, forests, seashores, and the air, are of such great importance to the people as a whole that it is wholly unjustified to make them a subject of private ownership. The state, as a trustee, is under a legal duty to protect these resources for the enjoyment of the general public. The court quashed the lease granted to the motel and ordered them to pay compensation for the restoration of the environment.
+Step 3: Final Answer: The Supreme Court, in the Kamal Nath case, evolved and applied the Public Trust Doctrine.
+Quick Tip
+Remember key environmental law doctrines and their associated cases: - Absolute Liability: M.C. Mehta v. UoI (Oleum Gas Leak case). - Public Trust Doctrine: M.C. Mehta v. Kamal Nath. - Precautionary Principle Polluter Pays Principle: Vellore Citizens' Welfare Forum v. UoI.
+56. Vishakha v/s. State of Rajasthan case is related to
+(A) Sexual harassment at workplace (B) Protection of civil rights (C) Uniform civil code (D) None of the above
+Correct Answer: (A) Sexual harassment at workplace
+Solution:
+Step 1: Understanding the Concept: The case of Vishakha v. State of Rajasthan is a landmark judgment of the Supreme Court of India that addressed a significant gap in the law concerning the safety and dignity of working women.
+Step 2: Detailed Explanation: This case was filed as a Public Interest Litigation by various women's groups following the brutal gang rape of a social worker, Bhanwari Devi, in Rajasthan. The case highlighted the hazards that working women were facing due to sexual harassment at the workplace. At that time, there was no specific civil or criminal law to address this issue. The Supreme Court, in its judgment in 1997, acknowledged this legislative vacuum. Invoking its powers under Article 32 and referencing international conventions like CEDAW, the court laid down a comprehensive set of guidelines, famously known as the Vishakha Guidelines, for employers to follow to prevent and redress complaints of sexual harassment at the workplace. These
+51
+
+guidelines were binding and enforceable until the Parliament enacted the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act in 2013.
+Step 3: Final Answer: The Vishakha case is related to the prevention of sexual harassment of women at the workplace.
+Quick Tip The Vishakha case is a classic example of judicial legislation, where the judiciary steps in to fill a legislative void to protect fundamental rights. Remember that the guidelines from this case formed the basis for the 2013 Act on the subject.
+57. Court's power to award compensation is provided in Specific Relief Act
+(A) Under Section 20 (B) Under Section 21 (C) (a) and (b) (D) None of the above
+Correct Answer: (B) Under Section 21
+Solution:
+Step 1: Understanding the Concept: The Specific Relief Act, 1963, primarily deals with compelling a party to perform their contractual obligation (specific performance). However, it also provides for monetary compensation in certain situations.
+Step 2: Detailed Explanation: Let's look at the relevant sections: - Section 20 of the Act deals with the "Substituted performance of contract". It allows the aggrieved party to get the contract performed by a third party at the cost of the defaulting party. While this involves recovery of expenses, it's not a direct award of compensation by the court itself in the same vein as damages. (Note: The Specific Relief (Amendment) Act, 2018 has significantly altered this part of the law, making specific performance more of a rule than an exception). - Section 21 is explicitly titled "Power to award compensation in certain cases". It provides that in a suit for specific performance, the plaintiff may also claim compensation for the breach of contract, either in addition to, or in substitution of, such performance. The court can award this compensation if it finds that specific performance ought not to be granted, or that it is not sufficient to satisfy the justice of the case. Therefore, the direct power of the court to award compensation in a suit for specific performance is found in Section 21.
+52
+
+Step 3: Final Answer: The court's power to award compensation in a suit for specific performance is provided under Section 21 of the Specific Relief Act.
+Quick Tip
+Remember the relationship between specific performance and compensation under the Act. Compensation under Section 21 can be granted in addition to specific performance (if performance alone isn't enough) or in substitution of it (if performance is denied but the plaintiff deserves compensation).
+58. Proving of hand writing is provided in Indian Evidence Act
+(A) By the opinion of Experts (B) By the evidence of a person who is acquainted with the handwriting (C) After police verification (D) (a) and (b)
+Correct Answer: (D) (a) and (b)
+Solution:
+Step 1: Understanding the Concept: The Indian Evidence Act, 1872, lays down the methods by which the authorship of a handwriting or signature can be proved in a court of law.
+Step 2: Detailed Explanation: The Act provides for several modes of proving handwriting, including: 1. By the opinion of an expert (Section 45): A person specially skilled in identifying handwriting (a handwriting expert) can give their opinion on whether a particular document was written or signed by a certain person. 2. By the opinion of a person acquainted with the handwriting (Section 47): A person is said to be "acquainted" if they have seen that person write, or have received documents written by that person, or have in the ordinary course of business received documents purported to be written by that person. Such a non-expert can also give an opinion. 3. By the admission of the person who wrote it. 4. By the evidence of a person who saw the document being written or signed. 5. By comparison by the court itself (Section 73). The options (A) and (B) correspond to Sections 45 and 47 respectively, both of which are valid methods. "Police verification" is not a method of proof in court. Therefore, the correct answer is (D), which includes both (a) and (b).
+Step 3: Final Answer: Handwriting can be proved both by the opinion of experts and by the evidence of a person
+53
+
+acquainted with the handwriting.
+Quick Tip For evidence law, remember that there are often multiple ways to prove a single fact. When a question asks how something can be proved and an option combines several valid methods, it is often the correct answer.
+59. Section 26 of Indian Evidence Act provides
+(A) No confession made by a person in police custody is admissible (B) Confession made by a person in police custody is admissible (C) Confession made in the immediate presence of a magistrate is admissible (D) (a) and (c)
+Correct Answer: (D) (a) and (c)
+Solution:
+Step 1: Understanding the Concept: Sections 24, 25, and 26 of the Indian Evidence Act form a series of rules that make most confessions made to police or in police custody inadmissible, to prevent coerced confessions.
+Step 2: Detailed Explanation: Section 26 of the Indian Evidence Act, 1872, is titled "Confession by accused while in custody of police not to be proved against him." - The main part of the section lays down the general rule: "No confession made by any person whilst he is in the custody of a police-officer, unless it be made in the immediate presence of a Magistrate, shall be proved as against such person." This directly supports statement (A). - The phrase "unless it be made in the immediate presence of a Magistrate" forms an exception to this rule. It means that if a confession is made while in police custody but in the immediate presence of a Magistrate, it becomes admissible. This supports statement (C). Therefore, Section 26 provides for both the general rule of inadmissibility of confessions in police custody and the exception that makes them admissible if made before a Magistrate. Option (D) correctly combines both these aspects.
+Step 3: Final Answer: Section 26 provides that a confession made in police custody is not admissible, but it is admissible if made in the immediate presence of a Magistrate.
+54
+
+Quick Tip Remember the sequence: Section 25 completely bars confessions made to a police officer. Section 26 bars confessions made in the custody of a police officer, with the exception of it being made before a Magistrate. Section 27 is another exception, relating to the discovery of a fact.
+60. The term 'Evidence' means and includes
+(A) Oral evidence (B) Documentary evidence (C) Electronic records produced for the inspection of the court (D) All of the above
+Correct Answer: (D) All of the above
+Solution:
+Step 1: Understanding the Concept: Section 3 of the Indian Evidence Act, 1872, contains the interpretation clause, which defines key terms used in the Act, including "Evidence".
+Step 2: Detailed Explanation: According to the definition provided in Section 3 of the Act, "Evidence" means and includes: 1. Oral Evidence: All statements which the Court permits or requires to be made before it by witnesses, in relation to matters of fact under inquiry. 2. Documentary Evidence: All documents including electronic records produced for the inspection of the Court. This definition clearly shows that evidence comprises both oral testimony and documentary materials. Importantly, the definition was amended by the Information Technology Act, 2000, to explicitly include electronic records within the scope of documentary evidence. Therefore, all the options listed ­ (A) Oral evidence, (B) Documentary evidence, and (C) Electronic records ­ are included in the legal definition of 'Evidence'.
+Step 3: Final Answer: The term 'Evidence' as defined in the Indian Evidence Act includes oral evidence, documentary evidence, and electronic records produced for the court's inspection.
+Quick Tip The inclusion of "electronic records" in the definition of evidence is a crucial modern update to the 1872 Act. Always remember that digital evidence like emails, computer files, and digital videos are considered documentary evidence under the law.
+55
+
+61. Which is the authority that determines the language of the Court other than High Court within a given State, under Section 272 of Cr.PC
+(A) State government (B) Central government (C) Supreme Court of India (D) Both (a) and (b)
+Correct Answer: (A) State government
+Solution:
+Step 1: Understanding the Concept: The Code of Criminal Procedure, 1973 (Cr.PC) provides the procedural framework for criminal trials in India. This includes provisions for determining the language to be used in different courts.
+Step 2: Detailed Explanation: Section 272 of the Cr.PC is titled "Language of Courts". It reads: "The State Government may determine what shall be, for purposes of this Code, the language of each Court within the State other than the High Court." This provision gives the exclusive power to the State Government to decide the language of all criminal courts within its territory, except for the High Court, for which the language is determined under Article 348 of the Constitution of India.
+Step 3: Final Answer: The State Government is the authority that determines the language of subordinate criminal courts within a state.
+Quick Tip Remember the division of powers regarding court language: The language of the Supreme Court and High Courts is governed by the Constitution (Article 348), while the language of subordinate courts (both civil under CPC and criminal under Cr.PC) is determined by the State Government.
+62. A decree can be
+(A) Final (B) Preliminary (C) Only Preliminary not final
+56
+
+(D) Either preliminary or final
+Correct Answer: (D) Either preliminary or final Solution:
+Step 1: Understanding the Concept: The Code of Civil Procedure, 1908 (CPC) defines a "decree" in Section 2(2). The definition itself and the explanation attached to it clarify the different types of decrees.
+Step 2: Detailed Explanation: The Explanation to Section 2(2) of the CPC states: "A decree is preliminary when further proceedings have to be taken before the suit can be completely disposed of. It is final when such adjudication completely disposes of the suit. It may be partly preliminary and partly final." This shows that a decree is not of a single type. It can be: - Purely preliminary (e.g., a decree for accounts). - Purely final (e.g., a decree dismissing a suit). - Partly preliminary and partly final (e.g., a decree in a suit for possession and mesne profits). Therefore, a decree can be either preliminary or final. Option (D) is the most comprehensive and accurate description.
+Step 3: Final Answer: As per the definition in the CPC, a decree can be preliminary, final, or partly preliminary and partly final. Thus, it can be either preliminary or final.
+Quick Tip Understand the difference: A preliminary decree decides the rights of the parties but doesn't completely dispose of the suit (e.g., decides shares in a partition suit). A final decree is passed after the preliminary stage is over and completely disposes of the suit (e.g., allocates specific properties after shares are decided).
+63. Foreign Judgement is defined in CPC
+(A) Under Section 2(6) of CPC (B) Under Section 2(7) of CPC (C) Under Section 2(8) of CPC (D) None of the above
+Correct Answer: (A) Under Section 2(6) of CPC Solution:
+57
+
+Step 1: Understanding the Concept: Section 2 of the Code of Civil Procedure, 1908, is the definition clause that provides the meaning of various terms used in the Code.
+Step 2: Detailed Explanation: Let's examine the relevant definitions in Section 2 of the CPC: - Section 2(5) defines a "foreign Court" as a Court situated outside India and not established or continued by the authority of the Central Government. - Section 2(6) defines a "foreign judgment" as "the judgment of a foreign Court". - Section 2(7) defines "Government Pleader". - Section 2(8) defines "Judge". Based on this, the correct provision defining a "foreign judgment" is Section 2(6).
+Step 3: Final Answer: A "foreign judgment" is defined under Section 2(6) of the Code of Civil Procedure, 1908.
+Quick Tip The definitions in Section 2 of the CPC are crucial. Pay close attention to commonly confused terms like decree (2(2)), order (2(14)), judgment (2(9)), foreign court (2(5)), and foreign judgment (2(6)).
+64. The Minimum number of persons required to incorporate a Public Company is
+(A) 5 (B) 10 (C) 7 (D) 2
+Correct Answer: (C) 7
+Solution:
+Step 1: Understanding the Concept: The Companies Act, 2013, lays down the minimum requirements for the formation and incorporation of different types of companies.
+Step 2: Detailed Explanation: Section 3 of the Companies Act, 2013, deals with the formation of a company. It specifies the minimum number of persons required for different types of companies: - For a public company, a minimum of seven or more persons are required. - For a private company, a minimum of two or more persons are required. - For a One Person Company (OPC), only one person is required.
+58
+
+The question asks for the minimum number for a public company.
+Step 3: Final Answer: The minimum number of persons required to incorporate a Public Company is seven.
+Quick Tip Remember the minimum and maximum member limits for companies: - Private Company: Min 2, Max 200. - Public Company: Min 7, No maximum limit. - One Person Company: Min 1, Max 1. This is a fundamental and frequently asked question in company law.
+65. A Private company can commence business as soon as it receives
+(A) Certification of incorporation (B) Letter of intent (C) Occupation certificate (D) None of the above
+Correct Answer: (A) Certification of incorporation
+Solution:
+Step 1: Understanding the Concept: The process of company formation involves several stages, culminating in the legal recognition of the company as a separate legal entity. The point at which a company can legally start its business operations is a key milestone.
+Step 2: Detailed Explanation: Upon the registration of a company, the Registrar of Companies (RoC) issues a Certificate of Incorporation. As per Section 9 of the Companies Act, 2013, this certificate is conclusive evidence that all the requirements of the Act have been complied with in respect of registration. For a private company, the receipt of the Certificate of Incorporation is the moment it comes into legal existence and can commence its business activities. Previously, public companies had to obtain an additional 'Certificate of Commencement of Business'. While the requirements have changed under the 2013 Act (a declaration is now needed), the rule for private companies remains straightforward: they can start their business upon incorporation.
+Step 3: Final Answer: A private company can commence its business as soon as it receives the Certificate of Incorporation.
+59
+
+Quick Tip Think of the Certificate of Incorporation as the "birth certificate" of a company. For a private company, this certificate is the only document needed from the RoC to start its operations.
+66. Which of the following is not an essential of a contract of guarantee
+(A) Concurrence of three parties (B) Surety's distinct promise to be answerable (C) Liabilities to be legally enforceable (D) Existence of only one contract
+Correct Answer: (D) Existence of only one contract
+Solution:
+Step 1: Understanding the Concept: A contract of guarantee, as defined under Section 126 of the Indian Contract Act, 1872, is a contract to perform the promise, or discharge the liability, of a third person in case of his default. It has specific essential elements.
+Step 2: Detailed Explanation: Let's analyze the essentials of a contract of guarantee: - (A) Concurrence of three parties: It involves three parties: the Principal Debtor, the Creditor, and the Surety. All three must concur. This is essential. - (B) Surety's distinct promise: The core of the contract is the promise by the surety to be answerable for the debt or default of the principal debtor. This is essential. - (C) Liabilities to be legally enforceable: There must be a primary liability or a debt which is legally enforceable. The surety's liability is secondary and co-extensive with this primary liability. This is essential. - (D) Existence of only one contract: This is incorrect. A contract of guarantee involves three distinct contracts, even if some are implied: 1. The primary contract between the Principal Debtor and the Creditor. 2. The secondary contract between the Surety and the Creditor (the contract of guarantee). 3. An implied contract between the Surety and the Principal Debtor (the surety's right to be indemnified by the debtor). Therefore, the existence of only one contract is not a feature; in fact, the opposite is true.
+Step 3: Final Answer: The statement "Existence of only one contract" is not an essential of a contract of guarantee, as it is composed of three separate contracts.
+60
+
+Quick Tip Visualize a contract of guarantee as a triangle with the Creditor, Principal Debtor, and Surety at the vertices. Each side of the triangle represents one of the three contracts that make up the whole arrangement.
+67. The term 'Agent' is defined in Indian Contract Act under Section
+(A) 180 of the Act (B) 181 of the Act (C) 182 of the Act (D) 183 of the Act
+Correct Answer: (C) 182 of the Act Solution:
+Step 1: Understanding the Concept: Chapter X of the Indian Contract Act, 1872, deals with the law of Agency. The very first section of this chapter defines the key parties involved.
+Step 2: Detailed Explanation: Section 182 of the Indian Contract Act, 1872, provides the definitions of 'Agent' and 'Principal'. It states: "An `agent' is a person employed to do any act for another, or to represent another in dealings with third persons. The person for whom such act is done, or who is so represented, is called the `principal'." - Section 183 deals with who may employ an agent (must be of the age of majority and sound mind). - Sections 180 and 181 deal with sub-agents.
+Step 3: Final Answer: The term 'Agent' is defined under Section 182 of the Indian Contract Act, 1872.
+Quick Tip Definition sections are often the starting point of a new chapter in an Act. For Agency in the Contract Act, remember Section 182 as the foundational definition.
+68. What is the maximum number of partners in Banking business
+61
+
+(A) Eight (B) Ten (C) Twelve (D) Sixteen
+Correct Answer: (B) Ten
+Solution:
+Step 1: Understanding the Concept: This question pertains to the maximum number of partners allowed in a partnership firm, a limit historically set by company law to prevent large, unincorporated associations. The limits used to be different for banking and non-banking businesses.
+Step 2: Detailed Explanation: This question is based on the provisions of the erstwhile Indian Companies Act, 1956. - Section 11 of the 1956 Act stipulated that no company, association, or partnership consisting of more than a certain number of persons shall be formed for the purpose of carrying on any business, unless it is registered as a company under the Act. - The maximum number prescribed was ten for a banking business and twenty for any other business. Note: This law has been changed. Under the current Companies Act, 2013, Section 464, read with Rule 10 of the Companies (Miscellaneous) Rules, 2014, the maximum number of partners in any firm is prescribed by the Central Government, which is currently set at fifty. The old distinction between banking and non-banking business has been removed. However, given the options, the question is clearly testing the old law.
+Step 3: Final Answer: Under the old Companies Act, 1956, the maximum number of partners in a banking business was ten.
+Quick Tip Be aware of changes in law. While the old limit for banking partnerships was 10, the current general limit for any partnership is 50. Competitive exams sometimes use questions based on old patterns, so knowing the historical context can be helpful.
+69. A person who gives the guarantee is called
+(A) Bailee (B) Creditor (C) Debtor (D) Surety
+62
+
+Correct Answer: (D) Surety
+Solution:
+Step 1: Understanding the Concept: A contract of guarantee involves three distinct parties, each with a specific role and name.
+Step 2: Detailed Explanation: As per Section 126 of the Indian Contract Act, 1872, the parties to a contract of guarantee are: 1. Surety: The person who gives the guarantee. 2. Principal Debtor: The person in respect of whose default the guarantee is given. 3. Creditor: The person to whom the guarantee is given. A "Bailee" is a party to a contract of bailment, who is given temporary possession of goods. A "Debtor" and "Creditor" are the primary parties to a contract of loan or credit. In the specific context of a guarantee, the one providing the guarantee is the "Surety".
+Step 3: Final Answer: The person who gives the guarantee is called the Surety.
+Quick Tip To remember the parties in a guarantee: The Debtor owes a debt, the Creditor is owed the debt, and the Surety makes sure the creditor gets paid if the debtor defaults.
+70. Which is not a right of an unpaid seller against the goods
+(A) Lien (B) Stoppage in transit (C) Right of resale (D) To ascertain price
+Correct Answer: (D) To ascertain price
+Solution:
+Step 1: Understanding the Concept: The Sale of Goods Act, 1930, grants specific rights to a seller who has not been paid the full price of the goods. These rights are in addition to the right to sue for the price.
+Step 2: Detailed Explanation: An unpaid seller has two types of rights: rights against the goods and rights against the buyer personally. The rights against the goods themselves are provided in Section 46 of the Act: - (A) Right of Lien (Section 47): The right to retain possession of the goods until the price is paid, provided the property in the goods has passed to the buyer.
+63
+
+- (B) Right of Stoppage in Transit (Section 50): If the buyer becomes insolvent, the seller can stop the goods while they are in transit with a carrier. - (C) Right of Resale (Section 54): The seller can resell the goods under certain conditions (e.g., if the goods are perishable or if the seller gives notice to the buyer). (D) To ascertain price is not a right of an unpaid seller. The price is a fundamental term of the contract of sale that must be ascertained or determined as per the contract itself (Section 9 and 10 of the Act). It is a precondition of the contract, not a remedy for its breach.
+Step 3: Final Answer: The right "To ascertain price" is not a right of an unpaid seller against the goods.
+Quick Tip Remember the three key rights of an unpaid seller against the goods: Lien (keep them), Stoppage in transit (get them back), and Resale (sell them to someone else).
+71. Sections 36 to 42 of Specific Relief Act provides
+(A) Injunctions (B) Court's discretion on specific performance (C) Cancellation of instruments (D) None of the above
+Correct Answer: (A) Injunctions
+Solution:
+Step 1: Understanding the Concept: The Specific Relief Act, 1963, is structured into different parts, each dealing with a specific type of relief. Knowing the structure helps in identifying the content of a range of sections.
+Step 2: Detailed Explanation: Part III of the Specific Relief Act, 1963, is titled "Preventive Relief". This part deals with the remedy of injunctions, which are court orders restraining a person from doing a particular act or compelling them to do a particular act. - Chapter VII of Part III is titled "Injunctions Generally" and contains Sections 36 and 37. - Chapter VIII of Part III is titled "Perpetual Injunctions" and contains Sections 38, 39, 40, 41, and 42. Thus, the entire block of sections from 36 to 42 deals with the subject of injunctions. - Cancellation of instruments is dealt with in Chapter V (Sections 31-33). - Discretion for specific performance is primarily in Section 20.
+64
+
+Step 3: Final Answer: Sections 36 to 42 of the Specific Relief Act provide for the law relating to Injunctions.
+Quick Tip To easily navigate the Specific Relief Act, remember its main parts: Part II deals with Specific Relief (like recovery of possession, specific performance, rectification, rescission, cancellation), and Part III deals with Preventive Relief (injunctions).
+72. Which of the following is not of civil nature
+(A) Right to take out procession (B) Right to Worship in a temple (C) Right to Caste and Religion (D) All of the above
+Correct Answer: (C) Right to Caste and Religion
+Solution:
+Step 1: Understanding the Concept: Section 9 of the Code of Civil Procedure, 1908, grants civil courts the jurisdiction to try all "suits of a civil nature". The key is to distinguish between suits where the principal question relates to a civil right and those where it relates to a purely religious or caste-related question.
+Step 2: Detailed Explanation: - A suit is of a "civil nature" if the principal question in it relates to the determination of a civil right or liability. - (A) Right to take out a procession: This has been held to be a civil right. - (B) Right to Worship in a temple: This is also a civil right. - (C) Right to Caste and Religion: The Explanation I to Section 9 clarifies this. It states that a suit in which the right to property or to an office is contested is a suit of a civil nature, notwithstanding that such right may depend entirely on the decision of questions as to religious rites or ceremonies. This implies that a suit involving a purely caste question or a purely religious question, without any attached civil right (like right to property or office), is not a suit of a civil nature. For example, a suit for a declaration of one's religious or caste status, with no claim to property or office, would not be maintainable. Therefore, a question purely about the "Right to Caste and Religion" is not of a civil nature.
+Step 3: Final Answer: A suit relating to a purely religious or caste right, which does not involve any question of a civil right like property or office, is not a suit of a civil nature.
+65
+
+Quick Tip The test for a "suit of a civil nature" is not the source of the right, but the nature of the right itself. If a civil right (like property, office, contract) is at stake, the suit is civil, even if the decision depends on a religious question. If no civil right is at stake, it's not a civil suit.
+73. In a suit where the doctrine of res judicata applies
+(A) The suit is liable to be dismissed (B) The suit is liable to be stayed (C) Both (a) and (b) (D) None of the above
+Correct Answer: (A) The suit is liable to be dismissed
+Solution:
+Step 1: Understanding the Concept: The doctrine of res judicata (meaning "a matter judged") is a fundamental principle of civil procedure that prevents the re-litigation of a matter that has already been finally decided by a competent court. This is distinct from the doctrine of res sub-judice.
+Step 2: Detailed Explanation: - Res Judicata (Section 11, CPC): This doctrine applies when a matter has been finally decided in a former suit. If a new suit is filed on the same matter between the same parties, Section 11 bars the court from trying such a suit. The consequence is that the subsequent suit is barred and must be dismissed. - Res Sub-judice (Section 10, CPC): This doctrine applies when a matter is pending in a previously instituted suit. If a new suit is filed on the same matter between the same parties in another court, Section 10 bars the trial of the subsequent suit. The consequence is that the proceedings in the subsequent suit are stayed. The question is about res judicata, for which the correct consequence is dismissal.
+Step 3: Final Answer: A suit barred by the doctrine of res judicata is liable to be dismissed.
+Quick Tip Remember the difference in outcome: - Res Sub-judice (S.10): Sub-judice means 'under judicial consideration'. The second suit is Stayed. - Res Judicata (S.11): Judicata means 'judged/decided'. The second suit is Dismissed.
+66
+
+74. Under Section16 CPC a suit relating to immovable property can be filed in a court whose local jurisdiction is
+(A) Where the property is situated (B) Where the defendant voluntarily resides or carries on business (C) Both (a) and (b) (D) None of the above
+Correct Answer: (A) Where the property is situated
+Solution:
+Step 1: Understanding the Concept: The Code of Civil Procedure, 1908, lays down specific rules for determining the place of suing (territorial jurisdiction) depending on the subject matter of the suit.
+Step 2: Detailed Explanation: Section 16 of the CPC deals with suits to be instituted where the subject-matter is situated. It states that suits for the following purposes shall be instituted in the Court within the local limits of whose jurisdiction the property is situated: (a) for the recovery of immovable property; (b) for the partition of immovable property; (c) for foreclosure, sale or redemption in the case of a mortgage of immovable property; (d) for the determination of any other right to or interest in immovable property; (e) for compensation for wrong to immovable property. The general rule for personal actions (where the defendant resides or works, as in option B) is given in Section 20. For suits related to immovable property, the primary rule is based on the location of the property itself.
+Step 3: Final Answer: A suit relating to immovable property must be filed in the court within whose local jurisdiction the property is situated.
+Quick Tip For jurisdiction, remember the simple rule: Suits follow the property, or they follow the defendant. For immovable property, the suit almost always follows the property (Section 16). For most other suits, it follows the defendant (Section 20).
+75. Pleading means
+(A) Plaint and written statement (B) Plaint only (C) Written statement
+67
+
+(D) Oral statement by the pleader
+Correct Answer: (A) Plaint and written statement
+Solution:
+Step 1: Understanding the Concept: Pleadings are the formal written statements filed by the parties in a civil suit, setting out their respective claims and defenses. The Code of Civil Procedure provides a concise definition.
+Step 2: Detailed Explanation: Order VI of the Code of Civil Procedure, 1908, deals with "Pleadings Generally". Rule 1 of Order VI provides the definition: "`Pleading' shall mean plaint or written statement." - The plaint is the pleading filed by the plaintiff to initiate the suit, stating their cause of action and the relief claimed. - The written statement is the pleading filed by the defendant in reply to the plaint, stating their defense. Together, these two documents constitute the pleadings in a suit.
+Step 3: Final Answer: "Pleading" means both the plaint filed by the plaintiff and the written statement filed by the defendant.
+Quick Tip A simple way to remember is: Plaintiff files a Plaint. Defendant files a Defence (in a Written Statement). Both are Pleadings.
+76. On failure to file a written statement, under order VIII Rule 10 of CPC, the court may
+(A) pass any other order (B) Order for striking off the decree (C) May pronounce the judgement at once (D) Any of the above
+Correct Answer: (C) May pronounce the judgement at once
+Solution:
+Step 1: Understanding the Concept: Order VIII of the CPC deals with the written statement. Rule 1 sets the time limit for filing
+68
+
+it, and Rule 10 prescribes the consequences if the defendant fails to do so within the stipulated time.
+Step 2: Detailed Explanation: Order VIII, Rule 10 is titled "Procedure when party fails to present written statement called for by Court". It states: "Where any party from whom a written statement is required under rule 1 or rule 9 fails to present the same within the time permitted or fixed by the Court, as the case may be, the Court shall pronounce judgment against him, or make such order in relation to the suit as it thinks fit..." The rule gives the court discretion. It has two main courses of action: 1. Pronounce the judgment at once against the defaulting defendant. 2. Make any other order it thinks fit (e.g., grant further time on payment of costs, proceed without the written statement). Both options (A) and (C) are technically correct actions the court can take. However, the power to "pronounce the judgement at once" is the most significant and specific consequence mentioned in the rule. In the context of multiple-choice questions, this specific power is often the intended answer. Option (B) is incorrect as a decree has not yet been passed. Option (D) is confusingly phrased but if it were "All of the above", it would be incorrect because (B) is wrong. Between (A) and (C), (C) is the more direct and powerful consequence available to the court.
+Step 3: Final Answer: On failure to file a written statement, the court has the power under Order VIII Rule 10 to pronounce the judgment at once.
+Quick Tip The consequence of not filing a written statement is severe. While the court has discretion, the power to pass an ex-parte judgment is a key tool to ensure that defendants do not delay proceedings indefinitely.
+77. What is meant by Homicide?
+(A) Suicide by human being not at home (B) Suicide at home (C) Killing of a human being by another human being (D) Killing of human being by animal
+Correct Answer: (C) Killing of a human being by another human being
+Solution:
+69
+
+Step 1: Understanding the Concept: The term "homicide" is the root word for various offences against the human body in criminal law, such as murder and culpable homicide not amounting to murder. Its precise definition is foundational to understanding these offences.
+Step 2: Detailed Explanation: The word "homicide" is derived from Latin terms: - homo, which means 'man' or 'human'. - caedere, which means 'to cut' or 'to kill'. In legal parlance, homicide means the act of one human being causing the death of another human being. - Options (A) and (B) describe suicide, which is self-killing. - Option (D), the killing of a human by an animal, is not homicide. - Option (C) accurately captures the legal definition. Homicide itself is not always unlawful. It can be lawful (e.g., in self-defense) or unlawful (culpable homicide). Culpable homicide is further divided into murder (Section 300, IPC) and culpable homicide not amounting to murder (Section 299, IPC).
+Step 3: Final Answer: Homicide means the killing of a human being by another human being.
+Quick Tip Remember the hierarchy: Homicide is the broadest term. It can be lawful or unlawful. Unlawful homicide is called Culpable Homicide. Culpable Homicide can be either Murder or Culpable Homicide not amounting to Murder.
+78. Adulteration of food or drink is a punishable offence
+(A) Under Section 274-276 of IPC (B) Under Section 277-278 of IPC (C) Under section 272-273 of IPC (D) None of the above
+Correct Answer: (C) Under section 272-273 of IPC
+Solution:
+Step 1: Understanding the Concept: The Indian Penal Code, 1860 (IPC), contains a chapter on offences affecting the public health, safety, convenience, decency, and morals. Adulteration of food and drink is a key offence under this chapter.
+70
+
+Step 2: Detailed Explanation: Chapter XIV of the IPC deals with these offences. Let's look at the relevant sections: - Section 272 deals with the "Adulteration of food or drink intended for sale." It makes it an offence to adulterate any article of food or drink, so as to make such article noxious, with the intent to sell it or knowing it to be likely that it will be sold as food or drink. - Section 273 deals with the "Sale of noxious food or drink." It makes it an offence to sell, or offer or expose for sale, any article which has been rendered or has become noxious, or is in a state unfit for food or drink. - Sections 274-276 deal with the adulteration of drugs and the sale of adulterated drugs. - Sections 277-278 deal with fouling water and making the atmosphere noxious to health. Therefore, the specific offences related to the adulteration of food or drink are covered under Sections 272 and 273 of the IPC.
+Step 3: Final Answer: The adulteration of food or drink is a punishable offence under Sections 272-273 of the IPC.
+Quick Tip
+When studying the IPC, group offences by chapter. For Chapter XIV (Public Health), remember the key clusters: Food/Drink Adulteration (272-273), Drug Adulteration (274276), and Pollution (277-278).
+79. Maximum punishment for waging a war against the Government of India under IPC is
+(A) Rigorous imprisonment up to 5 years (B) Rigorous imprisonment up to 10 years (C) Rigorous imprisonment for life term (D) Death sentence
+Correct Answer: (D) Death sentence
+Solution:
+Step 1: Understanding the Concept: Chapter VI of the Indian Penal Code, 1860, deals with offences against the State. These are considered the most serious crimes as they threaten the very existence and authority of the State.
+Step 2: Detailed Explanation: Section 121 of the IPC defines the offence of "Waging, or attempting to wage war, or abetting waging of war, against the Government of India." The punishment for this offence is prescribed in the same section. It states that whoever commits this offence shall be punished with death, or imprisonment for life, and shall also be
+71
+
+liable to a fine. The question asks for the maximum punishment. Between imprisonment for life and the death sentence, the death sentence is the maximum punishment available for this offence.
+Step 3: Final Answer: The maximum punishment for waging war against the Government of India under Section 121 of the IPC is the death sentence.
+Quick Tip Offences against the State (like waging war, sedition) are among the most severely punished crimes in the IPC. For Section 121, remember that it is one of the few sections in the IPC where the death penalty is a possible punishment.
+80. Offences relating to elections are
+(A) Contained in the IPC as originally enacted (B) Are introduced in the IPC by a subsequent amendment (C) Are not covered by IPC (D) None of the above
+Correct Answer: (B) Are introduced in the IPC by a subsequent amendment
+Solution:
+Step 1: Understanding the Concept: The Indian Penal Code, 1860, is a comprehensive criminal code. However, it has been amended over the years to include new categories of offences that were not contemplated at the time of its original enactment.
+Step 2: Detailed Explanation: The Indian Penal Code, as originally enacted in 1860, did not contain a specific chapter dealing with offences related to elections. Chapter IXA, which is titled "Of Offences Relating to Elections" and contains Sections 171A to 171I, was inserted into the IPC by the Indian Elections Offences and Inquiries Act, 1920. This chapter criminalizes acts like bribery, undue influence at elections, personation at elections, and making false statements in connection with an election. Therefore, these offences were introduced by a subsequent amendment and were not part of the original code.
+Step 3: Final Answer: The offences relating to elections were introduced into the IPC by a subsequent amendment in
+72
+
+1920.
+Quick Tip Remember that the IPC has been updated. Key additions include Chapter IXA (Elections), Chapter VA (Criminal Conspiracy), and Chapter XXA (Cruelty by Husband or Relatives). Knowing which chapters were later additions is useful for legal history questions.
+81. Rupa Bajaj V/s. KPS Gill, is a famous case which the Supreme Court decided on
+(A) Wrongful restraint (B) Wrongful confinement (C) Outrage the modesty of a women (D) Maintenance to the divorced women
+Correct Answer: (C) Outrage the modesty of a women
+Solution:
+Step 1: Understanding the Concept: The case of Rupa Ashok Hurra v. KPS Gill (though often referred to as Rupa Bajaj v. KPS Gill, as Rupa Deol Bajaj was the original complainant) is a landmark case in Indian criminal law concerning the interpretation of offences against women.
+Step 2: Detailed Explanation: The case involved an incident where a senior police officer, K.P.S. Gill, allegedly patted the posterior of a senior female IAS officer, Rupa Deol Bajaj, at a party. A criminal complaint was filed. The Supreme Court had to decide whether this act constituted the offence of "outraging the modesty of a woman" under Section 354 of the Indian Penal Code. The Court held that the act did amount to an offence under Section 354. It clarified that the test is whether the act is capable of shocking the sense of decency of a woman. The judgment was significant in upholding the dignity and modesty of women, especially in the context of acts committed by persons in power.
+Step 3: Final Answer: The Rupa Bajaj v. KPS Gill case was decided on the issue of outraging the modesty of a woman under Section 354 of the IPC.
+73
+
+Quick Tip Landmark criminal law cases often set important precedents. Associate Rupa Bajaj v. KPS Gill with Section 354 (Outraging modesty), Vishakha v. State of Rajasthan with workplace sexual harassment, and Mathura Rape Case with changes in rape laws.
+82. Under the Hindu Adoptions and Maintenance Act, the person who is taken in adoption
+(A) Must be a Hindu only (B) A Hindu or Jew (C) May be Hindu or Christian (D) None of the above
+Correct Answer: (A) Must be a Hindu only
+Solution:
+Step 1: Understanding the Concept: The Hindu Adoptions and Maintenance Act, 1956 (HAMA), governs the process of adoption for Hindus. The Act lays down specific conditions for the validity of an adoption, including the religion of the child being adopted.
+Step 2: Detailed Explanation: Section 10 of HAMA lists the "Persons who may be adopted". Clause (i) of this section states that the person to be adopted "is a Hindu". Furthermore, the Act applies only to Hindus, which is defined in Section 2 to include Buddhists, Jains, and Sikhs, but it explicitly excludes persons who are Muslim, Christian, Parsi, or Jew by religion. Therefore, for a valid adoption under HAMA, the child who is being given in adoption and taken in adoption must be a Hindu.
+Step 3: Final Answer: Under the Hindu Adoptions and Maintenance Act, 1956, the person who is taken in adoption must be a Hindu.
+Quick Tip Remember the applicability of Hindu personal laws. Acts like the Hindu Marriage Act, Hindu Succession Act, and HAMA apply to Hindus, Buddhists, Jains, and Sikhs. The conditions laid down in these acts, such as who can marry or be adopted, are specific to these communities.
+74
+
+83. Polygamy was permitted for Hindus before the year
+(A) 1956 (B) 1954 (C) 1955 (D) 1978
+Correct Answer: (C) 1955
+Solution:
+Step 1: Understanding the Concept: Traditional Hindu law, before its codification in the mid-20th century, did not prohibit polygamy (a man having multiple wives). The introduction of a specific statute changed this legal position.
+Step 2: Detailed Explanation: The Hindu Marriage Act, 1955, was enacted by the Parliament of India and came into force on 18th May 1955. This Act codified the law relating to marriage among Hindus. Section 5 of the Act lays down the conditions for a valid Hindu marriage. Clause (i) of Section 5 states that a marriage may be solemnized between any two Hindus if "neither party has a spouse living at the time of the marriage." This provision introduced the concept of monogamy as a mandatory condition for a valid Hindu marriage. Any marriage solemnized after the commencement of this Act in violation of this condition is null and void under Section 11, and the person remarrying is liable for the offence of bigamy under Section 17 of the Act and Section 494 of the IPC. Therefore, polygamy was permitted before the year 1955.
+Step 3: Final Answer: Polygamy was permitted for Hindus before the enactment of the Hindu Marriage Act in the year 1955.
+Quick Tip The year 1955 is a landmark in the history of Hindu personal law. It marks the beginning of the "Hindu Code Bills" era, which led to the codification and modernization of Hindu law on marriage (1955), succession (1956), minority and guardianship (1956), and adoptions and maintenance (1956).
+84. Mohan gets married to his sister's daughter Kriti
+(A) The marriage is valid if the custom allows it (B) The marriage is void (C) The marriage is valid only if the court approves it
+75
+
+(D) The marriage is valid only if the Panchayat permits
+Correct Answer: (A) The marriage is valid if the custom allows it Solution:
+Step 1: Understanding the Concept: The Hindu Marriage Act, 1955, prohibits marriages between persons who are within the "degrees of prohibited relationship". However, the Act provides an exception for established customs.
+Step 2: Detailed Explanation: The relationship between a man and his sister's daughter falls under the definition of "degrees of prohibited relationship" as defined in Section 3(g) of the Hindu Marriage Act. Specifically, it is covered by the rule that one cannot marry a descendant of one's brother or sister. Section 5(iv) of the Act states that a condition for a valid Hindu marriage is that "the parties are not within the degrees of prohibited relationship, unless the custom or usage governing each of them permits of a marriage between the two". This means that such a marriage is generally void. However, if there is a long-established, continuous, and certain custom in the community to which the parties belong that allows such marriages (as is prevalent in some parts of Southern India), then the marriage would be valid. Court or Panchayat permission is not the deciding factor; the existence of a valid custom is.
+Step 3: Final Answer: The marriage between a man and his sister's daughter, though generally prohibited, is valid if a custom governing the parties allows for it.
+Quick Tip Remember the two key prohibitions in Hindu marriage law: Sapinda relationship (close blood relatives, generally prohibited) and degrees of prohibited relationship (a specific list of relatives). Both prohibitions can be overcome by a valid, established custom.
+85. Within the purview of Water Act, the meaning of Stream is defined as
+(A) Includes a river but not a water course (B) Includes a water course but not a river (C) Includes river and water course, but not subterranean waters (D) Includes a river, a water course and subterranean river
+Correct Answer: (C) Includes river and water course, but not subterranean waters Solution:
+76
+
+Step 1: Understanding the Concept: The Water (Prevention and Control of Pollution) Act, 1974, is the primary legislation in India for the prevention and control of water pollution. Section 2 of the Act provides definitions for key terms.
+Step 2: Detailed Explanation: Section 2(j) of the Water Act, 1974, defines the term "stream". The definition is inclusive and states: "`stream' includes-- (i) river; (ii) water course (whether flowing or for the time being dry); (iii) inland water (whether natural or artificial); (iv) sea or tidal waters to such extent or, as the case may be, to such point as the State Government may, by notification in the Official Gazette, specify in this behalf; but does not include any subterranean waters." This definition is very broad, covering rivers and water courses, but it explicitly excludes subterranean (underground) waters.
+Step 3: Final Answer: The definition of "stream" under the Water Act includes rivers and water courses but specifically excludes subterranean waters.
+Quick Tip In environmental law, pay close attention to the scope of definitions. The exclusion of "subterranean waters" from the definition of "stream" in the Water Act is a significant point, as the protection of groundwater is primarily addressed under the Environment (Protection) Act, 1986.
+86. Section 2 (1) (zb) of the Trade Mark Act 1999, defines the meaning of
+(A) License (B) Trade Mark (C) Registration (D) Cancellation
+Correct Answer: (B) Trade Mark
+Solution:
+Step 1: Understanding the Concept: The Trade Marks Act, 1999, provides the legal framework for the registration and protection of trademarks in India. Section 2 is the definition clause of the Act.
+77
+
+Step 2: Detailed Explanation: Section 2 of the Trade Marks Act, 1999, contains definitions for various terms. Specifically, Section 2(1)(zb) defines the term "trade mark". The definition is quite detailed: "`trade mark' means a mark capable of being represented graphically and which is capable of distinguishing the goods or services of one person from those of others and may include shape of goods, their packaging and combination of colours..." It then lists various types of marks that can be considered trademarks. This is the core definition upon which the entire Act is based.
+Step 3: Final Answer: Section 2(1)(zb) of the Trade Marks Act, 1999, defines the meaning of "Trade Mark".
+Quick Tip
+When studying Intellectual Property Acts, the definition of the subject matter is the most important section. For the Trade Marks Act, remember 2(1)(zb) for "trade mark" and 2(1)(m) for "mark" as they are fundamental to the Act's scope.
+87. Outraging the modesty of a woman is punishable under IPC
+(A) Section 376 (a) (B) Section 376 (b) (C) Section 354 (D) Section 498
+Correct Answer: (C) Section 354
+Solution:
+Step 1: Understanding the Concept: The Indian Penal Code, 1860, contains specific provisions to protect women against acts that are intended to insult or outrage their modesty.
+Step 2: Detailed Explanation: Let's analyze the sections mentioned: - Sections 376(a) and 376(b) deal with punishments for the crime of rape in different circumstances. - Section 354 is titled "Assault or criminal force to woman with intent to outrage her modesty." It criminalizes any act of assaulting or using criminal force against a woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty. This is the primary section dealing with this specific offence. - Section 498 deals with "Enticing or taking away or detaining with criminal intent a married woman."
+78
+
+Therefore, the correct section for punishing the act of outraging the modesty of a woman is Section 354.
+Step 3: Final Answer: The offence of outraging the modesty of a woman is punishable under Section 354 of the IPC.
+Quick Tip It is crucial to differentiate between the various offences against women in the IPC. Remember: S.354 (Outraging modesty), S.354A (Sexual harassment), S.354B (Assault with intent to disrobe), S.354C (Voyeurism), S.354D (Stalking), S.376 (Rape), and S.498A (Cruelty by husband or relatives).
+88. Section 463 of Indian Penal Code deals with the crime of
+(A) House breaking (B) Dishonest misappropriation of property (C) Forgery (D) Forgery with cheating
+Correct Answer: (C) Forgery
+Solution:
+Step 1: Understanding the Concept: The Indian Penal Code dedicates a chapter to offences relating to documents and property marks, which includes the crime of forgery.
+Step 2: Detailed Explanation: Section 463 of the IPC provides the definition of "Forgery". It states: "Whoever makes any false document or false electronic record or part of a document or electronic record, with intent to cause damage or injury, to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery." Let's look at the other options: - House-breaking is defined in Section 445. - Dishonest misappropriation of property is defined in Section 403. - "Forgery with cheating" is not a defined term, although forgery is often committed for the purpose of cheating (defined in Section 415). The offence of "Forgery for purpose of cheating" is punished under Section 468. Section 463 itself only defines the basic crime of forgery.
+79
+
+Step 3: Final Answer: Section 463 of the Indian Penal Code defines the crime of Forgery.
+Quick Tip Remember the core definitions of property crimes: Theft (S.378), Extortion (S.383), Robbery (S.390), Dacoity (S.391), Misappropriation (S.403), Criminal Breach of Trust (S.405), Cheating (S.415), and Forgery (S.463).
+89. Criminal intimidation is explained in IPC under
+(A) Section 503 to 506 (B) Section 509 to 510 (C) Section 319 to 329 (D) None of the above
+Correct Answer: (A) Section 503 to 506 Solution:
+Step 1: Understanding the Concept: The Indian Penal Code criminalizes threats made to a person with the intent to cause alarm or to cause them to do an act they are not legally bound to do. This offence is known as criminal intimidation.
+Step 2: Detailed Explanation: Chapter XXII of the IPC is titled "Of Criminal Intimidation, Insult and Annoyance". - Section 503 defines the offence of "Criminal Intimidation". - Section 506 provides the punishment for criminal intimidation. The sections from 503 to 506 cover this offence and its aggravated forms. - Section 509 deals with words, gestures or acts intended to insult the modesty of a woman. Section 510 deals with misconduct in public by a drunken person. - Sections 319 to 329 deal with offences of causing hurt and grievous hurt.
+Step 3: Final Answer: The offence of criminal intimidation is defined in Section 503 and punished in Section 506 of the IPC. The relevant cluster of sections is 503-506.
+80
+
+Quick Tip The final chapter of the IPC (Chapter XXII) deals with intimidation, insult, and annoyance. Remember Section 503 for the definition of criminal intimidation and Section 504 for intentional insult with intent to provoke a breach of the peace.
+90. Under Section 59 to 60 of Indian Evidence Act the oral statement means
+(A) All statements made before the court by the witness (B) All statement made before the police by the accused (C) All statement of facts which a witness heard to say (D) All of the above
+Correct Answer: (A) All statements made before the court by the witness
+Solution:
+Step 1: Understanding the Concept: The Indian Evidence Act, 1872, classifies evidence into oral and documentary. It lays down specific rules for each type. Sections 59 and 60 deal with the proof of facts by oral evidence.
+Step 2: Detailed Explanation: Section 59 of the Evidence Act states that all facts, except the contents of documents or electronic records, may be proved by oral evidence. Section 60 lays down the fundamental rule that oral evidence must be direct. It means: - If it refers to a fact which could be seen, it must be the evidence of a witness who says he saw it. - If it refers to a fact which could be heard, it must be the evidence of a witness who says he heard it. The term "oral evidence" itself is defined in Section 3 of the Act as "all statements which the Court permits or requires to be made before it by witnesses, in relation to matters of fact under inquiry". - Option (A) perfectly matches this definition from Section 3. - Option (B) is incorrect as statements to the police are generally not evidence. - Option (C) refers to hearsay evidence, which is generally inadmissible under Section 60.
+Step 3: Final Answer: As per the definition in Section 3, which is the context for Sections 59-60, oral evidence means all statements made before the court by a witness.
+81
+
+Quick Tip The core principle of oral evidence is that it must be direct (Section 60), which means the witness must have perceived the fact with their own senses. This rule excludes hearsay evidence.
+91. Under the Evidence Act, 'Court' includes
+(A) All Judges (B) All Magistrates (C) All Arbitrators (D) (a) and (b)
+Correct Answer: (D) (a) and (b)
+Solution:
+Step 1: Understanding the Concept: Section 3 of the Indian Evidence Act, 1872, provides a specific, inclusive definition of the term "Court" for the purposes of the Act.
+Step 2: Detailed Explanation: The definition in Section 3 states: "`Court' includes all Judges and Magistrates, and all persons, except arbitrators, legally authorised to take evidence." This definition does two things: 1. It explicitly includes all Judges and all Magistrates. 2. It explicitly excludes Arbitrators. It also includes other persons legally authorized to take evidence (like a Commissioner appointed by the court), but it definitively excludes arbitrators. Therefore, options (A) and (B) are included, but (C) is excluded. The correct choice is (D), which combines (A) and (B).
+Step 3: Final Answer: The definition of 'Court' under the Evidence Act includes all Judges and Magistrates but excludes arbitrators.
+Quick Tip The exclusion of arbitrators from the definition of "Court" in the Evidence Act is a very important point and frequently tested. It means that arbitrators are not strictly bound by the technical rules of the Evidence Act in their proceedings.
+82
+
+92. Admissibility of contents of electronic records may be proved in accordance with the provisions of
+(A) Under Section 61 of Indian Evidence Act (B) Under Section 65 of Indian Evidence Act (C) Under Section 65-B of Indian Evidence Act (D) None of the above
+Correct Answer: (C) Under Section 65-B of Indian Evidence Act
+Solution:
+Step 1: Understanding the Concept: The Indian Evidence Act was amended by the IT Act, 2000, to include provisions for the admissibility of electronic records. A special procedure was introduced for this purpose.
+Step 2: Detailed Explanation: - Section 61 states that the contents of documents may be proved either by primary or by secondary evidence. - Section 65 lists the cases in which secondary evidence relating to documents may be given. - The law for proving the contents of electronic records is specifically laid out in Sections 65A and 65B. - Section 65A provides that the contents of electronic records may be proved in accordance with the provisions of Section 65B. - Section 65B lays down the conditions that must be met for any information contained in an electronic record (like a computer printout) to be deemed a document and be admissible in evidence without further proof or production of the original. This includes providing a certificate that meets the conditions specified in Section 65B(4).
+Step 3: Final Answer: The admissibility and proof of the contents of electronic records are specifically governed by the provisions of Section 65B of the Indian Evidence Act.
+Quick Tip
+Whenever you see a question about proving electronic evidence (like a printout, CD, or email), the key section to remember is 65B of the Evidence Act and its requirement of a certificate. This is a crucial topic in modern evidence law.
+93. Which is not a public record as per the provisions of Indian Evidence Act
+(A) Documents forming the acts or records of the sovereign authority (B) Documents forming the acts or records of official bodies, tribunals (C) Documents and correspondence from advocate and Notary office
+83
+
+(D) Documents and circulars from University of Delhi
+Correct Answer: (C) Documents and correspondence from advocate and Notary office
+Solution:
+Step 1: Understanding the Concept: Section 74 of the Indian Evidence Act, 1872, defines "public documents". All other documents are considered private documents (Section 75).
+Step 2: Detailed Explanation: Section 74 defines public documents as documents forming the acts or records of the acts-- (i) of the sovereign authority, (ii) of official bodies and tribunals, and (iii) of public officers, legislative, judicial and executive, of any part of India or of the Commonwealth, or of a foreign country. It also includes public records kept in any State of private documents. Let's analyze the options: - (A) and (B) are explicitly covered by the definition. - (D) University of Delhi is a public body, so its official documents and circulars would be public documents. - (C) Documents and correspondence from an advocate's office or a Notary's office are private documents. An advocate's office is a private establishment, and correspondence between a lawyer and client is privileged and private. While a Notary is a public officer, their private correspondence or internal office records are not public documents in the sense of Section 74.
+Step 3: Final Answer: Documents and correspondence from an advocate's and Notary's office are private documents, not public records.
+Quick Tip The key feature of a public document is its connection to an official act or record of a sovereign or public body. Private correspondence, even if it involves a public officer, is generally not a public document.
+94. Section 67 of Motor Vehicle Act 1988 provides
+(A) Possession of driving license while driving (B) Possession of Insurance certificate and PUC certificate in the vehicle (C) Revoking driving license if drunk driving is detected (D) State government's power to control the road transport
+84
+
+Correct Answer: (D) State government's power to control the road transport
+Solution:
+Step 1: Understanding the Concept: The Motor Vehicles Act, 1988, is a comprehensive legislation that regulates all aspects of road transport. It grants specific powers to the Central and State governments to frame rules and control transport.
+Step 2: Detailed Explanation: Chapter V of the Motor Vehicles Act, 1988, is titled "Control of Transport Vehicles". Section 67 within this chapter is titled "Power to make rules to control road transport". It explicitly empowers the State Government to make rules for various purposes, including: - Fixing maximum and minimum fares and freights. - Regulating the plying of contract carriages. - Preventing overcrowding and ensuring the safety and convenience of the public. Let's look at other options: - Possession of driving license while driving is dealt with in Section 130. - Possession of insurance and PUC is in Section 130. - Revoking license for drunk driving is covered under sections like 19, 20, and 185.
+Step 3: Final Answer: Section 67 of the Motor Vehicles Act, 1988, provides for the State Government's power to make rules to control road transport.
+Quick Tip When studying the Motor Vehicles Act, try to understand the division of powers. The Central Government typically sets standards (e.g., for vehicle construction, emissions), while State Governments handle the day-to-day control and regulation of transport within the state (e.g., fares, permits).
+95. The term 'Tort' is a
+(A) Latin Word (B) French Word (C) English word (D) Italian word
+Correct Answer: (B) French Word
+Solution:
+85
+
+Step 1: Understanding the Concept: The Law of Torts, which deals with civil wrongs, has its roots in English common law, but the term itself has a specific linguistic origin.
+Step 2: Detailed Explanation: The word "Tort" is derived from the French word tort, which means 'wrong'. This French word, in turn, is derived from the Latin word tortum, which means 'twisted' or 'crooked'. In a legal sense, a tort is a civil wrong or a 'twisted' conduct that causes harm or injury to another person, giving the injured party a right to claim damages. While the root is Latin, the direct source of the English legal term is French.
+Step 3: Final Answer: The term 'Tort' is derived from a French word.
+Quick Tip
+Remember the etymology: Latin tortum (twisted) -¿ French tort (wrong) -¿ English "Tort" (a civil wrong). This progression helps in understanding the origin and meaning of the term.
+96. In Tort, what is 'vicarious liability' ?
+(A) A person is generally liable for his own wrongful act (B) A person is liable for the wrongful act done by other person (C) A person is liable for the wrongful act in his absence (D) None of the above
+Correct Answer: (B) A person is liable for the wrongful act done by other person
+Solution:
+Step 1: Understanding the Concept: The general rule in tort law is that a person is liable for their own wrongful acts. Vicarious liability is a significant exception to this rule.
+Step 2: Detailed Explanation: 'Vicarious liability' means the liability of one person for the tort committed by another person. The word 'vicarious' means 'acting or done for another'. This liability arises due to a specific relationship between the two persons. The most common examples are: 1. Master and Servant: An employer is liable for the torts committed by their employee during the course of employment. 2. Principal and Agent: A principal is liable for the torts committed by their agent while
+86
+
+acting within the scope of their authority. 3. Partners: All partners in a firm are liable for the torts committed by any partner in the ordinary course of the firm's business. Option (A) describes the general rule of personal liability, not vicarious liability. Option (B) accurately describes the concept of being held liable for another's act.
+Step 3: Final Answer: Vicarious liability is the principle where a person is held liable for the wrongful act done by another person.
+Quick Tip
+The maxims that form the basis of vicarious liability are qui facit per alium facit per se (he who acts through another does the act himself) and respondeat superior (let the superior be responsible).
+
+97. Under Section 2(1) (f ) of Consumer Protection Act 1986, 'defect' is meant by
+
+any fault, imperfection or shortcomings in
+
+(A) Quality and Quantity
+
+i nrelationtothegoods
+
+(B) Potency
+
+(C) Purity or standard
+
+(D) All of the above
+
+Correct Answer: (D) All of the above
+Solution:
+Step 1: Understanding the Concept: The Consumer Protection Act, 1986 (now replaced by the 2019 Act, but the question refers to the 1986 Act), defines key terms like 'defect' and 'deficiency'. A 'defect' specifically relates to goods.
+Step 2: Detailed Explanation: Section 2(1)(f ) of the Consumer Protection Act, 1986, defines "defect" as follows: "`defect' means any fault, imperfection or shortcoming in the quality, quantity, potency, purity or standard which is required to be maintained by or under any law for the time being in force or under any contract, express or implied, or as is claimed by the trader in any manner whatsoever in relation to any goods." This definition is very comprehensive and covers all the aspects mentioned in the options: - (A) Quality and Quantity - (B) Potency - (C) Purity or standard
+87
+
+Since the definition explicitly includes all these attributes, the correct answer is (D).
+Step 3: Final Answer: The term 'defect' under the 1986 Act refers to shortcomings in the quality, quantity, potency, purity, or standard of goods.
+Quick Tip Remember the key distinction in consumer law: 'Defect' applies to goods, while 'Deficiency' applies to services. The definition of 'defect' is broad, covering almost any way in which a product can be substandard.
+98. Which of the following falls under the categories of Act of God
+(A) Storm and cyclone (B) Extra ordinary rainfall or flood (C) Lightning and thunder (D) All of the above
+Correct Answer: (D) All of the above
+Solution:
+Step 1: Understanding the Concept: "Act of God" (or vis major) is a defence in the law of torts. It refers to an extraordinary natural event that is not connected with human agency and could not have been foreseen or prevented by reasonable care or foresight.
+Step 2: Detailed Explanation: For an event to be considered an Act of God, two conditions must be met: 1. The event must be a result of natural forces, without any human intervention. 2. The occurrence must be extraordinary and not one which could have been anticipated and guarded against. Let's analyze the options: - (A) Storm and cyclone: These are natural phenomena that are often unforeseeable in their full intensity and are considered Acts of God. - (B) Extra ordinary rainfall or flood: A normal amount of rain is foreseeable, but an extraordinary, unprecedented downpour or flood can be an Act of God. - (C) Lightning and thunder: These are classic examples of natural, uncontrollable events. All the events listed are natural, and when they occur in an extraordinary or unforeseeable manner, they fall under the category of an Act of God.
+88
+
+Step 3: Final Answer: Storm, cyclone, extraordinary rainfall/flood, and lightning are all examples of events that can be categorized as an Act of God.
+Quick Tip The key to the "Act of God" defence is not just that the event is natural, but that it is so extraordinary that a reasonable person could not have been expected to take precautions against it.
+99. Income Tax Act was enacted in
+(A) 1951 (B) 1961 (C) 1971 (D) None of the above
+Correct Answer: (B) 1961
+Solution:
+Step 1: Understanding the Concept: The current law governing the levy of income tax in India is a comprehensive statute enacted after independence to consolidate and amend the law relating to income tax.
+Step 2: Detailed Explanation: The current Income Tax Act in India is the Income Tax Act, 1961. This Act was enacted by the Parliament of India in the year 1961. It came into force on the 1st of April, 1962. It replaced the earlier Indian Income-tax Act, 1922. The 1961 Act is the primary legislation that, along with the Income Tax Rules, 1962, annual Finance Acts, and judicial pronouncements, forms the body of income tax law in India today.
+Step 3: Final Answer: The Income Tax Act was enacted in the year 1961.
+Quick Tip Remember the enactment years of key financial and commercial legislations in India: Indian Contract Act (1872), Sale of Goods Act (1930), Companies Act (2013, replacing 1956), and Income Tax Act (1961).
+89
+
+100. 'Income' is defined under Section 2(24) of the Income Tax Act, as
+(A) Profits and gains (B) Dividend (C) Voluntary contribution received by a Trust for charitable Purpose (D) All of the above
+Correct Answer: (D) All of the above
+Solution:
+Step 1: Understanding the Concept: The term 'income' is the very foundation of the Income Tax Act. Section 2(24) of the Act provides a definition of income, which is inclusive and not exhaustive, meaning it covers many types of receipts.
+Step 2: Detailed Explanation: The definition of "income" in Section 2(24) is very broad. It starts with "'income' includes..." and then lists numerous items. Let's check the options against this list: - (A) Profits and gains: This is explicitly included under Section 2(24)(i). It is the most common form of income. - (B) Dividend: This is explicitly included under Section 2(24)(ii). - (C) Voluntary contribution received by a Trust for charitable Purpose: Voluntary contributions received by various entities, including charitable trusts, are specifically included under Section 2(24)(iia). Since the definition of income in the Act explicitly includes all the items listed in the options, the correct answer is (D).
+Step 3: Final Answer: The definition of 'income' under Section 2(24) of the Income Tax Act is an inclusive one and includes profits and gains, dividends, and voluntary contributions received by a charitable trust.
+Quick Tip The definition of "income" in the Income Tax Act is inclusive, not exhaustive. This means the list in Section 2(24) is not the complete list, and other items that are considered income in the commercial sense can also be taxed. When you see an "All of the above" option for this question, it is very likely to be correct because the definition is so wide.
+90
+
+

@@ -1,0 +1,504 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Sign Up — Legalite.ai</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=DM+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #F5F0E8;
+    --ink: #3D2E1E;
+    --ink-2: #5a4730;
+    --ink-3: #806a4f;
+    --gold: #C9A96E;
+    --gold-deep: #b59154;
+    --tan: #D4C5A9;
+    --tan-soft: #e3d6bb;
+    --card: #EDE6D6;
+    --card-2: #ece3cf;
+    --cream: #FBF7F0;
+    --line: rgba(61, 46, 30, 0.12);
+    --line-2: rgba(61, 46, 30, 0.18);
+    --ok: #4f7a3a;
+    --shadow-sm: 0 1px 2px rgba(61,46,30,0.06), 0 1px 1px rgba(61,46,30,0.04);
+    --shadow-md: 0 8px 24px -10px rgba(61,46,30,0.18), 0 2px 6px rgba(61,46,30,0.06);
+    --shadow-lg: 0 24px 48px -18px rgba(61,46,30,0.28), 0 6px 14px rgba(61,46,30,0.08);
+    --shadow-xl: 0 36px 80px -24px rgba(61,46,30,0.35), 0 10px 24px rgba(61,46,30,0.1);
+    --serif: 'Cormorant Garamond', 'Times New Roman', serif;
+    --sans: 'DM Sans', -apple-system, system-ui, sans-serif;
+    --mono: 'JetBrains Mono', ui-monospace, monospace;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 16px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  ::selection { background: var(--gold); color: var(--ink); }
+  a { color: inherit; }
+
+  .wrap { max-width: 1240px; margin: 0 auto; padding: 0 40px; }
+
+  /* ---------- NAV ---------- */
+  .nav {
+    position: sticky; top: 0; z-index: 50;
+    background: rgba(245, 240, 232, 0.82);
+    backdrop-filter: blur(14px) saturate(140%);
+    -webkit-backdrop-filter: blur(14px) saturate(140%);
+    border-bottom: 1px solid transparent;
+    transition: border-color 220ms ease, box-shadow 220ms ease;
+  }
+  .nav.scrolled {
+    border-bottom-color: var(--line);
+    box-shadow: 0 1px 0 rgba(61,46,30,0.02);
+  }
+  .nav-inner {
+    display: flex; align-items: center; justify-content: space-between;
+    height: 76px;
+  }
+  .brand {
+    font-family: var(--serif);
+    font-size: 28px;
+    letter-spacing: -0.01em;
+    font-weight: 600;
+    color: var(--ink);
+    display: flex; align-items: center;
+    text-decoration: none;
+  }
+  .brand-dot {
+    color: var(--gold);
+    font-style: italic;
+    font-weight: 500;
+  }
+
+  /* ---------- BUTTONS ---------- */
+  .btn {
+    display: inline-flex; align-items: center; gap: 10px;
+    font-family: var(--sans);
+    font-size: 14px; font-weight: 500;
+    padding: 12px 22px;
+    border-radius: 999px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: transform 200ms cubic-bezier(.2,.7,.2,1), box-shadow 220ms ease, background 200ms ease, color 200ms ease;
+    text-decoration: none;
+    white-space: nowrap;
+    background: none;
+    color: inherit;
+  }
+  .btn-primary {
+    background: var(--ink);
+    color: var(--cream);
+    box-shadow: var(--shadow-sm);
+  }
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    background: #2d2114;
+  }
+  .btn-lg {
+    padding: 16px 28px;
+    font-size: 15px;
+  }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* ---------- FORM STYLES ---------- */
+  .signup-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 80px;
+    align-items: stretch;
+    min-height: auto;
+    padding: 80px 0;
+  }
+
+  .signup-left {
+    padding-right: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .signup-eyebrow {
+    display: inline-flex; align-items: center; gap: 10px;
+    font-size: 12px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--gold-deep);
+    font-weight: 600;
+    margin-bottom: 16px;
+  }
+  .signup-eyebrow::before {
+    content: "";
+    width: 24px; height: 1px;
+    background: var(--gold);
+  }
+
+  .signup-h1 {
+    font-family: var(--serif);
+    font-size: 56px;
+    line-height: 1.1;
+    letter-spacing: -0.025em;
+    font-weight: 500;
+    color: var(--ink);
+    margin: 0 0 20px;
+    text-wrap: balance;
+  }
+
+  .signup-desc {
+    font-size: 17px;
+    line-height: 1.55;
+    color: var(--ink-2);
+    max-width: 420px;
+    margin-bottom: 48px;
+    text-wrap: pretty;
+  }
+
+  .benefit-list {
+    list-style: none;
+    padding: 0; margin: 0;
+    display: flex; flex-direction: column; gap: 16px;
+  }
+
+  .benefit-item {
+    display: flex; align-items: flex-start; gap: 14px;
+  }
+
+  .benefit-check {
+    width: 24px; height: 24px;
+    border-radius: 50%;
+    background: rgba(79, 122, 58, 0.15);
+    color: var(--ok);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 12px;
+    font-weight: 600;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+
+  .benefit-text {
+    font-size: 15px;
+    color: var(--ink-2);
+    line-height: 1.5;
+  }
+
+  /* Form Card */
+  .form-card {
+    background: var(--cream);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 48px;
+    box-shadow: var(--shadow-lg);
+  }
+
+  .form-title {
+    font-family: var(--serif);
+    font-size: 32px;
+    font-weight: 500;
+    color: var(--ink);
+    margin: 0 0 8px;
+  }
+
+  .form-subtitle {
+    font-size: 14px;
+    color: var(--ink-2);
+    margin-bottom: 32px;
+  }
+
+  .form-group {
+    margin-bottom: 24px;
+  }
+
+  .form-label {
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--ink);
+    margin-bottom: 8px;
+    letter-spacing: 0.02em;
+  }
+
+  .form-input {
+    width: 100%;
+    padding: 14px 16px;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: var(--bg);
+    font-family: var(--sans);
+    font-size: 15px;
+    color: var(--ink);
+    transition: border-color 200ms ease, box-shadow 200ms ease, background 200ms ease;
+  }
+
+  .form-input::placeholder {
+    color: var(--ink-3);
+  }
+
+  .form-input:focus {
+    outline: none;
+    border-color: var(--gold);
+    background: white;
+    box-shadow: 0 0 0 3px rgba(201, 169, 110, 0.1);
+  }
+
+  .form-input-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+
+  .form-checkbox {
+    display: flex; align-items: flex-start; gap: 10px;
+    margin-bottom: 20px;
+    font-size: 13px;
+    color: var(--ink-2);
+    line-height: 1.5;
+  }
+
+  .checkbox-input {
+    width: 18px; height: 18px;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    background: var(--bg);
+    cursor: pointer;
+    flex-shrink: 0;
+    margin-top: 2px;
+    transition: all 200ms ease;
+  }
+
+  .checkbox-input:checked {
+    background: var(--gold);
+    border-color: var(--gold);
+  }
+
+  .checkbox-input:checked::after {
+    content: "✓";
+    color: var(--ink);
+    font-size: 12px;
+    font-weight: 600;
+  }
+
+  .form-divider {
+    display: flex; align-items: center; gap: 12px;
+    margin: 28px 0;
+    color: var(--ink-3);
+    font-size: 13px;
+  }
+
+  .form-divider::before,
+  .form-divider::after {
+    content: "";
+    flex: 1; height: 1px;
+    background: var(--line);
+  }
+
+  .form-button {
+    width: 100%;
+    padding: 16px;
+    background: var(--ink);
+    color: var(--cream);
+    border: none;
+    border-radius: 999px;
+    font-family: var(--sans);
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: transform 200ms cubic-bezier(.2,.7,.2,1), box-shadow 220ms ease, background 200ms ease;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .form-button:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    background: #2d2114;
+  }
+
+  .form-button:active {
+    transform: translateY(0);
+  }
+
+  .form-signin {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: var(--ink-2);
+  }
+
+  .form-signin a {
+    color: var(--gold-deep);
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 200ms ease;
+  }
+
+  .form-signin a:hover {
+    color: var(--ink);
+  }
+
+  /* ---------- ANIMATIONS ---------- */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(18px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .fade-up {
+    opacity: 0;
+    animation: fadeUp 700ms cubic-bezier(.2,.7,.2,1) forwards;
+  }
+
+  .d-1 { animation-delay: 60ms; }
+  .d-2 { animation-delay: 140ms; }
+  .d-3 { animation-delay: 220ms; }
+
+  /* ---------- RESPONSIVE ---------- */
+  @media (max-width: 980px) {
+    .signup-container {
+      grid-template-columns: 1fr;
+      gap: 48px;
+      padding: 48px 0;
+    }
+    .signup-left {
+      padding-right: 0;
+    }
+    .signup-h1 {
+      font-size: 42px;
+    }
+    .form-card {
+      padding: 36px;
+    }
+  }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="nav" id="nav">
+  <div class="wrap nav-inner">
+    <a href="Legalite Homepage.html" class="brand">Legalite<span class="brand-dot">.ai</span></a>
+  </div>
+</nav>
+
+<!-- SIGNUP -->
+<section>
+  <div class="wrap">
+    <div class="signup-container">
+
+      <!-- LEFT COLUMN -->
+      <div class="signup-left fade-up d-1">
+        <div class="signup-eyebrow">Join thousands of candidates</div>
+        <h1 class="signup-h1">Start preparing for AIBE 21.</h1>
+        <p class="signup-desc">Get access to real AIBE papers, live pace companion, and bare act page references. Everything you need to pass on the first attempt.</p>
+        
+        <ul class="benefit-list">
+          <li class="benefit-item">
+            <div class="benefit-check">✓</div>
+            <div class="benefit-text">15 real past exams + 5 AI-graded mocks</div>
+          </li>
+          <li class="benefit-item">
+            <div class="benefit-check">✓</div>
+            <div class="benefit-text">Live companion tracks your pace in real-time</div>
+          </li>
+          <li class="benefit-item">
+            <div class="benefit-check">✓</div>
+            <div class="benefit-text">Bare act references for Universal, EBC & LexisNexis</div>
+          </li>
+          <li class="benefit-item">
+            <div class="benefit-check">✓</div>
+            <div class="benefit-text">Red/Orange/Green confidence tracking</div>
+          </li>
+          <li class="benefit-item">
+            <div class="benefit-check">✓</div>
+            <div class="benefit-text">No card needed to start. First paper is free forever.</div>
+          </li>
+        </ul>
+      </div>
+
+      <!-- RIGHT COLUMN — FORM -->
+      <div class="form-card fade-up d-2">
+        <h2 class="form-title">Create your account</h2>
+        <p class="form-subtitle">Takes 2 minutes. We'll never spam you.</p>
+
+        <form id="signupForm">
+          <div class="form-group">
+            <label class="form-label">Full Name</label>
+            <input type="text" class="form-input" placeholder="Your full name" required />
+          </div>
+
+          <div class="form-group">
+            <label class="form-label">Email</label>
+            <input type="email" class="form-input" placeholder="you@example.com" required />
+          </div>
+
+          <div class="form-group">
+            <label class="form-label">Password</label>
+            <input type="password" class="form-input" placeholder="Min. 8 characters" required />
+          </div>
+
+          <div class="form-input-row">
+            <div class="form-group">
+              <label class="form-label">Phone</label>
+              <input type="tel" class="form-input" placeholder="+91 98765 43210" />
+            </div>
+            <div class="form-group">
+              <label class="form-label">Exam Date</label>
+              <input type="month" class="form-input" required />
+            </div>
+          </div>
+
+          <label class="form-checkbox">
+            <input type="checkbox" class="checkbox-input" required />
+            <span>I agree to the <a href="#" style="color: var(--gold-deep);">Terms of Service</a> and <a href="#" style="color: var(--gold-deep);">Privacy Policy</a></span>
+          </label>
+
+          <label class="form-checkbox">
+            <input type="checkbox" class="checkbox-input" />
+            <span>Send me updates about AIBE 21 prep tips</span>
+          </label>
+
+          <button type="submit" class="form-button">Create Account</button>
+
+          <div class="form-divider">or</div>
+
+          <button type="button" class="form-button" style="background: var(--card); color: var(--ink); box-shadow: none;">
+            Continue with Google
+          </button>
+
+          <div class="form-signin">
+            Already have an account? <a href="#">Log in here</a>
+          </div>
+        </form>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<script>
+  // Sticky nav shadow on scroll
+  const nav = document.getElementById('nav');
+  const onScroll = () => {
+    if (window.scrollY > 8) nav.classList.add('scrolled');
+    else nav.classList.remove('scrolled');
+  };
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
+
+  // Form handling
+  const form = document.getElementById('signupForm');
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    alert('Welcome to Legalite! Check your email to confirm your account.');
+    form.reset();
+  });
+</script>
+
+</body>
+</html>

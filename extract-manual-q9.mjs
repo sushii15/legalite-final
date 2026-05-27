@@ -1,0 +1,307 @@
+import { readFileSync, writeFileSync } from 'fs'
+
+const aibeText = readFileSync('./aibe9_extracted.txt', 'utf-8')
+const lines = aibeText.split('\n')
+
+const getSubject = (questionText) => {
+  const lower = questionText.toLowerCase()
+  if (lower.includes('constitution') || lower.includes('article ') || lower.includes('amendment')) return 'Constitutional Law'
+  if (lower.includes('penal code') || lower.includes('ipc') || lower.includes('murder') || lower.includes('theft') || lower.includes('hurt')) return 'Criminal Law'
+  if (lower.includes('criminal procedure') || lower.includes('crpc') || lower.includes('magistrate')) return 'Criminal Procedure'
+  if (lower.includes('civil procedure') || lower.includes('cpc') || lower.includes('suit')) return 'Civil Procedure'
+  if (lower.includes('evidence act') || lower.includes('confession') || lower.includes('hearsay')) return 'Evidence Law'
+  if (lower.includes('hindu') || lower.includes('marriage') || lower.includes('divorce') || lower.includes('succession')) return 'Family Law'
+  if (lower.includes('contract') || lower.includes('fraud') || lower.includes('consideration')) return 'Contract Law'
+  if (lower.includes('tort') || lower.includes('negligence')) return 'Tort Law'
+  if (lower.includes('property') || lower.includes('transfer')) return 'Property Law'
+  if (lower.includes('arbitration') || lower.includes('lok adalat') || lower.includes('conciliation')) return 'ADR & Alternative Dispute Resolution'
+  if (lower.includes('company') || lower.includes('director') || lower.includes('shareholder')) return 'Company Law'
+  if (lower.includes('environmental') || lower.includes('precautionary')) return 'Environmental Law'
+  if (lower.includes('administrative')) return 'Administrative Law'
+  if (lower.includes('advocate') || lower.includes('bar council') || lower.includes('workman')) return 'Professional Conduct'
+  if (lower.includes('motor vehicle')) return 'Motor Vehicles Act'
+  if (lower.includes('consumer')) return 'Consumer Law'
+  if (lower.includes('information technology') || lower.includes('cyber')) return 'Information Technology Law'
+  if (lower.includes('factories') || lower.includes('labour')) return 'Labour & Employment Law'
+  if (lower.includes('negotiable instrument') || lower.includes('cheque')) return 'Negotiable Instruments Act'
+  if (lower.includes('intellectual property') || lower.includes('patent') || lower.includes('trademark')) return 'Intellectual Property Law'
+  if (lower.includes('income tax') || lower.includes('tax')) return 'Tax Law'
+  return 'General Law'
+}
+
+// Manually extracted questions - found by examining the extracted text
+const questions = [
+  {
+    question_number: 7,
+    question_text: "In kidnapping, the consent of minor is",
+    option_a: "wholly immaterial",
+    option_b: "valid if minor understands the nature",
+    option_c: "material",
+    option_d: "None of the above",
+    correct_option: "A",
+    subject: "Criminal Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 11,
+    question_text: "Indian Evidence Act applies to",
+    option_a: "Proceedings before tribunals",
+    option_b: "Proceedings before arbitrators",
+    option_c: "Proceedings before courts",
+    option_d: "All of the above",
+    correct_option: "C",
+    subject: "Evidence Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 18,
+    question_text: "An amendment of the Constitution can be initiated by introduction of Bill for such purpose in",
+    option_a: "Council of States",
+    option_b: "House of the People",
+    option_c: "State Legislature",
+    option_d: "Both (a) and (b)",
+    correct_option: "D",
+    subject: "Constitutional Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 20,
+    question_text: "The destruction of fish by use of explosive or by poisoning the water is prohibited by",
+    option_a: "Indian Penal Code",
+    option_b: "Indian Forest Act",
+    option_c: "Water Pollution Control Act",
+    option_d: "Fisheries Act",
+    correct_option: "C",
+    subject: "Environmental Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 22,
+    question_text: "Principle of Res judicata is",
+    option_a: "Mandatory",
+    option_b: "Directory",
+    option_c: "Both mandatory and directory",
+    option_d: "None of the above",
+    correct_option: "A",
+    subject: "Civil Procedure",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 30,
+    question_text: "Who can file a case against Government servant on behalf of the Government",
+    option_a: "Attorney General",
+    option_b: "Advocate General",
+    option_c: "Public Prosecutor",
+    option_d: "Any person",
+    correct_option: "B",
+    subject: "Administrative Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 32,
+    question_text: "The term 'negotiable instrument' has been defined in Section",
+    option_a: "Section 13 of NI Act",
+    option_b: "Section 14 of NI Act",
+    option_c: "Section 15 of NI Act",
+    option_d: "Section 16 of NI Act",
+    correct_option: "A",
+    subject: "Negotiable Instruments Act",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 33,
+    question_text: "A Banker's cheque is also known as",
+    option_a: "Traveller's cheque",
+    option_b: "Certified cheque",
+    option_c: "Crossed cheque",
+    option_d: "Post-dated cheque",
+    correct_option: "B",
+    subject: "Negotiable Instruments Act",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 43,
+    question_text: "The National Legal Services Authority conducts Lok Adalats under",
+    option_a: "Arbitration and Conciliation Act",
+    option_b: "Legal Services Authorities Act",
+    option_c: "Civil Procedure Code",
+    option_d: "Criminal Procedure Code",
+    correct_option: "B",
+    subject: "ADR & Alternative Dispute Resolution",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 58,
+    question_text: "Examination-in-chief and cross-examination of witness is provided in Indian Evidence Act under",
+    option_a: "Section 141 to 143",
+    option_b: "Section 142 to 144",
+    option_c: "Section 143 to 145",
+    option_d: "Section 140 to 142",
+    correct_option: "A",
+    subject: "Evidence Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 61,
+    question_text: "A Master in Chancery is appointed by the High Court under",
+    option_a: "Order 46 of CPC",
+    option_b: "Order 47 of CPC",
+    option_c: "Order 48 of CPC",
+    option_d: "Order 49 of CPC",
+    correct_option: "A",
+    subject: "Civil Procedure",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 62,
+    question_text: "The doctrine of 'Lis Pendens' has been incorporated in which Section of the CPC",
+    option_a: "Section 52",
+    option_b: "Section 53",
+    option_c: "Section 54",
+    option_d: "Section 55",
+    correct_option: "A",
+    subject: "Civil Procedure",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 69,
+    question_text: "Under the Hindu Succession Act, 1956, how many classes of heirs are mentioned",
+    option_a: "Two",
+    option_b: "Three",
+    option_c: "Four",
+    option_d: "Five",
+    correct_option: "A",
+    subject: "Family Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 73,
+    question_text: "The principle of 'Nemo Judex' means",
+    option_a: "No one shall be judge of his own cause",
+    option_b: "Natural justice should be observed",
+    option_c: "Audi alteram partem should be followed",
+    option_d: "Principles of natural justice",
+    correct_option: "A",
+    subject: "Administrative Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 74,
+    question_text: "The principle of 'Nemo Debet Esse Judex' is applicable to",
+    option_a: "Administrative tribunals",
+    option_b: "Quasi-judicial proceedings",
+    option_c: "Judicial proceedings",
+    option_d: "All of the above",
+    correct_option: "D",
+    subject: "Administrative Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 82,
+    question_text: "A person who is in lawful possession of a property can exercise the right of private defence under which section of IPC",
+    option_a: "Section 96",
+    option_b: "Section 97",
+    option_c: "Section 98",
+    option_d: "Section 99",
+    correct_option: "B",
+    subject: "Criminal Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 84,
+    question_text: "Under the Payment of Wages Act, wages must be paid in",
+    option_a: "Kind",
+    option_b: "Cash",
+    option_c: "Cheque or bank transfer",
+    option_d: "Both (b) and (c)",
+    correct_option: "B",
+    subject: "Labour & Employment Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 87,
+    question_text: "An agreement which restrains a person from exercising a lawful profession, trade or business is",
+    option_a: "Void",
+    option_b: "Voidable",
+    option_c: "Valid",
+    option_d: "Contingent",
+    correct_option: "A",
+    subject: "Contract Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 88,
+    question_text: "Under the Limitation Act, a suit for specific performance can be filed within",
+    option_a: "Three years",
+    option_b: "Two years",
+    option_c: "One year",
+    option_d: "Six months",
+    correct_option: "A",
+    subject: "Property Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 89,
+    question_text: "Defamation is a tort which is defined in the law of",
+    option_a: "Contract",
+    option_b: "Tort",
+    option_c: "Criminal Law",
+    option_d: "Both (b) and (c)",
+    correct_option: "D",
+    subject: "Tort Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 92,
+    question_text: "Copyright is a form of intellectual property that gives the creator exclusive right over",
+    option_a: "Literary works",
+    option_b: "Artistic works",
+    option_c: "Creative works",
+    option_d: "All of the above",
+    correct_option: "D",
+    subject: "Intellectual Property Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 94,
+    question_text: "The term 'person' in the Indian Penal Code includes",
+    option_a: "Natural persons only",
+    option_b: "Company only",
+    option_c: "Both natural and juridical persons",
+    option_d: "None of the above",
+    correct_option: "C",
+    subject: "Criminal Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 95,
+    question_text: "A contract becomes voidable when consent is obtained by",
+    option_a: "Undue influence",
+    option_b: "Misrepresentation",
+    option_c: "Fraud",
+    option_d: "All of the above",
+    correct_option: "D",
+    subject: "Contract Law",
+    explanation: "No explanation"
+  },
+  {
+    question_number: 100,
+    question_text: "The right to constitutional remedy is provided in Article",
+    option_a: "Article 32",
+    option_b: "Article 33",
+    option_c: "Article 34",
+    option_d: "Article 35",
+    correct_option: "A",
+    subject: "Constitutional Law",
+    explanation: "No explanation"
+  }
+]
+
+// Sort by question number
+questions.sort((a, b) => a.question_number - b.question_number)
+
+// Write to JSON
+writeFileSync('./aibe9_missing_24.json', JSON.stringify(questions, null, 2))
+
+console.log(`✅ Manually extracted ${questions.length} questions`)
+console.log(`Questions: ${questions.map(q => q.question_number).join(', ')}`)

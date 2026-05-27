@@ -1,0 +1,742 @@
+AIBE 15 Set A Question Paper with Solutions
+Time Allowed :3 Hours Maximum Marks :100 Total questions :100 General Instructions General Instructions:
+i) The AIBE (All India Bar Examination) X will be conducted in offline mode (pen and paper based).
+ii) The question paper will consist of Multiple Choice Questions (MCQs) with four options, out of which only one will be correct.
+iii) Each correct answer will be awarded 1 mark. There is no negative marking for incorrect answers.
+iv) The examination will cover subjects prescribed by the Bar Council of India (BCI), including both core and optional subjects.
+v) Candidates must carry their Admit Card and a valid Photo ID proof to the examination center.
+vi) Use only a blue/black ballpoint pen to mark answers on the OMR sheet. vii) Rough work should be done only in the space provided in the question pa-
+per/answer sheet. viii) No electronic gadgets, mobile phones, or programmable calculators are permitted
+inside the examination hall. ix) Candidates must follow the instructions of the invigilators strictly. Any unfair
+means will lead to disqualification.
+1
+
+1. Section 66A of Information Technology Act was held unconstitutional in the case of:
+(a) Justice K. S. Puttaswamy Vs Union of India (b) M. P. Sharma Vs Satish Chandra (c) Shreya Singhal Vs Union of India (d) Gagan Harsh Sharma Vs The State of Maharashtra
+Correct Answer: (c) Shreya Singhal Vs Union of India
+Solution: Step 1: Understanding Section 66A. Section 66A of the IT Act criminalized sending offensive messages through communication services. However, it was often criticized for being vague and misused against freedom of speech. Step 2: Supreme Court Judgement. In the landmark case of Shreya Singhal Vs Union of India (2015), the Supreme Court struck down Section 66A as unconstitutional, holding that it violated Article 19(1)(a) -- the right to freedom of speech and expression. Step 3: Conclusion. Hence, Section 66A was declared unconstitutional in the case of Shreya Singhal Vs Union of India.
+Quick Tip Always remember, Section 66A was struck down because it curtailed the fundamental right of free speech.
+2. A Teacher is not a workman within the purview of Industrial Disputes Act, held in the case of:
+(a) The Workmen Vs Greaves Cotton & Co. Ltd. & Ors (b) John Joseph Khokar Vs Bhadange B. S. & Ors (c) A. Sundarambal Vs Government of Goa
+2
+
+(d) Dinesh Sharma and Ors. Vs State of Bihar
+Correct Answer: (c) A. Sundarambal Vs Government of Goa
+Solution: Step 1: Industrial Disputes Act. The Act defines "workman" as any person employed in an industry to do manual, skilled, technical, operational, clerical, or supervisory work. Step 2: Case Law. In the case of A. Sundarambal Vs Government of Goa, the Supreme Court held that a teacher cannot be classified as a workman because teaching is a noble and intellectual profession, not manual or technical labor. Step 3: Conclusion. Therefore, a teacher does not fall within the definition of a workman under the Industrial Disputes Act.
+Quick Tip The term "workman" does not include teachers, lawyers, or judges, as their work is considered intellectual and not industrial labor.
+3. According to Factories Act, "child" means:
+(a) A person who has not completed his fifteenth year of age (b) A person who has not completed his fourteenth year of age (c) A person who has not completed his eighteenth year of age (d) A person who has not completed his sixteenth year of age
+Correct Answer: (b) A person who has not completed his fourteenth year of age
+Solution: Step 1: Factories Act Definition. Under Section 2(c) of the Factories Act, 1948, a "child" is defined as a person who has not completed his 14th year of age.
+3
+
+Step 2: Significance. This provision prohibits children below 14 years from being employed in any factory, ensuring protection against child labor. Step 3: Conclusion. Thus, the legal definition of a child under the Factories Act is one who has not completed 14 years of age.
+Quick Tip Factories Act safeguards children by prohibiting their employment before completing 14 years of age.
+4. The UNCITRAL Model Law and Rules do not become part of the Arbitration Act so as to construe its provisions. This was held in the case of:
+(a) Union of India Vs East Coast Boat Builders and Engineers Ltd. (b) Union of India Vs M.C. Mehta (c) Tata Press Ltd. Vs Union of India (d) Union of India Vs Indian Change Chrome Ltd.
+Correct Answer: (a) Union of India Vs East Coast Boat Builders and Engineers Ltd.
+Solution: Step 1: UNCITRAL and Arbitration. UNCITRAL (United Nations Commission on International Trade Law) provides model laws to harmonize and modernize international trade law, including arbitration rules. Step 2: Case Reference. In Union of India Vs East Coast Boat Builders and Engineers Ltd., the Supreme Court clarified that while UNCITRAL Model Law can be referred to, it does not automatically become part of Indian Arbitration Act unless expressly adopted by legislation. Step 3: Conclusion. Therefore, UNCITRAL Model Law cannot be enforced directly in India without statutory incorporation.
+4
+
+Quick Tip Remember that UNCITRAL Model Law serves as guidance, but Indian Arbitration law applies only when explicitly adopted.
+5. According to Section 7(4) of the Arbitration and Conciliation Act, an arbitration agreement is in writing if it is contained in:
+(a) A document signed by the parties; (b) An exchange of letters, telex, telegrams or other means of telecommunication which provide a record of the agreement; (c) An exchange of statements of claim and defence in which the existence of the agreement is alleged by one party and not denied by the other; (d) All of the above
+Correct Answer: (d) All of the above
+Solution: Step 1: Understanding Section 7(4). Section 7(4) of the Arbitration and Conciliation Act outlines how an arbitration agreement must be documented. It provides various acceptable forms of written arbitration agreements, which include: Step 2: Explanation of Options. - (a) A document signed by the parties is a formal method of agreeing to arbitration. It provides concrete proof of the parties' consent. - (b) An exchange of letters, telex, telegrams, or other telecommunication means is considered valid if they provide a clear record of the agreement. This allows flexibility in how agreements are documented. - (c) An exchange of statements of claim and defense in which one party claims the existence of the agreement and the other party does not deny it, also constitutes a written agreement under the Act. Step 3: Conclusion.
+5
+
+Thus, all the above methods are recognized by Section 7(4) as valid forms of documenting an arbitration agreement. Therefore, the correct answer is (d) All of the above.
+Quick Tip Section 7(4) offers flexibility in how arbitration agreements can be documented, ensuring they can be in various forms of written communication.
+6. Waiver of right to object deviance from arbitration agreement is mentioned under ----­ of the Arbitration and Conciliation Act.
+(a) Section 7 (b) Section 4 (c) Section 20 (d) Section 22
+Correct Answer: (b) Section 4
+Solution: Step 1: Understanding Waiver under the Arbitration Act. The Arbitration and Conciliation Act recognizes that a party may waive its right to object if it does not raise an objection within a reasonable time. Section 4 of the Act deals with the waiver of the right to object regarding deviations from an arbitration agreement. Step 2: Explanation of Section 4. Section 4 of the Arbitration and Conciliation Act lays down the provision for waiver, stating that a party may lose the right to object if it continues with the arbitration proceedings without raising an objection to any deviation from the arbitration agreement. Step 3: Conclusion. Therefore, the waiver of the right to object due to deviations from an arbitration agreement is covered under Section 4 of the Arbitration and Conciliation Act.
+6
+
+Quick Tip If a party does not raise an objection in a reasonable time, they may waive their right to object to deviations from the arbitration agreement.
+7. A intentionally and falsely leads B to believe that certain land belongs to A, and thereby induces B to buy and pay for it. The land afterwards becomes the property of A, and A seeks to set aside the sale on the ground that, at the time of the sale, he had no title. He will not be allowed to prove his want of title. Which Section of the Evidence Act is applicable?
+(a) Section 92 (b) Section 124 (c) Section 115 (d) Section 101
+Correct Answer: (c) Section 115
+Solution: Step 1: Understanding the Issue. This question refers to a situation where a false representation is made regarding the ownership of land, and the party (A) is attempting to prove the opposite, i.e., their lack of title. Step 2: Section 115 of the Evidence Act. Section 115 of the Indian Evidence Act deals with estoppel, which prevents a person from denying the truth of a statement made or a belief induced by them. In this case, A cannot be allowed to prove his lack of title, as B was induced to believe he had title to the property. Step 3: Analyzing Other Options. - Section 92 deals with the exclusion of oral evidence in cases of written contracts. - Section 124 relates to communications between a legal advisor and their client. - Section 101 talks about the burden of proof, but it is not directly applicable here. Step 4: Conclusion.
+7
+
+The correct section is Section 115, which applies in cases of estoppel, where a party is prevented from denying a statement or fact they previously induced.
+Quick Tip Estoppel prevents a party from denying facts they've induced someone to believe, ensuring fairness in legal transactions.
+8. The Arbitration Act 1996 repeals:
+(a) The Arbitration Act, 1940, (b) The Arbitration (Protocol and Convention) Act, 1937 (c) The Foreign Awards (Recognition and Enforcement) Act, 1961 (d) All of the above
+Correct Answer: (d) All of the above
+Solution: Step 1: Understanding the 1996 Act. The Arbitration and Conciliation Act, 1996, was enacted to consolidate and amend the law relating to arbitration in India. It replaced several older statutes. Step 2: Repealed Acts. - The Arbitration Act of 1940, which governed arbitration in India for decades, was repealed by the 1996 Act. - The Arbitration (Protocol and Convention) Act of 1937, which dealt with the recognition and enforcement of foreign arbitral awards, was also repealed. - The Foreign Awards (Recognition and Enforcement) Act, 1961, was repealed as it was redundant after the new Act. Step 3: Conclusion. The correct answer is (d), as all the listed acts were repealed by the Arbitration and Conciliation Act, 1996.
+8
+
+Quick Tip The Arbitration and Conciliation Act, 1996, streamlined arbitration law in India, repealing several outdated acts.
+9. Section 265A to 265L, Chapter XXIA of the Criminal Procedure Code deals with the concept of:
+(a) Unlawful Assembly (b) Arrest without warrant (c) Search and seizures (d) Plea bargaining Correct Answer: (d) Plea bargaining Solution: Step 1: Understanding Plea Bargaining. Plea bargaining is a process where the accused agrees to plead guilty to a lesser charge in exchange for a reduced sentence. Step 2: Statutory Provision. Chapter XXIA of the Cr.P.C. (Sections 265A to 265L) specifically deals with plea bargaining in criminal cases, which was introduced by the 2005 amendment to the Criminal Procedure Code. Step 3: Conclusion. The correct answer is (d), as these sections deal specifically with the process and conditions under which plea bargaining is allowed in India.
+Quick Tip Plea bargaining allows for a quicker resolution of criminal cases, benefiting both the accused and the legal system.
+9
+
+10. Security for good behaviour from habitual offenders is dealt under:
+(a) Section 109 of Cr.P.C. (b) Section 110 of Cr.P.C. (c) Section 111 of Cr.P.C. (d) None of the above
+Correct Answer: (b) Section 110 of Cr.P.C.
+Solution: Step 1: Definition under Cr.P.C. Section 110 of the Criminal Procedure Code deals with the power of the Magistrate to take preventive action against habitual offenders. The section allows the Magistrate to require the habitual offender to provide security for good behavior. Step 2: Purpose of the provision. This section is meant to prevent habitual offenders from committing crimes in the future by requiring them to give security or bond for maintaining good behavior. Step 3: Conclusion. The correct answer is (b), as Section 110 of Cr.P.C. directly addresses security for good behavior from habitual offenders.
+Quick Tip Section 110 Cr.P.C. helps prevent future crimes by ensuring habitual offenders maintain good behavior under legal supervision.
+11. X, Y, Z jointly promise to pay A an amount of Rs. 50,000/- Subsequently X, Y became untraceable. Can A compel Z to pay?
+(a) A can, under Section 43 para 1 (b) A can under Section 49 para 1 (c) A cannot and will have to wait till X, Y become traceable (d) Z can be compelled only for one third
+10
+
+Correct Answer: (a) A can, under Section 43 para 1
+Solution: Step 1: Understanding Joint and Several Liability. When multiple parties promise to pay an amount jointly, they are liable jointly and severally for the entire amount. If one party becomes untraceable, the other parties remain liable. Step 2: Section 43 of the Indian Contract Act. Section 43 provides that when a joint promise is made, the creditor can compel any of the joint promisors to perform the promise. In this case, even though X and Y are untraceable, Z can still be compelled to pay the full amount under joint liability provisions. Step 3: Conclusion. The correct answer is (a), as Section 43 allows A to compel Z for the full amount despite X and Y's untraceability.
+Quick Tip Joint liability means that any party can be forced to pay the full amount, even if others are untraceable.
+12. Delivery of goods by one person to another for some purpose upon a contract that they shall, when the purpose is accomplished, be returned or disposed of according to the directions of the person delivering them. This process is termed as:
+(a) Agency (b) Bailment (c) Guarantee (d) Contingency
+Correct Answer: (b) Bailment
+Solution: Step 1: Definition of Bailment.
+11
+
+Bailment is the process by which goods are delivered from one person to another for a particular purpose, with the condition that once the purpose is achieved, the goods are returned or dealt with as per the instructions of the bailor. Step 2: Elements of Bailment. 1. Delivery of goods to another person (Bailee). 2. A specific purpose for which goods are delivered. 3. Obligation of the Bailee to return or dispose of the goods as per the Bailor's directions. Step 3: Conclusion. The correct answer is (b), as the description fits the definition of Bailment under the Indian Contract Act.
+Quick Tip Bailment involves the transfer of possession, not ownership, of goods for a specific purpose.
+13. Section 14A inserted by THE SPECIFIC RELIEF (AMENDMENT) ACT, 2018, relates to:
+(a) Power of the Courts to engage experts (b) Establishment of Special Court (c) Expeditious disposal of case (d) Specific performance with regard to contracts
+Correct Answer: (c) Expeditious disposal of case
+Solution: Step 1: Understanding the Amendment. Section 14A, introduced in 2018 under the Specific Relief (Amendment) Act, focuses on making the legal process for enforcing contracts more efficient. Step 2: Objective of the Amendment. The goal is to expedite the resolution of specific performance cases. The amendment allows courts to handle contract-specific cases more efficiently by setting time-bound processes.
+12
+
+Step 3: Conclusion. The correct answer is (c), as the purpose of Section 14A is to expedite the disposal of specific performance cases in courts.
+Quick Tip The amendment to Section 14A helps in quicker enforcement of contracts through faster legal proceedings.
+14. Parliament may by law establish Administrative Tribunals under ------- of the Constitution (a) Article 323B (b) Article 323A (c) Article 233 (d) Article 233 Correct Answer: (b) Article 323A Solution: Step 1: Understanding the Constitution. Article 323A of the Indian Constitution empowers Parliament to establish Administrative Tribunals. These tribunals handle disputes related to the service matters of public servants. Step 2: Differentiating Articles 323A and 323B. Article 323A is specifically dedicated to the establishment of administrative tribunals, while Article 323B deals with tribunals for other matters like taxation, and elections. Step 3: Conclusion. The correct answer is (b), as Article 323A specifically authorizes the establishment of Administrative Tribunals by Parliament.
+13
+
+Quick Tip Administrative tribunals are created under Article 323A of the Constitution to handle service-related matters of public employees.
+15. The Bar Council of India has to lay down the standards of professional conduct and etiquette for the Advocates under: (a) Section 3 of the Advocate Act, 1961 (b) Section 7 (1) (b) of the Advocate Act, 1961 (c) Section 17 of the Advocate Act, 1961 (d) Section 16 of the Advocate Act, 1961 Correct Answer: (b) Section 7 (1) (b) of the Advocate Act, 1961 Solution: Step 1: The Role of Bar Council. Under Section 7 of the Advocate Act, 1961, the Bar Council of India is responsible for laying down the standards of professional conduct and etiquette for all advocates in India. Step 2: Understanding Section 7. Section 7 (1) (b) specifically mandates the Bar Council of India to prescribe the ethical standards for advocates and their behavior both in the court and in society. Step 3: Conclusion. The correct answer is (b), as Section 7 (1) (b) of the Advocate Act, 1961, specifically tasks the Bar Council with setting standards for professional conduct.
+Quick Tip The Bar Council of India ensures the maintenance of ethical standards for advocates under Section 7 of the Advocate Act, 1961.
+14
+
+16. According to Section 49 of the Advocate Act of 1961 the Bar Council of India has power to make rules:
+(a) qualifications for membership of a Bar Council and the disqualifications for such membership (b) the class or category of persons entitled to be enrolled as advocates (c) the standards of legal education to be observed by universities in India and the inspection of universities for that purpose. (d) All of the above
+Correct Answer: (d) All of the above
+Solution: Step 1: Understanding Section 49 of the Advocate Act. Section 49 of the Advocate Act, 1961 grants the Bar Council of India the authority to make rules on various matters related to the practice of law. These include: 1. **Qualifications and Disqualifications:** It allows the Bar Council to lay down qualifications and disqualifications for membership in the Bar Council. 2. **Eligibility for Enrollment as Advocates:** The Bar Council can specify the class or category of persons who are eligible to be enrolled as advocates. 3. **Legal Education and University Inspection:** It empowers the Bar Council to determine the standards of legal education that universities must follow and to inspect universities to ensure compliance. Step 2: Conclusion. Since all the above aspects fall under the powers granted to the Bar Council by Section 49, the correct answer is (d) All of the above.
+Quick Tip Section 49 of the Advocate Act gives the Bar Council of India significant authority in regulating legal education and membership criteria for advocates.
+15
+
+17. Requisites of a valid adoption: No adoption shall be valid unless - (i) the person adopting has the capacity, and also the right, to take in adoption; (ii) the person giving in adoption has the capacity to do so; (iii) the person adopted is capable of being taken in adoption; and (iv) the adoption is made in compliance with the other conditions mentioned in this Chapter. This is mentioned under:
+(a) Section 6 of Hindu Adoptions and Maintenance Act (b) Section 8 of Hindu Adoptions and Maintenance Act (c) Section 12 of Hindu Adoptions and Maintenance Act (d) Section 10 of Hindu Adoptions and Maintenance Act
+Correct Answer: (a) Section 6 of Hindu Adoptions and Maintenance Act
+Solution: Step 1: Hindu Adoptions and Maintenance Act. Section 6 of the Hindu Adoptions and Maintenance Act, 1956 outlines the requisites for a valid adoption. It specifies the conditions that must be met for an adoption to be valid, including the capacity of the adopter, the person giving the adoption, the eligibility of the adopted child, and compliance with other statutory requirements. Step 2: Conclusion. Therefore, the correct answer is (a), as Section 6 of the Hindu Adoptions and Maintenance Act provides the detailed requisites for a valid adoption.
+Quick Tip A valid adoption under Hindu law requires strict compliance with the conditions mentioned in Section 6 of the Hindu Adoptions and Maintenance Act, 1956.
+18. According to the Muslim Women (Protection of Rights on Marriage) Act, 2019, any pronouncement of talaq as defined under the Act by a Muslim husband upon his wife, by words, either spoken or written or in electronic form or in any other manner whatsoever, shall be:
+16
+
+(a) Void (b) Cognizable (c) Compoundable (d) All of the above
+Correct Answer: (a) Void
+Solution: Step 1: Understanding the Act. The Muslim Women (Protection of Rights on Marriage) Act, 2019, commonly known as the Triple Talaq Act, makes the practice of pronouncing talaq (divorce) by a Muslim husband through any means, including spoken, written, or electronic forms, illegal and void. The Act criminalizes this practice and makes it a cognizable offense. Step 2: Legal Effect of Talaq. Under the provisions of the Act, any talaq pronounced in the above-mentioned manner is deemed to be void and illegal. Therefore, the husband's action does not legally terminate the marriage. Step 3: Conclusion. The correct answer is (a), as the Act renders any pronouncement of talaq in the mentioned manner void.
+Quick Tip Under the Muslim Women (Protection of Rights on Marriage) Act, 2019, any talaq pronounced in the manner prescribed is void and cannot legally dissolve the marriage.
+19. The Hindu Succession (Amendment) Act (HSAA) 2005 provides for women:
+(a) Coparcenary rights at par with men; (b) Inheritance rights in agricultural land from her parents at par with her brothers; (c) Inheritance of the self-acquired agricultural land of her deceased husband (d) All of the above
+17
+
+Correct Answer: (d) All of the above
+Solution: Step 1: Understanding the Hindu Succession (Amendment) Act, 2005. The HSAA, 2005, was a landmark amendment to the Hindu Succession Act of 1956, which was aimed at providing equal inheritance rights to women in Hindu families, particularly in joint family property (coparcenary property). Step 2: Coparcenary Rights. Under this amendment, women were granted coparcenary rights equal to those of men in ancestral property. Previously, only male members of the family had such rights. Step 3: Inheritance Rights. The amendment also granted women the right to inherit agricultural land from their parents at par with their brothers and allowed them to inherit self-acquired agricultural land from their deceased husbands. Step 4: Conclusion. The correct answer is (d) All of the above, as the HSAA, 2005, provides for all these rights for women.
+Quick Tip The Hindu Succession (Amendment) Act, 2005, gave women equal rights in inheritance and coparcenary property.
+20. Section 25 of the Hindu Marriage Act 1955 provides for:
+(a) Custody of the Children (b) Permanent alimony and maintenance (c) Maintenance Pendente lite (d) Division of matrimonial property
+Correct Answer: (b) Permanent alimony and maintenance
+Solution: 18
+
+Step 1: Section 25 of the Hindu Marriage Act. Section 25 of the Hindu Marriage Act, 1955, allows for the award of permanent alimony and maintenance to either spouse in the case of divorce or separation. It empowers the court to provide maintenance based on the needs and the financial capacity of the parties involved. Step 2: Other Provisions. - **Custody of the Children:** This is dealt with in other provisions of the Hindu Marriage Act and does not fall under Section 25. - **Maintenance Pendente lite:** This provision is also included under Section 24 of the Hindu Marriage Act, not Section 25. - **Division of Matrimonial Property:** The Hindu Marriage Act does not deal directly with the division of matrimonial property. Step 3: Conclusion. The correct answer is (b) Permanent alimony and maintenance, as this is specifically addressed in Section 25.
+Quick Tip Section 25 of the Hindu Marriage Act focuses on providing permanent alimony and maintenance to a spouse after divorce or separation.
+21. A Hindu wife had been living with her children and all the children had been brought up by her without any assistance and help from the husband for many years. The wife was entitled to separate residence and maintenance under:
+(a) Section 18 (2) (f) of Hindu Adoptions and Maintenance Act (b) Section 18 (2) (d) of Hindu Adoptions and Maintenance Act (c) Section 18 (2) (a) of Hindu Adoptions and Maintenance Act (d) Section 18 (2) (g) of Hindu Adoptions and Maintenance Act
+Correct Answer: (a) Section 18 (2) (f) of Hindu Adoptions and Maintenance Act
+Solution:
+19
+
+Step 1: Understanding Section 18. Section 18 of the Hindu Adoptions and Maintenance Act, 1956, allows for a Hindu wife to claim maintenance and separate residence if her husband is guilty of cruelty or other conditions that impair her right to live together with him. Step 2: The Relevant Subsection. - Section 18 (2)(f) provides the grounds under which the wife is entitled to separate maintenance, specifically if she has been living separately from her husband for a long period due to his cruelty, neglect, or desertion. Step 3: Conclusion. The correct answer is (a), as this subsection directly addresses the wife's entitlement to maintenance under such circumstances.
+Quick Tip A Hindu wife can claim separate maintenance under Section 18(2) (f) if she has been deserted or neglected by her husband.
+22. Imposition of compensatory costs in respect of false or vexatious claims or defences is dealt under:
+(a) Section 33 of CPC (b) Section 35A of CPC (c) Section 30 of CPC (d) Section 35 of CPC
+Correct Answer: (b) Section 35A of CPC
+Solution: Step 1: Overview of CPC Sections. The Civil Procedure Code (CPC) provides provisions to impose costs on parties in a lawsuit. Section 35A is specifically concerned with compensatory costs in case a party is found to be pursuing false or vexatious claims or defences.
+20
+
+Step 2: Explanation of Section 35A. Section 35A empowers the court to award compensatory costs to the opposite party if it finds that the party's claim or defence was false or vexatious. This ensures that the court's time is not wasted on unsubstantiated claims. Step 3: Conclusion. The correct answer is (b), as Section 35A of the CPC specifically addresses the imposition of compensatory costs in such situations.
+Quick Tip Section 35A of the CPC is designed to penalize parties who bring false or vexatious claims or defences.
+23. Which provision under the Code of Civil Procedure deals with substituted service of summons upon the defendant?
+(a) O.5 R.19A (b) O.5 R.19 (c) O.5 R.20 (d) O.5 R.21
+Correct Answer: (d) O.5 R.21
+Solution: Step 1: Overview of CPC Rule 5. Order 5 of the Civil Procedure Code deals with the service of summons to the defendant. Rule 21 provides the guidelines for substituted service when normal service is not possible. Step 2: Explanation of O.5 R.21. Order 5 Rule 21 allows the court to permit substituted service if personal service of summons on the defendant is not feasible. This can be done through alternative methods like affixing the summons to a conspicuous place or publishing it in a newspaper. Step 3: Conclusion.
+21
+
+The correct answer is (d), as O.5 R.21 specifically deals with substituted service of summons in case personal service is not possible.
+Quick Tip Substituted service is allowed when personal service of summons is not feasible. This is provided under Order 5 Rule 21 of the CPC.
+24. The question is, whether A owes B rupees 10,000. Which of the following statements are relevant under the Evidence Act?
+(a) The facts that A asked C to lend him money, (b) D said to C in A's presence and hearing-- "I advise you not to trust A, for he owes B 10,000 rupees," (c) A went away without making any answer (d) All of the above
+Correct Answer: (d) All of the above
+Solution: Step 1: Relevance under the Indian Evidence Act. The question concerns the evidence required to determine if A owes B a debt of Rs. 10,000. Under the Indian Evidence Act, various statements can be considered relevant based on their proximity to the facts in question. Step 2: Analyzing the Options. - **Option (a):** A asking C to lend him money could be considered relevant as it may show A's need or intention to borrow, possibly indicating the debt. - **Option (b):** D's statement in A's presence that A owes B Rs. 10,000 is relevant under Section 6 of the Evidence Act as it is a statement made in A's presence and could show the existing relationship between A and B regarding the debt. - **Option (c):** A's silence in response to a question or statement is also relevant, as per Section 8 of the Evidence Act, where silence or conduct can imply acknowledgment or denial.
+22
+
+Step 3: Conclusion. All the statements provided are relevant under the Evidence Act as they offer insight into the relationship between A and B regarding the alleged debt. Therefore, the correct answer is (d) All of the above.
+Quick Tip Statements made in the presence of a party or their conduct can be relevant under the Evidence Act to establish facts about the case.
+25. So much of such information, whether it amounts to a confession or not, as relates distinctly to the fact thereby discovered by the police may be proved under:
+(a) Section 25 of the Evidence Act (b) Section 26 of the Evidence Act (c) Section 27 of the Evidence Act (d) Section 29 of the Evidence Act
+Correct Answer: (c) Section 27 of the Evidence Act
+Solution: Step 1: Understanding Section 27. Section 27 of the Indian Evidence Act, 1872, allows the admissibility of information obtained from an accused person if the information directly leads to the discovery of any fact. This includes statements that might not be confessions but lead to crucial discoveries. Step 2: Legal Context. - **Section 25** deals with confessions made to the police and renders them inadmissible. - **Section 26** excludes confessions made in police custody unless they are made in the presence of a Magistrate. - **Section 27** allows the admissibility of information provided by the accused, even if it doesn't amount to a confession, as long as it leads to the discovery of a fact. Step 3: Conclusion.
+23
+
+The correct answer is (c), as Section 27 allows the use of statements that lead to the discovery of facts, even if they do not amount to a confession.
+Quick Tip Section 27 of the Evidence Act is crucial as it permits the use of statements that lead to the discovery of facts, even if those statements are not full confessions.
+26. When the Court has to form an opinion upon a point of foreign law or of science, or art, or as to identity of handwriting, or finger impressions, the opinions upon that point of persons specially skilled in such foreign law, science or art, or in questions as to identity of handwriting or finger impressions are relevant facts. ­ This is under ---------- of the Evidence Act.
+(a) Section 42 (b) Section 45 (c) Section 50 (d) Section 55
+Correct Answer: (b) Section 45
+Solution: Step 1: Relevance of Opinion under Evidence Act. Section 45 of the Indian Evidence Act, 1872, deals with the opinion of experts on matters of foreign law, science, or art. It also includes opinions about handwriting and finger impressions. This section allows courts to accept the opinion of individuals who are specially skilled in these subjects as relevant facts. Step 2: Explanation of Other Options. - **Section 42** deals with the relevancy of facts in cases of confessions made by persons in custody. - **Section 50** discusses the admissibility of statements made by persons in official positions, but does not pertain to expert opinions.
+24
+
+- **Section 55** relates to opinions about the general conduct of the accused. Step 3: Conclusion. The correct answer is (b), as Section 45 specifically deals with expert opinions on handwriting, finger impressions, and foreign law, science, or art.
+Quick Tip Section 45 of the Evidence Act is crucial for the admissibility of expert opinions, especially in matters like handwriting and scientific issues.
+27. According to Environmental Protection Act, 1986, 'environmental pollutant' means:
+(a) any solid, liquid or gaseous substance present in such concentration as may be, or tend to be, helpful to environment (b) only gaseous substance present in such concentration as may be, or tend to be, injurious to environment (c) any solid, liquid or gaseous substance present in such concentration as may be, or tend to be, injurious to environment (d) any solid, liquid, or gaseous substance present in such concentration as may be, or tend to be, injurious to environment
+Correct Answer: (c) any solid, liquid or gaseous substance present in such concentration as may be, or tend to be, injurious to environment
+Solution: Step 1: Definition under the Environmental Protection Act. The Environmental Protection Act, 1986, defines "environmental pollutant" as any substance (solid, liquid, or gaseous) that is present in a concentration that may be harmful or injurious to the environment. This includes substances that affect the ecosystem and human health in harmful ways. Step 2: Analyzing the Options.
+25
+
+- **Option (a)** is incorrect because pollutants cannot be helpful to the environment. - **Option (b)** is also incorrect as it excludes solid and liquid substances and focuses only on gases. - **Option (c)** correctly defines environmental pollutants as any substance, regardless of state, that can harm the environment. - **Option (d)** is not specific to the definition provided in the Act. Step 3: Conclusion. The correct answer is (c), as it correctly defines environmental pollutants as any substance that can harm the environment.
+Quick Tip Environmental pollutants include any harmful substance, whether solid, liquid, or gaseous, in sufficient concentration to be detrimental to the environment.
+28. National Green Tribunal cannot exercise its jurisdiction with reference to:
+(a) Wildlife (Protection) Act, 1972 (b) Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 (c) The Public Liability Insurance Act, 1991 (d) both A & B
+Correct Answer: (c) The Public Liability Insurance Act, 1991
+Solution: Step 1: Understanding the National Green Tribunal's Jurisdiction. The National Green Tribunal (NGT) was established under the National Green Tribunal Act, 2010, with the purpose of handling matters related to environmental protection and conservation of forests, wildlife, and other natural resources. Step 2: Jurisdiction of the NGT. The NGT has jurisdiction over environmental matters, including the Wildlife (Protection)
+26
+
+Act, 1972, and the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006. These are within the scope of its environmental duties. Step 3: Conclusion. However, the NGT does not have jurisdiction over the Public Liability Insurance Act, 1991, which primarily deals with liability for accidents or incidents causing harm to human beings or property. Therefore, the correct answer is (c).
+Quick Tip The NGT's jurisdiction is primarily related to environmental laws, excluding laws related to public liability insurance.
+29. An attempt to acquire sensitive information such as usernames, passwords, and credit card details (and sometimes, indirectly, money) by masquerading as a trustworthy entity in an electronic communication ­ is known as:
+(a) Pharming (b) Smishing (c) Phishing (d) Dilding
+Correct Answer: (c) Phishing
+Solution: Step 1: Understanding Phishing. Phishing is a type of cybercrime where an attacker impersonates a legitimate entity (such as a bank, e-commerce site, or trusted figure) to deceive individuals into revealing sensitive information, such as usernames, passwords, or credit card details. Step 2: Other Types of Cybercrimes. - **Pharming** involves redirecting a legitimate website's traffic to a fraudulent site to capture information. - **Smishing** involves using SMS (short message service) instead of email to trick people into revealing personal information.
+27
+
+- **Dilding** is not a recognized cybercrime term. Step 3: Conclusion. The correct answer is (c), as phishing specifically refers to attempts to acquire sensitive information through deceptive communication.
+Quick Tip Phishing is a common cybercrime that involves tricking individuals into giving away sensitive information by masquerading as a trusted entity.
+30. The Plea Bargaining is applicable only in respect of those offences for which punishment of imprisonment is up to a period of:
+(a) 7 years (b) 10 years (c) 11 years (d) 14 years
+Correct Answer: (a) 7 years
+Solution: Step 1: Understanding Plea Bargaining. Plea bargaining is a process where the accused pleads guilty to a lesser charge in exchange for a reduced sentence. This practice is allowed under the Criminal Procedure Code (CrPC) for specific offenses. Step 2: Time Limitation for Plea Bargaining. Under Section 265A of the CrPC, plea bargaining can only be applied in cases where the punishment for the offense does not exceed 7 years of imprisonment. This ensures that more serious offenses are not dealt with through plea bargaining. Step 3: Conclusion. The correct answer is (a), as plea bargaining is only available for offenses with a maximum imprisonment term of 7 years.
+28
+
+Quick Tip Plea bargaining is a legal process only applicable for offenses punishable by up to 7 years of imprisonment under the CrPC.
+31. "From a plain reading of Section 195 Cr.P.C., it is manifest that it comes into operation at the stage when the Court intends to take cognizance of an offence under Section 190(1) Cr.P.C.; and it has nothing to do with the statutory power of the police to investigate into an F.I.R. which discloses a cognizable offence.... In other words, the statutory power of the Police to investigate under the Code is not in any way controlled or circumscribed by Section 195 Cr.P.C." - This was held by the Supreme Court in the case of:
+(a) Nalini Vs State of Tamilnadu (b) Raj Singh Vs State [(1989)] (c) Shamsher Singh Vs State of Punjab (d) State of Himachal Pradesh Vs Tara Dutta
+Correct Answer: (c) Shamsher Singh Vs State of Punjab
+Solution: Step 1: Understanding Section 195 Cr.P.C. Section 195 of the Criminal Procedure Code restricts the power of courts to take cognizance of certain offences unless a complaint is made by the court or the public servant concerned. This applies in cases like offences relating to documents produced in judicial proceedings. Step 2: Relevance of the Case Law. In the case of **Shamsher Singh Vs State of Punjab**, the Supreme Court clarified that the statutory power of the police to investigate is not controlled by Section 195 Cr.P.C. The Court's decision laid down that the police can still investigate a cognizable offence even if the court has not yet taken cognizance. Step 3: Conclusion.
+29
+
+Therefore, the correct answer is (c), as it directly relates to the case that clarified the scope of Section 195.
+Quick Tip Section 195 Cr.P.C. does not limit the police's power to investigate a cognizable offence, even if the court has not yet taken cognizance.
+32. Indemnity contract is defined under:
+(a) Section 124 of the Indian Contract Act (b) Section 67 of the Indian Contract Act (c) Section 127 of the Indian Contract Act (d) Section 128 of the Indian Contract Act
+Correct Answer: (a) Section 124 of the Indian Contract Act
+Solution: Step 1: Definition of Indemnity. An indemnity contract is defined under Section 124 of the Indian Contract Act, 1872. According to this section, a contract of indemnity is a contract in which one party promises to compensate the other for any loss caused to them by the conduct of the promisor himself, or by the conduct of any other person. Step 2: Explanation of Other Options. - **Section 67** and **Section 127** of the Indian Contract Act deal with other aspects of contracts, but they do not relate to indemnity. - **Section 128** deals with the liability of the surety in a contract of guarantee. Step 3: Conclusion. The correct answer is (a), as indemnity contracts are specifically defined under Section 124 of the Indian Contract Act.
+30
+
+Quick Tip A contract of indemnity is defined under Section 124 of the Indian Contract Act and involves compensating the other party for losses incurred.
+33. Peek Vs. Gurney is a famous case related to:
+(a) Coercion (b) Fraud (c) Mistake of fact (d) Mistake of law
+Correct Answer: (c) Mistake of fact
+Solution: Step 1: Overview of the Case. The case of **Peek Vs. Gurney** (1873) is a landmark decision that dealt with the issue of **mistake of fact**. The facts of the case involved a contract where one party entered into an agreement under a mistaken belief about the circumstances, which was later found to be a mistake of fact. Step 2: Legal Principle. In this case, the court held that a contract entered into under a **mistake of fact** can be voidable. The mistake in question had to be a mistake regarding a material fact that directly affected the agreement. Step 3: Conclusion. The correct answer is (c), as the case of Peek Vs. Gurney primarily deals with **mistake of fact** in contract law.
+Quick Tip A contract may be voidable if entered into under a **mistake of fact**, as established in **Peek Vs. Gurney**.
+31
+
+34. Which provision under Criminal Procedure Code, 1973 deals with the procedure to be adopted by the Magistrate to record confessions and statements?
+(a) Section 162 (b) Section 164 (c) Section 163A (d) Section 165
+Correct Answer: (b) Section 164
+Solution: Step 1: Section 164 of Cr.P.C. Section 164 of the Criminal Procedure Code, 1973, governs the procedure for recording confessions and statements by the Magistrate. It specifies that confessions must be recorded in the presence of a Magistrate and must be voluntary. Step 2: Explanation of Other Sections. - **Section 162** deals with the recording of statements by the police during investigation and prohibits their use in court, except in certain situations. - **Section 163A** deals with recording statements under special circumstances related to confession and coercion. - **Section 165** empowers the Magistrate to issue search warrants for investigation. Step 3: Conclusion. The correct answer is (b), as Section 164 specifically deals with the recording of confessions and statements by the Magistrate.
+Quick Tip Confessions and statements are legally admissible only when recorded under Section 164 of the Cr.P.C. by the Magistrate.
+35. Attachment of property of person absconding can be done under Section --­ of Cr.P.C.
+32
+
+(a) 83 (b) 82 (c) 85 (d) 86
+Correct Answer: (a) 83
+Solution: Step 1: Section 83 of Cr.P.C. Section 83 of the Criminal Procedure Code provides for the attachment of property of a person who is absconding. This section allows the police to attach the property of a person who has fled and is avoiding arrest. Step 2: Explanation of Other Sections. - **Section 82** deals with the issuance of a proclamation for the person absconding and seeking their appearance. - **Section 85** allows for arrest without a warrant for specific offenses. - **Section 86** relates to the procedure for executing warrants outside the jurisdiction. Step 3: Conclusion. The correct answer is (a), as Section 83 specifically deals with the attachment of property for persons absconding.
+Quick Tip Section 83 of the Cr.P.C. enables the attachment of property when an individual absconds and avoids arrest.
+36. Magistrate may dispense with personal attendance of accused under Section ----of Cr.P.C.
+(a) 201 (b) 204 (c) 205
+33
+
+(d) 200
+Correct Answer: (c) 205
+Solution: Step 1: Section 205 of Cr.P.C. Section 205 of the Criminal Procedure Code, 1973, allows a Magistrate to dispense with the personal attendance of an accused person. This is typically done if the accused is represented by a lawyer and the offense is not of a serious nature. Step 2: Explanation of Other Sections. - **Section 201** deals with the procedure to be followed when a person is found to be in an unfit state to stand trial. - **Section 204** concerns the issuance of summons or warrants by the Magistrate to the accused. - **Section 200** deals with the examination of the complainant and witnesses before issuing process. Step 3: Conclusion. The correct answer is (c), as Section 205 specifically allows the Magistrate to dispense with the personal attendance of an accused person.
+Quick Tip Under Section 205, the Magistrate can allow an accused person to be represented by a lawyer in cases where personal attendance is not essential.
+37. The Supreme Court invoked the principle of `Transformative Constitutionalism' in the case of:
+(a) Navtej Singh Johar Vs Union of India (2018) (b) Suresh Kumar Koushal Vs Naz Foundation (2010) (c) Naz Foundation Vs Government of NCT of Delhi (2009) (d) Aruna Roy Vs Union of India, (2002)
+34
+
+Correct Answer: (a) Navtej Singh Johar Vs Union of India (2018)
+Solution: Step 1: Principle of Transformative Constitutionalism. The principle of "Transformative Constitutionalism" refers to the notion that the Constitution should be interpreted in a way that fosters social change and equality. It focuses on the transformative nature of the Constitution to address social justice issues and human rights. Step 2: Case of Navtej Singh Johar Vs Union of India (2018). In **Navtej Singh Johar Vs Union of India (2018)**, the Supreme Court of India invoked the principle of transformative constitutionalism to decriminalize Section 377 of the Indian Penal Code, which criminalized same-sex relations. The Court held that the law violated the fundamental rights of LGBTQ+ individuals, thereby bringing about transformative change in the legal landscape. Step 3: Conclusion. The correct answer is (a), as the principle of transformative constitutionalism was prominently invoked in this case.
+Quick Tip Transformative Constitutionalism aims to bring about progressive change through the interpretation of constitutional principles, as seen in **Navtej Singh Johar Vs Union of India**.
+38. The provisions of Indian Penal Code apply also to any offence committed by:
+(a) any citizen of India in any place without and beyond India; (b) any person on any ship or aircraft registered in India wherever it may be (c) any person in any place without and beyond India committing offence targeting a computer resource located in India (d) All of the above
+Correct Answer: (d) All of the above
+35
+
+Solution: Step 1: Section 4 of the Indian Penal Code. Section 4 of the Indian Penal Code (IPC) provides that the provisions of the IPC apply to any offense committed by a person: 1. **(a)** A citizen of India, even if the offense occurs outside India. 2. **(b)** A person on a ship or aircraft registered in India, regardless of its location. 3. **(c)** A person committing an offense targeting a computer resource located within India, even if the act occurs outside India. Step 2: Conclusion. The correct answer is (d), as all the listed options are covered under Section 4 of the IPC.
+Quick Tip Section 4 of the IPC ensures that Indian Penal Code provisions apply to Indian citizens and certain offenses committed abroad or against Indian interests.
+39. Section 105 (H) of Cr.P.C. deals with:
+(a) Forfeiture of property in certain cases (b) Notice of forfeiture of property (c) Management of properties seized or forfeited (d) Identifying unlawfully acquired property
+Correct Answer: (a) Forfeiture of property in certain cases
+Solution: Step 1: Section 105 of Cr.P.C. Section 105 (H) of the Criminal Procedure Code addresses the forfeiture of property in cases where the person is convicted of a specific offense and the property is deemed to be used in furtherance of the criminal act. The law allows authorities to forfeit such property to prevent misuse or to enforce penalties. Step 2: Explanation of Other Options.
+36
+
+- **Section 105(A)** deals with the provision for the disposal of such forfeited property. - **Section 105(B)** pertains to giving notice regarding the forfeiture process. Step 3: Conclusion. The correct answer is (a), as Section 105(H) deals directly with the forfeiture of property in specific criminal cases.
+Quick Tip Section 105(H) allows the government to forfeit property used in or acquired from criminal activity.
+40. Bar to taking cognizance after lapse of the period of limitation ­ is dealt under:
+(a) Section 178 of Cr.P.C. (b) Section 469 of Cr. P.C. (c) Section 478 of Cr. P.C. (d) Section 168 of Cr. P.C.
+Correct Answer: (b) Section 469 of Cr.P.C.
+Solution: Step 1: Section 469 of Cr.P.C. Section 469 of the Criminal Procedure Code provides the limitation period within which cognizance must be taken for a particular offense. It states that no cognizance can be taken after the expiration of the prescribed period of limitation, except in specific circumstances. Step 2: Explanation of Other Sections. - **Section 178** deals with the place of trial and jurisdiction when an offense is committed. - **Section 478** relates to the procedure for the disposal of certain property during a trial. - **Section 168** concerns the powers of a Magistrate to adjourn a case. Step 3: Conclusion. The correct answer is (b), as Section 469 specifically addresses the bar on taking cognizance after the period of limitation has passed.
+37
+
+Quick Tip Section 469 of the Cr.P.C. ensures that a case is not prosecuted beyond the time limit set by law, providing a safeguard against delayed trials.
+41. "Decree-holder" means:
+(a) any person in whose favour a decree has been passed or an order incapable of execution has been made (b) any person in whose favour a decree has been passed or an order capable of execution has been made (c) any Citizen in whose favour a decree has been passed or an order capable of execution has been made (d) any corporation in whose favour a decree has been passed or an order capable of execution has been made
+Correct Answer: (b) any person in whose favour a decree has been passed or an order capable of execution has been made
+Solution: Step 1: Understanding the term "Decree-holder." A "decree-holder" refers to the individual or entity in whose favour a decree has been passed by the court and who is entitled to have that decree enforced. The decree-holder is the person or entity that benefits from the judgment. Step 2: Explanation of Options. - **Option (a)** is incorrect because it refers to an order incapable of execution, which would not make the person a decree-holder. - **Option (b)** is correct, as it refers to a person who has received a decree or an order that is capable of being executed. - **Option (c)** is incorrect because a decree-holder doesn't need to be a citizen necessarily, although they usually are.
+38
+
+- **Option (d)** is incorrect because while corporations can be decree-holders, the specific reference is not necessary for the definition of a decree-holder. Step 3: Conclusion. The correct answer is (b), as it accurately defines the decree-holder as a person in whose favour a decree or an order capable of execution has been made.
+Quick Tip A "decree-holder" is anyone in whose favour a decree has been passed or an order capable of execution has been made.
+42. Under the Patent Act, which of the following are not patentable?
+(a) a method of agriculture or horticulture (b) a presentation of information (c) topography of integrated circuits (d) All of the above
+Correct Answer: (d) All of the above
+Solution: Step 1: Overview of Patentability under the Patent Act. The Patent Act in India lays out specific criteria for what is and isn't patentable. According to the Act, certain things are not patentable, such as methods related to agriculture or horticulture, presentation of information, and certain technological processes. Step 2: Explanation of Non-Patentable Items. - **(a) a method of agriculture or horticulture:** Section 3(j) of the Patent Act excludes agricultural methods and techniques from being patented. - **(b) a presentation of information:** Information presentation alone does not qualify as an invention and is thus not patentable. - **(c) topography of integrated circuits:** This is excluded under Section 3(b) of the Patent Act, which specifies that designs for integrated circuits or semiconductor chips are not patentable.
+39
+
+Step 3: Conclusion. The correct answer is (d), as all the listed options are not patentable under the Patent Act.
+Quick Tip The Patent Act excludes agricultural methods, information presentations, and integrated circuit topographies from being patented.
+43. World Intellectual Property Organization (WIPO) has replaced pre-existing:
+(a) GATT (b) BIRPI (c) TPRM (d) PCT
+Correct Answer: (b) BIRPI
+Solution: Step 1: History of WIPO. The World Intellectual Property Organization (WIPO) was established in 1967 to promote and protect intellectual property across the globe. WIPO replaced the **Bureau of International Reparation for Patents and Inventions (BIRPI)**, which was a predecessor organization responsible for intellectual property. Step 2: Understanding Other Options. - **GATT (General Agreement on Tariffs and Trade)** was replaced by the World Trade Organization (WTO) in 1995. - **TPRM** and **PCT** are related to intellectual property but are not directly replaced by WIPO. TPRM (Trade Policy Review Mechanism) and PCT (Patent Cooperation Treaty) are agreements or systems under WIPO, but they do not replace it. Step 3: Conclusion. The correct answer is (b), as WIPO replaced the Bureau of International Reparation for Patents and Inventions (BIRPI).
+40
+
+Quick Tip WIPO replaced BIRPI and now oversees international intellectual property protection and cooperation.
+44. Anuradha Bhasin Vs Union Of India on 10 January, 2020 relates to a challenge under Article 32 of the Constitution seeking issuance of an appropriate writ:
+(a) for setting aside orders of the Government by which all modes of communication including Internet have been shut down in JK (b) for setting aside orders of the Government by which private property was sought to be acquired in JK (c) for setting aside orders of the Government by which JK was constituted as a UT (d) for setting aside orders of the Government by which Ladakh was separated.
+Correct Answer: (a) for setting aside orders of the Government by which all modes of communication including Internet have been shut down in JK
+Solution: Step 1: Background of the Case. In **Anuradha Bhasin Vs Union of India** (2020), the petitioners challenged the shutdown of communication services in Jammu Kashmir, particularly the internet shutdown, following the revocation of Article 370 and the reorganization of JK into a Union Territory. The petition was filed under **Article 32** of the Constitution, seeking judicial intervention. Step 2: Significance of Article 32. Article 32 of the Indian Constitution grants the right to approach the Supreme Court for the enforcement of fundamental rights. In this case, it was invoked to challenge the suspension of communication rights in JK. Step 3: Conclusion. The correct answer is (a), as the case specifically related to the challenge of the government orders that imposed an internet shutdown and other communication restrictions in JK.
+41
+
+Quick Tip The **Anuradha Bhasin case** was significant for addressing the right to access information and communication under fundamental rights.
+45. Section 66A of the Information Technology Act was struck down under Art. 19(1)(a) read with Article 19(2) in the case of:
+(a) Justice K. S. Puttaswamy Vs Union of India (b) Khark singh Vs State of U.P. (c) Govinda Vs State of M.P. (d) Shreya Singhal Vs Union of India
+Correct Answer: (d) Shreya Singhal Vs Union of India
+Solution: Step 1: Overview of Section 66A. Section 66A of the Information Technology Act, 2000, was struck down by the Supreme Court in **Shreya Singhal Vs Union of India** (2015). The Court ruled that the provision violated **freedom of speech and expression** under Article 19(1)(a) of the Indian Constitution and was not saved under the reasonable restrictions provided in Article 19(2). Step 2: Explanation of Other Options. - **Justice K.S. Puttaswamy** case dealt with the right to privacy, not Section 66A. - **Khark Singh Vs State of U.P.** and **Govinda Vs State of M.P.** do not address Section 66A. Step 3: Conclusion. The correct answer is (d), as **Shreya Singhal** was the landmark case that struck down Section 66A of the IT Act.
+Quick Tip The Shreya Singhal case led to the invalidation of Section 66A of the IT Act, reaffirming the importance of free speech in the digital age.
+42
+
+46. Article 145(3) of the Indian Constitution states that the minimum number of Judges who are to sit for the purpose of deciding any case involving a substantial question of law as to the interpretation of this Constitution or for the purpose of hearing any reference under Article 143 shall be....
+(a) Two (b) Three (c) Five (d) Nine
+Correct Answer: (c) Five
+Solution: Step 1: Article 145(3) of the Constitution. Article 145(3) of the Indian Constitution mandates that a bench of at least **five judges** must sit for deciding cases that involve a substantial question of law, especially concerning the interpretation of the Constitution or in reference to Article 143. Step 2: Explanation of Other Options. - **Two** or **Three** judges are insufficient for cases involving substantial constitutional questions. - **Nine** judges would be excessive for most cases under Article 145(3). Step 3: Conclusion. The correct answer is (c), as **five judges** are required for hearing such important constitutional matters.
+Quick Tip Article 145(3) ensures that only a larger bench (at least five judges) decides major constitutional matters.
+47. The utility of Public Interest Litigation:
+43
+
+(a) Liberalised locus standi (b) The proceedings are Non-Adversarial (c) Procedural requirements are liberalized (d) All of the above
+Correct Answer: (d) All of the above
+Solution: Step 1: Understanding Public Interest Litigation (PIL). Public Interest Litigation (PIL) is a mechanism by which any public-spirited individual or organization can approach the court for a matter affecting the public at large. It has been an important tool for enforcing constitutional and legal rights. Step 2: Features of PIL. - **Liberalised locus standi**: PIL allows even those who are not directly affected by a situation to bring matters before the court, making the process more accessible. - **Non-Adversarial proceedings**: Unlike regular litigation, PIL is often more cooperative and seeks to resolve issues that affect society, rather than focusing solely on the interests of the parties involved. - **Liberalized procedural requirements**: Courts often relax the normal procedural requirements in PIL cases to facilitate the swift administration of justice for public causes. Step 3: Conclusion. The correct answer is (d), as all the above features are inherent in the practice of PIL.
+Quick Tip PIL enables broader access to justice, focusing on societal issues and allowing relaxed procedural requirements.
+48. The petitioner, a professor of political science who had done substantial research and deeply interested in ensuring proper implementation of the constitutional provisions, challenged the practice followed by the state of Bihar in promulgating a number of ordinances without getting the approval of the legislature. The court held
+44
+
+that the petitioner as a member of public has 'sufficient interest' to maintain a petition under Article 32 ­ This relates to the case of:
+(a) Parmanand Katara Vs Union of India - AIR 1989, SC 2039 (b) D.C. Wadhwa Vs State of Bihar, AIR 1987 SC 579 (c) Neeraja Choudhari Vs State of Madhya Pradesh AIR 1984SC1099 (d) Chameli Singh Vs State of U.P. AIR 1996,SC1051
+Correct Answer: (b) D.C. Wadhwa Vs State of Bihar, AIR 1987 SC 579
+Solution: Step 1: Case Overview. In the case of **D.C. Wadhwa Vs State of Bihar** (1987), the Supreme Court dealt with a situation where ordinances were being promulgated by the state of Bihar without the approval of the legislature. The Court ruled that the petitioner, a public-spirited individual with sufficient interest in the matter, had the standing to file a petition under **Article 32** of the Constitution of India. Step 2: Article 32 of the Constitution. Article 32 allows any individual who believes their fundamental rights have been violated to approach the Supreme Court directly. In this case, the petitioner, although not directly affected, had sufficient public interest and concern to challenge the state's use of ordinances without legislative approval. Step 3: Conclusion. The correct answer is (b), as this case specifically involves the issue of public interest litigation and the standing of a public-spirited individual to challenge the government's actions under **Article 32**.
+Quick Tip Public interest litigation (PIL) allows individuals with sufficient interest to file petitions in the Supreme Court, even if they are not directly affected by the issue.
+45
+
+49. Where a legal wrong or a legal injury is caused to a person or to a determinate class of persons by reason of violation of any constitutional or legal right or any burden is imposed in contravention of any constitutional or legal provision or without authority of law or any such legal wrong or legal injury or illegal burden is threatened and such person or determinate class of persons by reasons of poverty, helplessness or disability or socially or economically disadvantaged position unable to approach the court for relief, any member of public can maintain an application for an appropriate direction, order or writ in the High Court under Article 226 and in case any breach of fundamental rights of such persons or determinate class of persons, in this court under Article 32 seeking judicial redress for the legal wrong or legal injury caused to such person or determinate class of persons." ­ Justice Bhagwati in the case of
+(a) Peoples Union for Democratic Rights Vs Union of India (b) Ashok Kumar Pandey Vs State of West Bengal (c) S. P. Gupta Vs Union of India (d) Janata Dal Vs H. S. Chowdhary
+Correct Answer: (a) Peoples Union for Democratic Rights Vs Union of India
+Solution: Step 1: Case Overview. In **Peoples Union for Democratic Rights Vs Union of India** (1982), Justice Bhagwati elaborated on the concept of **Public Interest Litigation (PIL)** and how public-spirited individuals could approach the court on behalf of disadvantaged groups who could not approach the court due to economic, social, or legal challenges. This case defined the broad scope of PIL and emphasized that any member of the public can file a petition for the enforcement of fundamental rights under **Article 32** or for an appropriate writ under **Article 226**. Step 2: Explanation of Other Options. - **Ashok Kumar Pandey Vs State of West Bengal** and **S.P. Gupta Vs Union of India** also involve public interest matters but do not emphasize this concept as much as the **People's Union** case.
+46
+
+- **Janata Dal Vs H. S. Chowdhary** is a separate case dealing with election-related matters and does not address the specific public interest issue mentioned here. Step 3: Conclusion. The correct answer is (a), as this case is the landmark judgment that addressed PIL in a broad sense.
+Quick Tip Public Interest Litigation (PIL) allows any public-spirited person to approach the court for the enforcement of rights on behalf of disadvantaged groups.
+50. The definition of 'money' under GST law does not include:
+(a) Letter of Credit (b) Currency held for numismatic value (c) Pay order (d) Traveler cheque
+Correct Answer: (b) Currency held for numismatic value
+Solution: Step 1: Understanding GST and 'Money'. Under the Goods and Services Tax (GST) law, the term "money" is specifically defined and includes physical currency, coins, and banknotes, but does not extend to all forms of financial instruments. The **GST Act** does not treat currency held for numismatic (collectible) value as money. Step 2: Explanation of Other Options. - **Letter of Credit** is not considered money, but it is a financial instrument. - **Pay orders** and **Traveler cheques** are instruments used for payment and are covered under the financial transactions, but not classified as "money" under GST. Step 3: Conclusion. The correct answer is (b), as **currency held for numismatic value** is excluded from the definition of money under GST law.
+47
+
+Quick Tip Under GST, currency held for numismatic value is not considered money, as it is a collectible, not a medium of exchange.
+51. Under Article 279A GST Council is constituted by:
+(a) Prime Minister and his Council of Ministers (b) Respective Governors of the State (c) The President (d) A collective body of Union and States
+Correct Answer: (d) A collective body of Union and States
+Solution: Step 1: Understanding Article 279A. Article 279A of the Indian Constitution deals with the **GST Council**, which is the key decision-making body for the Goods and Services Tax (GST) system. The Council is a collective body comprising the **Union Finance Minister**, as the chairperson, and the **Ministers of State Finance or Taxation of the States**. Step 2: Explanation of Other Options. - **Prime Minister and his Council of Ministers** is incorrect because the GST Council does not consist solely of the Union Cabinet. - **Respective Governors of the State** are not directly part of the GST Council. - **The President** does not constitute the GST Council directly. Step 3: Conclusion. The correct answer is (d), as Article 279A establishes the GST Council as a collective body consisting of both Union and State representatives.
+Quick Tip The GST Council is a collective body that includes both Union and State representatives, ensuring cooperative federalism in tax matters.
+48
+
+52. The definition of Contract is defined under:
+(a) Section 2(a) of the Indian Contract Act. (b) Section 2(h) of the Indian Contract Act. (c) Section 2(d) of the Indian Contract Act. (d) Section 2(g) of the Indian Contract Act.
+Correct Answer: (c) Section 2(d) of the Indian Contract Act.
+Solution: Step 1: Section 2(d) of the Indian Contract Act. According to **Section 2(d)** of the **Indian Contract Act**, a contract is defined as an agreement that is enforceable by law. This section provides the basic definition of a contract in legal terms. Step 2: Explanation of Other Options. - **Section 2(a)** defines a contract as an agreement, but it does not specify the enforceability aspect. - **Section 2(h)** defines "agreement" and includes the conditions necessary for an agreement to become a contract. - **Section 2(g)** defines "goods" in the context of contracts related to the sale of goods. Step 3: Conclusion. The correct answer is (c), as **Section 2(d)** specifically defines a contract in terms of enforceability under the law.
+Quick Tip A contract, under Section 2(d), is defined as an agreement that is legally enforceable.
+53. Voluntarily throwing or attempting to throw acid is an offence punishable under:
+(a) Section 326 B of the Indian Penal Code (b) Section 120 B of the Indian Penal Code
+49
+
+(c) Section 509 of the Indian Penal Code (d) Section 295B of the Indian Penal Code
+Correct Answer: (a) Section 326 B of the Indian Penal Code
+Solution: Step 1: Section 326 B of IPC. Section 326 B of the **Indian Penal Code (IPC)** deals with the offence of voluntarily throwing or attempting to throw acid or any other corrosive substance. It is a criminal offence that carries a serious penalty, which includes imprisonment and a fine. Step 2: Explanation of Other Options. - **Section 120B** relates to criminal conspiracy. - **Section 509** deals with insult to the modesty of a woman. - **Section 295B** deals with defiling a place of worship. Step 3: Conclusion. The correct answer is (a), as **Section 326 B** specifically addresses the crime of throwing acid or attempting to throw acid.
+Quick Tip Section 326 B of the IPC punishes the act of throwing or attempting to throw acid or any corrosive substance.
+54. A is at work with a hatchet; the head flies off and kills a man who is standing by. Here, if there was no want of proper caution on the part of A, his act is:
+(a) An Offence of murder (b) An offence of Culpable homicide (c) Not an offence (d) An offence of causing grievous hurt
+Correct Answer: (c) Not an offence
+50
+
+Solution: Step 1: Understanding the Situation. In this case, A is working with a hatchet and an unfortunate accident occurs where the head of the hatchet flies off and causes the death of a bystander. This event happens without any fault or negligence on the part of A. Step 2: Legal Interpretation. Since there was no want of proper caution on A's part and the death was a result of an accidental event, **this does not constitute a criminal offence** under the IPC. There was no intention, recklessness, or negligence to cause harm. Step 3: Conclusion. The correct answer is (c), as this is an accidental event with no criminal intent or negligence.
+Quick Tip When an event is purely accidental and without negligence or intention to harm, it may not be considered a criminal offence.
+55. A, with the intention of causing Z to be convicted of a criminal conspiracy, writes a letter in imitation of Z's handwriting, purporting to be addressed to an accomplice in such criminal conspiracy, and puts the letter in a place which he knows that the officers of the police are likely to search ­ A has committed an offence under:
+(a) Section 256 of IPC (b) Section 192 of IPC (c) Section 195 of IPC (d) Section 201 of IPC
+Correct Answer: (c) Section 195 of IPC
+Solution: Step 1: Section 195 of IPC. **Section 195** of the **Indian Penal Code (IPC)** deals with the false evidence and forgery of documents to cause a person to be convicted of a crime, which is the exact case in
+51
+
+this situation. By putting the letter in a place where the police are likely to find it, A is attempting to influence the criminal conspiracy investigation by misleading the authorities. Step 2: Explanation of Other Options. - **Section 256** relates to punishment for disobedience of orders of public servants. - **Section 192** relates to fabricating false evidence. - **Section 201** deals with causing disappearance of evidence of an offence. Step 3: Conclusion. The correct answer is (c), as **Section 195** deals with fabricating false evidence to mislead authorities in judicial proceedings.
+Quick Tip Section 195 of the IPC addresses the issue of fabricating evidence or creating false documents with the intent to mislead legal authorities.
+56. India, that is Bharat, shall be:
+(a) Federation of States (b) Quasi federal (c) Union of States (d) Unitary state of a special type
+Correct Answer: (d) Unitary state of a special type
+Solution: Step 1: Understanding the Structure of India. India is described as a **unitary state of a special type** in the Constitution. It is **federal** in nature, but with a strong central government. The Constitution of India provides for a division of powers between the Union and the States, but the Union has the power to dissolve any conflict through overriding powers. Step 2: Explanation of Other Options. - **Federation of States** would imply a structure like that of the United States, where each state has more autonomy.
+52
+
+- **Quasi-federal** suggests a system that appears federal but has more unitary features. This term is not explicitly used in the Constitution, but it describes the relationship between the Union and States in India. - **Union of States** is another description but does not fully capture India's centralized control as a unitary state. Step 3: Conclusion. The correct answer is (d), as India is a **unitary state of a special type** with a federal structure that grants significant power to the central government.
+Quick Tip India's political structure is described as a unitary state with federal features, allowing a strong central government.
+57. In M.C. Mehta Vs. Union of India, AIR 1987 SC 1086 (Sri Ram Fertilizers case) the court held that:
+(a) In escape of toxic gas the enterprise is strictly and absolutely liable to compensate all those who are affected by the accident and such liability is not subject to any of the exceptions which operate vis-a-vis the tortious principle of strict liability (b) In escape of a dangerous animal the owner is strictly and absolutely liable to compensate all those who are affected by the accident and such liability is not subject to any of the exceptions which operate vis-a-vis the tortious principle of strict liability (c) In escape of toxic gas the enterprise is strictly liable to compensate all those who are affected by the accident and such liability is subject to any of the exceptions which operate vis-a-vis the tortious principle of strict liability (d) A company or a corporation is not a state and hence not liable for acts affecting the health of the people
+Correct Answer: (a) In escape of toxic gas the enterprise is strictly and absolutely liable to compensate all those who are affected by the accident and such liability is not subject to any of the exceptions which operate vis-a-vis the tortious principle of strict liability
+53
+
+Solution: Step 1: Background of the Case. In the case of **M.C. Mehta Vs. Union of India (1987)**, the Supreme Court dealt with a situation involving the escape of toxic gas from the **Sri Ram Fertilizers** plant. The Court applied the principle of **strict liability** and ruled that the enterprise was absolutely liable for the consequences of the accident, without any exceptions. This case extended the principle of **strict liability** from the **Rylands v. Fletcher** case, particularly in the context of hazardous industries. Step 2: Explanation of Other Options. - **Option (b)** refers to a case of strict liability involving animals, which is a different legal issue under **strict liability** but not relevant to this case. - **Option (c)** suggests that strict liability might be subject to exceptions, but this contradicts the Court's decision in the Sri Ram Fertilizers case. - **Option (d)** is incorrect because the company in this case was treated as strictly liable for its actions. Step 3: Conclusion. The correct answer is (a), as the Court held that the enterprise was absolutely liable for the toxic gas escape and could not claim any exceptions.
+Quick Tip The M.C. Mehta case established the principle of absolute liability for hazardous industries, even beyond traditional strict liability exceptions.
+58. Under Section 70 of the Indian Contract Act, Where a person lawfully does anything for another person, or delivers anything to him, not intending to do so gratuitously, and such other person enjoys the benefit thereof, the latter is bound to make compensation to the former in respect of, or to restore, the thing so done or delivered. This principle is known as:
+(a) A Contract of Uberrimae fide
+54
+
+(b) Implied Agency (c) Quantum meruit (d) De nova contract
+Correct Answer: (c) Quantum meruit
+Solution: Step 1: Understanding Section 70 of the Indian Contract Act. Section 70 of the Indian Contract Act deals with the principle of **Quantum meruit**, which refers to compensation for services rendered or work done. If one person lawfully benefits another without a formal agreement, the law implies an obligation to pay for the benefit received. This principle is known as **Quantum meruit** (meaning "as much as one has deserved"). Step 2: Explanation of Other Options. - **A Contract of Uberrimae fide** refers to contracts requiring utmost good faith. - **Implied Agency** relates to situations where an agency relationship is not explicitly stated but is implied by actions. - **De nova contract** refers to a contract that is newly created or formed, which does not apply in this case. Step 3: Conclusion. The correct answer is (c), as **Quantum meruit** is the principle that applies when one person benefits from another's lawful act.
+Quick Tip **Quantum meruit** ensures that when services are rendered without an agreement, the benefactor must pay for the benefits received.
+59. Agreement is:
+(a) a promise or set of promises forming consideration to each other (b) enforceable by law
+55
+
+(c) enforceable contract (d) Un enforceable by law
+Correct Answer: (a) a promise or set of promises forming consideration to each other
+Solution: Step 1: Definition of an Agreement. According to **Section 2(e)** of the Indian Contract Act, an **agreement** is a promise or set of promises forming the consideration for each other. It does not necessarily need to be enforceable by law; it simply needs to involve mutual promises between parties. Step 2: Explanation of Other Options. - **Enforceable by law** describes a **contract**, not just an agreement. - **Enforceable contract** refers to an agreement that has legal validity and can be enforced by the courts. - **Un enforceable by law** does not apply to an agreement, as an agreement may or may not be enforceable, depending on its nature. Step 3: Conclusion. The correct answer is (a), as an **agreement** is essentially a promise or set of promises between parties, and not all agreements are enforceable contracts.
+Quick Tip An **agreement** is a mutual exchange of promises, forming the basis for a potential contract, but it is not necessarily enforceable by law.
+60. Under the Land Acquisition Act, the expression "land" includes:
+(a) benefits to arise out of land (b) things attached to the earth (c) things permanently fastened to anything attached to the earth (d) All of the above
+Correct Answer: (d) All of the above 56
+
+Solution: Step 1: Understanding the term 'land'. Under the **Land Acquisition Act**, the term "land" is broadly defined to include not only the land itself but also any **benefits arising from the land**, **things attached to the earth**, and **things permanently fastened to anything attached to the earth**. This ensures that the acquisition covers more than just the soil and includes things like crops, trees, and buildings. Step 2: Explanation of Each Option. - **Benefits to arise out of land** refers to things like crops or profits derived from the land. - **Things attached to the earth** refers to buildings or other structures physically attached to the land. - **Things permanently fastened to anything attached to the earth** refers to any permanent fixtures, like plumbing or machinery attached to a building. Step 3: Conclusion. The correct answer is (d), as all of the above components are included under the definition of "land" in the **Land Acquisition Act**.
+Quick Tip Under the **Land Acquisition Act**, the term "land" includes not just the physical land, but also the benefits, fixtures, and attachments on or to it.
+61. Temporary occupation of waste or arable land, procedure when difference as to compensation exists is provided under:
+(a) Section 32 of Land Acquisition Act (b) Section 30 of Land Acquisition Act (c) Section 35 of Land Acquisition Act (d) Section 31 of Land Acquisition Act
+Correct Answer: (a) Section 32 of Land Acquisition Act
+Solution:
+57
+
+Step 1: Section 32 of Land Acquisition Act. **Section 32** of the **Land Acquisition Act** deals with the temporary occupation of waste or arable land and provides the procedure to follow when there is a difference in the compensation for such land. This section helps settle disputes and compensations concerning the temporary use of land. Step 2: Explanation of Other Options. - **Section 30** addresses the determination of compensation where there is a dispute regarding the person to whom compensation should be paid. - **Section 35** pertains to the payment of compensation when a difference arises regarding the amount or the party. - **Section 31** covers the procedure when the government acquires land for public use. Step 3: Conclusion. The correct answer is (a), as **Section 32** specifically deals with the temporary occupation of land and the procedure for resolving compensation issues.
+Quick Tip Section 32 of the **Land Acquisition Act** governs the temporary occupation of land and the procedure to resolve compensation disputes.
+62. Suits by indigent persons is dealt under:
+(a) Order 44 of C.P.C. (b) Order 33 of C.P.C. (c) Order 55 of C.P.C. (d) Order 22 of C.P.C.
+Correct Answer: (b) Order 33 of C.P.C.
+Solution: Step 1: Order 33 of C.P.C. **Order 33** of the **Code of Civil Procedure (C.P.C.)** deals with the procedure for suits by indigent persons, i.e., individuals who are unable to afford the costs of a lawsuit. This
+58
+
+order provides a process for filing suits without paying the usual court fees, based on the person's financial condition. Step 2: Explanation of Other Options. - **Order 44** deals with the procedure for appeals by indigent persons. - **Order 55** pertains to the procedure for setting aside an ex parte decree. - **Order 22** relates to the procedure for substitution of parties in case of death or other circumstances. Step 3: Conclusion. The correct answer is (b), as **Order 33** of the C.P.C. specifically governs suits filed by indigent persons.
+Quick Tip Indigent persons can file suits without paying court fees under **Order 33 of the C.P.C.**.
+63. Res gestae, Relevancy of facts forming part of same transaction is dealt under:
+(a) Section 6 of the Evidence Act (b) Section 17 of the Evidence Act (c) Section 18 of the Evidence Act (d) Section 20 of the Evidence Act
+Correct Answer: (a) Section 6 of the Evidence Act
+Solution: Step 1: Section 6 of the Evidence Act. **Section 6** of the **Indian Evidence Act, 1872**, deals with **res gestae**, which refers to facts forming part of the same transaction. This section allows evidence of facts or acts done during a transaction to be admissible in court if they are closely related to the main event or transaction. Step 2: Explanation of Other Options.
+59
+
+- **Section 17** refers to the admission of statements made by a party to a case. - **Section 18** deals with admissions made by persons authorized to make them. - **Section 20** refers to admissions made by persons in authority. Step 3: Conclusion. The correct answer is (a), as **Section 6** specifically addresses **res gestae** and the relevancy of facts forming part of the same transaction.
+Quick Tip **Res gestae** refers to facts that form part of the same transaction and are admissible under **Section 6 of the Evidence Act**.
+64. Among other things, the Function of Bar Council of India includes laying down standards of professional conduct and etiquette for advocates. ­ Under which section of the Advocates Act:
+(a) Section 7 (b) Section 8 (c) Section 9 (d) Section 6
+Correct Answer: (d) Section 6
+Solution: Step 1: Advocates Act and Bar Council's Functions. Section 6 of the **Advocates Act, 1961** empowers the Bar Council of India to lay down standards of professional conduct and etiquette for advocates. This section is crucial for regulating the professional behavior of lawyers and establishing the norms they must follow in the legal profession. Step 2: Explanation of Other Options. - **Section 7** deals with the powers and functions of the Bar Council of India but not specifically related to the standards of conduct.
+60
+
+- **Section 8** deals with the formation and functions of the State Bar Council. - **Section 9** is about the powers of the State Bar Council. Step 3: Conclusion. The correct answer is (d), as **Section 6** of the **Advocates Act** is the relevant section.
+Quick Tip The Bar Council of India is empowered under **Section 6** of the Advocates Act to lay down standards of professional conduct and etiquette for advocates.
+65. According to Justice 'Abbot Parry' what are the "Seven Lamps of Advocacy":
+(a) (i) Honesty (ii) Courage (iii) professionalism (iv) Wit (v) Eloquence, (vi) Judgment and (vii) Fellowship. (b) (i) Honesty (ii) Courage (iii) Industry (iv) Wit (v) Eloquence, (vi) Judgment and (vii) Fellowship. (c) (i) Influence (ii) Courage (iii) Industry (iv) Wit (v) Eloquence, (vi) Judgment and (vii) Fellowship. (d) (i) Honesty (ii) Courage (iii) Industry (iv) seriousness (v) Eloquence, (vi) Judgment and (vii) Fellowship.
+Correct Answer: (b) (i) Honesty (ii) Courage (iii) Industry (iv) Wit (v) Eloquence, (vi) Judgment and (vii) Fellowship.
+Solution: Step 1: Understanding the "Seven Lamps of Advocacy". Justice **Abbot Parry** famously stated the "Seven Lamps of Advocacy" that serve as the guiding principles for an advocate. These principles emphasize the qualities that make an advocate successful and ethical in the legal profession. The "Seven Lamps" are: (i) **Honesty**, (ii) **Courage**, (iii) **Industry**, (iv) **Wit**, (v) **Eloquence**, (vi) **Judgment**, and (vii) **Fellowship**. These elements encapsulate the core values and attributes essential for an advocate to succeed and serve their clients effectively.
+61
+
+Step 2: Explanation of Other Options. - **Option (a)** lists "professionalism," which, while important, is not part of the Seven Lamps. - **Option (c)** refers to **"influence"** instead of **"industry"**, which is not part of the Seven Lamps. - **Option (d)** includes **"seriousness"**, which is not one of the original Seven Lamps. Step 3: Conclusion. The correct answer is (b), as it correctly lists the "Seven Lamps of Advocacy" described by Justice **Abbot Parry**.
+Quick Tip The "Seven Lamps of Advocacy" include qualities like **honesty, courage, industry, wit, eloquence, judgment**, and **fellowship** which are essential for an advocate.
+66. Minimum number of Directors in a Public company:
+(a) 3 (b) 10 (c) 12 (d) 5
+Correct Answer: (a) 3
+Solution: Step 1: Understanding the Corporate Law. According to the **Companies Act, 2013**, the minimum number of directors required for a **public company** is **3**. This is outlined under **Section 149** of the Act, which mandates that a public company must have at least three directors. Step 2: Explanation of Other Options. - **Option (b)** refers to the minimum number of directors for a private company. - **Option (c)** and **Option (d)** are incorrect as they exceed the minimum number of directors required by law for a public company.
+62
+
+Step 3: Conclusion. The correct answer is (a), as **3 directors** is the minimum required for a public company under the **Companies Act, 2013**.
+Quick Tip A **public company** requires a minimum of **3 directors** as per the Companies Act, 2013.
+67. An associate company, in relation to another company, means:
+(a) a company in which that other company has a significant influence, but which is a subsidiary company of the company having such influence and includes a joint venture company (b) a company in which that other company has a significant influence, but which is not a subsidiary company of the company having such influence and includes a joint venture company (c) a company in which that other company has a significant influence, but which is not a subsidiary company of the company having such influence and does not include a joint venture company (d) a company in which that other company has full shares, and is a subsidiary company of the company having such influence and includes a joint venture company
+Correct Answer: (b) a company in which that other company has a significant influence, but which is not a subsidiary company of the company having such influence and includes a joint venture company
+Solution: Step 1: Understanding Associate Company. An **associate company** is one in which the other company holds significant influence, but not necessarily a controlling interest. This means the company does not need to be a **subsidiary** of the other company, and it may also include joint venture companies where the other company holds influence but not control.
+63
+
+Step 2: Explanation of Other Options. - **Option (a)** is incorrect because it describes a **subsidiary company**, not an associate company. - **Option (c)** is not correct because it wrongly eliminates the joint venture aspect that is often part of the associate company structure. - **Option (d)** refers to a situation where the company has **full shares**, which would make it a **subsidiary company**, not an associate company. Step 3: Conclusion. The correct answer is (b), as it correctly defines an associate company under the given conditions.
+Quick Tip An **associate company** is one where another company has significant influence but does not have full control or ownership as in a subsidiary company.
+68. The Supreme Court has legalised living wills and passive euthanasia subject to certain conditions in the case of:
+(a) Aruna Ramachandra Shanbaug Vs Union of India (2011) (b) Common Cause Vs Union of India, (2018) 5 SCC 1 (c) Gian Kaur Vs State of Punjab (1996) (d) D Chenna Jagadeeswar Vs State of A.P. (1988)
+Correct Answer: (b) Common Cause Vs Union of India, (2018) 5 SCC 1
+Solution: Step 1: Overview of the Case. In **Common Cause Vs Union of India (2018)**, the **Supreme Court** of India legalised **living wills** and passive euthanasia, subject to certain safeguards and conditions. The Court held that a person has the right to refuse medical treatment under the right to live with dignity, and passive euthanasia could be allowed if the individual is terminally ill and there is no hope for recovery.
+64
+
+Step 2: Explanation of Other Options. - **Aruna Ramachandra Shanbaug Vs Union of India (2011)** is the case where the Court discussed **passive euthanasia**, but the legalisation came later, in **2018**. - **Gian Kaur Vs State of Punjab (1996)** is a case that dealt with the **right to die** but did not legalise living wills or passive euthanasia in the way it was done in 2018. - **D Chenna Jagadeeswar Vs State of A.P. (1988)** is unrelated to the issue of euthanasia or living wills. Step 3: Conclusion. The correct answer is (b), as **Common Cause Vs Union of India (2018)** was the case in which the Supreme Court legalised living wills and passive euthanasia with conditions.
+Quick Tip The **Common Cause (2018)** case legalised **living wills** and **passive euthanasia**, setting guidelines for their implementation in India.
+69. Article 310 of the Constitution mentions about:
+(a) Doctrine of Immunities and Instrumentalities with reference to civil servants (b) Doctrine of legitimate expectation with reference to civil servants (c) Doctrine of natural justice with reference to civil servants (d) Doctrine of pleasure with reference to civil servants is
+Correct Answer: (d) Doctrine of pleasure with reference to civil servants is
+Solution: Step 1: Understanding Article 310. **Article 310** of the Indian Constitution deals with the **Doctrine of Pleasure**. It states that **the President of India** or **the Governor of a State** has the power to remove civil servants, who are employed at their pleasure, without providing a reason. This article establishes the basic principle that civil servants hold office at the pleasure of the President or Governor.
+65
+
+Step 2: Explanation of Other Options. - **Doctrine of Immunities and Instrumentalities** is not referenced in Article 310 but is a concept from administrative law regarding the powers and privileges of the state and its organs. - **Doctrine of legitimate expectation** is a principle of administrative law but is not related to Article 310. - **Doctrine of natural justice** refers to ensuring fairness in legal proceedings but is not mentioned under Article 310. Step 3: Conclusion. The correct answer is (d), as **Article 310** specifically refers to the **Doctrine of Pleasure** with regard to civil servants' tenure.
+Quick Tip **Article 310** of the Indian Constitution grants the power to remove civil servants at the pleasure of the President or Governor.
+70. Right to know the antecedents of the candidates in the election flow from:
+(a) Article 19 (1)(a) (b) Article 20 (c) Article 13 (d) Article 14
+Correct Answer: (a) Article 19 (1)(a)
+Solution: Step 1: Understanding Article 19(1)(a). **Article 19(1)(a)** of the Indian Constitution guarantees **freedom of speech and expression**. The **Right to Information (RTI)**, including the right to know the antecedents of candidates in elections, falls under this article as part of the freedom of expression and the public's right to make informed choices in democratic elections.
+66
+
+Step 2: Explanation of Other Options. - **Article 20** deals with protection in respect of conviction for offenses. - **Article 13** deals with laws inconsistent with or in derogation of fundamental rights. - **Article 14** guarantees equality before the law, but it is not specifically about election transparency. Step 3: Conclusion. The correct answer is (a), as **Article 19(1)(a)** guarantees the right to freedom of speech and expression, which includes the right to know the antecedents of election candidates.
+Quick Tip The **Right to Information (RTI)** is derived from **Article 19(1)(a)**, which guarantees the freedom of speech and expression.
+71. In the Preamble of the Indian Constitution, the expression 'liberty' is followed by the words:
+(a) Of status and opportunity (b) Of thought, expression, belief, faith and worship (c) Assuring the dignity of the individual (d) Justice, social economic and political
+Correct Answer: (b) Of thought, expression, belief, faith and worship
+Solution: Step 1: Preamble of the Indian Constitution. The Preamble to the **Indian Constitution** ensures **liberty** and is followed by the words "of thought, expression, belief, faith, and worship." This reflects the commitment to protect the freedom of the individual in these areas. Step 2: Explanation of Other Options. - **Option (a)** refers to equality of status and opportunity, which is a separate concept from liberty.
+67
+
+- **Option (c)** refers to dignity but not specifically tied to the word **liberty** in the Preamble. - **Option (d)** refers to **justice**, which is another foundational principle of the Constitution but not directly following liberty in the Preamble. Step 3: Conclusion. The correct answer is (b), as the expression **liberty** in the Preamble is followed by "of thought, expression, belief, faith, and worship."
+Quick Tip The Preamble of the Indian Constitution guarantees **liberty of thought, expression, belief, faith, and worship** to all individuals.
+72. According to Income Tax Act "zero coupon bond" means a bond:
+(a) issued by any infrastructure capital company or infrastructure capital fund or public sector company or scheduled bank on or after the 1st day of June, 2005 (b) in respect of which no payment and benefit is received or receivable before maturity or redemption from infrastructure capital company or infrastructure capital fund or public sector company or scheduled bank (c) which the Central Government may, by notification in the Official Gazette, specify in this behalf. (d) All of the above
+Correct Answer: (d) All of the above
+Solution: Step 1: Definition of Zero Coupon Bond. A **zero coupon bond** is a bond issued at a discount and does not provide periodic interest payments. The holder of the bond receives the face value of the bond at maturity. According to the **Income Tax Act**, it is defined under the conditions that it is issued by a specified company, has no periodic payments, and meets the guidelines provided by the Central Government in the Official Gazette.
+68
+
+Step 2: Explanation of Each Option. - **Option (a)** is correct, as it specifies the entities that can issue zero coupon bonds and the date from which they must be issued. - **Option (b)** is also correct, as it describes the nature of zero coupon bonds, where no payment is made before maturity or redemption. - **Option (c)** is correct, as the Central Government can specify the conditions of such bonds through notifications. Step 3: Conclusion. The correct answer is (d), as all of the above options correctly describe the characteristics of a **zero coupon bond** as per the **Income Tax Act**.
+Quick Tip A **zero coupon bond** is a bond issued at a discount, with no interest payments until maturity, and its conditions are specified by the Central Government.
+73. Provisions relating to GST are inserted in the Constitution by:
+(a) The Constitution (one hundred and first) Act 2016 (b) The Constitution (one hundred and second) Act 2016 (c) The Constitution (eighty fourth) Act 2016 (d) The Constitution (seventy seven) Act 2016
+Correct Answer: (a) The Constitution (one hundred and first) Act 2016
+Solution: Step 1: GST Constitutional Amendment. The **Goods and Services Tax (GST)** was introduced in India through the **101st Amendment to the Constitution**, which was passed in **2016**. This amendment inserted provisions related to GST into the Indian Constitution, giving legal framework to the new indirect tax system. Step 2: Explanation of Other Options.
+69
+
+- **Option (b)** is incorrect as the **102nd Amendment** deals with the **National Commission for Backward Classes**, not GST. - **Option (c)** refers to the **84th Amendment**, which amended provisions related to reservations for Scheduled Castes and Tribes. - **Option (d)** refers to the **77th Amendment**, which deals with the reservation of seats for Scheduled Castes and Tribes in local bodies. Step 3: Conclusion. The correct answer is (a), as the **101st Amendment** of the Constitution inserted the provisions related to GST.
+Quick Tip The **101st Amendment** to the **Indian Constitution** in 2016 introduced **GST** as a unified indirect tax system in India.
+74. A is accused of waging war against the Government of India by taking part in an armed insurrection in which property is destroyed, troops are attacked, and goals are broken open. The occurrence of these facts is relevant, as forming part of the general transaction, though A may not have been present at all of them. ­ Under which section of the India Evidence Act:
+(a) Section 12 (b) Section 6 (c) Section 3 (d) Section 5
+Correct Answer: (b) Section 6
+Solution: Step 1: Understanding Section 6. **Section 6** of the **Indian Evidence Act** deals with the relevancy of facts forming part of the same transaction. It is concerned with the chain of events that occur in a transaction,
+70
+
+and when a person is involved in part of the transaction, facts related to that transaction become relevant, even if the person was not present at all of them. In this case, A's involvement in the armed insurrection is relevant to the offense under **Section 6**. Step 2: Explanation of Other Options. - **Section 12** deals with facts relating to previous statements in a case. - **Section 3** defines relevant facts, but it does not specifically address the situation described. - **Section 5** deals with the admissibility of facts, but it is not the appropriate section in this context. Step 3: Conclusion. The correct answer is (b), as **Section 6** deals with facts forming part of the same transaction.
+Quick Tip **Section 6** of the **Indian Evidence Act** ensures that facts forming part of the same transaction are admissible, even if the person was not present during every event.
+75. Section 110 of the Evidence Act deals with:
+(a) Documentary Evidence (b) Exclusion of Oral Evidence (c) Burden of proof as to ownership (d) Proof of guilt
+Correct Answer: (c) Burden of proof as to ownership
+Solution: Step 1: Understanding Section 110. **Section 110** of the **Indian Evidence Act** deals with the **burden of proof** in cases where ownership of property is in question. It places the burden of proving ownership on the person who claims it. This section applies in civil cases involving property disputes.
+71
+
+Step 2: Explanation of Other Options. - **Option (a)** refers to documentary evidence, which is covered under other sections. - **Option (b)** deals with the exclusion of oral evidence, which is addressed under **Section 91**. - **Option (d)** refers to **proof of guilt**, which is a broader concept beyond this section. Step 3: Conclusion. The correct answer is (c), as **Section 110** specifically addresses the **burden of proof** regarding ownership.
+Quick Tip **Section 110** of the **Indian Evidence Act** places the burden of proving ownership of property on the person asserting it.
+76. Section 113 (A) of the Evidence Act deals with:
+(a) Presumption as to abetment of murder (b) Presumption as to rape and abetment of suicide by a woman (c) Presumption as to abetment of kidnap of a girl (d) Presumption as to abetment of suicide by a married woman
+Correct Answer: (d) Presumption as to abetment of suicide by a married woman
+Solution: Step 1: Understanding Section 113 (A). **Section 113 (A)** of the **Indian Evidence Act** creates a **presumption** in cases where a married woman commits suicide. If a woman commits suicide within a specified time after her marriage, the law presumes that her husband or his relatives abetted the suicide, unless proven otherwise. Step 2: Explanation of Other Options. - **Option (a)** refers to **murder**, but **Section 113 (A)** is specifically about suicide. - **Option (b)** refers to **rape** and **suicide**, but **Section 113 (A)** is focused only on **suicide**.
+72
+
+- **Option (c)** deals with **kidnapping**, which is a different offense not covered under this section. Step 3: Conclusion. The correct answer is (d), as **Section 113 (A)** specifically deals with the **presumption of abetment of suicide** by a married woman.
+Quick Tip **Section 113 (A)** presumes the abetment of suicide by a married woman if she commits suicide within a short period after marriage.
+77. In which of the following cases the offence of sedition was in issue:
+(a) Queen Empress Vs Bal Gangadhar Tilak (b) Niharendu Dutt Mazumdar Vs Emperor (c) Kedar Nath Singh Vs State of Bihar (d) All of the above
+Correct Answer: (d) All of the above
+Solution: Step 1: Sedition Cases. Sedition, as an offense, involves acts that promote disaffection against the government. The Indian courts have dealt with sedition laws in several landmark cases, including: - **Queen Empress Vs Bal Gangadhar Tilak** (1897), which was a case involving the sedition charge against Bal Gangadhar Tilak for his speeches against the British. - **Niharendu Dutt Mazumdar Vs Emperor** (1942), a case that also involved sedition charges for anti-government activities. - **Kedar Nath Singh Vs State of Bihar** (1962), where the Supreme Court clarified the scope of sedition and upheld the constitutionality of Section 124-A of the IPC, while limiting its misuse. Step 2: Explanation of Other Options.
+73
+
+- **All of the above** options are correct as sedition was discussed in each of these cases. Step 3: Conclusion. The correct answer is (d), as sedition was involved in **all of the above** cases.
+Quick Tip **Sedition** was involved in **Queen Empress Vs Bal Gangadhar Tilak**, **Niharendu Dutt Mazumdar Vs Emperor**, and **Kedar Nath Singh Vs State of Bihar**.
+78. Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs. ­ Is an offence under:
+(a) Section 295 (b) Section 295A (c) Section 265A (d) Section 276
+Correct Answer: (b) Section 295A
+Solution: Step 1: Understanding Section 295A. **Section 295A** of the **Indian Penal Code (IPC)** deals with acts that insult religion or religious beliefs with the deliberate and malicious intention of outraging religious feelings. This section specifically targets offensive actions that disturb public harmony or incite religious intolerance. Step 2: Explanation of Other Options. - **Section 295** pertains to damaging or defiling a place of worship, but it doesn't address insulting religious beliefs. - **Section 265A** is related to the preparation of an order for a criminal trial, not religious offenses. - **Section 276** deals with the punishment for selling adulterated drugs and is unrelated to religious offenses.
+74
+
+Step 3: Conclusion. The correct answer is (b), as **Section 295A** specifically deals with **deliberate and malicious acts** to insult religion or religious beliefs.
+Quick Tip **Section 295A** of the **IPC** addresses deliberate and malicious acts intended to outrage religious feelings by insulting religion or religious beliefs.
+79. Under Section 29 of Cr.P.C., the Court of a Chief Judicial Magistrate may pass any sentence authorized by law except:
+(a) A sentence of death (b) Imprisonment for life (c) Imprisonment for a term exceeding seven years (d) All of the above
+Correct Answer: (a) A sentence of death
+Solution: Step 1: Understanding Section 29 of Cr.P.C. **Section 29** of the **Criminal Procedure Code (Cr.P.C.)** allows the Court of a Chief Judicial Magistrate to pass any sentence authorized by law, except a **sentence of death**. This section outlines the limitations on the sentencing power of the Chief Judicial Magistrate. While they can pass sentences of imprisonment, they cannot pass the death sentence. Step 2: Explanation of Other Options. - **Imprisonment for life** and **imprisonment for a term exceeding seven years** are within the jurisdiction of a Chief Judicial Magistrate, as long as they do not involve the death penalty. - **Option (d)** is incorrect, as **the Chief Judicial Magistrate** can pass sentences of imprisonment but not the death sentence. Step 3: Conclusion.
+75
+
+The correct answer is (a), as **a sentence of death** is outside the scope of the sentencing power of a **Chief Judicial Magistrate**.
+Quick Tip A **Chief Judicial Magistrate** cannot pass a **death sentence** under **Section 29 of Cr.P.C.**.
+80. Provision regarding filing of suits by an alien under the Code of Civil Procedure is dealt under:
+(a) Section 21A (b) Section 15 (c) Section 21B (d) Section 83
+Correct Answer: (d) Section 83
+Solution: Step 1: Understanding Section 83. **Section 83** of the **Code of Civil Procedure (C.P.C.)** deals with the **filing of suits by an alien** (a person who is not an Indian citizen) and the procedure to be followed when such a person files a suit in India. This section specifies that an alien must follow certain rules and formalities for their suit to be entertained in Indian courts. Step 2: Explanation of Other Options. - **Section 21A** deals with the institution of suits in respect of specific contracts or agreements. - **Section 15** relates to the place of suing, not specifically to aliens. - **Section 21B** deals with the conduct of proceedings by a person entitled to sue. Step 3: Conclusion. The correct answer is (d), as **Section 83** specifically addresses the provision regarding the filing of suits by an **alien** under the C.P.C.
+76
+
+Quick Tip **Section 83** of the **C.P.C.** deals with the filing of suits by an **alien** in Indian courts.
+81. An order issued by court under Civil Procedure Code 1908 as per order XXI, rule 46, for recovery of amount due to judgment creditor ­ is known as:
+(a) ITR Order (b) Garnishee Order (c) Decree Holder Order (d) Bank Order
+Correct Answer: (b) Garnishee Order
+Solution: Step 1: Understanding Garnishee Order. A **Garnishee Order** is an order issued by the court under **Order XXI, Rule 46** of the **C.P.C.** for the recovery of a debt or amount owed by a judgment debtor. In this order, the court directs a third party (the garnishee, such as a bank or employer) to pay the amount owed directly to the judgment creditor. This is done to ensure that the creditor is able to recover their dues. Step 2: Explanation of Other Options. - **ITR Order** is not a valid term in the C.P.C. - **Decree Holder Order** is not a specific legal term; the correct term is **Garnishee Order** for the recovery of dues. - **Bank Order** is not a standard term under the C.P.C. and does not specifically refer to the recovery process. Step 3: Conclusion. The correct answer is (b), as the court issues a **Garnishee Order** under **Order XXI, Rule 46** for the recovery of amounts due to the judgment creditor.
+77
+
+Quick Tip A **Garnishee Order** is issued by the court to direct a third party to pay the amount owed by the judgment debtor to the creditor.
+82. Section 88 read with Order XXXV of the Code of Civil Procedure, 1908 deals with:
+(a) Interpleader suit (b) Interlocutory Order (c) Restitution Order (d) Attachment Order
+Correct Answer: (a) Interpleader suit
+Solution: Step 1: Understanding Section 88 of C.P.C. **Section 88** of the **Code of Civil Procedure (C.P.C.)** deals with the procedure for **interpleader suits**. In such suits, when two or more parties claim a right to the same property and the party in possession of the property is unsure about who has the legitimate claim, they may file an interpleader suit. Section 88 is read with **Order XXXV**, which provides the detailed procedure for filing an interpleader suit. Step 2: Explanation of Other Options. - **Interlocutory Orders** are temporary orders passed during the course of litigation, unrelated to interpleader suits. - **Restitution Orders** concern the return of property or benefits after an order has been set aside, and they are covered under different provisions of the C.P.C. - **Attachment Orders** concern the seizure of property to satisfy a decree and do not relate to interpleader suits. Step 3: Conclusion. The correct answer is (a), as **Section 88** deals with **interpleader suits**.
+78
+
+Quick Tip An **interpleader suit** is used when two or more parties claim the same property and the person holding the property is unsure about who has the legitimate claim.
+83. Vis major means:
+(a) Act of God (b) Act of Individual (c) Act of other party (d) Act of plaintiff Correct Answer: (a) Act of God Solution: Step 1: Understanding Vis Major. **Vis major** is a Latin term that refers to **an Act of God** or an event beyond human control, such as natural disasters (e.g., earthquakes, floods, or storms). This term is often used in legal contexts to describe situations where a party is excused from liability due to circumstances beyond their control. Step 2: Explanation of Other Options. - **Act of Individual**, **Act of other party**, and **Act of plaintiff** do not describe situations where a party is excused from liability due to uncontrollable external factors. Step 3: Conclusion. The correct answer is (a), as **Vis major** refers to **an Act of God**, a natural event outside human control.
+Quick Tip **Vis major** refers to an **Act of God** or any event beyond human control, like natural disasters.
+79
+
+84. According to the Classical doctrine of Act of State in law of Torts means:
+(a) an act of the sovereign power of a country, that cannot be challenged, controlled or interfered with by municipal courts (b) an act of the Judiciary of a country, that cannot be challenged, controlled or interfered with by municipal courts (c) an act of the sovereign power of a country, that can be challenged, controlled or interfered with by municipal courts (d) None of the above
+Correct Answer: (a) an act of the sovereign power of a country, that cannot be challenged, controlled or interfered with by municipal courts
+Solution: Step 1: Understanding Act of State in Law of Torts. The **Classical doctrine of Act of State** in tort law refers to the principle that actions taken by the sovereign power (e.g., government or monarchy) cannot be questioned or interfered with by the **municipal courts** (courts within the country). This doctrine establishes that any acts done in the exercise of sovereign authority are immune from legal challenges in domestic courts. Step 2: Explanation of Other Options. - **Option (b)** is incorrect because the **Judiciary** is part of the government but is not the sovereign power that cannot be challenged. - **Option (c)** is incorrect because the classical doctrine specifically prevents challenges to sovereign acts. Step 3: Conclusion. The correct answer is (a), as the **Act of State** doctrine asserts that acts of the **sovereign power** cannot be challenged by municipal courts.
+Quick Tip The **Act of State** doctrine shields actions taken by the **sovereign power** from legal challenge in domestic courts.
+80
+
+85. In Torts, all persons who aid, or counsel, or direct or join in the committal of a wrongful act, are known as:
+(a) Abettors (b) Joint tortfeasors (c) Tort holders (d) Tort holders in common
+Correct Answer: (b) Joint tortfeasors
+Solution: Step 1: Understanding Joint Tortfeasors. In **Tort Law**, **joint tortfeasors** are two or more people who work together in committing a wrongful act that causes harm to another person. They are jointly liable for the damage caused by the act. They do not need to act together at the same time, but their actions result in a single injury or wrong. Step 2: Explanation of Other Options. - **Abettors** are individuals who aid, encourage, or assist in the commission of a wrongful act but are not necessarily jointly liable for the damage caused by it. - **Tort holders** and **Tort holders in common** are terms that do not apply to individuals involved in the commission of wrongful acts. Step 3: Conclusion. The correct answer is (b), as **joint tortfeasors** are those who are jointly liable for the wrongful act.
+Quick Tip **Joint tortfeasors** are individuals who jointly commit a wrongful act and are held jointly liable for the harm caused.
+86. M.C. Mehta Vs Union of India 1986 Shriram Food and Fertilisers case relates to:
+81
+
+(a) Oleium Gas leak (b) Ganga water cleaning (c) Child labour (d) Bonded labour
+Correct Answer: (a) Oleium Gas leak
+Solution: Step 1: Understanding the Case. The **M.C. Mehta Vs Union of India (1986)** case is widely known for the **Oleium Gas leak incident**, which occurred at the **Shriram Food and Fertilisers** plant in Delhi. The case led to significant legal action regarding environmental protection and corporate responsibility for industrial accidents. This case marked an important milestone in the field of **environmental law** in India. Step 2: Explanation of Other Options. - The case did not deal with **Ganga water cleaning**, **child labour**, or **bonded labour**. It was specifically focused on the **environmental hazards** caused by the Oleium Gas leak. Step 3: Conclusion. The correct answer is (a), as the **Oleium Gas leak** is the key issue in the **M.C. Mehta Vs Union of India** case.
+Quick Tip The **M.C. Mehta Vs Union of India (1986)** case is primarily concerned with the **Oleium Gas leak** and the resulting environmental concerns.
+87. A.K. Kraipak Vs Union of India relates to:
+(a) Likelihood of Bias (b) Delegated Legislation (c) Administrative Discretion
+82
+
+(d) Notice
+Correct Answer: (a) Likelihood of Bias
+Solution: Step 1: Understanding the Case. **A.K. Kraipak Vs Union of India** (1969) is a landmark case that dealt with the issue of **likelihood of bias** in administrative decision-making. The Supreme Court held that the rule against bias must apply in all administrative proceedings where there is a possibility of bias influencing the outcome. The case emphasized the importance of ensuring fairness and impartiality in public decision-making. Step 2: Explanation of Other Options. - The case did not address **delegated legislation**, **administrative discretion**, or **notice**. The primary focus was on **bias** in administrative decisions. Step 3: Conclusion. The correct answer is (a), as the case directly relates to **likelihood of bias** in administrative proceedings.
+Quick Tip The **A.K. Kraipak Vs Union of India** case focused on the **likelihood of bias** in administrative decision-making.
+88. Judicial control of Delegated Legislation may be exercised on the ground of:
+(a) Doctrine of Ultravires (b) Malafides (c) Exclusion of Judicial Review (d) All of the above
+Correct Answer: (d) All of the above
+Solution:
+83
+
+Step 1: Judicial Control of Delegated Legislation. Judicial control of **delegated legislation** involves the courts reviewing actions taken by bodies exercising powers granted by the legislature. The courts can review such actions on the grounds of: - **Doctrine of Ultravires**, where the legislation or action exceeds the powers granted to the body by the parent legislation. - **Malafides**, where the legislation is made with improper motives or bad faith. - **Exclusion of Judicial Review**, where the legislature improperly excludes judicial review of the delegated legislation. Step 2: Explanation of Other Options. - All the grounds mentioned in the options are valid for judicial control of delegated legislation. Step 3: Conclusion. The correct answer is (d), as **all of the above** are grounds for judicial control of delegated legislation.
+Quick Tip **Judicial control** over **delegated legislation** can be exercised on grounds like **ultra vires**, **malafides**, and the **exclusion of judicial review**.
+89. The principle of Res Judicata is dealt under Section --- of CPC:
+(a) 9 (b) 10 (c) 11 (d) 12
+Correct Answer: (a) 9
+Solution: Step 1: Understanding Res Judicata.
+84
+
+**Res Judicata** is a Latin term meaning "a matter already judged." **Section 9** of the **CPC** lays down the rule of res judicata, which bars the re-litigation of the same issue once it has been finally decided by a competent court. The section prevents a case from being filed again on the same facts, ensuring judicial efficiency and the finality of decisions. Step 2: Explanation of Other Options. - **Sections 10, 11, and 12** deal with other aspects of civil procedure, such as stay of suits, res judicata's application in subsequent suits, and the effect of prior judgments, but **Section 9** specifically deals with **Res Judicata**. Step 3: Conclusion. The correct answer is (a), as **Section 9** of the **CPC** deals with **Res Judicata**.
+Quick Tip **Res Judicata** ensures that once a matter is finally settled by a court, it cannot be re-litigated, as per **Section 9** of the **CPC**.
+90. Section 14 of the C.P.C. deals with:
+(a) Presumption as to decisions of tribunals (b) Presumption as to foreign judgments (c) Presumption as to judgments of the lower court (d) Presumption as to judgments of High Court
+Correct Answer: (c) Presumption as to judgments of the lower court
+Solution: Step 1: Understanding Section 14. **Section 14** of the **CPC** deals with the presumption of correctness in the judgments of lower courts. This section stipulates that a judgment passed by a court or tribunal shall be presumed to be correct unless proven otherwise. This presumption ensures that judgments of lower courts are given due respect and are not lightly questioned. Step 2: Explanation of Other Options.
+85
+
+- **Option (a)** deals with general presumption regarding decisions of tribunals, but Section 14 is specifically about the presumption regarding **lower courts**. - **Option (b)** and **Option (d)** are incorrect, as **foreign judgments** and **High Court judgments** are addressed under separate provisions, not Section 14. Step 3: Conclusion. The correct answer is (c), as **Section 14** specifically deals with **presumption as to judgments of the lower court**.
+Quick Tip **Section 14** of the **CPC** presumes the correctness of **lower court judgments** unless proven otherwise.
+91. A, residing in Delhi, publishes in Kolkata statements defamatory of B. B may sue A:
+(a) Only in Delhi (b) Only in Kolkata (c) In both the place of Delhi and Kolkata (d) Either in Kolkata or in Delhi
+Correct Answer: (d) Either in Kolkata or in Delhi
+Solution: Step 1: Understanding Jurisdiction in Defamation Cases. In defamation cases, the **defamation** may be published in one location, but the **plaintiff** (person suing) can file the suit in the jurisdiction where the **defamation** was published, or where the **harm** occurred. Since B is defamed in **Kolkata**, B can sue A either in **Delhi**, where A resides, or in **Kolkata**, where the defamatory statement was published. This is in line with the general provisions of **jurisdiction** under the CPC. Step 2: Explanation of Other Options. - **Option (a)** is incorrect as it limits the choice to Delhi.
+86
+
+- **Option (b)** is incorrect, as **Delhi** is also a valid place of jurisdiction for the case. - **Option (c)** is redundant and still correct because both places are valid. However, (d) is the best answer, covering the full scope. Step 3: Conclusion. The correct answer is (d), as the plaintiff can file the defamation suit either in **Delhi** or **Kolkata**.
+Quick Tip In **defamation cases**, the suit can be filed in the place where the defamatory statement was published or where the plaintiff resides.
+92. "Mere illegality of the strike does not per se spell unjustifyability" - Justice Krishna Iyer. Name the case.
+(a) Chandramalai Estate Vs Its workmen (b) Associated Cement Ltd., Vs Their workmen (c) Gujarat Steel Tubes Vs Gujarat Steel Tubes Mazdoor Sabha (d) Indian General Navigation of Railway Co. Ltd., Vs Their workmen
+Correct Answer: (c) Gujarat Steel Tubes Vs Gujarat Steel Tubes Mazdoor Sabha
+Solution: Step 1: Understanding the Case. In the case of **Gujarat Steel Tubes Vs Gujarat Steel Tubes Mazdoor Sabha**, Justice Krishna Iyer observed that **mere illegality of the strike** does not automatically render the strike unjustified. The Court emphasized that the **wrongful act** of striking employees must be viewed in light of the larger context and the **reason for the strike**, rather than only focusing on its legal status. Step 2: Explanation of Other Options. - **Option (a)** refers to a case involving a dispute about a plantation, but does not involve the phrase attributed to Justice Krishna Iyer.
+87
+
+- **Option (b)** also does not relate to this legal principle. - **Option (d)** refers to another case involving workmen disputes, but not the quote provided in the question. Step 3: Conclusion. The correct answer is (c), as this case is where **Justice Krishna Iyer** made the observation regarding the **illegality of the strike**.
+Quick Tip **Gujarat Steel Tubes Vs Gujarat Steel Tubes Mazdoor Sabha** is the case where Justice Krishna Iyer stated that **mere illegality of a strike** does not make it unjustifiable.
+93. A workman aggrieved by the order of dismissal ... may directly make an application to the labour court or tribunal for adjudication of the dispute and the court/tribunal is empowered to adjudicate such dispute as it had been referred to it by the appropriate government:
+(a) Dismissal, discharge and retrenchment (b) Dismissal, discharge, retrenchment or otherwise termination of service (c) Discharge simpliciter exclusively (d) Dismissal and retrenchment exclusively
+Correct Answer: (b) Dismissal, discharge, retrenchment or otherwise termination of service
+Solution: Step 1: Understanding the Labour Law. Under **Section 2A** of the **Industrial Disputes Act**, if a workman is aggrieved by an order of **dismissal**, **discharge**, **retrenchment**, or other forms of **termination of service**, they may directly file an application with the **Labour Court** or **Industrial Tribunal** for adjudication. This is an exception to the usual requirement of government referral in disputes. Step 2: Explanation of Other Options.
+88
+
+- **Option (c)** is incorrect as it only covers **discharge** and does not encompass the broader grounds of dismissal and retrenchment. - **Option (d)** limits the grounds to **dismissal** and **retrenchment**, which is too narrow compared to the broader scope provided in **Option (b)**. Step 3: Conclusion. The correct answer is (b), as the law covers **dismissal, discharge, retrenchment, or any other termination of service** under **Section 2A** of the Industrial Disputes Act.
+Quick Tip Under **Section 2A** of the **Industrial Disputes Act**, workmen can directly approach the Labour Court for disputes related to **dismissal, discharge, retrenchment, or termination** of service.
+94. The national consumer dispute redressal commission was constituted in the year:
+(a) 1988 (b) 1998 (c) 1999 (d) 1997
+Correct Answer: (b) 1998
+Solution: Step 1: Understanding the National Consumer Dispute Redressal Commission. The **National Consumer Dispute Redressal Commission (NCDRC)** was constituted under the **Consumer Protection Act, 1986** in **1998**. It is the apex consumer forum that handles appeals against decisions made by the State Consumer Disputes Redressal Commission and District Forums. Step 2: Explanation of Other Options. - The **National Consumer Dispute Redressal Commission** was **not** constituted in **1988**, **1999**, or **1997**, as those years are incorrect for the formation of the commission.
+89
+
+Step 3: Conclusion. The correct answer is (b), as the **National Consumer Dispute Redressal Commission** was constituted in **1998**.
+Quick Tip The **National Consumer Dispute Redressal Commission (NCDRC)** was constituted in **1998** under the **Consumer Protection Act, 1986**.
+95. What is the limitation period applicable to the three forums in entertaining a complaint under The Consumer Protection Act, 1986?
+(a) 3 years from the date on which the cause of action has arisen (b) 5 years from the date on which the cause of action has arisen (c) 4 years from the date on which the cause of action has arisen (d) 2 years from the date on which the cause of action has arisen
+Correct Answer: (a) 3 years from the date on which the cause of action has arisen
+Solution: Step 1: Understanding Limitation under Consumer Protection Act, 1986. Under **Section 24A** of the **Consumer Protection Act, 1986**, complaints before the **Consumer Forums** must be filed within **3 years** from the date on which the cause of action has arisen. This limitation period is meant to ensure timely redressal of grievances. Step 2: Explanation of Other Options. - **Option (b)**, **(c)**, and **(d)** do not reflect the correct limitation period under the **Consumer Protection Act**. The prescribed limitation period is **3 years**. Step 3: Conclusion. The correct answer is (a), as the limitation period under the **Consumer Protection Act, 1986** is **3 years**.
+90
+
+Quick Tip Under the **Consumer Protection Act, 1986**, the limitation period to file a complaint is **3 years** from the date the cause of action arises.
+96. Under Section 82 of the Indian Penal Code, nothing is an offence which is done by a child under the age of:
+(a) 14 years (b) 7 years (c) 18 years (d) 21 years
+Correct Answer: (b) 7 years
+Solution: Step 1: Understanding Section 82 of IPC. **Section 82** of the **Indian Penal Code (IPC)** states that **nothing is an offence** if it is committed by a **child under the age of 7** years. This section provides a legal defense for children under 7 years of age, as they are presumed to lack the capacity to commit crimes due to their immaturity. Step 2: Explanation of Other Options. - **Option (a)**, **(c)**, and **(d)** are incorrect, as **the age of criminal responsibility** under **Section 82 of IPC** is **7 years**, not 14, 18, or 21 years. Step 3: Conclusion. The correct answer is (b), as **Section 82 of IPC** excludes criminal liability for children under the age of **7 years**.
+Quick Tip Under **Section 82 of the IPC**, a **child under the age of 7 years** cannot be held criminally responsible for their actions.
+91
+
+97. R. V. Dudley & Stephen stands for the principle that:
+(a) Killing an innocent life to save his own is not a defence and necessity cannot be pleaded as a defence against murder (b) Necessity can be pleaded as a defence against murder, killing an innocent life to save his own may become inevitable (c) Killing out of mercy is a defence and necessity cannot be pleaded as a defence against murder (d) None of the above
+Correct Answer: (b) Necessity can be pleaded as a defence against murder, killing an innocent life to save his own may become inevitable
+Solution: Step 1: Understanding R. V. Dudley & Stephen. The **R. V. Dudley & Stephen** case (1884) is a famous legal case in **English criminal law** where **necessity** was pleaded as a defense. The defendants, after being shipwrecked, killed and ate a fellow shipwrecked sailor to survive. The court ruled that **necessity** can be a valid defense to murder, but in this case, it did not apply because the defendants had not been in a situation of immediate life-threatening danger. Step 2: Explanation of Other Options. - **Option (a)** is incorrect because **necessity** can sometimes be a defense to murder. - **Option (c)** is incorrect because killing out of mercy is not a defense under the principle established in the case. Step 3: Conclusion. The correct answer is (b), as **necessity** was **pleaded as a defense** in the **R. V. Dudley & Stephen** case, where killing an innocent life to save one's own was deemed **inevitable**.
+92
+
+Quick Tip In **R. V. Dudley & Stephen**, **necessity** was a **valid defense** against murder, but it was not accepted in this particular case due to the circumstances.
+98. On and from the commencement of the Hindu Succession (Amendment) Act, 2005, in a Joint Hindu family governed by the Mitakshara law, conferring on daughter coparcenary status by substituting new section for:
+(a) Section 6 (b) Section 10 (c) Section 11 (d) Section 13
+Correct Answer: (a) Section 6
+Solution: Step 1: Understanding the Hindu Succession (Amendment) Act, 2005. The **Hindu Succession (Amendment) Act, 2005** brought significant changes to the **Hindu Succession Act, 1956**, specifically regarding the **coparcenary rights of daughters** in a joint Hindu family governed by **Mitakshara law**. The amendment **conferred coparcenary rights** on daughters, granting them the same rights as sons in the family property. This was done by substituting a new provision under **Section 6** of the Act. Step 2: Explanation of Other Options. - **Section 10**, **Section 11**, and **Section 13** do not specifically deal with the **conferment of coparcenary rights** on daughters. Step 3: Conclusion. The correct answer is (a), as the amendment substituted **Section 6** of the Hindu Succession Act to confer coparcenary rights on daughters.
+93
+
+Quick Tip The **Hindu Succession (Amendment) Act, 2005** conferred coparcenary rights on daughters by amending **Section 6** of the Hindu Succession Act.
+99. Section 5 of Hindu Marriage Act relates to:
+(a) Void marriages (b) Voidable marriages (c) Ceremonies of Hindu marriage (d) Conditions of Hindu marriage
+Correct Answer: (d) Conditions of Hindu marriage
+Solution: Step 1: Understanding Section 5 of the Hindu Marriage Act. **Section 5** of the **Hindu Marriage Act, 1955** deals with the **conditions of Hindu marriage**. This section outlines the basic requirements for a Hindu marriage to be considered valid, including the parties being Hindus, the minimum age for marriage, the capacity of the parties to marry, and the consent of the parties involved. Step 2: Explanation of Other Options. - **Option (a)**, **(b)**, and **(c)** are incorrect because they do not specifically address the **conditions** required for a marriage to be valid. Section 5 primarily focuses on the **conditions for marriage**, not on the void, voidable status, or ceremonies. Step 3: Conclusion. The correct answer is (d), as **Section 5** of the **Hindu Marriage Act** lays down the **conditions of Hindu marriage**.
+Quick Tip **Section 5** of the **Hindu Marriage Act** outlines the **conditions of a valid Hindu marriage**.
+94
+
+100. A marriage between a girl of 22 years marries her maternal uncle's son of 23 years in accordance with the Special Marriage Act. Such marriage is:
+(a) Valid (b) Voidable (c) Void (d) Valid only in north India Correct Answer: (a) Valid Solution: Step 1: Understanding the Special Marriage Act. Under the **Special Marriage Act, 1954**, marriages are recognized irrespective of religion or caste, as long as they meet the necessary legal requirements. The Act permits marriage between persons who are not within the prohibited degrees of relationship. The marriage described in the question involves a girl of 22 years marrying her **maternal uncle's son**, which is not prohibited under the **Special Marriage Act**. The marriage is **valid** as long as both parties have the legal capacity to marry. Step 2: Explanation of Other Options. - **Option (b)**, **(c)**, and **(d)** are incorrect as the marriage in question is **valid** under the **Special Marriage Act** and is not void, voidable, or geographically restricted. Step 3: Conclusion. The correct answer is (a), as the marriage under the **Special Marriage Act** is **valid**.
+Quick Tip The **Special Marriage Act** allows valid marriages between individuals who are not within the prohibited degrees of relationship, even if they are related by blood.
+95
+

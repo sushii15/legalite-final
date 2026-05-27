@@ -1,0 +1,678 @@
+AIBE 10 Set A Question Paper with Solutions
+Time Allowed :3 Hours Maximum Marks :100 Total questions :100 General Instructions General Instructions:
+i) The AIBE (All India Bar Examination) X will be conducted in offline mode (pen and paper based).
+ii) The question paper will consist of Multiple Choice Questions (MCQs) with four options, out of which only one will be correct.
+iii) Each correct answer will be awarded 1 mark. There is no negative marking for incorrect answers.
+iv) The examination will cover subjects prescribed by the Bar Council of India (BCI), including both core and optional subjects.
+v) Candidates must carry their Admit Card and a valid Photo ID proof to the examination center.
+vi) Use only a blue/black ballpoint pen to mark answers on the OMR sheet. vii) Rough work should be done only in the space provided in the question pa-
+per/answer sheet. viii) No electronic gadgets, mobile phones, or programmable calculators are permitted
+inside the examination hall. ix) Candidates must follow the instructions of the invigilators strictly. Any unfair
+means will lead to disqualification.
+1
+
+1. Government employees may refer their unresolved grievances and labor dispute to-
+(A) Internal Labor Department (B) Bureau of Labor Relations (C) Public Sector Labor-Management Council (D) Department of Labor
+Correct Answer: (C) Public Sector Labor-Management Council
+Solution: Step 1: Understanding grievance redressal. Government employees who face unresolved labor disputes are provided a formal body for resolution. Step 2: Identifying the correct institution. The Public Sector Labor-Management Council is the appropriate forum for resolving disputes and grievances of government employees. Step 3: Conclusion. Hence, grievances of government employees are referred to the Public Sector Labor-Management Council.
+Quick Tip Labor disputes of government employees are not handled by ordinary labor departments, but by specialized councils.
+2. The objective of the EU Directive on mediation is-
+(A) Reducing back logs of cases at the courts in the member states (B) Dividing the cases between all dispute resolution methods (C) Economical reasons in times of crisis, thus ensuring that mediators will have a proper income (D) Ensuring better access to alternative dispute resolution in cross border commercial conflicts
+2
+
+Correct Answer: (D) Ensuring better access to alternative dispute resolution in cross border commercial conflicts
+Solution: Step 1: Understanding EU Directive on mediation. The directive aims to promote mediation as an effective alternative to litigation. Step 2: Focusing on cross-border disputes. Its primary purpose is to ensure better access to dispute resolution in cross-border commercial matters, making legal processes faster and cost-efficient. Step 3: Conclusion. Therefore, the objective is (D).
+Quick Tip The EU Directive encourages mediation to reduce dependence on lengthy court litigation in international disputes.
+3. Minimum number of members required to apply for Incorporation Certificate in a Public Ltd. Company is:
+(A) 7 (B) 3 (C) 2 (D) 50
+Correct Answer: (A) 7
+Solution: Step 1: Definition. As per the Companies Act, a Public Limited Company requires a minimum number of members for incorporation. Step 2: Rule. A minimum of 7 members is mandatory for incorporation of a Public Limited Company.
+3
+
+Step 3: Conclusion. Therefore, the answer is (A) 7.
+Quick Tip Remember: Private Ltd. requires 2 members, Public Ltd. requires 7 members, and One Person Company requires 1 member.
+4. When a bill is passed by the Parliament and the President, what is the status of the same?
+(A) Bill approved (B) Law (C) Bill exercised for administration (D) Government procedures
+Correct Answer: (B) Law
+Solution: Step 1: Legislative process. A bill becomes law after being passed by both Houses of Parliament and receiving assent from the President. Step 2: Analysis. - Bill approved: Only partial stage, not final. - Law: Correct, after Presidential assent. - Bill exercised for administration: Incorrect usage. - Government procedures: Too vague. Step 3: Conclusion. Therefore, once the President signs the bill, it becomes a Law.
+Quick Tip In India, a bill is called a "Law" only after the President's assent.
+4
+
+5. `A' resides at Shimla, `B' at Kolkata and `C' at Delhi. A, B & C being together at Banaras. B & C make a joint promissory note, payable on demand and delivered to A. A may sue B & C
+(A) At Banaras, where the cause of action arose (B) At Kolkata where B resides (C) At Delhi where C resides (D) All of the above
+Correct Answer: (D) All of the above
+Solution: Step 1: Jurisdiction rules. In contract cases, a suit can be filed where the cause of action arose or where the defendants reside. Step 2: Application. - Cause of action arose at Banaras. - B resides at Kolkata. - C resides at Delhi. Step 3: Conclusion. Thus, A may sue at Banaras, Kolkata, or Delhi. Hence answer is (D).
+Quick Tip In contract law, jurisdiction exists either where the cause of action arises or where the defendant resides.
+6. A warrant of arrest may be extended
+(A) To that place where the offender has committed the offence (B) At any place within India (C) To the place specified under the Criminal Procedure Code
+5
+
+(D) None of the above
+Correct Answer: (B) At any place within India
+Solution: Step 1: Rule under CrPC. A warrant of arrest issued by a competent court has validity throughout India. Step 2: Analysis of options. - Option (A): Too narrow, not correct. - Option (B): Correct, applicable across India. - Option (C): Misleading, as CrPC extends the power nationwide. - Option (D): Incorrect. Step 3: Conclusion. Hence, the warrant of arrest may be executed at any place within India.
+Quick Tip A warrant of arrest under CrPC is executable anywhere in India.
+7. The Chairperson of Cyber Appellate Tribunal is appointed by the
+(A) Central Government in consultation with the Chief Justice of India (B) State Government in consultation with the Chief Justice of the High Court (C) Central Government (D) Central Government in consultation with Controller of Certifying Authority
+Correct Answer: (A) Central Government in consultation with the Chief Justice of India
+Solution: Step 1: Understanding Cyber Appellate Tribunal (CAT). The Cyber Appellate Tribunal is established under the Information Technology Act, 2000 to hear appeals against orders of adjudicating officers. Step 2: Appointment process.
+6
+
+As per law, the Chairperson of CAT is appointed by the Central Government, but only after consultation with the Chief Justice of India to ensure judicial oversight. Step 3: Elimination of wrong options. - (B) State Government has no role. - (C) Central Government alone cannot appoint without CJI's consultation. - (D) Consultation with Controller of Certifying Authority is irrelevant. Step 4: Conclusion. Hence, the correct answer is (A).
+Quick Tip Appointments to quasi-judicial tribunals often require consultation with the Chief Justice of India.
+8. Under Section 18 of the Indian Evidence Act, the admission of which of the following person is not admissible against the other?
+(A) One of the plaintiffs (B) One of the defendants (C) Agents of the parties (D) Statement of the third party
+Correct Answer: (D) Statement of the third party
+Solution: Step 1: Understanding Section 18. Section 18 of the Indian Evidence Act, 1872 deals with admissions by parties, their agents, and others. Step 2: Admissible admissions. - Admissions by one of the plaintiffs are admissible against all plaintiffs. - Admissions by one of the defendants are admissible against co-defendants. - Admissions by agents of parties are also admissible.
+7
+
+Step 3: Non-admissible. Statements by a third party (stranger to the case) are not admissible as evidence. Step 4: Conclusion. Thus, the correct answer is (D).
+Quick Tip Only parties to the case and their authorized agents can make binding admissions in evidence law.
+9. Which of the following heirs is not class 1 heir under the Hindu Succession Act, 1956?
+(A) Son (B) Widow (C) Father (D) Mother
+Correct Answer: (C) Father
+Solution: Step 1: Understanding Class I heirs. As per Hindu Succession Act, Class I heirs include son, daughter, widow, mother, etc. Step 2: Exclusion of father. Father is a Class II heir, not Class I. He inherits only in the absence of Class I heirs. Step 3: Analysis of options. - Son: Class I heir. - Widow: Class I heir. - Father: Class II heir. - Mother: Class I heir. Step 4: Conclusion. Hence, the correct answer is (C) Father.
+8
+
+Quick Tip Class I heirs take precedence over Class II heirs in Hindu succession law.
+10. There is either theft or extortion. It is (A) Robbery (B) Dacoity (C) Criminal breach of trust (D) Receiving stolen property Correct Answer: (A) Robbery Solution: Step 1: Defining robbery. According to IPC, robbery is an aggravated form of theft or extortion involving violence or threat. Step 2: Analysis of options. - Robbery: Correct, covers theft and extortion. - Dacoity: Robbery by 5 or more persons. - Criminal breach of trust: Misappropriation, not theft/extortion. - Receiving stolen property: Different offence. Step 3: Conclusion. Therefore, robbery is defined as either theft or extortion.
+Quick Tip Robbery = Theft + Violence OR Extortion + Fear of violence.
+11. Who is an adolescent as per Factories Act, 1948? (A) Who has completed 17 years
+9
+
+(B) Who is less than 18 years of age (C) Who is more than 15 years but less than 18 years of age (D) None of these
+Correct Answer: (C) Who is more than 15 years but less than 18 years of age
+Solution: Step 1: Definition under Factories Act. The Act defines: - Child: below 15 years. - Adolescent: more than 15 years but less than 18 years. Step 2: Elimination of wrong options. - (A) Completing 17 years does not alone define adolescent. - (B) Less than 18 years includes even children. - (D) Incorrect as (C) is correct. Step 3: Conclusion. Correct definition is (C).
+Quick Tip Factories Act distinguishes between child (¡15), adolescent (15­18), and adult (18+).
+12. Fulfilling the constitutional obligation under Article 300 A, the Land Acquisition Act, is the law providing for
+(A) Acquisition of land and taking over possession of land (B) Assessment of compensation (C) Payment of compensation (D) All of the above
+Correct Answer: (D) All of the above
+Solution:
+10
+
+Step 1: Article 300A. Article 300A of the Constitution guarantees that no person shall be deprived of property except by authority of law. Step 2: Land Acquisition Act. The Act provides: - Acquisition and taking over land. - Assessment of compensation. - Payment of compensation. Step 3: Conclusion. Thus, all are correct, so answer is (D).
+Quick Tip Right to property is a constitutional right, not a fundamental right; compensation is mandatory for land acquisition.
+13. Complaint means allegation in writing made by a complainant that
+(A) An unfair trade practice or restrictive trade practice has been adopted by any traders or service provider. (B) The goods bought by him or agreed to be bought by him suffer from one or more defect. (C) A trader or the service provider as the case may be has charged for the goods or for the services mentioned in the complaint a price in excess of the price. (D) All of the above
+Correct Answer: (D) All of the above
+Solution: Step 1: Understanding "Complaint". As per Consumer Protection Act, a complaint can be filed for unfair trade practices, defective goods, deficiency in service, or overcharging. Step 2: Analyzing options.
+11
+
+- (A) Correct, unfair/restrictive trade practices qualify as complaints. - (B) Correct, defective goods are also a ground. - (C) Correct, charging excess price is also a valid complaint. Step 3: Conclusion. Since all are correct, the answer is (D).
+Quick Tip The Consumer Protection Act allows filing complaints against unfair trade practices, defective goods, deficiency in service, and overcharging.
+14. The maxim `audi alteram partem' denotes
+(A) No one shall be judge of his own cause (B) No one shall be condemned unheard (C) Rights are better than duties (D) None of the above
+Correct Answer: (B) No one shall be condemned unheard
+Solution: Step 1: Meaning. "Audi alteram partem" is a principle of natural justice meaning "hear the other side." Step 2: Application. It ensures that no person is punished or condemned without giving them an opportunity to present their case. Step 3: Conclusion. Therefore, it denotes (B).
+Quick Tip Natural justice has two key principles: (i) Nemo judex in causa sua (no one is judge in his own cause), (ii) Audi alteram partem (hear the other side).
+12
+
+15. In which case did the Supreme Court hold that `misconduct envisages breach of discipline'?
+(A) P.D. Gupta Vs. Ram Murti (B) Noratanmal Chaurasia Vs. M.R. Murli (C) P.J. Ratnam Vs. D. Kanikaram (D) None of the above
+Correct Answer: (A) P.D. Gupta Vs. Ram Murti
+Solution: Step 1: Case law background. In P.D. Gupta Vs. Ram Murti, the Supreme Court explained the meaning of "misconduct." Step 2: Principle. The Court held that misconduct involves breach of discipline, not necessarily involving moral turpitude but violation of duty and responsibility. Step 3: Conclusion. Therefore, the answer is (A).
+Quick Tip Misconduct under service law includes both willful disobedience and breach of duties or discipline.
+16. Which is not included within the meaning of artistic work under Copyright Act?
+(A) Drawing (B) Work of architecture (C) Work of craftsmanship (D) Work of carpenter
+Correct Answer: (D) Work of carpenter
+13
+
+Solution: Step 1: Artistic works under Copyright Act. Section 2(c) of the Copyright Act includes paintings, sculptures, drawings, engravings, photographs, works of architecture, and works of artistic craftsmanship. Step 2: Exclusion. Work of a carpenter is not considered an artistic work under copyright law. Step 3: Conclusion. Hence, the correct answer is (D).
+Quick Tip Artistic work includes architecture and craftsmanship but not routine carpentry work.
+17. In case of a co-operative society the maximum amount on which income tax is not chargeable is
+(A) 50,000 (B) 30,000 (C) 20,000 (D) Nil
+Correct Answer: (B) 30,000
+Solution: Step 1: Income tax provisions. Under the Income Tax Act, co-operative societies enjoy a slab-based exemption limit. Step 2: Applicable exemption. The exemption limit is 30,000 for co-operative societies. Beyond this, tax is chargeable as per slab rates. Step 3: Conclusion. Hence, the correct answer is (B).
+14
+
+Quick Tip Co-operative societies enjoy concessional tax slabs, starting with exemption up to 30,000.
+18. `A' sells a field to `B'. There is a right of way over the field of which A has direct personal knowledge but which he conceals from B.
+(A) `B' has the right to rescind the contract (B) `B' cannot rescind the contract (C) `A' has the right to rescind the contract (D) `A' is not legally liable
+Correct Answer: (A) `B' has the right to rescind the contract
+Solution: Step 1: Principle of disclosure. Under the Transfer of Property Act, the seller must disclose material defects in the property known to him. Step 2: Application. Here, A conceals the existence of a right of way (an encumbrance), which is a material defect. Step 3: Legal effect. Such concealment gives the buyer (B) the right to rescind the contract. Step 4: Conclusion. Therefore, the correct answer is (A).
+Quick Tip Concealment of material defects in property transfers gives the buyer a legal right to cancel the contract.
+15
+
+19. According to Republic Act No. 6770, which of these powers is not provided to office of Ombudsman?
+(A) Prosecutory power (B) Function to adopt, institute and implement preventive measures (C) Public assistant functions (D) None of the above
+Correct Answer: (D) None of the above
+Solution: Step 1: Understanding Republic Act No. 6770. Republic Act 6770 is the Ombudsman Act of 1989 (Philippines). It grants the Ombudsman investigatory, prosecutory, preventive, and public assistance powers. Step 2: Analysis of powers. - Prosecutory power: Granted. - Preventive measures: Granted. - Public assistant functions: Also granted. Step 3: Conclusion. Since all listed powers are provided, the answer is (D) None of the above.
+Quick Tip The Ombudsman in the Philippines has broad powers, including investigation, prosecution, and public assistance.
+20. In most EU member countries, which of the following is the most visible form of ADR?
+(A) Mediation (B) Arbitration (C) Litigation (D) Conciliation
+16
+
+Correct Answer: (A) Mediation
+Solution: Step 1: Understanding ADR. ADR (Alternative Dispute Resolution) includes mediation, arbitration, and conciliation, providing alternatives to litigation. Step 2: EU context. In EU countries, mediation is actively promoted through the EU Mediation Directive (2008/52/EC). It is widely practiced for cross-border disputes. Step 3: Elimination of wrong options. - Arbitration: Important but less common at the local level compared to mediation. - Litigation: Not ADR, but a formal judicial process. - Conciliation: Similar to mediation but less common in EU practice. Step 4: Conclusion. Hence, mediation is the most visible form.
+Quick Tip The EU encourages mediation to reduce the burden on courts and promote faster dispute resolution.
+21. `A' does not fall under the clause of Memorandum of Association. `A' here is:
+(A) Subscription (B) Director (C) Capital (D) Situation
+Correct Answer: (B) Director
+Solution: Step 1: Understanding Memorandum of Association (MOA).
+17
+
+The MOA is the constitution of a company and defines its powers and scope. Its clauses include: Name, Registered Office (situation), Object, Liability, Capital, and Subscription. Step 2: Exclusion. Director information is not part of MOA; it belongs to Articles of Association (AOA). Step 3: Conclusion. Thus, the correct answer is (B) Director.
+Quick Tip MOA governs external affairs of the company; details of directors are in AOA.
+22. Minto-Morley reform is associated with which Act?
+(A) Indian Council Act 1912 (B) Indian Council Act 1856 (C) Indian Council Act 1908 (D) Indian Council Act 1909
+Correct Answer: (D) Indian Council Act 1909
+Solution: Step 1: Background. The Minto-Morley Reforms were named after Lord Minto (Viceroy) and Lord Morley (Secretary of State for India). Step 2: Key features of 1909 Act. - Introduced separate electorates for Muslims. - Increased Indian representation in legislative councils. - First time Indians were appointed to the Viceroy's Executive Council. Step 3: Elimination. - 1912 Act: Post-reform adjustments. - 1856 1908 Acts: Not related to Minto-Morley reforms. Step 4: Conclusion.
+18
+
+Correct answer is (D).
+Quick Tip The 1909 Indian Councils Act (Minto-Morley reforms) institutionalized communal representation in Indian politics.
+23. In a written statement, the defendant can claim: (A) Set off (B) Counter claim (C) Both a & b (D) None of the above Correct Answer: (C) Both a & b Solution: Step 1: Written statement in CPC. Under the Code of Civil Procedure, the defendant may present defenses and claims. Step 2: Definitions. - Set off: Claiming adjustment of a legally recoverable sum owed by the plaintiff. - Counter claim: Independent claim made by the defendant against the plaintiff. Step 3: Application. Both set-off and counterclaim can be included in the written statement. Step 4: Conclusion. Thus, correct answer is (C).
+Quick Tip A written statement can contain both defenses and independent claims by the defendant.
+24. Which of the following Section deals with search warrant? 19
+
+(A) 93 (B) 94 (C) 95 (D) 96
+Correct Answer: (A) 93
+Solution: Step 1: Section reference. Under the Code of Criminal Procedure (CrPC), Section 93 provides for issuance of search warrants by a Magistrate. Step 2: Other sections. - Section 94: Search of suspected place. - Section 95: Forfeiture of material. - Section 96: Application of search provisions. Step 3: Conclusion. Hence, correct answer is (A) 93.
+Quick Tip Search warrants are judicial authorizations for lawful searches, preventing arbitrary police action.
+25. Which is the leading case on environment?
+(A) M.C. Mehta Vs Union of India (B) Union of India Vs H.S. Dhillon (C) Maneka Gandhi Vs Union of India (D) None of the above
+Correct Answer: (A) M.C. Mehta Vs Union of India
+Solution:
+20
+
+Step 1: Background. M.C. Mehta is a renowned environmental lawyer in India. He filed several PILs on pollution and environment. Step 2: Landmark judgments. - Oleum Gas Leak Case (1986): Established "absolute liability" principle. - Ganga Pollution case: Directed closure of polluting industries. - Taj Trapezium case: Protection of Taj Mahal from acid rain. Step 3: Elimination. - H.S. Dhillon case: Related to taxation, not environment. - Maneka Gandhi case: Related to Article 21, not environment. Step 4: Conclusion. Thus, the leading case on environment is (A).
+Quick Tip M.C. Mehta's PILs established key environmental principles in Indian law, like "absolute liability."
+26. Which of the following statement is correct
+(A) A confession made by an accused to the police officer is relevant (B) A confession made by an accused in police custody to a magistrate is not relevant (C) A confession made by an accused in the police custody and discovery made from the information received from confession, both confession and discovery are relevant (D) None of the above is correct
+Correct Answer: (C) A confession made by an accused in the police custody and discovery made from the information received from confession, both confession and discovery are relevant
+Solution: Step 1: Rule under Indian Evidence Act.
+21
+
+Confession to a police officer is generally not admissible (Section 25). However, Section 27 provides that if information leads to discovery of a fact, that part of confession is admissible. Step 2: Magistrate confession. A confession made to a magistrate is admissible if made voluntarily (Section 164 CrPC). Step 3: Correct interpretation. Thus, the admissible portion is the discovery made based on information from confession. Step 4: Conclusion. Hence, the correct answer is (C).
+Quick Tip Confessions to police are inadmissible, but discovery of material facts under Section 27 of Evidence Act is admissible.
+27. Pre-emption on the ground of Shafie-i-Jar was declared unconstitutional in
+(A) Bhau Ram Vs Baij Nath (B) Govind Dayal Vs Inayatullah (C) Bhagawan Das Vs Chetram (D) Ram Saran Lall Vs Mst. Domini Kuer
+Correct Answer: (A) Bhau Ram Vs Baij Nath
+Solution: Step 1: Understanding Pre-emption. Right of pre-emption allows a neighbor or co-sharer to purchase property in preference to others. Shafie-i-Jar (right of neighborhood) was one ground under Muslim law. Step 2: Judicial ruling. In Bhau Ram Vs Baij Nath (AIR 1962 SC 1476), the Supreme Court declared Shafie-i-Jar unconstitutional as it violated Article 19(1)(f) (right to property, before its repeal). Step 3: Conclusion. Therefore, the correct case is (A).
+22
+
+Quick Tip Right of pre-emption based on neighborhood was struck down as unconstitutional being unreasonable restriction on property rights.
+28. This section was enacted to meet the cases of dowry deaths. It is (A) Section 366A of IPC (B) Section 477A of IPC (C) Section 498A of IPC (D) Section 489A of IPC Correct Answer: (C) Section 498A of IPC Solution: Step 1: Background. Dowry deaths and cruelty against women were addressed through insertion of Section 498A in IPC in 1983. Step 2: Scope. It punishes husband or relatives of husband for subjecting a woman to cruelty, which often relates to dowry demands. Step 3: Conclusion. Hence, correct section is (C).
+Quick Tip Section 498A IPC is a safeguard against cruelty and dowry harassment.
+29. Who is responsible for payment to a person employed by him in a factory under the Payment of Wages Act, 1936 (A) Accounts manager
+23
+
+(B) HR manager (C) Floor manager (D) Owner
+Correct Answer: (D) Owner
+Solution: Step 1: Scope of Payment of Wages Act. This Act ensures timely payment of wages without unauthorized deductions. Step 2: Responsibility. The responsibility lies with the employer/owner of the factory. Managers may supervise, but legal accountability rests with the owner. Step 3: Conclusion. Hence, answer is (D).
+Quick Tip Legal liability for payment of wages rests with the employer/owner, not managers.
+30. Which one of the following is known as Consumer Disputes Redressal Agency?
+(A) District Forum (B) State Commission (C) National Commission (D) All of the above
+Correct Answer: (D) All of the above
+Solution: Step 1: Three-tier system. Consumer Protection Act provides a three-tier redressal mechanism: - District Forum at district level. - State Commission at state level.
+24
+
+- National Commission at national level. Step 2: Analysis. All three are Consumer Disputes Redressal Agencies. Step 3: Conclusion. Correct answer is (D).
+Quick Tip Consumer disputes redressal system works at District, State, and National levels.
+31. PIL is criticized on the ground of (A) Private motive (B) Political ends (C) Tremendous increase in the litigation (D) All of the above Correct Answer: (D) All of the above Solution: Step 1: Understanding PIL. Public Interest Litigation (PIL) allows citizens to approach courts for enforcement of rights in public interest. Step 2: Criticisms. - Sometimes used for private motives under the guise of public interest. - Misused for political purposes. - Leads to excessive increase in litigation burdening courts. Step 3: Conclusion. Hence, PIL is criticized on all these grounds. Correct answer is (D).
+25
+
+Quick Tip Though PIL is a powerful tool for justice, it is often criticized for misuse and overburdening the judiciary.
+32. Vikramaditya Vs. Smt. Jamila Khatoon is an important case relating to professional misconduct due to which factor-
+(A) Advocate attending the court with fire arms (B) Not appearing before the court deliberately and intentionally (C) Suppression of material facts with intention to harass poor persons (D) Defrauding the client by exploiting the client's illiteracy
+Correct Answer: (B) Not appearing before the court deliberately and intentionally
+Solution: Step 1: Understanding professional misconduct. Professional misconduct under the Advocates Act includes any act that violates duties to court, clients, or professional ethics. Step 2: The case. In Vikramaditya Vs. Smt. Jamila Khatoon, the advocate failed to appear before the court deliberately, causing harm to the client's case. The court held this amounts to misconduct. Step 3: Eliminating wrong options. - (A) Attending with firearms: Not part of this case. - (C) Suppression of facts: Different context. - (D) Defrauding client: Separate misconduct ground, not here. Step 4: Conclusion. Hence, the misconduct here was deliberate non-appearance (B).
+Quick Tip Failure to appear deliberately before the court is professional misconduct as it violates duty to client and justice system.
+26
+
+33. An appeal to the High Court against the order of ITAT should be filed within
+(A) 45 days when the order is communicated (B) 60 days when the order is communicated (C) 90 days when the order is communicated (D) 120 days when the order is communicated
+Correct Answer: (C) 90 days when the order is communicated
+Solution: Step 1: ITAT and appeals. The Income Tax Appellate Tribunal (ITAT) hears appeals in income tax matters. Appeals against its orders lie to the High Court on substantial questions of law. Step 2: Time limit. As per Section 260A of the Income Tax Act, appeal to High Court must be filed within 120 days. However, the prescribed time to prefer an appeal is 90 days from communication of the order. Step 3: Clarification. Courts allow condonation of delay beyond 90 days under limitation principles, but standard limit is 90 days. Step 4: Conclusion. Thus, the correct answer is (C).
+Quick Tip Always check specific limitation periods in tax laws; appeals to High Court against ITAT orders generally lie within 90 days.
+34. A contract can be specifically enforced
+(A) Where compensation is adequate relief for the nonperformance of the contract (B) Where the contract by its nature is determinable
+27
+
+(C) Where it involves the performance of continuous duty which the court cannot supervise (D) None of the above
+Correct Answer: (D) None of the above
+Solution: Step 1: Specific Relief Act. Contracts are specifically enforced only when monetary compensation is inadequate, e.g., sale of unique goods, land, or rare items. Step 2: Analysis of options. - (A) If compensation is adequate, then specific performance is not allowed. - (B) Determinable contracts (like employment-at-will) cannot be specifically enforced. - (C) Continuous duties (like personal services) cannot be supervised, hence not enforceable. Step 3: Conclusion. Since all listed situations are excluded, the correct answer is (D).
+Quick Tip Specific performance is granted only when damages are inadequate, such as in contracts for immovable property.
+35. In the Government of India Act 1935, which subjects are included in the concurrent list?
+(A) Marriage (B) Divorce & Arbitration (C) Criminal Law & Procedure (D) All of the above
+Correct Answer: (D) All of the above
+Solution: Step 1: Background.
+28
+
+The Government of India Act, 1935 introduced three legislative lists: Federal, Provincial, and Concurrent. Step 2: Concurrent list subjects. Marriage, divorce, arbitration, criminal law, criminal procedure, and others were placed in the concurrent list. Step 3: Purpose. This allowed both centre and provinces to legislate, with central law prevailing in case of conflict. Step 4: Conclusion. Therefore, answer is (D).
+Quick Tip The 1935 Act's three-list system influenced India's Constitution: Union List, State List, and Concurrent List.
+36. In which of the following cases a Set Off can be claimed?
+(A) `A' owed the partnership firm of `B' & `C' Rs. 1000/-. `B' dies leaving `C' surviving. `A' sues `C' for a debt of Rs. 1500/- due in his separate character. `C' wants to set off the debt of Rs. 1000/-. (B) `A' sues `B' for Rs. 20,000/-. `B' wants to set off the claim for damages for breach of contract for specific performance. (C) Both `A' & `B' (D) None of the above
+Correct Answer: (A) `A' owed the partnership firm of `B' & `C' Rs. 1000/-. `B' dies leaving `C' surviving. `A' sues `C' for a debt of Rs. 1500/- due in his separate character. `C' wants to set off the debt of Rs. 1000/-.
+Solution: Step 1: Understanding set-off.
+29
+
+Set-off under CPC allows defendant to claim an ascertained sum legally recoverable from plaintiff in same capacity. Step 2: Case analysis. - (A): The debts are mutual, ascertained, and between the same parties in same capacity  valid set-off. - (B): Claim for damages in specific performance is unascertained and not liquidated  cannot be set-off. Step 3: Conclusion. Hence, only (A) is valid.
+Quick Tip Set-off applies only to ascertained sums of money, not unliquidated damages.
+37. Which case is leading case on arrest
+(A) Joginder Kumar Vs State of U.P. (B) State of W.B. Vs D.K. Basu (C) Both a & b (D) None of the above
+Correct Answer: (C) Both a & b
+Solution: Step 1: Joginder Kumar case. In Joginder Kumar Vs State of U.P. (1994), SC held that an arrest cannot be made in routine manner; police must justify necessity of arrest. Step 2: D.K. Basu case. In State of W.B. Vs D.K. Basu (1997), SC laid down detailed guidelines on arrest and detention, including mandatory rights of arrested person. Step 3: Combined importance. Both cases are landmark rulings on protection of personal liberty under Article 21.
+30
+
+Step 4: Conclusion. Correct answer is (C).
+Quick Tip Joginder Kumar case restricts arbitrary arrests, while D.K. Basu case lays down arrest guidelines.
+38. What is the maximum number of witnesses which can be produced in a case (A) 5 (B) 10 (C) 15 (D) No limit Correct Answer: (D) No limit Solution: Step 1: Law of Evidence. The Indian Evidence Act, 1872 does not fix a maximum number of witnesses in a case. What matters is the quality of evidence, not the quantity. Step 2: Principle of "Best Evidence". Courts are concerned with relevancy and reliability. Even a single witness, if credible, can prove a fact. Step 3: Conclusion. Thus, there is no legal limit to the number of witnesses.
+Quick Tip Law values quality over quantity--one credible witness is enough to prove a fact.
+31
+
+39. Natural guardian of an adopted son under the Hindu Minority & Guardianship Act, 1956 is
+(A) Original father (B) In the absence of (A), original mother (C) Adoptive father (D) None of the above
+Correct Answer: (C) Adoptive father
+Solution: Step 1: Adoption and guardianship. After a child is adopted, he ceases to belong to his natural family and becomes the child of the adoptive family. Step 2: Legal rule. Section 7 of the Hindu Minority and Guardianship Act provides that the adoptive father becomes the natural guardian of the adopted son. Step 3: Conclusion. Therefore, the natural guardian is the adoptive father.
+Quick Tip In Hindu law, adoptive parents have the same rights and duties as natural parents.
+40. The rule is that penal statutes must be constructed
+(A) Liberally (B) Strictly (C) Golden rule (D) Mischievous
+Correct Answer: (B) Strictly
+Solution: 32
+
+Step 1: Understanding penal statutes. Penal laws impose punishment. Courts must interpret them strictly to protect individuals from arbitrary punishment. Step 2: Principle. If a law is ambiguous, benefit goes to the accused (rule of strict construction). Step 3: Conclusion. Hence, penal statutes are strictly construed.
+Quick Tip When interpreting criminal laws, ambiguity is resolved in favor of the accused.
+41. To close down a factory the occupier has to give how many days notice to the authorities
+(A) 30 days (B) 60 days (C) 90 days (D) 14 days
+Correct Answer: (B) 60 days
+Solution: Step 1: Provision under Factories Act, 1948. Section 25-O of the Industrial Disputes Act (read with Factories Act provisions) requires prior notice for closure. Step 2: Requirement. The occupier must give at least 60 days' notice to the government/authorities before closure. Step 3: Conclusion. Therefore, the correct answer is (B).
+33
+
+Quick Tip Closure of a factory needs prior government permission with 60 days' notice.
+42. Where the complaint alleges a defect in the goods which cannot be determined without proper analysis or test of the goods, the sample of goods forwarded to appropriate laboratory for laboratory test. Such types of case finding report within days
+(A) 30 days (B) 40 days (C) 45 days (D) 60 days
+Correct Answer: (A) 30 days
+Solution: Step 1: Understanding the law. Under the Consumer Protection Act, 1986 (and carried forward in the 2019 Act), if a complaint involves allegations of a defect in goods that cannot be determined without laboratory testing, the consumer forum is empowered to send a sample of the goods to an appropriate laboratory. Step 2: Role of laboratory. The laboratory is required to test and analyze the goods to determine whether there is any defect. To ensure that consumer disputes are resolved speedily, the law sets a strict timeline for such laboratory reports. Step 3: Time limit prescribed. The statute clearly provides that the laboratory must submit its report to the consumer forum within 30 days from the date of receipt of the sample. This prevents unnecessary delays and protects consumer interests. Step 4: Analysis of options. - (A) 30 days: Correct, as per the Consumer Protection Act's provisions.
+34
+
+- (B) 40 days: Incorrect, no such provision is given. - (C) 45 days: Incorrect, not mentioned in the Act. - (D) 60 days: Incorrect, too long and contrary to the law's intention of speedy disposal. Step 5: Conclusion. Hence, the correct answer is (A) 30 days, since the laboratory must submit the test report within this period.
+Quick Tip Consumer Protection Act ensures speedy justice. Laboratory reports must be submitted within 30 days so that complaints are resolved without delay.
+43. When can the Supreme Court refuse to grant remedy under Article 32
+(A) Delay (B) Malicious petition (C) Infructuous petition (D) All of the above
+Correct Answer: (D) All of the above
+Solution: Step 1: Article 32. Article 32 provides the right to constitutional remedies, considered the "heart and soul" of the Constitution (Dr. Ambedkar). Step 2: Grounds for refusal. However, the Supreme Court may refuse to entertain a petition if: - Filed after undue delay. - Malicious in intent. - Infructuous (no longer relevant or relief possible). Step 3: Conclusion. Thus, refusal is possible on all these grounds. Correct answer is (D).
+35
+
+Quick Tip Though Article 32 guarantees remedies, SC can refuse petitions that are delayed, malicious, or infructuous.
+44. Which condition is not required to be satisfied by an invention to be patentable subject matter under Patent Act (A) Novelty (B) Inventive steps (C) Distinctiveness (D) Usefulness Correct Answer: (C) Distinctiveness Solution: Step 1: Patentability requirements. Under the Indian Patent Act, an invention must satisfy three main criteria: (i) Novelty, (ii) Inventive step, and (iii) Industrial application (usefulness). Step 2: Distinction. Distinctiveness is a condition under trademark law, not patents. Trademarks must be distinctive to differentiate goods/services, but patents require novelty and inventiveness. Step 3: Conclusion. Thus, distinctiveness is not a requirement for patents.
+Quick Tip Patents require novelty, inventiveness, and utility; distinctiveness applies to trademarks.
+45. A contract of `indemnity' under the Indian Contract Act, 1872, has been defined in Section:
+36
+
+(A) 124 (B) 123 (C) 125 (D) 126(a)
+Correct Answer: (A) 124
+Solution: Step 1: Definition. Section 124 of the Indian Contract Act defines a contract of indemnity as "a contract by which one party promises to save the other from loss caused to him by the conduct of the promisor himself, or by the conduct of any other person." Step 2: Related provisions. - Section 125 deals with the rights of indemnity-holder. - Sections 123 and 126 relate to guarantees, not indemnity. Step 3: Conclusion. Hence, the definition lies in Section 124.
+Quick Tip Indemnity = promise to protect against loss; defined in Section 124, rights in Section 125.
+46. It refers to an authority derived from official character merely, not expressly conferred upon the individual character, but rather annexed to official position
+(A) Designation (B) Ex-Officio (C) Appointment (D) Ad interim
+Correct Answer: (B) Ex-Officio
+Solution: 37
+
+Step 1: Meaning. Ex-officio means "by virtue of office." It refers to authority attached to a position rather than the individual. Step 2: Example. The Vice-President of India is ex-officio Chairman of Rajya Sabha. His authority is derived from the office he holds, not personal appointment. Step 3: Conclusion. Thus, the correct term is Ex-Officio.
+Quick Tip Ex-officio powers belong to the office, not the person.
+47. Filing with the court, to object one's or another's imprisonment is called?
+(A) Writ of Quo Warranto (B) Habeas Corpus (C) Writ of Prohibition (D) None of the above
+Correct Answer: (B) Habeas Corpus
+Solution: Step 1: Meaning of Habeas Corpus. "Habeas Corpus" literally means "produce the body." It is issued by a court to release a person unlawfully detained. Step 2: Elimination. - Quo Warranto: Challenges legality of holding public office. - Prohibition: Prevents inferior courts from exceeding jurisdiction. Step 3: Conclusion. Thus, remedy against unlawful imprisonment is Habeas Corpus.
+38
+
+Quick Tip Habeas Corpus is called the "great writ of liberty" and protects against illegal detention.
+48. Under O.33, an indigent is allowed to prosecute any suit, provided he satisfied certain conditions. Which of the following is not such a condition?
+(A) He is not possessed of sufficient means to enable him to pay the fees prescribed for the plaint in such suit (B) He is not entitled to property worth Rs. 1000/(C) He has no sufficient means for his livelihood (D) He may present the application for permission to sue as an indigent either himself or through an authorized agent
+Correct Answer: (C) He has no sufficient means for his livelihood
+Solution: Step 1: Order 33 CPC. Order 33 CPC allows persons who are indigent (pauper) to file a suit without paying court fees. Step 2: Conditions. - Lack of sufficient means to pay court fees. - Property not exceeding Rs. 1000 excluded from means test. - Can apply personally or through agent. Step 3: Not a condition. Livelihood test is not part of conditions. Law concerns only ability to pay court fees, not means of livelihood. Step 4: Conclusion. Hence, (C) is not a condition.
+Quick Tip Indigency under CPC relates only to ability to pay court fees, not livelihood.
+39
+
+49. The concept of "plea bargaining" is not applicable to the offence committed against
+(A) A woman (B) A child (C) Both a & b (D) None of the above
+Correct Answer: (C) Both a & b
+Solution: Step 1: Plea bargaining in India. Introduced in CrPC (Chapter XXI-A), plea bargaining allows accused to plead guilty for lesser punishment in minor offences. Step 2: Exceptions. It is not applicable in: - Offences against women. - Offences against children below 14 years. - Offences affecting socio-economic condition of the country. Step 3: Conclusion. Therefore, plea bargaining is not available in cases against women and children. Correct answer is (C).
+Quick Tip Plea bargaining is excluded for serious offences, offences against women, children, and socio-economic offences.
+50. Indian Computer Emergency Response Team to serve as National Agency for incident response is constituted under section
+(A) 71 of IT Act (B) 70 of IT Act
+40
+
+(C) 70(a) of IT Act (D) 70(b) of IT Act
+Correct Answer: (C) 70(a) of IT Act
+Solution: Step 1: IT Act provisions. The Information Technology (Amendment) Act, 2008 created the Indian Computer Emergency Response Team (CERT-In) as the national nodal agency for cyber security incident response. Step 2: Section reference. CERT-In is constituted under Section 70A of the IT Act, 2000. Step 3: Role. It handles cyber security threats, issues advisories, and coordinates incident responses. Step 4: Conclusion. Correct answer is (C) 70(a).
+Quick Tip CERT-In is India's official cyber security watchdog under Section 70A of IT Act.
+51. The Environment (Protection) Act, 1986, came into force on
+(A) 18th November 1986 (B) 19th November 1986 (C) 20th November 1986 (D) 21st November 1986
+Correct Answer: (D) 21st November 1986
+Solution: Step 1: Historical context. The Environment (Protection) Act, 1986, was passed in the aftermath of the Bhopal Gas Tragedy of December 1984, one of the worst industrial disasters in India's history. The
+41
+
+tragedy highlighted the urgent need for a comprehensive law empowering the government to protect and improve the environment. Step 2: Legislative intent. The Act was designed as an umbrella legislation. Unlike earlier fragmented laws such as the Water (Prevention and Control of Pollution) Act, 1974 and the Air (Prevention and Control of Pollution) Act, 1981, this Act provided the Central Government with wide-ranging powers to regulate industrial activities, set standards, and take direct action in case of violations. Step 3: Enforcement date. The Act received the assent of the President and was officially brought into force on 21st November 1986. This date is significant as it marks the formal beginning of a strong centralized legal mechanism for environmental protection in India. Step 4: Analysis of options. - (A) 18th November 1986: Incorrect, no such enforcement notification. - (B) 19th November 1986: Incorrect, not the official date. - (C) 20th November 1986: Incorrect, one day prior to the actual enforcement. - (D) 21st November 1986: Correct, official enforcement date of the Environment (Protection) Act, 1986. Step 5: Conclusion. Thus, the Environment (Protection) Act, 1986 came into force on 21st November 1986, making the correct answer (D).
+Quick Tip The Environment (Protection) Act, 1986 is often called an "umbrella legislation" because it gives the Central Government wide powers to issue directions, regulate industries, and protect ecological balance.
+52. Which section of Indian Evidence Act is based on English Doctrine of Res Gestae
+(A) 5 (B) 6
+42
+
+(C) 7 (D) 8
+Correct Answer: (B) 6
+Solution: Step 1: Meaning of Res Gestae. Res Gestae means "things done." It includes statements/events that are part of the same transaction and thus admissible as evidence. Step 2: Section 6 Evidence Act. Section 6 incorporates this doctrine, allowing facts connected to the same transaction to be relevant, even if they occur at different times and places. Step 3: Conclusion. Hence, Section 6 is based on Res Gestae.
+Quick Tip Res Gestae allows spontaneous statements connected to the transaction to be admissible as evidence.
+53. In respect of family relations the law applicable in India is
+(A) Secular law in India (B) Statutory law (C) Religious law (D) Personal law of the parties
+Correct Answer: (D) Personal law of the parties
+Solution: Step 1: Family law in India. Family matters (marriage, divorce, adoption, succession) are governed by personal laws based on religion.
+43
+
+Step 2: Examples. - Hindu Marriage Act, Hindu Succession Act for Hindus. - Muslim personal law for Muslims. - Christian Marriage Act for Christians. Step 3: Conclusion. Thus, family law depends on personal laws of the parties.
+Quick Tip Family law in India is religion-based, unlike secular criminal or contract law.
+54. Which writ is issued by the court to quash the wrongful order of a lower court
+(A) Mandamus (B) Quo Warranto (C) Prohibition (D) Certiorari
+Correct Answer: (D) Certiorari
+Solution: Step 1: Writs overview. - Mandamus: Command to perform duty. - Quo Warranto: Challenges legality of office. - Prohibition: Prevents lower court from exceeding jurisdiction. - Certiorari: Quashes wrongful orders of inferior courts. Step 2: Application. When a lower court passes a wrongful order, higher court issues Certiorari to quash it. Step 3: Conclusion. Correct answer is (D).
+44
+
+Quick Tip Certiorari is corrective, Prohibition is preventive.
+55. Liability of drawer to compensate the drawee in case of dishonor is primarily provided under­ (A) Section 29(a) (B) Section 29 (C) Section 30 (D) Section 31 Correct Answer: (C) Section 30 Solution: Step 1: Negotiable Instruments Act. Section 30 provides that the drawer of a bill of exchange is bound to compensate the holder in case of dishonor by the drawee. Step 2: Explanation. Drawer's liability arises when the instrument is dishonored, provided due notice is given. Step 3: Conclusion. Hence, Section 30 governs drawer's liability.
+Quick Tip Drawer is primarily liable; acceptor (drawee) becomes liable after acceptance.
+56. Part III of Arbitration and Conciliation Act, 1996 formalizes: (A) Process of Conciliation (B) Process of Arbitration (C) Enforcement of Foreign Awards under New York and Geneva Conventions
+45
+
+(D) All of the above
+Correct Answer: (A) Process of Conciliation
+Solution: Step 1: Structure of the Act. - Part I: Domestic Arbitration. - Part II: Enforcement of foreign awards. - Part III: Conciliation. - Part IV: Supplementary provisions. Step 2: Focus. Part III provides the legal framework for conciliation as an ADR method. Step 3: Conclusion. Hence, Part III deals with conciliation only.
+Quick Tip Arbitration Act: Part I = Arbitration, Part II = Foreign Awards, Part III = Conciliation.
+57. Under which Supreme Court judgment, action of the President to summon, prorogue and dissolve either of the houses of the parliament, shall be unconstitutional if acted without advice of Council of Ministers--
+(A) Indira Gandhi Vs. Raj Narain A.I.R. 1975 S.C. 2299 (B) Anandan Vs. Chief Secretary, A.I.R. 1966 S.C 657 (C) Rao Vs. Indira Gandhi A.I.R. 1971 S.C. 1002 (D) None of the above
+Correct Answer: (C) Rao Vs. Indira Gandhi A.I.R. 1971 S.C. 1002
+Solution: Step 1: Constitutional background. Article 74 of the Constitution requires that the President acts on the aid and advice of the Council of Ministers.
+46
+
+Step 2: Judicial interpretation. In Rao Vs. Indira Gandhi (1971), the Supreme Court clarified that the President cannot exercise powers like summoning, proroguing, or dissolving the House without the advice of the Council of Ministers. Step 3: Importance. This ruling reinforced the parliamentary form of government, limiting discretionary power of the President. Step 4: Conclusion. Hence, correct answer is (C).
+Quick Tip The President of India is a constitutional head, bound by the advice of the Council of Ministers under Article 74.
+58. A decree can be transferred for execution to another court:
+(A) If the judgment debtor actually and voluntarily resides or carries on business or personally works for gain, within the local limits of jurisdiction of such court. (B) If the judgment debtor has property sufficient to satisfy the decree within the limits of that court. (C) If the decree directs the sale or delivery of immoveable property situated outside the local limits of jurisdiction of the court which passed it. (D) All of the above
+Correct Answer: (D) All of the above
+Solution: Step 1: Provision under CPC. Section 39 of the Civil Procedure Code deals with transfer of decrees for execution. Step 2: Grounds for transfer. A decree may be sent for execution if--
+47
+
+- Debtor resides or works for gain in another court's jurisdiction. - Debtor has property within jurisdiction of another court. - Decree involves immovable property outside jurisdiction of passing court. Step 3: Conclusion. Since all apply, correct answer is (D).
+Quick Tip A decree may be executed either by the court which passed it or by another court if debtor or property is outside jurisdiction.
+59. Under which Section of CRPC the Assistant Public Prosecutor is appointed
+(A) 13 (B) 20 (C) 24 (D) 25
+Correct Answer: (D) 25
+Solution: Step 1: Prosecutors under CrPC. Section 24 of CrPC deals with Public Prosecutors and Additional Public Prosecutors. Step 2: Assistant Public Prosecutors. Section 25 provides for appointment of Assistant Public Prosecutors by the State Government for conducting prosecutions in Magistrates' Courts. Step 3: Conclusion. Thus, Assistant Public Prosecutors are appointed under Section 25.
+Quick Tip Public Prosecutor = Sec. 24 CrPC; Assistant Public Prosecutor = Sec. 25 CrPC.
+48
+
+60. In relation to Relevancy of Character in civil cases, which of the following is not correct
+(A) It is not at all relevant (B) It is relevant when it affects award of damage (C) When character is itself an issue (D) When it appears from the fact otherwise relevant
+Correct Answer: (A) It is not at all relevant
+Solution: Step 1: Law of relevancy. Under Sections 52­55 of the Evidence Act, character is generally irrelevant in civil cases. Step 2: Exceptions. Character is relevant if-- - It directly affects damages claimed. - It is itself in issue (e.g., defamation, divorce). - It emerges from otherwise relevant facts. Step 3: Incorrect statement. Hence, saying "not at all relevant" is incorrect. Step 4: Conclusion. Thus, answer is (A).
+Quick Tip Character is mostly irrelevant in civil cases, but exceptions exist (damages, defamation, etc.).
+61. What should be the difference of age under the Hindu Adoption and Maintenance Act, 1956, if a female adopts male
+(A) 21 years 49
+
+(B) 25 years (C) 18 years (D) 16 years
+Correct Answer: (A) 21 years
+Solution: Step 1: Rule under Hindu Adoption Act. Section 11 of the Hindu Adoption and Maintenance Act lays down conditions for valid adoption. Step 2: Gender-specific rule. If a female adopts a male child, she must be at least 21 years older than the child to avoid misuse and maintain propriety. Step 3: Conclusion. Thus, the required age difference is 21 years.
+Quick Tip Adoptive mother must be 21 years older than adopted son to ensure propriety under Hindu Adoption law.
+62. The various words used to denote Mens Rea under the IPC and are defined in the code itself are
+(A) Voluntary, dishonestly, fraudulently & reason to believe (B) Corruptly and want only (C) Malignantly and maliciously (D) Rashly and negligently
+Correct Answer: (A) Voluntary, dishonestly, fraudulently & reason to believe
+Solution: Step 1: Understanding Mens Rea.
+50
+
+Mens Rea means "guilty mind," a mental state indicating intention or knowledge of wrongdoing. Step 2: IPC terminology. Indian Penal Code defines certain terms expressing mental element: - "Voluntarily" (Sec. 39 IPC) - "Dishonestly" (Sec. 24 IPC) - "Fraudulently" (Sec. 25 IPC) - "Reason to believe" (Sec. 26 IPC) Step 3: Conclusion. Thus, the correct group is (A).
+Quick Tip Mens Rea under IPC is expressed through specific terms like "dishonestly," "fraudulently," and "voluntarily."
+63. The term sabbatical is connected with
+(A) Paid leave for study (B) Paternity leave (C) Maternity leave (D) Quarantine leave
+Correct Answer: (A) Paid leave for study
+Solution: Step 1: Meaning of sabbatical. A sabbatical is a period of paid leave granted to an employee, usually for study, research, or personal development. Step 2: Distinction. - Paternity and maternity leave are connected with childbirth. - Quarantine leave is health-related.
+51
+
+Step 3: Conclusion. Correctly, sabbatical is connected with study leave.
+Quick Tip Sabbatical leave is an extended paid leave, often for academic or professional growth.
+64. Motor Vehicles Act 1939, came into force in? (A) 1939 (B) 1940 (C) 1941 (D) 1942 Correct Answer: (B) 1940 Solution: Step 1: Background. The Motor Vehicles Act, 1939 consolidated laws relating to motor vehicles in India. Step 2: Enforcement date. Although enacted in 1939, it actually came into force in 1940. Step 3: Conclusion. Hence, the correct answer is (B).
+Quick Tip Always distinguish between the year of enactment and the year of enforcement of Acts.
+65. Which of the following case is leading case in term of `deliberate delay in filing of the suit resulting in huge losses to the complainant­ (A) Prof. Krishnaraj Goswami Vs. Vishwanath D. Mukashikar
+52
+
+(B) Pratap Narayan Vs. V. P. Raheja (C) Babulal Jain Vs. Subhash Jain (D) John D'souza Vs Edward Ani
+Correct Answer: (A) Prof. Krishnaraj Goswami Vs. Vishwanath D. Mukashikar
+Solution: Step 1: Principle of delay. Courts discourage deliberate delay in filing suits, as it causes injustice to the opposite party. Step 2: Landmark case. In Prof. Krishnaraj Goswami Vs. Vishwanath D. Mukashikar, the court ruled against intentional delay that resulted in heavy loss to the complainant. Step 3: Conclusion. Hence, correct answer is (A).
+Quick Tip Equity aids the vigilant, not those who slumber on their rights.
+66. The parties which cannot be compelled to perform specific performances of contract are provided in which section of Specific Relief Act:
+(A) 27 (B) 28 (C) 29 (D) 30
+Correct Answer: (A) 27
+Solution: Step 1: Specific Relief Act. Specific Relief Act provides cases where specific performance is granted and cases where it is barred.
+53
+
+Step 2: Section 27. Section 27 specifies contracts which cannot be specifically enforced, such as-- - Contracts dependent on personal qualifications. - Contracts involving continuous supervision. - Contracts determinable by nature. Step 3: Conclusion. Thus, answer is (A).
+Quick Tip Specific performance is not available for personal service contracts or contracts requiring continuous supervision.
+67. What is the Special Constitutional Position of Jammu and Kashmir?
+(A) It is above Indian constitution (B) Indian laws are not applicable (C) It has its own constitution (D) It is not of the integral parts of Indian Union
+Correct Answer: (C) It has its own constitution
+Solution: Step 1: Article 370. Before abrogation in 2019, Article 370 granted Jammu and Kashmir special status with its own Constitution. Step 2: Nature of position. Though part of India, J&K had its own Constitution and greater autonomy in state matters. Step 3: Clarification. It was never "above" the Constitution of India and remained an integral part of the Union. Step 4: Conclusion. Hence, the correct answer is (C).
+54
+
+Quick Tip Article 370 conferred J&K special status with its own Constitution, until abrogation in 2019.
+68. A person cannot be a next friend, a guardian of a person if: (A) He is a minor (B) He is an opposite party in the suit (C) He has not given consent in writing (D) All of the above Correct Answer: (D) All of the above Solution: Step 1: Meaning of next friend/guardian. Under Order 32 CPC, a minor must sue or be sued through a next friend/guardian. Step 2: Disqualifications. - A minor cannot be guardian. - An opposite party cannot represent as guardian. - Written consent is mandatory; without it, appointment is invalid. Step 3: Conclusion. All listed conditions disqualify a person. Correct answer is (D).
+Quick Tip Guardian/next friend must be competent, impartial, and give consent in writing.
+69. In which section of the Hindu Succession Act, 1956 the Law of Mitakshara has been incorporated (A) Section 8
+55
+
+(B) Section 7 (C) Section 9 (D) Section 6
+Correct Answer: (D) Section 6
+Solution: Step 1: Hindu Succession Act overview. Section 6 deals with devolution of interest in coparcenary property under Mitakshara law. Step 2: Principle. It provides that when a male Hindu dies, his interest in coparcenary devolves by survivorship, but subject to rights of female relatives. Step 3: Conclusion. Thus, Section 6 incorporates Mitakshara law.
+Quick Tip Mitakshara law of coparcenary inheritance is embodied in Section 6 of the Hindu Succession Act.
+70. The chief elements necessary to constitute a crime are
+(A) A human being (B) An evil intent (C) Injury to another human being or society (D) All of the above
+Correct Answer: (D) All of the above
+Solution: Step 1: Essential elements. Every crime has three fundamental elements: 1. Human being (actus reus must be by a human).
+56
+
+2. Mens rea (guilty mind/evil intent). 3. Injury or harm to another person/society. Step 2: Application. All three must exist together to constitute a punishable offence. Step 3: Conclusion. Correct answer is (D).
+Quick Tip Crime requires actus reus + mens rea + resulting injury.
+71. "Dealer" includes a person who is engaged-- (A) In building bodies for attachment to chassis; or (B) In the repair of motor vehicles; or (C) In the business of hypothecation, leasing or hire-purchase of motor vehicle; (D) All of the above Correct Answer: (D) All of the above Solution: Step 1: Definition under Motor Vehicles Act. The term "dealer" is broadly defined to cover not just sellers, but also those engaged in construction, repair, leasing, and hypothecation of motor vehicles. Step 2: Implication. This ensures that all entities connected with motor vehicle trade come under regulatory scope. Step 3: Conclusion. Thus, answer is (D).
+57
+
+Quick Tip In motor vehicle law, "dealer" has a wide meaning--covering sellers, repairers, builders, and financiers.
+72. Under Section 25 of the Land Acquisition Act, the amount of compensation awarded by the court (A) Shall not be less than the amount awarded by the Collector under Section II (B) Shall not be equal to the amount awarded by the Collector under Section II (C) Shall not be more than the amount awarded by the Collector under Section II (D) All of the above Correct Answer: (A) Shall not be less than the amount awarded by the Collector under Section II Solution: Step 1: Rule of compensation. Section 25 of Land Acquisition Act ensures fair compensation. Step 2: Court's restriction. The amount awarded by the court cannot be less than what the Collector has already awarded, to protect the landowner. Step 3: Conclusion. Hence, answer is (A).
+Quick Tip Compensation by court must be equal or more than Collector's award--never less.
+73. The undertaking contained in a promissory note, to pay a certain sum of money is: (A) Conditional
+58
+
+(B) Unconditional (C) May be conditional or unconditional depending upon the circumstances (D) All of the above
+Correct Answer: (B) Unconditional
+Solution: Step 1: Promissory note under Negotiable Instruments Act. Section 4 defines a promissory note as a written instrument containing an unconditional undertaking to pay a certain sum of money. Step 2: Key feature. The promise must be absolute and not dependent on any condition or event. Step 3: Conclusion. Thus, undertaking is always unconditional.
+Quick Tip A promissory note is valid only if the promise to pay is unconditional and certain.
+74. Recently, in which case the Kerala High Court held that a University Grant Commission criterion which allowed certain relaxation in marks to reserved categories as violation of Article 16(1) of the Constitution
+(A) Nair Service Society Vs UGC ; WP(C) No. 5190 of 2016 (W) (B) CBSE Vs UGC ; WP(C) No. 5190 of 2016 (W) (C) UGC Vs State Of Kerala ; WP(C) No. 5190 of 2016 (W) (D) UGC Vs Secretary of State ; WP(C) No. 5190 of 2016 (W)
+Correct Answer: (A) Nair Service Society Vs UGC ; WP(C) No. 5190 of 2016 (W)
+Solution: Step 1: Context. The University Grants Commission (UGC) had issued a criterion allowing relaxation in qualifying marks for reserved categories in certain examinations.
+59
+
+Step 2: Challenge before Kerala High Court. The Nair Service Society challenged this relaxation policy, arguing that it discriminated and violated the principle of equality under Article 16(1) of the Constitution. Step 3: Court's ruling. The Kerala High Court, in Nair Service Society Vs UGC ; WP(C) No. 5190 of 2016, held that such relaxation was unconstitutional as it went beyond permissible limits of affirmative action. Step 4: Conclusion. Thus, the correct case is (A).
+Quick Tip Article 16(1) ensures equality of opportunity in public employment; any policy violating this may be struck down by courts.
+75. In which of the following cases, it was said that "unless a right of appeal is clearly given by statute it does not exist":
+(A) M/s. Ram Narayan Pvt. Ltd. Vs Trading Corporation Ltd. A.I.R 1983 S.C. 786 (B) Raja Himanshu Dhar Singh Vs Addl. Registrar, A.I.R 1962 ALL. 439 (C) Zair Hussain Khan Vs Khurshed Jain (1906) I.L.R 28 ALL. 545 (D) Smt. Gangabai Vs Vijaya Kumar, A.I.R 1974, S.C 1126
+Correct Answer: (C) Zair Hussain Khan Vs Khurshed Jain (1906) I.L.R 28 ALL. 545
+Solution: Step 1: Legal principle. The right of appeal is not inherent; it must be expressly conferred by statute. Step 2: Case reference. In Zair Hussain Khan Vs Khurshed Jain (1906), the court held that unless the statute clearly provides, no party can claim appeal as a matter of right. Step 3: Application.
+60
+
+This principle is consistently followed by courts: appeal is a statutory right, not a natural right. Step 4: Conclusion. Correct case is (C).
+Quick Tip An appeal is always a statutory right--never assumed unless law provides it.
+76. Which of the following sections deals with the provisions relating to maximum period for which an under trial prisoner can be detained
+(A) 436 (B) 436-A (C) 437-A (D) 437
+Correct Answer: (B) 436-A
+Solution: Step 1: Background. To reduce overcrowding in prisons, CrPC added Section 436-A (2005 amendment). Step 2: Rule. An undertrial prisoner cannot be detained for more than half of the maximum period of imprisonment specified for the offence (except in cases of death penalty). Step 3: Conclusion. Thus, correct answer is Section 436-A.
+Quick Tip Section 436-A CrPC protects undertrials from excessive detention by setting a maximum limit.
+61
+
+77. To make the criminal harmless by supplying him those things which he lacks and to cure him of those drawbacks which made him commit crime is known as
+(A) Expiatory or penance theory of punishment (B) Deterrent theory or preventive theory of punishment (C) Reformative or rehabilitative or corrective theory of punishment (D) Retributive theory of punishment
+Correct Answer: (C) Reformative or rehabilitative or corrective theory of punishment
+Solution: Step 1: Understanding theories of punishment. - Expiatory: Punishment as penance. - Deterrent: To deter others. - Retributive: Eye-for-an-eye principle. - Reformative: Focuses on reformation of offender. Step 2: Given concept. The idea of curing the criminal's drawbacks, supplying him education, skills, and moral correction is Reformative theory. Step 3: Conclusion. Correct answer is (C).
+Quick Tip Reformative theory sees crime as a disease and punishment as a tool for reformation.
+78. Pakala Narayan Swami Vs Emperor is a leading case on
+(A) Dying Declaration (B) Confession (C) Accomplice (D) Expert witness
+62
+
+Correct Answer: (A) Dying Declaration
+Solution: Step 1: Background of case. In Pakala Narayan Swami Vs Emperor (1939 PC), the Privy Council explained scope of dying declaration under Section 32(1) of Evidence Act. Step 2: Ruling. It held that a statement by a deceased is admissible if it relates to the cause of his death or circumstances leading to death. Step 3: Importance. The case expanded meaning of dying declaration beyond the actual moment of death. Step 4: Conclusion. Correct answer is (A).
+Quick Tip Dying declarations are admissible even without oath, as law presumes truth when death is imminent.
+79. Who are the partners in a bill of exchange?
+(A) Drawer & Drawee (B) Payee (C) Both a and b (D) None of the above
+Correct Answer: (C) Both a and b
+Solution: Step 1: Definition. A bill of exchange is a written order by the drawer directing the drawee to pay a certain sum to the payee. Step 2: Parties involved.
+63
+
+- Drawer: Makes the bill. - Drawee: Person directed to pay. - Payee: Person receiving the payment. Step 3: Conclusion. Thus, all three are involved, but partners are both drawer­drawee and payee. Correct answer is (C).
+Quick Tip Every bill of exchange must have three parties--drawer, drawee, and payee.
+80. Income which accrue or arise outside India but are directly received into India are taxable in case of
+(A) Residents only (B) Both ordinarily residents and non-resident (C) Non-resident (D) All the assessees
+Correct Answer: (A) Residents only
+Solution: Step 1: Income Tax principle. Tax incidence depends on residential status (Sec. 5 of Income Tax Act). Step 2: Rule. - Residents: Taxable on global income. - Non-residents: Taxable only on income accrued/received in India. Step 3: Application. If income accrues abroad but is received directly in India, it is taxable for residents. Step 4: Conclusion. Answer is (A).
+64
+
+Quick Tip Residents are taxed on global income; non-residents only on Indian income.
+81. `A', a surgeon, knowing that a particular operation is likely to cause the death of `Z', who suffers under a painful complaint, but not intending to cause Z's death & intending in good faith Z's benefit performs that operation on Z with Z's consent. A has committed no offence, it is contained in (A) Section 88 of the IPC (B) Section 89 of the IPC (C) Section 90 of the IPC (D) Section 87 of the IPC Correct Answer: (A) Section 88 of the IPC Solution: Step 1: Rule under IPC. Section 88 IPC provides immunity when an act not intended to cause death is done with consent in good faith for a person's benefit. Step 2: Application. Here, surgeon acts in good faith, with consent, for patient's benefit, though risk of death exists. Step 3: Conclusion. Hence, covered under Section 88 IPC.
+Quick Tip Acts done with consent in good faith for benefit are protected under Sec. 88 IPC.
+82. A Hindu's widow, if there are more than one, shall take
+65
+
+(A) One share each (B) One share for all the widows (C) One share each to the maximum of two shares, if there are more than two widows (D) None of the above
+Correct Answer: (B) One share for all the widows
+Solution: Step 1: Hindu Succession Act. Section 10 provides distribution of property among Class I heirs. Step 2: Rule for widows. If there are multiple widows, they collectively take one share equal to that of a son. Step 3: Conclusion. Thus, all widows together take only one share. Correct answer is (B).
+Quick Tip Under Hindu law, multiple widows together get one share equal to one son's share.
+83. Section 112 of Indian Evidence Act, provides that a child would be treated as legitimate if after dissolution of marriage, he/she has been born within
+(A) 180 days (B) 270 days (C) 280 days (D) 300 days
+Correct Answer: (D) 300 days
+Solution: Step 1: Legal presumption. Section 112 Evidence Act creates presumption of legitimacy. Step 2: Rule.
+66
+
+A child born during a valid marriage or within 300 days after its dissolution is legitimate, unless non-access is proved. Step 3: Conclusion. Correct limit is 300 days.
+Quick Tip Law presumes legitimacy of a child if born within 300 days of dissolution of marriage.
+84. Which of the following sections enables the court to cancel the bond and bail bond? (A) 446-a (B) 446 (C) 448 (D) 450 Correct Answer: (A) 446-a Solution: Step 1: Section under CrPC. Section 446-A CrPC empowers the court to cancel bond and bail bond upon breach of conditions. Step 2: Effect. Court may forfeit bond and order accused to furnish fresh security. Step 3: Conclusion. Correct answer is (A).
+Quick Tip On breach of bail conditions, bond is canceled under Section 446-A CrPC.
+85. A reference can be made during the pendency: 67
+
+(A) The subordinate court refers the case to the high court for the latter's opinion on a question of law. (B) The subordinate court refers the case to the high court for the latter's opinion on a question of evidence. (C) The subordinate court refers the case to the high court for the latter's opinion on a question of fact. (D) The subordinate court refers the case to the high court for the latter's opinion on a question of court procedure.
+Correct Answer: (A) The subordinate court refers the case to the high court for the latter's opinion on a question of law.
+Solution: Step 1: Understanding reference jurisdiction. Under Section 113 of the Code of Civil Procedure (CPC), a subordinate court may refer a case to the High Court during the pendency of proceedings, but only when a question of law is involved. This is because the High Court has the authority to clarify doubtful legal provisions. Step 2: Analyzing the options. - (A) Correct: Reference can only be made when a question of law arises. - (B) Wrong: Questions of evidence are decided by the trial court itself. - (C) Wrong: Questions of fact are within the domain of the subordinate court. - (D) Wrong: Procedural issues do not require a reference. Step 3: Conclusion. Therefore, the correct option is (A) -- a reference can be made to the High Court only on a question of law.
+Quick Tip Remember: Under Section 113 CPC, reference to the High Court is strictly confined to questions of law, not facts or evidence.
+68
+
+86. The Right of Equality before the law under Article 14 is subject to the restriction of:
+(A) Public order and morality (B) Reasonable classification (C) Reasonable restriction (D) Reasonable situations
+Correct Answer: (B) Reasonable classification
+Solution: Step 1: Constitutional principle. Article 14 guarantees equality before the law and equal protection of laws. However, absolute equality is neither possible nor practical, so the principle of reasonable classification is allowed. Step 2: Analyzing the options. - (A) Public order and morality: These are restrictions under other fundamental rights (like Article 19), not Article 14. - (B) Reasonable classification: Correct. The Supreme Court has upheld that Article 14 permits classification, provided it is reasonable and not arbitrary. - (C) Reasonable restriction: This applies to freedom rights under Article 19, not equality. - (D) Reasonable situations: Not a valid constitutional doctrine. Step 3: Conclusion. The right to equality is subject to reasonable classification, not absolute equality.
+Quick Tip Article 14 allows reasonable classification, but prohibits class legislation. Classification must be based on intelligible differentia and a rational nexus with the objective.
+87. The distinction between Sections 299 and 300 was made clear by Melvill J. in:
+(A) Reg Vs Guruchand Gope (B) Reg Vs Govinda
+69
+
+(C) Reg Vs Hayward (D) Govind Vs Reg
+Correct Answer: (B) Reg Vs Govinda
+Solution: Step 1: Background. Section 299 IPC defines culpable homicide, and Section 300 defines murder. The distinction between the two was clarified in the case of Reg v. Govinda (1876) by Justice Melvill. Step 2: Key observation. In this case, the court explained that culpable homicide is the genus, and murder is its species. Every murder is culpable homicide, but not every culpable homicide is murder. Step 3: Analysis of options. - (A) Wrong: Guruchand Gope is not related to this distinction. - (B) Correct: Reg v. Govinda is the landmark case clarifying Sections 299 and 300. - (C) Wrong: Reg v. Hayward deals with other issues. - (D) Wrong: No such reported case as "Govind v. Reg." Step 4: Conclusion. The case of Reg v. Govinda is the authority on the distinction between culpable homicide and murder.
+Quick Tip Always remember: Culpable homicide is the broader category; murder is only one form of it.
+88. Any person aggrieved by an order made by the Disciplinary Committee of the Bar Council of India under Section 36 or 37 of the Advocates Act, may prefer an appeal to the:
+(A) High Court (B) Supreme Court
+70
+
+(C) State Government (D) Central Government
+Correct Answer: (B) Supreme Court
+Solution: Step 1: Legal provision. According to Section 38 of the Advocates Act, 1961, an appeal against the decision of the Disciplinary Committee of the Bar Council of India lies only to the Supreme Court of India. Step 2: Analyzing the options. - (A) High Court: Wrong, because High Court has no jurisdiction under Section 38. - (B) Supreme Court: Correct, as per statutory provision. - (C) State Government: Wrong, no role in disciplinary matters of advocates. - (D) Central Government: Wrong, disciplinary matters are self-regulated by Bar Councils and reviewed by Supreme Court. Step 3: Conclusion. Thus, the aggrieved person may appeal to the Supreme Court.
+Quick Tip Remember: Under the Advocates Act, disciplinary control flows from State Bar Council  Bar Council of India  Supreme Court.
+89. A perpetual injunction can only be granted by the decree at the hearing and upon the­
+(A) Demand of the party (B) Discretion of the court (C) Merit of the suit (D) None of the above
+Correct Answer: (C) Merit of the suit
+71
+
+Solution: Step 1: Perpetual injunction concept. Under Section 37­38 of the Specific Relief Act, a perpetual injunction can only be granted by a decree made at the hearing of the suit. It is based on the merits of the case, not just the demand of the party. Step 2: Analyzing the options. - (A) Demand of the party: Wrong, mere demand is insufficient. - (B) Discretion of the court: Wrong, though court exercises discretion, it must be backed by merits. - (C) Merit of the suit: Correct, the injunction is granted only when justified by facts and law. - (D) None of the above: Wrong, since (C) is correct. Step 3: Conclusion. Thus, a perpetual injunction can only be granted on the merits of the suit.
+Quick Tip Perpetual injunction = permanent relief. Temporary injunction = interim relief. Always distinguish between them.
+90. The provision relating to Abolition of Untouchability is given in:
+(A) Article 23 (B) Article 24 (C) Article 17 (D) Article 15
+Correct Answer: (C) Article 17
+Solution: Step 1: Constitutional safeguard. Article 17 of the Indian Constitution expressly abolishes untouchability and forbids its practice in any form. It declares untouchability as an offense punishable by law.
+72
+
+Step 2: Analyzing the options. - (A) Article 23: Prohibits human trafficking and forced labor, not untouchability. - (B) Article 24: Prohibits child labor in hazardous employment. - (C) Article 17: Correct -- abolishes untouchability. - (D) Article 15: Prohibits discrimination on grounds of religion, race, caste, sex, or place of birth, but not specific to untouchability. Step 3: Conclusion. The abolition of untouchability is specifically provided in Article 17.
+Quick Tip Article 17 is a unique, absolute right -- it cannot be restricted, unlike other rights.
+91. Under Section 115, in the exercise of its revisional jurisdiction, a High Court can do which of the following things:
+(A) To call for the record of any case which has been decided by any court, subordinate to the High Court. (B) To vary/reverse any decree or order against which an appeal lies to the High Court. (C) Both A & B (D) None of the above
+Correct Answer: (A) To call for the record of any case which has been decided by any court, subordinate to the High Court.
+Solution: Step 1: Understanding revisional jurisdiction. Section 115 of the Code of Civil Procedure gives High Courts revisional powers. The High Court may call for the record of any case decided by a subordinate court to ensure that no jurisdictional error or illegality has occurred. Step 2: Scope of revision. Unlike appellate jurisdiction, revision does not empower the High Court to vary or reverse
+73
+
+decrees in cases where an appeal lies. Its purpose is only to correct jurisdictional errors, not to re-appreciate evidence. Step 3: Analyzing options. - (A) Correct: The High Court can call for the records of subordinate courts. - (B) Wrong: If an appeal lies, revision cannot be invoked. - (C) Wrong: Both A and B cannot be correct because B is outside Section 115. - (D) Wrong: Since (A) is correct, this is invalid. Step 4: Conclusion. Thus, the High Court under Section 115 can only call for records of subordinate courts.
+Quick Tip Revision Appeal. Revision checks legality/jurisdiction, while appeal examines merits and facts.
+92. In joint trial, the evidentiary value of confession of a co-accused affecting himself and others, has been discussed by the Supreme Court in:
+(A) Kashmira Singh Vs State of MP (B) State of UP Vs Deorman Upadhyay (C) Ram Bharose Vs State of UP (D) Rameshwar Vs State of Rajasthan
+Correct Answer: (A) Kashmira Singh Vs State of MP
+Solution: Step 1: Principle of confession of co-accused. Under Section 30 of the Indian Evidence Act, the confession of a co-accused can be taken into consideration but cannot by itself be the sole basis of conviction. It must be corroborated by independent evidence. Step 2: Landmark case. In Kashmira Singh v. State of Madhya Pradesh (1952), the Supreme Court held that a
+74
+
+co-accused's confession has limited evidentiary value. It can only be used to lend assurance to other independent evidence. Step 3: Analysis of options. - (A) Correct: Kashmira Singh is the leading authority. - (B) Wrong: State of UP v. Deorman Upadhyay deals with circumstantial evidence, not confession of co-accused. - (C) Wrong: Ram Bharose case is not about Section 30. - (D) Wrong: Rameshwar case concerns corroboration of child witness testimony. Step 4: Conclusion. Hence, the Supreme Court clarified this principle in Kashmira Singh v. State of MP.
+Quick Tip Confession of co-accused = weak evidence. Needs independent corroboration.
+93. Maintenance application under Section 18(2) of HAMA is filed in:
+(A) Matrimonial court (B) District court (C) High court (D) Any of the above
+Correct Answer: (B) District court
+Solution: Step 1: Understanding Section 18 of HAMA. The Hindu Adoptions and Maintenance Act (HAMA), 1956 provides for maintenance of wife. Section 18(2) specifically empowers the wife to claim separate residence and maintenance under certain grounds like cruelty, desertion, etc. Step 2: Jurisdiction. Applications under HAMA are filed in the District Court, which has original jurisdiction over family/matrimonial disputes unless transferred. Matrimonial courts under Hindu Marriage Act are different; here, maintenance claim lies under District Court.
+75
+
+Step 3: Analysis of options. - (A) Matrimonial court: Wrong, this applies under Hindu Marriage Act. - (B) District court: Correct forum under HAMA. - (C) High Court: Wrong, High Court only hears appeals. - (D) Any of the above: Incorrect, only District Court has original jurisdiction. Step 4: Conclusion. Thus, maintenance under Section 18(2) of HAMA is filed in the District Court.
+Quick Tip Differentiate: HAMA (District Court) vs Hindu Marriage Act (Family/Matrimonial Court).
+94. Which of the following belong to the category of direct tax:
+(A) Goods and Services Tax (B) Excise duty and customs duty (C) Income tax and gift tax (D) All of the above
+Correct Answer: (C) Income tax and gift tax
+Solution: Step 1: Understanding direct vs indirect tax. - Direct tax: Paid directly by the taxpayer to the government, e.g., Income Tax, Gift Tax, Wealth Tax. - Indirect tax: Collected through intermediaries, e.g., GST, Excise, Customs. Step 2: Analysis of options. - (A) GST: Indirect tax. - (B) Excise and Customs: Indirect taxes. - (C) Income tax and Gift tax: Correct, both are direct taxes. - (D) All of the above: Wrong, because only (C) fits the category.
+76
+
+Step 3: Conclusion. Only Income Tax and Gift Tax are direct taxes among the given options.
+Quick Tip Direct tax = taxpayer pays directly (no shifting). Indirect tax = burden shifted to consumer.
+95. The theoretical powers to amend the Constitution, has been given to the Members of Parliament and State Legislatures by:
+(A) Article 358 (B) Article 368 (C) Article 378 (D) No such powers
+Correct Answer: (B) Article 368
+Solution: Step 1: Constitutional provision. Article 368 of the Constitution of India explicitly lays down the procedure for amending the Constitution. It grants Parliament the power to amend by way of addition, variation, or repeal of provisions. Step 2: Role of State Legislatures. For certain amendments (federal provisions like representation of states, powers of judiciary, etc.), ratification by at least half of State Legislatures is also required. Step 3: Analysis of options. - (A) Article 358: Deals with suspension of rights under Article 19 during Emergency. - (B) Article 368: Correct -- amendment powers provision. - (C) Article 378: Transitional provisions. - (D) Wrong, as powers do exist under Article 368. Step 4: Conclusion.
+77
+
+Hence, constitutional amendment powers are conferred by Article 368.
+Quick Tip Remember: Ordinary laws = Article 245­246. Constitutional Amendments = Article 368.
+96. Under Section 114, a person can apply for review of judgment when:
+(A) He is aggrieved by a decree/order from which an appeal is allowed, but no appeal is allowed. (B) He is aggrieved by a decree/order from which no appeal is allowed. (C) He is aggrieved by a decision on a reference from a court of small causes. (D) All of the above
+Correct Answer: (D) All of the above
+Solution: Step 1: Understanding Section 114 CPC. Section 114 of the Code of Civil Procedure provides the power of review. It allows a person who is aggrieved by a judgment, decree, or order to apply for a review under specific circumstances. This provision ensures that errors apparent on the face of the record can be corrected by the same court. Step 2: Situations where review is permitted. A review can be sought when: 1. A decree or order has been passed against the person, from which an appeal is allowed but no appeal has been preferred. 2. A decree or order has been passed, from which no appeal is allowed. 3. A decision has been made on a reference from a Court of Small Causes. Step 3: Analyzing the options. - (A) Correct, because if an appeal is allowed but not filed, review may be sought. - (B) Correct, since review is allowed when no appeal is provided. - (C) Correct, because review is also applicable in case of a decision on a reference from a Small Causes Court.
+78
+
+- (D) Correct, since all the above conditions fall within the scope of Section 114. Step 4: Conclusion. Thus, a review application can be filed in all the situations mentioned, making the correct answer (D) All of the above.
+Quick Tip Remember: Review jurisdiction is limited -- it is not a rehearing of the case, but only correction of an error apparent on record.
+97. In which of the following cases the Supreme Court of India opined that "bail is the surety and jail is an exception"?
+(A) Joginder Kumar Vs State of U.P. (B) Moti Ram Vs State of M.P. (C) Maneka Gandhi Vs Union of India (D) State of W.B. Vs D.K. Basu
+Correct Answer: (B) Moti Ram Vs State of M.P.
+Solution: Step 1: Principle of bail. The Supreme Court has emphasized that bail is the rule and jail is an exception. This principle ensures that liberty of individuals is protected, and pre-trial detention should not be the norm. Step 2: Landmark judgment. In Moti Ram v. State of Madhya Pradesh (1978), Justice V.R. Krishna Iyer highlighted that the poor should not be denied bail due to inability to furnish surety. The judgment stressed that bail should be granted liberally. Step 3: Analysis of options. - (A) Joginder Kumar: Deals with arrest guidelines. - (B) Moti Ram: Correct, established principle of bail as a right.
+79
+
+- (C) Maneka Gandhi: Concerns right to travel under Article 21. - (D) D.K. Basu: Deals with custodial death guidelines. Step 4: Conclusion. Hence, the correct case is Moti Ram v. State of M.P.
+Quick Tip Bail is a fundamental right linked to Article 21 -- personal liberty.
+98. The provisions relating to compoundable offence is provided under Section:
+(A) 319 (B) 320 (C) 265(d) (D) 321
+Correct Answer: (B) 320
+Solution: Step 1: Definition. Compoundable offences are those where the complainant can agree to settle the matter with the accused, and the case can be withdrawn. These are usually less serious offences. Step 2: Legal provision. Section 320 of the Code of Criminal Procedure (CrPC) specifies which offences are compoundable and by whom they may be compounded (with or without permission of the court). Step 3: Analysis of options. - (A) 319: Deals with power to proceed against other persons appearing guilty. - (B) 320: Correct, governs compoundable offences. - (C) 265(d): Relates to plea bargaining. - (D) 321: Relates to withdrawal of prosecution by the Public Prosecutor. Step 4: Conclusion.
+80
+
+Hence, the correct answer is Section 320 CrPC.
+Quick Tip Compoundable = Settled between parties. Non-compoundable = Only court can decide.
+99. Under which section of CPC, option for settlement of dispute is provided outside the court?
+(A) 80(1) (B) 89(2) (C) 89(1) (D) 80(2)
+Correct Answer: (C) 89(1)
+Solution: Step 1: Provision under CPC. Section 89 CPC provides for settlement of disputes outside the court, through Alternative Dispute Resolution (ADR) mechanisms such as arbitration, conciliation, mediation, and judicial settlement including Lok Adalats. Step 2: Difference between sub-sections. - Section 89(1): Empowers the court to refer disputes to ADR. - Section 89(2): Explains procedure after reference. Step 3: Analysis of options. - (A) 80(1): Deals with notice before filing a suit against government. - (B) 89(2): Only procedural, not the enabling provision. - (C) 89(1): Correct, main enabling provision for ADR. - (D) 80(2): Provides exception to notice requirement. Step 4: Conclusion. Therefore, Section 89(1) CPC provides option for settlement of disputes outside court.
+81
+
+Quick Tip ADR saves time and reduces burden on courts. Section 89 CPC is the gateway to ADR.
+100. Where a magistrate of the first class passes only a sentence of fine not exceeding Rs. 100, against this order where an appeal shall lie:
+(A) In the court of Chief Judicial Magistrate (B) In the court of Chief Metropolitan Magistrate (C) Both A and B (D) None of the above
+Correct Answer: (D) None of the above
+Solution: Step 1: Understanding appeal provisions. Under Section 376 of the CrPC, no appeal shall lie in petty cases where the accused is convicted and the punishment is a fine not exceeding Rs. 100 only. This provision avoids unnecessary appeals in trivial matters. Step 2: Application. Since the fine imposed is Rs. 100 or less, the law bars any appeal. Thus, neither Chief Judicial Magistrate nor Chief Metropolitan Magistrate has appellate jurisdiction in this case. Step 3: Analysis of options. - (A) Wrong: No appeal lies to Chief Judicial Magistrate. - (B) Wrong: No appeal lies to Chief Metropolitan Magistrate. - (C) Wrong: Since both A and B are wrong, this is incorrect. - (D) Correct: No appeal lies in such cases. Step 4: Conclusion. Thus, in case of a petty fine up to Rs. 100, no appeal is permissible.
+Quick Tip Remember: Section 376 CrPC bars appeals in trivial fine-only cases up to Rs. 100.
+82
+
+83
+
+

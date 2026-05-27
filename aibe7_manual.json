@@ -1,0 +1,68 @@
+[
+  {
+    "question_number": 6,
+    "question_text": "Gloucstershire grammar School Case is a leading case to explain the",
+    "option_a": "Volenti non fit injuria",
+    "option_b": "Injuria non fit volenti",
+    "option_c": "Damnum sine injuria",
+    "option_d": "Injuria sine damnum",
+    "correct_option": "C",
+    "subject": "General Law",
+    "explanation": "Step 2: Detailed Explanation: The Gloucester Grammar School Case is the classic illustration of the maxim Damnum sine injuria. Facts of the case: The defendant, a schoolmaster, set up a rival school next to the plaintiff's school. This competition caused the plaintiff to reduce their fees, resulting in a financial loss. The plaintiff sued the defendant for this loss. Judgment: The court held that the defendant had not violated any legal right of the plaintiff. The defendant was merely exercising"
+  },
+  {
+    "question_number": 29,
+    "question_text": "In which case the Supreme Court held that Part I of the Arbitration and Conciliation Act would equally apply to international commercial arbitration held outside India, unless any or all provisions have been excluded by agreement between the parties.",
+    "option_a": "Bhatia International v. Bulk Trading S.A",
+    "option_b": "United India Ins. Co. Ltd v. Associated Transport Corpn. Ltd",
+    "option_c": "Hakam Singh v. Gammon (India) Ltd.",
+    "option_d": "Ajmera Brother's v. Suraj Naresh Kumar Jain",
+    "correct_option": "A",
+    "subject": "ADR & Alternative Dispute Resolution",
+    "explanation": "Step 2: Detailed Explanation: In the landmark case of Bhatia International v. Bulk Trading S.A. (2002), the Supreme Court of India delivered a significant judgment on this issue. The Court held that the provisions of Part I of the Act would apply to all arbitrations, including international commercial arbitrations seated outside India, unless the parties, by express or implied agreement, had excluded its application. This meant that Indian courts could grant interim relief (under Section 9) even"
+  },
+  {
+    "question_number": 45,
+    "question_text": "R obtained a sum of Rs.50,000/- from D by putting D in fear of death. Here R commits",
+    "option_a": "Extortion",
+    "option_b": "Cheating",
+    "option_c": "Mischief",
+    "option_d": "Robbery",
+    "correct_option": "D",
+    "subject": "General Law",
+    "explanation": "Step 2: Detailed Explanation: - Extortion (Section 383 IPC): Is committed when a person intentionally puts another in fear of any injury and thereby dishonestly induces them to deliver any property. The fear does not have to be of instant death or hurt. - Robbery (Section 390 IPC): Robbery is an aggravated form of either theft or extortion. The relevant part for this question is when extortion becomes robbery. Section 390 states: \"Extortion is 'robbery' if the offender, at the time of committing"
+  },
+  {
+    "question_number": 51,
+    "question_text": "The Hindu Succession (Amendment) Act, 2005,",
+    "option_a": "Allows daughters of the deceased equal rights with daughter",
+    "option_b": "Allows sons of the deceased equal rights with widows",
+    "option_c": "Allows daughters of the deceased equal rights with wife",
+    "option_d": "Allows daughters of the deceased equal rights with sons",
+    "correct_option": "D",
+    "subject": "Constitutional Law",
+    "explanation": "Step 2: Detailed Explanation: Before the 2005 amendment, under the Mitakshara school of Hindu law, only male descendants (sons, grandsons, great-grandsons) were coparceners by birth and had a right in the ancestral property. Daughters were not coparceners and were only entitled to maintenance and marriage expenses. The Hindu Succession (Amendment) Act, 2005, primarily amended Section 6 of the original Act. The key changes were: - It made a daughter of a coparcener also a coparcener in her own ri"
+  },
+  {
+    "question_number": 58,
+    "question_text": "Cancellation of crossing is also called",
+    "option_a": "Marking",
+    "option_b": "Opening of crossing",
+    "option_c": "Cancellation",
+    "option_d": "None of the above",
+    "correct_option": "B",
+    "subject": "General Law",
+    "explanation": "Step 2: Detailed Explanation: The act of cancelling the crossing on a cheque is known as opening the crossing. This can only be done by the drawer of the cheque. The drawer can cancel the crossing by writing the words \"Pay Cash\" and putting his full signature on the cheque. When the drawer opens the crossing, the cheque becomes an open or bearer cheque again, and the paying bank can make the payment over the counter to the holder. This is a practice that has evolved through banking custom, rathe"
+  },
+  {
+    "question_number": 98,
+    "question_text": "----------- defined crime as \"a violation of public rights and duties due to the whole community considered as community.\"",
+    "option_a": "Blackstone",
+    "option_b": "Justice Bhagwati",
+    "option_c": "V.R.Krishna Iyer",
+    "option_d": "Lord Heward",
+    "correct_option": "A",
+    "subject": "General Law",
+    "explanation": "Step 2: Detailed Explanation: The definition \"a violation of public rights and duties due to the whole community considered as community\" is famously attributed to Sir William Blackstone, the 18th-century English jurist. In his seminal work, \"Commentaries on the Laws of England,\" Blackstone distinguished between private wrongs (torts) and public wrongs (crimes). He defined crime as \"an act committed, or omitted, in violation of a public law, either forbidding or commanding it.\" He further explai"
+  }
+]

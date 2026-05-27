@@ -1,0 +1,667 @@
+Bar Council of India All India Bar Examination - XIV 15th-Sep-2019 [Set Code-A] LANGUAGE - ENGLISH
+Time Allowed :3 Hours Maximum Marks :100 Total Questions :100
+General Instructions Read the following instructions very carefully and strictly follow them:
+1. This Booklet contains 100 questions and each question carries 1 mark. 2. Make sure that same Question Booklet Set code is mentioned on all the sheets of
+question paper, in case of any change immediately inform the invigilator. 3. There is no negative marking. 4. Duration of this exam is 3 hours only. 5. Fill in your Roll number and Question Booklet Set code very carefully, as the
+answer sheet will be evaluated as per the code you mention on the answer sheet. 6. Under no circumstances will the answer sheet be evaluated with any other,
+Question Booklet Set code 7. Only books and notes are allowed for this examination. 8. Mobile phones, laptop, tabs and/or any other electronic devices are strictly
+prohibited in the examination hall. 9. On possession of any electronic device inside the examination hall, the candidate
+will be disqualified from the examination. 10. Candidate shall not be allowed to leave the Examination Hall before the conclusion
+of the examination. 11. Do not forget to submit the answer sheet back to the invigilator. Failing to do so
+would lead to disqualification. 12. Use only blue/black ball pen to fill the OMR answer sheet. 13. OMR filled with pencil or ink pen would be disqualified. 14. Use of whitener/ eraser /blade or fluid is strictly prohibited. It will lead to
+disqualification. 15. Do not make any stray marks or tear the OMR answer sheet. It will lead to
+disqualification. 16. Write your roll number carefully and darken the correct corresponding ovals. In
+case wrong ovais are darkened your answer sheet will not be evaluated.
+1
+
+1. Which one of the following sentence is correctly method? (A) In India, consideration must follow from promisee only. (B) In India, consideration must follow from only promisor or only promisee. (C) In India, consideration must follow from promisor or any other person. (D) In India, consideration must follow from promisee or any other person
+Correct Answer: (D)
+Solution: Section 2(d) of the Indian Contract Act, 1872, defines consideration as an act, abstinence, or promise done at the desire of the promisor, by the "promisee or any other person." This means that under Indian law, consideration does not have to come from the promisee alone; a third party can also provide it. This principle is known as the 'Doctrine of Privity of Consideration'. Option (A) reflects the English law position, which is not applicable in India. Option (C) is incorrect because consideration is provided *at the desire of* the promisor, but not *from* the promisor. Therefore, Option (D) is the only statement that accurately reflects Indian law.
+Quick Tip
+Remember the key distinction: In India, consideration can be provided by the "promisee or any other person," unlike in English law where it must move from the promisee only. This makes the source of consideration much wider under the Indian Contract Act.
+2. Assertion (A): Collateral transactions to wagering are valid. Reason (R): only wagering agreements are declared void under section 30 of the Indian contract Act. (A) (a) is true, but (r) is false. (B) (a) is false, but (r) is true. (C) Both (a) and (r) are true, but (r) is not correct explanation of (a) (D) Both (a) and (r) are true, and (r) is correct explanation of (a)
+Correct Answer: (D)
+Solution: The solution lies in the distinction between 'void' and 'illegal'. Section 30 of the Indian Contract Act, 1872, declares wagering agreements to be "void," meaning they are unenforceable in a court of law. However, it does not declare them "illegal" or forbidden. Because the main agreement is not illegal, transactions that are collateral (or subsidiary) to it are not tainted with illegality and remain valid and enforceable. For example, a loan taken to pay off a gambling debt is a valid contract. Thus, Assertion (A) is true. Reason (R) correctly states the legal position that only the wagering agreement itself is void. This legal status is precisely why collateral transactions are valid. Therefore, both are true, and (R) is the correct explanation for (A).
+2
+
+Quick Tip The key is: Wagering agreements are 'void', not 'illegal'. If they were illegal, any related (collateral) transaction would also be void. Since they are merely void, collateral transactions are generally enforceable.
+3. Term 'holder' include (A) The payee (B) The bearer (C) The endorsed (D) All of the above
+Correct Answer: (D)
+Solution: Section 8 of the Negotiable Instruments Act, 1881, defines a 'holder' as any person entitled in his own name to the possession of the instrument (cheque, bill of exchange, etc.) and to receive or recover the amount due on it. This definition includes:
+· The Payee: The original person to whom the instrument is made payable. · The Bearer: The person who is in possession of an instrument that is payable to "bearer". · The Endorsee: A person to whom the instrument has been transferred by endorsement
+(signing on the back). Since all three are legally entitled to possess the instrument and receive payment, the term 'holder' encompasses all of them.
+Quick Tip Think of a 'holder' as anyone who can legally claim the money from a negotiable instrument. This includes the person it was originally for (payee), anyone holding a bearer cheque (bearer), or someone it was signed over to (endorsee).
+4. Under the Dissolution of Muslim Marriage Act,1939 a Muslim wife can seek Dissolution of marriage if the husband fails to perform marital obligation for : (A) 2 year (B) 3 year (C) 4 year (D) 5 year
+Correct Answer: (B)
+Solution: Section 2 of the Dissolution of Muslim Marriages Act, 1939, lists the grounds on which a Muslim wife can seek divorce. Specifically, Section 2(iv) states that she is entitled to a decree if the husband "has failed to perform, without reasonable cause, his marital obligations for a period of three years." It is important not to confuse this with other grounds which have different time periods, such as the failure to provide maintenance, which requires a period of two years (Section 2(ii)).
+3
+
+Quick Tip Under the Dissolution of Muslim Marriages Act, remember the key timeframes for different grounds: 2 years for failure of maintenance, 3 years for failure of marital obligations, and 4 years for the husband's whereabouts being unknown.
+5. The Concept of 'Curative' Petition was introduced by the Supreme Court of India in the case of (A) Rupa Ashok Hura V/s Ashok Hura,AIR 2002 SC 1771 (B) M.C.Mehta V/s Union of India, AIR 1987 SC 1087 (C) Krishna Swami V/s Union of India, (1992) 45 CC 605 (D) Sheela Barse V/s Union of India, (1986) 35 CC 5962
+Correct Answer: (A)
+Solution: The concept of a 'Curative Petition' was evolved by the Supreme Court in the landmark case of Rupa Ashok Hurra v. Ashok Hurra (2002). It serves as the final and ultimate remedy for justice against a final judgment of the Supreme Court, available even after a review petition has been dismissed. The court created this remedy using its inherent powers to prevent the abuse of its process and to cure a gross miscarriage of justice. Strict conditions are laid down for its admission, such as a violation of the principles of natural justice.
+Quick Tip Remember the hierarchy of remedies in the Supreme Court: first the main judgment, then a 'Review Petition' (Article 137), and as a final, extraordinary resort, the 'Curative Petition' established in the Rupa Ashok Hurra case.
+6. Right to Fare Legal Aid was recognised as a Fundamental Right under Act 21 of Indian Constitution in the case of (A) Hussaainara Khatoon V/s State of Bihar, AIR 1979 SC 1360 (B) M.H Hoskot V/s State of Maharashtra, AIR 1978 SC 1548 (C) Madhu Mehta V/s Union of India (1989) 4 SC 1548 (D) Rudal Shah V/s State of Bihar (1983) 45 SC 14
+Correct Answer: (B)
+Solution: While Article 39A (a Directive Principle) advocates for free legal aid, it was the Supreme Court's interpretation of Article 21 (Right to Life and Personal Liberty) that elevated it to a fundamental right. In M.H. Hoskot v. State of Maharashtra (1978), Justice Krishna Iyer held that the right to a "fair, just and reasonable" procedure under Article 21 is meaningless without legal representation for the poor. Therefore, free legal aid was recognized as an essential and enforceable part of Article 21. The later case of Hussainara Khatoon strongly reiterated this principle in the context of undertrial prisoners.
+4
+
+Quick Tip
+Article 21's "procedure established by law" was interpreted to mean a "fair" procedure. The Supreme Court, in M.H. Hoskot, held that a procedure cannot be fair if an indigent person is denied legal assistance, thus making free legal aid a fundamental right.
+7. The case of Muhammad Allahdad Khan Vs Muhammad Ismail Khan is related to: (A) Pre-emption (B) Gift (C) Mahr (D) Acknowledgement of paternity
+Correct Answer: (D)
+Solution: The case of Muhammad Allahdad Khan v. Muhammad Ismail Khan is a landmark Privy Council decision that authoritatively deals with the doctrine of "Acknowledgement of Paternity" (Iqrar-ul-nasab) in Muslim law. The court held that if a man acknowledges a child as his own, it establishes not only the child's paternity but also presumes a valid marriage between the man and the child's mother, provided there's no legal impossibility for them to have been married. This doctrine is used to establish parentage in cases of uncertainty, not to legitimize a child known to be illegitimate.
+Quick Tip
+Remember that 'Acknowledgement of Paternity' in Muslim law is a rule of evidence, not legitimation. It is used to resolve uncertainty about a child's parentage, as established in the landmark Muhammad Allahdad Khan case.
+8. In which of the following cases, the Supreme Court was in 2017 declared pronouncements of talaq three times at a time by a Muslim husband as unconstitutional? (A) Shayara Bano V/s Union of India (B) Shassnim Ara V/s State of U.P (C) Baitahira V/s Ali Hasan (D) Danial latifi V/s Union of India
+Correct Answer: (A)
+Solution: In the historic 2017 judgment of Shayara Bano v. Union of India, a five-judge Constitution Bench of the Supreme Court declared the practice of instant triple talaq (talaq-ebiddat) unconstitutional by a 3:2 majority. The majority held that the practice was "manifestly arbitrary" as it allowed a man to whimsically and irrevocably end a marriage, thus violating the fundamental right to equality under Article 14 of the Constitution. This case led to the enactment of the Muslim Women (Protection of Rights on Marriage) Act, 2019, which criminalized the practice.
+5
+
+Quick Tip The Shayara Bano case is the landmark 2017 judgment that struck down instant triple talaq for being arbitrary and unconstitutional. Don't confuse it with earlier cases like Shamim Ara, which laid down procedural checks but did not declare it unconstitutional.
+9. 'Meshe profits' of property means: (A) Those profits by which the person in wrongful possession of such property actually received or might have received there from, together with interest on such profits. (B) The profits due to improvements made by person in wrongful possession. (C) Both A & B (D) None of the above.
+Correct Answer: (A)
+Solution: The term 'Mesne Profits' is defined in Section 2(12) of the Code of Civil Procedure, 1908. It refers to the compensation that a person in wrongful possession of property must pay to the rightful owner. The amount includes not only the profits the wrongful possessor actually received but also those they "might with ordinary diligence have received." It also includes interest on such profits. Crucially, the definition explicitly states that it "shall not include profits due to improvements made by the person in wrongful possession." Therefore, option (A) is correct and (B) is incorrect.
+Quick Tip 'Mesne Profits' = (Actual profits + Potential profits) + Interest - Profits from improvements. It's the compensation for the loss of property use due to wrongful possession.
+10. Which of the following is not a legal representative? (A) Executor and administrators. (B) Hindu coparceners. (C) Creditor (D) Intermeddler
+Correct Answer: (C)
+Solution: Section 2(11) of the Code of Civil Procedure, 1908, defines a 'legal representative' as a person who in law represents the estate of a deceased person. This includes executors and administrators (who are legally appointed), Hindu coparceners (who represent the estate in HUF matters), and even 'intermeddlers' (persons who interfere with the estate without authority, included by a legal fiction for accountability). A 'creditor', however, does not represent the estate. A creditor has a claim *against* the estate to recover a debt; their interests are adverse to the estate, not representative of it.
+6
+
+Quick Tip A legal representative stands *in place of* the deceased to manage or defend the estate. A creditor stands *against* the estate to make a claim. This difference in roles is key.
+11. PublicInterest litigation is relaxation of which of the following requirements: (A) Jurisdiction (B) Locus Standi (C) Both A & B (D) None of the Above
+Correct Answer: (B)
+Solution: The most significant innovation of Public Interest Litigation (PIL) in India is the relaxation of the traditional rule of 'Locus Standi'. Locus standi means "standing to sue," which traditionally required that only a person who has suffered a direct legal injury can approach the court. PIL relaxed this rule, allowing any public-spirited citizen or organization to file a petition on behalf of those who are poor, marginalized, or unable to approach the court themselves. PIL does not relax the court's jurisdiction; it is filed under the existing constitutional jurisdiction of the Supreme Court (Art. 32) and High Courts (Art. 226).
+Quick Tip PIL changed the question from "Who has the right to bring this case?" (Locus Standi) to "Is there a public wrong that needs a remedy?". It broadened access to justice without altering the courts' powers (Jurisdiction).
+12. Which of the following is not a case of Public Interest Litigation: (A) Kesavananda Bharti. v. State of Kerala AIR 1973 SC 1461 (B) Vincent Narayan v. Union of India, AIR 1988 SC 889 (C) Union of India v. Association for Democratic Reforms, AIR 2002 SC 2112 (D) Vincent Panikurlangara v. Union of India, AIR 1987 SC 990.
+Correct Answer: (A)
+Solution: Kesavananda Bharati v. State of Kerala is a seminal case on constitutional law that established the 'basic structure doctrine,' limiting Parliament's power to amend the Constitution. While it was brought by an individual whose property rights were affected, its scope was a fundamental constitutional challenge, predating the modern concept of PIL which evolved in the late 1970s. The other cases are classic examples of PIL: Vineet Narain (Hawala scam, CBI independence), ADR (electoral reforms), and Vincent Panikurlangara (banning harmful drugs, public health).
+7
+
+Quick Tip While Kesavananda Bharati had immense public importance, it was a traditional constitutional law case. PIL, as a distinct category, emerged later to address issues of human rights, environment, and governance on behalf of the public.
+13. Which of the following can be done by a Senior Advocate in accordance with the Rules of Bar Council of India: (A) Make concessions on behalf of client on instructions from junior advocate. (B) Accept instructions to draft a pleading (C) Accept brief directly from a client (D) None of the Above
+Correct Answer: (D)
+Solution: The Bar Council of India Rules place specific restrictions on Senior Advocates. They cannot:
+· Accept instructions to draft pleadings or affidavits. · Accept a brief directly from a client; they must be instructed by an Advocate-on-Record
+or a junior advocate. · Make concessions on behalf of a client without their express authority. Acting on instruc-
+tions from a junior is not sufficient for making concessions. Essentially, a Senior Advocate's role is primarily to argue a case based on the brief prepared by another advocate. Therefore, none of the actions listed in options A, B, and C are permitted.
+Quick Tip The role of a Senior Advocate is specialized; they are primarily for court arguments ('appearing'), not for preparatory work ('acting'). They must always be assisted by another advocate.
+14. Which one of the following is true about Latin Maxim 'Ubi Jus Ibi Remedium' ? (A) Where there is right, there is remedy. (B) Where there is remedy, there is right. (C) Both A & B (D) None of the Above
+Correct Answer: (A)
+Solution: The Latin maxim 'Ubi Jus Ibi Remedium' translates to "Where there is a right, there is a remedy." It is a foundational principle of law, meaning that if a person's legal right is violated, the law must provide a mechanism or remedy to enforce that right or compensate for
+8
+
+its infringement. A right without a remedy is considered meaningless. This principle ensures that legal rights are not just theoretical but are practically enforceable through the courts.
+Quick Tip Remember 'Jus' means right and 'Remedium' means remedy. The maxim asserts that a legal right must have a legal remedy for its violation. The existence of a right logically precedes the provision of a remedy.
+15. The Latin word 'Injuria Sine Damnum' Literally means: (A) Infringement of legal right without damages. (B) Damages without Infringement of legal right. (C) Both A & B (D) All of the above
+Correct Answer: (A)
+Solution: 'Injuria Sine Damnum' is a maxim in the law of torts. It breaks down as: · Injuria: Injury to a legal right. · Sine: Without. · Damnum: Damage, loss, or harm in terms of money, comfort, health, etc.
+Thus, the maxim means an infringement of a legally protected right without causing any actual harm or loss. In such cases, the violation of the legal right itself is actionable, and the plaintiff can succeed even without proving any actual damage. A classic example is the case of Ashby v. White, where a voter was wrongfully prevented from voting but suffered no damage as his preferred candidate won anyway. He was still awarded damages for the violation of his legal right to vote.
+Quick Tip Think of 'Injuria' as legal injury and 'Damnum' as damage/loss. 'Injuria Sine Damnum' (legal injury without damage) is actionable. Its opposite, 'Damnum Sine Injuria' (damage without legal injury), is not.
+16. The Provision relating to claims Tribunal is given under Motor Vehicles Act: (A) Section 165-175 (B) Section 175-180 (C) Section 170-175 (D) Section 171-177
+Correct Answer: (A)
+9
+
+Solution: Chapter XII of the Motor Vehicles Act, 1988, deals with 'Claims Tribunals'. Section 165 provides for the constitution of Motor Accidents Claims Tribunals (MACT) for adjudicating upon claims for compensation in respect of accidents involving the death of, or bodily injury to, persons arising out of the use of motor vehicles. The subsequent sections, up to Section 175, deal with the application for compensation, procedures, powers of the tribunal, appeals, and related matters.
+Quick Tip The core provisions for Motor Accidents Claims Tribunals (MACT) are consolidated in Chapter XII of the Motor Vehicles Act, 1988, beginning with Section 165 (establishment) and ending with Section 175 (bar on jurisdiction of Civil Courts).
+17. 'Rule of Law' means (A) Equality before the Law (B) Supremacy of the Law (C) Predominance of legal spirit (D) All of the above
+Correct Answer: (D)
+Solution: The concept of the 'Rule of Law', as famously articulated by A.V. Dicey, has three main pillars:
+1. Supremacy of the Law: The absolute authority and predominance of law, as opposed to arbitrary power or government discretion. No one can be punished except for a breach of law established in an ordinary legal manner before ordinary courts.
+2. Equality before the Law: All citizens are subject to the same law administered in ordinary courts, regardless of their position or rank.
+3. Predominance of Legal Spirit: The Constitution is the result of the rights of individuals as defined and enforced by the courts, rather than the Constitution being the source of individual rights.
+All the given options represent these core tenets.
+Quick Tip The Rule of Law, in essence, means that the law is supreme, everyone is equal under it, and rights are protected by the courts. It is the bedrock of a just and democratic society, opposing arbitrary rule.
+18. The purpose of writ of 'Quo Warranto' is? (A) To compel public authority to perform duty (B) To restraint public authority to do illegal act
+10
+
+(C) To oust illegal occupant of a public post (D) All of the above
+Correct Answer: (C)
+Solution: The writ of 'Quo Warranto' literally translates to "by what authority?". It is a judicial remedy used to challenge a person's right to hold a public office. The court issues this writ to inquire into the legality of the claim which a person asserts to a public office. If the claim is found to be invalid, the court can oust the person from that office. Options (A) and (B) describe the writs of Mandamus and Prohibition/Certiorari, respectively. The specific purpose of Quo Warranto is to prevent the usurpation of a public post.
+Quick Tip Remember the purpose of the five writs:
+· Habeas Corpus: "Produce the body" (release from illegal detention). · Mandamus: "We command" (compel a public duty). · Prohibition: "To forbid" (stop lower court from exceeding jurisdiction). · Certiorari: "To be certified" (quash an order of a lower body). · Quo Warranto: "By what authority?" (challenge the holding of a public office).
+19. Writ of Certiorari can be issued against (A) Judicial and Quasi-Judicial bodies (B) Quasi Judicial and Administrative bodies (C) Administrative Bodies only (D) None of the above .
+Correct Answer: (A)
+Solution: Traditionally, the writ of Certiorari was issued by a superior court to quash the order or decision of an inferior judicial or quasi-judicial body for errors of jurisdiction, violation of principles of natural justice, or errors of law apparent on the face of the record. While its scope has expanded over time to cover some administrative actions that have a judicial character or affect the rights of individuals, its primary and established scope covers judicial and quasi-judicial bodies. The question likely refers to this primary scope, making option (A) the most accurate answer. Purely administrative or legislative actions are generally not subject to Certiorari.
+Quick Tip Certiorari is fundamentally a tool for judicial review of judicial or quasi-judicial decisions. While its application has broadened, its core purpose is to correct errors of law and jurisdiction made by bodies that are required to act judicially.
+11
+
+20. Supreme Court of India held that it is permanent obligation of every member of medical profession either government or private to give medical aid to every injured person brought for treatment immediately without waiting for procedural formalities in the case of- (A) Common Cause V/s Union of India (1996) 1 SC 753 (B) Peoples Union of India, AIR 1983 SC 339 (C) Parmanand Katara V/s Union of India ,AIR 1989 SC 2039 (D) Lakshmi Kant Pandey V/s Union of India (1984) 25 SC 244
+Correct Answer: (C)
+Solution: In the landmark case of Parmanand Katara v. Union of India (1989), the Supreme Court elevated the professional obligation of doctors to a legal duty enforceable under Article 21 of the Constitution. The court held that every doctor, whether at a government or a private hospital, has a professional duty to extend medical assistance to an injured person to preserve life without waiting for legal formalities like a police report. The Court emphasized that the effort to save a person's life should be the top priority, superseding any procedural or legal requirements.
+Quick Tip The Parmanand Katara case is the key judgment that establishes the "Life First" principle in medical emergencies in India, making immediate treatment a legal and constitutional duty for all doctors, overriding procedural hurdles.
+21. The Supreme Court of India has issued the direction to make the CBI independent agency so that it can function more effectively and investigate Crimes and Corruptions at high places in public life in the Case of- (A) Union of India V/s Association For democratic reforms, AIR 2002 SC 2112 (B) Bangalore medical Trust V/s B.S Muddappa (1991) 45 SC 54 (C) Vincent Panikurlangra V/s Union of India (1987) 2 SC 165 (D) Vincent Narayan V/s Union of India, AIR 1998 SC 889
+Correct Answer: (D)
+Solution: In the case of Vineet Narain & Others v. Union of India (famously known as the Jain Hawala case), the Supreme Court expressed deep concern over the executive's interference in the functioning of the Central Bureau of Investigation (CBI). To ensure the agency's independence and integrity, the Court issued a series of directives. These included fixing a two-year tenure for the CBI Director and placing the supervision of the CBI under the Central Vigilance Commission (CVC) instead of the executive, thereby insulating it from political pressure.
+12
+
+Quick Tip Remember the Vineet Narain judgment as the case where the Supreme Court famously described the CBI as a "caged parrot" and laid down guidelines to give it functional autonomy and insulate it from executive control.
+22. One of the following statements is not true, which one is that: (A) A confession by one co accused implicating other co accused would be proved. (B) A confession to a police-officer cannot be proved. (C) A confession by a person in the custody of a police officer to any person in the presence of magistrate can be proved. (D) If the confession of a person leads to recovery of a thing it can be proved.
+Correct Answer: (A)
+Solution: Let's analyze the statements based on the Indian Evidence Act, 1872: · (B) is true under Section 25, which states that no confession made to a police officer shall be proved against an accused. · (C) is true under the proviso to Section 26, which allows a confession made in police custody to be proved if it is made in the immediate presence of a Magistrate. · (D) is true under Section 27, which allows so much of a confession (even if made to police) as relates distinctly to a fact thereby discovered to be proved. · (A) is not true. Under Section 30, the confession of a co-accused can only be "taken into consideration" by the court against other co-accused. It is not substantive evidence and cannot be the sole basis for conviction. It cannot be "proved" in the same way as other evidence.
+Quick Tip A confession of a co-accused is very weak evidence against others. It can only be used to lend support to other independent evidence. It is not 'proof' in itself. The other statements reflect specific rules (and exceptions) about confessions in the Evidence Act.
+23. The Kashmira Singh Vs State of MP is a leading case on: (A) Dying declaration (B) Admission (C) Confession to police officer (D) Confession of a co-accused
+Correct Answer: (D)
+Solution: The case of Kashmira Singh v. State of Madhya Pradesh (1952) is a landmark judgment that clarifies the evidentiary value of a confession made by a co-accused under Section 30
+13
+
+of the Indian Evidence Act. The Supreme Court authoritatively held that such a confession is not substantive evidence against the other accused persons. It can only be used to corroborate other evidence on record. The court cannot start with the confession and then look for corroboration; it must first consider all other evidence and only if it is satisfied, it may look to the confession to lend assurance to its conclusion.
+Quick Tip Link Kashmira Singh directly to the 'Confession of a co-accused'. The key takeaway from the case is that such a confession has very low evidentiary value and can never be the foundation of a conviction for another accused.
+24. Which of the following fact is not relevant in civil and criminal cases under Section 8 of the Indian Evidence Act (A) Motive (B) Attempt (C) Conduct (D) Preparation
+Correct Answer: (B)
+Solution: Section 8 of the Indian Evidence Act, 1872, explicitly makes three categories of facts relevant:
+1. Any fact which shows or constitutes a motive or preparation for any fact in issue or relevant fact.
+2. The conduct of any party, or of any agent to any party, to any suit or proceeding, in reference to such suit or proceeding, or in reference to any fact in issue therein or relevant thereto, and the conduct of any person an offence against whom is the subject of any proceeding.
+The section does not explicitly list "attempt" as a relevant fact. While evidence of an attempt might be covered under "conduct" or other sections, it is not a distinct category under Section 8.
+Quick Tip Remember the three key words for Section 8 of the Evidence Act: Motive, Preparation, and Conduct. 'Attempt' is a stage in crime under the Indian Penal Code, but it is not a category of relevant facts listed in Section 8.
+25. BATNA Stands for: (A) Bilateral agreement to negotiation and arbitration (B) Best alternative to a negotiated agreement (C) Bilateral Trade negotiated agreement (D) None of the above
+14
+
+Correct Answer: (B)
+Solution: BATNA is an acronym that stands for "Best Alternative To a Negotiated Agreement." It is a key concept in negotiation theory, first introduced by Roger Fisher and William Ury in their book "Getting to Yes." It represents the most advantageous course of action a party can take if negotiations fail and an agreement cannot be reached. Understanding one's BATNA is crucial for a negotiator because it provides a benchmark against which any proposed agreement can be measured. It helps a party decide whether to accept a deal or walk away.
+Quick Tip Think of BATNA as your "Plan B." If the negotiation fails, what is the best outcome you can achieve on your own? The stronger your BATNA, the more power you have in the negotiation.
+26. Section 9 of the Arbitration and Conciliation Act, 1996 deals with (A) Interim measures by the court (B) Discretionary powers of the court (C) Both A & B (D) None of the above
+Correct Answer: (A)
+Solution: Section 9 of the Arbitration and Conciliation Act, 1996, is titled "Interim measures, etc., by Court." It specifically empowers a court to grant various interim measures of protection before, during, or after arbitral proceedings. While the court certainly exercises discretionary powers when deciding whether to grant such measures, the section's primary subject matter and heading is the provision for "Interim measures by the court." Therefore, (A) is the most precise and direct answer describing the content of Section 9. Option (B) is a general characteristic of judicial power, not the specific subject of this section.
+Quick Tip Section 9 is the go-to provision for urgent relief from a court in arbitration matters. It allows parties to seek orders to secure assets, prevent property damage, or get injunctions to preserve the status quo while the arbitration is pending.
+27. For the first time in India Income Tax was introduced by Sir James Wilson in the year: (A) 1886 (B) 1868 (C) 1860 (D) None of the Above
+Correct Answer: (C)
+15
+
+Solution: Income Tax was introduced in India for the first time in 1860 by Sir James Wilson. He was the Finance Member of the India Council, brought in to address the severe financial crisis that followed the Indian Rebellion of 1857. The tax was introduced as a temporary measure to meet the heavy losses sustained by the government during the mutiny. This marked the beginning of direct taxation in India, which has since evolved through various acts into the current Income Tax Act, 1961.
+Quick Tip
+Associate the first introduction of Income Tax in India with the aftermath of the 1857 Rebellion. The British government needed to raise revenue to cover the costs, leading to the tax being introduced in 1860.
+28. In which case Justice J.C. Shah of S.C. observed "Since by the exercise of the power a serious invasion is made upon the rights, privacy and freedom of the tax payer, the power must be exercised strictly in accordance with law and only for the purpose for which law authorises it to be exercised" (A) Director of Inspection Vs Pooranmal (B) ITO Vs Seth Brothers (C) P.R. Metrani Vs CIT (D) None of the above
+Correct Answer: (B)
+Solution: This observation was made by Justice J.C. Shah in the case of ITO, Special Investigation Circle-B, Meerut v. Seth Brothers & Others (1969). The case dealt with the powers of search and seizure under the Income Tax Act. Justice Shah emphasized that because these powers involve a significant intrusion into a citizen's rights and privacy, they must be exercised with great caution, strictly adhering to the conditions and procedures laid down by the law, and cannot be used arbitrarily.
+Quick Tip
+The ITO v. Seth Brothers case is a key authority on the principle that statutory powers of search and seizure, especially in tax matters, must be interpreted strictly to safeguard the fundamental rights of citizens against executive overreach.
+29. Which of the following statements are true? i. Minor's contract can be ratified on attaining majority ii. Minor's contact be ratified on attaining majority iii. Minor's contract can be ratified jointly by both the parties to the contract. iv. Minor is not liable under minor's contract (A) (i) and (iii) (B) (ii) and (iv) (C) (i) and (ii) (D) (ii) and (iii)
+16
+
+Correct Answer: (B)
+Solution: Let's analyze the statements about a minor's contract in Indian law: · A minor is not competent to contract under Section 11 of the Indian Contract Act. In the landmark case Mohori Bibee v. Dharmodas Ghose, the Privy Council held that a minor's agreement is not just voidable, but absolutely **void ab initio** (void from the beginning). · Statements (i), (ii), and (iii) are false. Since the contract is void from the start, it is a nullity and cannot be legally revived or "ratified" by the minor upon attaining majority. Ratification applies only to voidable acts, not void ones. A new contract must be formed. · Statement (iv) is true. Because the contract is void, no legal liability can be imposed on the minor under that contract.
+Therefore, only statement (iv) is correct. Option (B) is the closest, assuming (ii) is a typo of (iv) or there is an error in the question's options. Based on legal principles, (iv) is the only true statement.
+Quick Tip
+The golden rule for minor's agreements in India is: they are **void ab initio** (void from the very beginning). This means they cannot be enforced against the minor and cannot be ratified later. The law protects minors from their own inexperience.
+30. Which one of the following sections of CrPC deals with irregularities which vitiate proceeding? (A) Section 460 (B) Section 461 (C) Section 462 (D) Section 468
+Correct Answer: (B)
+Solution: The Code of Criminal Procedure, 1973 (CrPC) deals with the effect of irregularities in proceedings in several sections:
+· Section 460 (Irregularities which do not vitiate proceedings): This section lists certain procedural errors that are considered minor and do not render the entire proceeding void.
+· Section 461 (Irregularities which vitiate proceedings): This section lists more serious procedural errors that are considered fundamental defects. If a Magistrate not empowered by law does any of the things listed in this section (e.g., attaches and sells property, tries an offender), the proceedings are void.
+· Section 462 deals with proceedings in the wrong place. · Section 468 deals with the limitation period for taking cognizance of certain offences.
+17
+
+Therefore, Section 461 is the correct answer.
+Quick Tip Remember the pair: Section 460 of CrPC lists irregularities that are 'curable' (do not vitiate), while Section 461 lists irregularities that are 'fatal' (vitiate the proceedings).
+31. Which of the following is not an essential element of a decree: (A) Conclusive determination of the rights of the parties. (B) Formal expression of adjudication. (C) An adjudication from which an appeal lies as an appeal from an order. (D) The adjudication must have been given in a suit before the court.
+Correct Answer: (C)
+Solution: Section 2(2) of the Code of Civil Procedure, 1908, defines a 'decree'. The essential elements are:
+1. There must be an adjudication (a judicial determination). 2. The adjudication must have been given in a suit. 3. It must determine the rights of the parties with regard to all or any of the matters in
+controversy in the suit. 4. Such determination must be of a conclusive nature. 5. There must be a formal expression of such adjudication. Option (C) is explicitly excluded from the definition. Section 2(2) states that a decree shall *not* include "any adjudication from which an appeal lies as an appeal from an order." This distinguishes a decree from an appealable order.
+Quick Tip A decree is the final, conclusive judgment in a suit. An order, even if appealable, typically decides a procedural point and is not the final determination of the rights in the suit itself. The definition of decree specifically excludes appealable orders.
+32. Which of the following is not a duty of an Advocate to Court: (A) To not commit breach of section 126 of Evidence Act. (B) To not to appear on behalf of any organisation 'of whose Executive Committee, he is a member. (C) To not appear before a Court, Tribunal or Authority in which his near relation is a member. (D) To conduct himself with dignity self-respect, presentation of a case before a Court and otherwise acting before a Court.
+18
+
+Correct Answer: (A)
+Solution: An advocate has duties to the court, to the client, to the opponent, and to the profession.
+· Options (D), (B), and (C) are duties towards the court, aimed at maintaining the dignity of the court and preventing conflicts of interest. These are outlined in the Bar Council of India Rules (e.g., Rule 1 on dignity, Rule 6 on not appearing before relatives).
+· Option (A), not committing a breach of Section 126 of the Evidence Act, refers to protecting privileged professional communications. This is a fundamental duty an advocate owes to their **client**, not directly to the court. While a breach of this duty could lead to professional misconduct proceedings, its primary obligation is towards the client's confidentiality.
+Quick Tip Distinguish duties based on whom they primarily protect. Duties to the court ensure the integrity of the judicial process (dignity, impartiality). Duties to the client, like confidentiality under Section 126, protect the client's interests.
+33. Which of the following rules of Chapter II of Part VI of the Bar Council Rules deal with the duty of an Advocate in respect of any moneys received by him from Client: (A) Rule 25 (B) Rule 33 (C) Rule 24 (D) None of the Above
+Correct Answer: (A)
+Solution: Chapter II of Part VI of the Bar Council of India Rules outlines the standards of professional conduct and etiquette. Within this chapter, Section IV deals with "Duties to the Client." Rule 25 specifically addresses the handling of client funds. It mandates that an advocate must keep accurate and separate accounts of all money received from or on behalf of a client. It also requires the advocate to provide the client with a copy of these accounts upon request. This rule is crucial for maintaining financial transparency and preventing misappropriation of client funds.
+Quick Tip Remember Rule 25 of the BCI Rules specifically governs financial accountability. It ensures that an advocate acts as a trustworthy fiduciary when handling a client's money by mandating proper accounting.
+34. Under which of the following sections of CrPC provisions relating to police report is given? (A) Section 173 (2) (i)
+19
+
+(B) Section 177 (C) Section 174 (2) (i) v (D) Section 175
+Correct Answer: (A)
+Solution: Section 173 of the Code of Criminal Procedure, 1973 (CrPC) deals with the "Report of police officer on completion of investigation." This report, commonly known as the chargesheet or final report, is the culmination of the police investigation. Specifically, subsection (2) of Section 173 mandates that the officer-in-charge shall forward this report to a Magistrate empowered to take cognizance. Clause (i) of subsection (2) then lists the details that must be included in the report, such as names of parties, nature of information, evidence collected, etc. Other sections listed are incorrect: S.174 deals with inquest reports, S.177 with jurisdiction, and S.175 with summoning persons during an inquest.
+Quick Tip
+The police investigation process, which starts with an FIR (S.154), concludes with the submission of the final report (chargesheet) to the court under Section 173 of the CrPC.
+35. Which one of the following provisions of CrPC deals with anticipatory bail? (A) Section 437 (B) Section 438 (C) Section 439 (D) None of the above
+Correct Answer: (B)
+Solution: The provisions for bail are located in Chapter XXXIII of the CrPC. Section 438 specifically deals with "Direction for grant of bail to person apprehending arrest," which is commonly known as anticipatory bail. This unique provision allows a person who anticipates being arrested on an accusation of a non-bailable offence to apply to the High Court or the Court of Session for a direction that they be released on bail in the event of such an arrest. In contrast, Section 437 deals with regular bail in non-bailable cases (before a Magistrate), and Section 439 outlines the special powers of the High Court and Court of Session regarding bail.
+Quick Tip
+Remember the key bail sections in order: S.436 (Bailable offences), S.437 (Non-bailable offences - regular bail), and S.438 (Anticipatory bail - pre-arrest).
+36. The provision relating to cancellation of bond and bail bond is given under: (A) Section 446-A (B) Section 446
+20
+
+(C) Section 447 (D) Section 450
+Correct Answer: (A)
+Solution: While Section 446 of the CrPC deals with the procedure for forfeiture of a bond (i.e., collecting the penalty amount when a condition is breached), Section 446-A specifically addresses the "Cancellation of bond and bail bond." This section states that if a person who has executed a bond fails to appear in court without sufficient cause, the court can, in addition to imposing the penalty under Section 446, cancel the bond and issue a warrant for their arrest. This provision was inserted to provide a stronger deterrent against non-appearance.
+Quick Tip Think of the difference: Section 446 is about the financial penalty (forfeiture) for breaking a bond. Section 446-A is the additional, more severe step of cancelling the bond itself.
+37. The provisions relating to dowry is given under: (A) Section 304-B of the I.P.C (B) Section 304-A of the I.P.C (C) Section 304 of the I.P.C (D) Section 305-B of the I.P.C
+Correct Answer: (A)
+Solution: Section 304-B of the Indian Penal Code, 1860, specifically defines and provides punishment for the offence of "Dowry Death." This section was inserted to combat dowryrelated violence and deaths. It creates a legal presumption that if a woman dies under unnatural circumstances within seven years of marriage and was subjected to cruelty or harassment for dowry soon before her death, her husband or his relatives are deemed to have caused her death. Other options are incorrect: S.304-A is for causing death by negligence, S.304 is for culpable homicide not amounting to murder, and S.305-B does not exist.
+Quick Tip Remember the special sections for different types of deaths in the IPC: 302 (Murder), 304 (Culpable Homicide), 304-A (Negligence), and 304-B (Dowry). Think 'B' for Bride in 304-B.
+38. Which of the following section is designed to curb infanticide: (A) Section 317 of the I.P.C (B) Section 313 of the I.P.C (C) Section 318 of the I.P.C (D) Section 315 of the I.P.C
+Correct Answer: (D)
+21
+
+Solution: Section 315 of the IPC is titled "Act done with intent to prevent child being born alive or to cause it to die after birth." This provision directly penalizes acts that are intended to kill a child either in the womb when it is capable of being born alive, or immediately after it is born. This is the most direct provision in the IPC aimed at curbing infanticide and late-stage foeticide. The other sections deal with related but distinct acts: S.317 (abandonment of a child), S.313 (causing miscarriage without consent), and S.318 (concealment of birth).
+Quick Tip
+Section 315 is the specific provision targeting the act of killing a child at the moment of birth. It bridges the gap between miscarriage and homicide of a child that has started living independently.
+39. Which order has been specially enacted to protect the interest of Minors and Unsound Mind: (A) Order 31 (B) Order 32 (C) Order 33 (D) Order 34
+Correct Answer: (B)
+Solution: Order 32 of the Code of Civil Procedure, 1908, is titled "Suits by or against Minors and Persons of Unsound Mind." This Order provides a detailed procedural framework to safeguard the interests of litigants who are legally incapable of representing themselves. It mandates that a minor must sue or be sued through a "next friend" or a "guardian ad litem," who is appointed to conduct the litigation on their behalf and protect their interests. The other orders deal with different subjects: Order 31 (Suits by Trustees), Order 33 (Suits by Indigent Persons), and Order 34 (Mortgage Suits).
+Quick Tip
+Think of Order 32 as the 'guardianship' order in civil suits. It ensures that vulnerable parties like minors and persons of unsound mind have a representative (next friend/guardian) to protect them in court.
+40. Which order of the CPC lays down general rules governing pleadings in a court? (A) Order 6 (B) Order 7 (C) Order 8 (D) Order 9
+Correct Answer: (A)
+Solution: In the Code of Civil Procedure, 1908, Order 6 is titled "Pleadings Generally." It sets out the fundamental principles that apply to all pleadings, which include both the plaint
+22
+
+(plaintiff's statement of claim) and the written statement (defendant's statement of defence). It contains rules about what pleadings should contain (material facts, not evidence), signing, verification, and amendment. While Order 7 deals specifically with the contents of a Plaint and Order 8 deals with the Written Statement, Order 6 provides the overarching rules for both.
+Quick Tip Order 6 is the foundation or "rulebook" for all pleadings. Orders 7 (Plaint) and 8 (Written Statement) are specific applications of those general rules.
+41. Second appeal under section 100 is applicable: (A) Substantial question of law as formulated by the High Court. (B) Substantial question of law as not formulated by the High Court. (C) An appellate decree passed Ex Parte. (D) All of the above
+Correct Answer: (D)
+Solution: A second appeal to the High Court under Section 100 of the CPC has a very limited scope. It can only be entertained if it involves a "substantial question of law."
+· (A) This is the primary requirement; the High Court must formulate the substantial question of law.
+· (B) The proviso to Section 100(5) gives the High Court the power to hear the appeal on any other substantial question of law not formulated by it, if it deems necessary.
+· (C) The nature of the first appellate decree (whether contested or ex parte) does not bar a second appeal, as long as the decree involves a substantial question of law.
+Since all the above situations are covered under Section 100 and its procedure, "All of the above" is the correct answer.
+Quick Tip A second appeal is exclusively about a "substantial question of law," not about reexamining facts. The High Court has the power to frame these questions and even hear questions it did not frame initially.
+42. Which of the following is an infringement of a Registered Trade mark: (A) Use of a mark identical to the Trade mark in relation to goods without authorisation. (B) Advertising of that Trade mark such that the advertisement is against the reputation of the Trade Mark (C) Use of that Trade mark as a business authorisation. (D) All of the above.
+23
+
+Correct Answer: (D)
+Solution: Section 29 of the Trade Marks Act, 1999, defines infringement broadly to protect the rights of a registered trademark owner. Infringement includes:
+· (A) The classic form of infringement: using an identical or deceptively similar mark for similar goods or services without permission (S.29(1) & S.29(2)).
+· **(B)** Using the mark in advertising that takes unfair advantage of, or is detrimental to, its distinctive character or repute (S.29(8)).
+· **(C)** Using the registered trademark as part of a trade name or business name dealing in the goods or services for which the mark is registered (S.29(5)).
+Since all these actions are specified as forms of infringement under the Act, the correct answer is "All of the above."
+Quick Tip Trademark infringement isn't just about copying a logo on a fake product. It also covers unauthorized use in business names, domain names, and comparative advertising that damages the brand's reputation.
+43. A imprisonment, if attempts to commit murder and hurt is caused thereby, he may be punished with: (A) Life Imprisonment (B) Death (C) Imprisonment (D) All of the above
+Correct Answer: (D)
+Solution: This question refers to Section 307 of the IPC (Attempt to murder). The section provides different punishments based on the circumstances.
+· The general punishment for attempt to murder is imprisonment up to 10 years and a fine. · If hurt is caused, the punishment can be enhanced to **imprisonment for life** or the
+punishment mentioned above. · The second paragraph of S.307 contains a special, harsher provision: if a person already
+under a sentence of life imprisonment commits this offence and causes hurt, they may be punished with **death**. The question is poorly phrased ("A imprisonment, if...") but likely refers to the range of punishments available under the section. Since the court has the discretion to award imprisonment for a term, life imprisonment, or death (in the specific case of a life convict), "All of the above" represents the possible outcomes.
+24
+
+Quick Tip Section 307 IPC has escalating punishments: simple attempt (up to 10 years), attempt with hurt (up to life imprisonment), and attempt with hurt by a life convict (may be death).
+44. Residuary Powers in India may be exercised by (A) Parliament (B) State Legislatures (C) Precidont (D) Both A & B
+Correct Answer: (A)
+Solution: The Constitution of India divides legislative powers into three lists in the Seventh Schedule: the Union List, the State List, and the Concurrent List. Any subject not mentioned in any of these three lists falls under the "residuary powers." Article 248 of the Constitution explicitly states that the Parliament has the exclusive power to make any law with respect to any matter not enumerated in the Concurrent List or State List. This is further affirmed by Entry 97 of the Union List. This feature reflects the Constitution's bias towards a strong central government.
+Quick Tip Remember the formula for legislative power distribution in India: Union List (Centre), State List (States), Concurrent List (Both). Anything leftover (the residue) goes to the Centre (Parliament).
+45. The Punishments to which offenders are liable under the provision of I.P.C are: (A) Death and imprisonment for life (B) Rigorous imprisonment and simple imprisonment (C) Forfeiture of property and fine (D) All of the above
+Correct Answer: (D)
+Solution: Section 53 of the Indian Penal Code, 1860, provides a comprehensive list of the punishments that can be awarded to offenders. The punishments are:
+1. Death 2. Imprisonment for life 3. Imprisonment, which is of two types: Rigorous (with hard labour) and Simple 4. Forfeiture of property 5. Fine
+25
+
+All the options--(A) Death and imprisonment for life, (B) Rigorous and simple imprisonment, and (C) Forfeiture of property and fine--are components of this list. Therefore, "All of the above" is the correct answer.
+Quick Tip Section 53 of the IPC provides the complete 'menu' of punishments available under the code, ranging from the ultimate penalty (death) to monetary penalties (fine). All the listed options are on this menu.
+46. M' Naghten Rules form the basis of the law of: (A) Infancy (B) Insanity (C) Ignorance of fact (D) Mistake
+Correct Answer: (B)
+Solution: The M'Naghten Rules originate from a famous English case in 1843 and provide the foundational test for the defence of insanity in common law jurisdictions. These rules state that an accused can be acquitted on the grounds of insanity if it is proved that, at the time of the act, they were suffering from a "defect of reason, from disease of the mind," which made them incapable of knowing the "nature and quality of the act" or, if they did know it, that they "did not know he was doing what was wrong." These principles are codified in Section 84 of the Indian Penal Code.
+Quick Tip M'Naghten = Mind = Insanity. These rules created the classic "right-wrong test" for legal insanity, focusing on the cognitive capacity of the accused at the time of the offence.
+47. The authentication to be affected by the use of asymmetric crypto system and hash function is known as: (A) Public key (B) Private key (C) Digital Signature (D) Electronic Governance
+Correct Answer: (C)
+Solution: This is the technical definition of a "Digital Signature" as per the Information Technology Act, 2000. The process works as follows:
+1. A **hash function** creates a unique, fixed-size digital fingerprint (hash) of the electronic record.
+2. An **asymmetric crypto system** uses a pair of keys: a private key (kept secret by the signer) and a public key (freely available).
+26
+
+3. The signer uses their private key to encrypt the hash. This encrypted hash is the **Digital Signature**.
+Anyone can then use the signer's public key to decrypt the signature and verify that it matches the hash of the document, thus authenticating the sender and ensuring the document's integrity.
+Quick Tip
+Think of it like this: Hash Function (creates a unique fingerprint) + Asymmetric Crypto System (locks the fingerprint with a private key) = Digital Signature.
+48. Punishment for Cyber Terrorism under Section 66F shall be punishable: (A) With Imprisonment which may extend to three year or with fine not exceeding two lakh rupees or with both. (B) With imprisonment for a term which may extend to seven years and shall also be liable to fine. (C) With imprisonment which may extend to imprisonment for life. (D) With imprisonment of either description for a term which may extend to ten years and shall also be liable to fine.
+Correct Answer: (C)
+Solution: Section 66F of the Information Technology Act, 2000, deals with the offence of cyber terrorism. This is considered the most serious cybercrime under the Act, as it involves acts that threaten the unity, integrity, security, or sovereignty of India, or are intended to strike terror. Reflecting its gravity, the section prescribes the most severe punishment available under the Act: "imprisonment which may extend to imprisonment for life."
+Quick Tip
+Cyber Terrorism (Section 66F) is the gravest offence in the IT Act, aimed at protecting national security. As such, it carries the gravest punishment: up to life imprisonment.
+49. Section 2(j) of the Industrial Disputes Act, 1947 define "Industry" means any i.Business trade, undertaking ii.Manufacture or calling of iii. Included any calling, service, employment, handicraft iv. Industrial occupation of workmen (A) (i) and (ii) (B) (i), (ii) and (iii) (C) (iii)and (iv) (D) All of the above
+Correct Answer: (D)
+Solution: The definition of "industry" in Section 2(j) of the Industrial Disputes Act, 1947, is extremely broad and has been interpreted expansively by the Supreme Court, most notably in the case of Bangalore Water Supply & Sewerage Board v. A. Rajappa. The statutory definition
+27
+
+itself is in two parts: it means "any business, trade, undertaking, manufacture or calling of employers" (covering points i and ii) and "includes any calling, service, employment, handicraft, or industrial occupation or avocation of workmen" (covering points iii and iv). Therefore, all the listed activities are part of the comprehensive definition.
+Quick Tip The definition of "Industry" under the ID Act is one of the widest in Indian law. It covers almost any organized activity involving cooperation between employers and employees to provide goods or services. It's safer to assume an activity is an industry unless it's a sovereign function or purely domestic service.
+50. Which of the following provisions of the Hindu Marriage Act, 1955 incorporates the fault theory of divorce? (A) Section 13(1) (B) Section 11 (C) Section 13B (D) Section 13(2)
+Correct Answer: (A)
+Solution: The "fault theory" of divorce requires one spouse (the petitioner) to prove that the other spouse (the respondent) has committed a matrimonial "fault" or offence. Section 13(1) of the Hindu Marriage Act, 1955, is the primary provision embodying this theory. It lists several fault-based grounds for divorce, such as adultery, cruelty, desertion, conversion to another religion, and incurable leprosy. In contrast, Section 13B provides for divorce by mutual consent (a no-fault theory), and Section 11 deals with void marriages. Section 13(2) gives additional fault-based grounds to the wife, but 13(1) is the general section for fault theory.
+Quick Tip Fault Theory = "It's your fault we're divorcing." The list of specific faults like cruelty, adultery, and desertion is found in Section 13(1) of the Hindu Marriage Act. Section 13B is the "no-fault" option (mutual consent).
+51. Under the Hindu Maintenance and Adoption Act, 1956, which of the both following circumstances can a dependent enforce his right to maintenance against a transferee of an estate out of which he has a right to receive maintenance: (A) Only when the Transferee has notice of such right. (B) Only when the transfer gratuitous. (C) Both A & B (D) None of the above.
+Correct Answer: (C)
+28
+
+Solution: Section 28 of the Hindu Adoptions and Maintenance Act, 1956, protects a dependent's right to maintenance, which is treated as a charge on the deceased's estate. This right can be enforced against a person who receives the property (a transferee). However, the right cannot be enforced against a "transferee for consideration and without notice of the right." This means the right *can* be enforced if either:
+· The transfer was gratuitous (a gift), regardless of whether the transferee had notice. · The transferee had notice of the maintenance right, even if they paid for the property. Therefore, the right is enforceable in both situations (A) and (B).
+Quick Tip
+A dependent's maintenance right "sticks" to the property, unless it is sold to a completely innocent buyer who paid for it without knowing about the right. If the buyer got it for free (gratuitous) OR knew about the right (had notice), they are liable.
+52. Which of the following Courts/ Tribunals cannot entertain a Public Interest Litigation: (A) Supreme Court (B) High Court (C) Central Administrative Tribunal (D) None of the Above
+Correct Answer: (C)
+Solution: Public Interest Litigation (PIL) is a judicial tool that originated from the writ jurisdiction of the constitutional courts. The Supreme Court (under Article 32) and the High Courts (under Article 226) have the wide constitutional power to issue writs to protect fundamental rights and for other public purposes, which is the basis for entertaining PILs. The Central Administrative Tribunal (CAT), on the other hand, is a statutory tribunal established under the Administrative Tribunals Act, 1985. Its jurisdiction is specifically limited to service-related disputes of government employees. It does not possess the broad writ jurisdiction necessary to entertain a PIL on general public matters.
+Quick Tip
+PIL is a function of the broad constitutional writ powers of the Supreme Court and High Courts. Specialized tribunals like CAT have a limited, statutory jurisdiction (e.g., service matters) and lack the power to hear general public interest cases.
+53. 'A' places men with firearms at the outlets of a building and tells 'Z' that they will fire at 'Z' if 'Z' attempts to leave the building 'A' is: (A) Wrong fully restrains Z (B) Wrong fully confine Z (C) Both A & B (D) None of the above
+29
+
+Correct Answer: (B)
+Solution: The key distinction is between wrongful restraint and wrongful confinement under the IPC.
+· **Wrongful Restraint (S. 339):** Obstructing a person's path in one direction while they are free to go in other directions. It is a partial restraint.
+· **Wrongful Confinement (S. 340):** Restraining a person in a way that prevents them from moving beyond certain defined limits. It is a total restraint.
+In this case, by blocking all outlets of the building, 'A' has completely prevented 'Z' from proceeding in any direction beyond the confines of the building. This constitutes total restraint, which is wrongful confinement.
+Quick Tip Remember: Wrongful Restraint = Blocking a path. Wrongful Confinement = Trapping within a boundary. If you can't go anywhere, it's confinement.
+54. 'A' incites a dog to spring upon 'Z', without Zs' consent. If 'A' intenids to cause injury, fear or annoyance to `Z' (A) 'A' uses force to 'Z' (B) 'A' assaulted 'Z' (C) 'A' uses criminal force to 'Z' (D) None of the above
+Correct Answer: (C)
+Solution: This scenario involves two concepts from the IPC: 1. **Force (S. 349):** A person is said to use force if they cause motion to another, including by "inducing any animal to move." By inciting the dog, 'A' uses force against 'Z'. 2. **Criminal Force (S. 350):** A person uses criminal force if they intentionally use force without consent, intending to cause injury, fear, or annoyance.
+Since 'A' used force (via the dog) with the specific intent to cause injury, fear, or annoyance, the act amounts to the use of criminal force. Assault (S. 351) is merely the apprehension of force, whereas here the force is actually applied.
+Quick Tip Force can be applied indirectly (e.g., through an animal). When this force is combined with a guilty intent (to cause injury, fear, etc.), it becomes *criminal* force.
+55. 'A' causes cattle to enter upon the field belonging to 'Z', intending to cause and knowing that he is likely to cause damage to 'Z's' crop. 'A' has committed: (A) Mischief (B) Criminal trespassing
+30
+
+(C) Criminal breach of trust (D) Extortion
+Correct Answer: (A)
+Solution: This act fits the definition of 'Mischief' under Section 425 of the IPC. The essential ingredients of mischief are: (1) intending to cause, or knowing that one is likely to cause, wrongful loss or damage to the public or any person; (2) causing the destruction of any property, or any such change in any property that diminishes its value or utility. By causing cattle to enter and damage Z's crop, A has intentionally caused a change that diminishes the crop's value, resulting in wrongful loss to Z. This is a classic example of mischief. It is not criminal trespass, as trespass requires the entry of a person, not an animal.
+Quick Tip
+Mischief (S.425) is about damaging property and diminishing its value. Criminal Trespass (S.441) is about a person unlawfully entering property. Here, the focus is on the damage to the crops, making it mischief.
+56. From which of the following countries, the Constitution of India has borrowed the 'Power of Judicial Review' ? (A) Canada (B) United Kingdom (C) USA (D) Ireland
+Correct Answer: (C)
+Solution: The concept of Judicial Review, which is the power of the judiciary to examine the constitutionality of legislative and executive actions, is a cornerstone of the Indian Constitution. This feature was borrowed from the Constitution of the United States of America. While the term 'judicial review' is not explicitly mentioned in the Indian Constitution, the power is implicitly granted through several articles, including Article 13, 32, 226, and 227. The landmark US Supreme Court case of Marbury v. Madison (1803) is credited with establishing this principle.
+Quick Tip Remember key borrowings: Judicial Review and Fundamental Rights from the USA; Parliamentary System from the UK; Directive Principles from Ireland; and Federalism with a strong centre from Canada.
+57. Enforcement of which of the following articles of the Constitution of India cannot be suspended even during the proclamation of emergency? (A) 14 19 (B) 20 21
+31
+
+(C) 23 24 (D) 21 22
+Correct Answer: (B)
+Solution: During a National Emergency (proclaimed under Article 352), the President has the power to suspend the enforcement of Fundamental Rights. However, the 44th Constitutional Amendment Act, 1978, added a crucial safeguard. Article 359 of the Constitution now explicitly states that the President cannot suspend the right to move any court for the enforcement of the rights conferred by Article 20 (protection in respect of conviction for offences) and Article 21 (protection of life and personal liberty). These two articles are considered so fundamental that their enforcement remains available even during an emergency.
+Quick Tip Think of Articles 20 and 21 as the 'non-suspendable' core of Fundamental Rights. Even in a national crisis, the right to life, personal liberty, and protection from arbitrary conviction are sacrosanct.
+58. Which of the following provisions of the Advocates Act, 1961 provides for the power of Bar Council of India to withdraw to itself, any proceedings for disciplinary action pending before any State Bar Council: (A) Section 35 (B) Section 37 (C) Section 36(2) (D) None of the Above
+Correct Answer: (C)
+Solution: The disciplinary mechanism for advocates involves both State Bar Councils and the Bar Council of India (BCI).
+· Section 35 empowers the State Bar Council to initiate disciplinary proceedings. · Section 37 provides for an appeal from the State Bar Council's order to the BCI. · Section 36 grants the BCI its own disciplinary powers. Specifically, Section 36(2) gives the
+BCI the power to "withdraw for inquiry before itself any disciplinary proceedings pending against any advocate before a State Bar Council and dispose of the same." This is an oversight power to ensure fairness or address cases of national importance.
+Quick Tip Remember the disciplinary hierarchy: The process usually starts at the State level (S.35). You can appeal to the BCI (S.37). But the BCI also has the special power to directly take over a case from the state under S.36(2).
+32
+
+59. Which Court or Authority has the power to punish any person for contempt of the National Company Law Tribunal: (A) Supreme Court (B) High Court (C) National Company Law Appellate Tribunal (D) National Company Law Tribunal
+Correct Answer: (D)
+Solution: Section 425 of the Companies Act, 2013, grants the National Company Law Tribunal (NCLT) and the National Company Law Appellate Tribunal (NCLAT) the same jurisdiction, powers, and authority in respect of contempt of themselves as the High Court has. This means the NCLT is empowered to initiate proceedings and punish for its own contempt, just like a court of record. It does not need to refer the matter to the High Court or Supreme Court.
+Quick Tip
+Under the Companies Act 2013, the NCLT is given the status and powers of a High Court for the purpose of punishing for its own contempt. It has the power to maintain its own authority.
+60. Which of the following is not a vested interest: (A) 'A' stipulates that title in a property shall pass to 'C' on his death. (B) 'A' stipulates that title in a property shall pass to 'C' on the death of 'B' (C) 'A' stipulates that title in a property shall pass to 'C' if he marries B (D) 'A' stipulates that title in a property shall pass to 'C' after ten years.
+Correct Answer: (C)
+Solution: The Transfer of Property Act, 1882, distinguishes between vested and contingent interests.
+· **Vested Interest (S. 19):** An interest is vested when it is not dependent on an uncertain event. The enjoyment may be postponed, but the title is already conferred. The event on which it depends is a certain event, like death or the passage of time.
+· **Contingent Interest (S. 21):** An interest is contingent when it depends on the happening or not happening of a specified uncertain event.
+In options (A), (B), and (D), the transfer depends on events that are certain to happen (death, passage of time). In option (C), the transfer depends on 'C' marrying 'B', which is an uncertain event--it may or may not happen. Therefore, this creates a contingent interest, not a vested one.
+Quick Tip
+Ask yourself: Is the event that triggers the transfer certain to happen? If yes (like death or a specific date), it's a vested interest. If no (like a marriage or winning a race), it's a contingent interest.
+33
+
+61. Under Section 13 of the Hindu Marriage Act, 1955, which of the following grounds is available to a wife only: (A) Adultery (B) Desertion (C) Cruelty (D) Rape, sodomy or bestiality
+Correct Answer: (D)
+Solution: Section 13 of the Hindu Marriage Act, 1955, deals with divorce. · Section 13(1) lists the grounds for divorce that are available to both the husband and the wife. These include adultery, cruelty, and desertion. · Section 13(2) lists additional grounds that are available exclusively to the wife. One of these grounds, under Section 13(2)(ii), is that the husband has, since the solemnization of the marriage, been guilty of rape, sodomy, or bestiality. These are serious sexual offences, and the law provides the wife with a specific right to seek divorce on this basis.
+Quick Tip
+Section 13(1) of the Hindu Marriage Act lists grounds for divorce available to *both* spouses. Section 13(2) is a special list of grounds available *only to the wife*, including the husband's commission of rape, sodomy, or bestiality.
+62. Which of the following sections of the Transfer of Property Act, 1882, deals with the doctrine of election? (A) Section 35 (B) Section 36 (C) Section 37 (D) Section 38
+Correct Answer: (A)
+Solution: Section 35 of the Transfer of Property Act, 1882, embodies the 'Doctrine of Election'. This principle is based on equity and states that a person cannot both "approbate and reprobate," meaning they cannot accept a benefit under an instrument while rejecting its burdens. If an instrument purports to transfer property which the transferor has no right to transfer, but as part of the same transaction, confers a benefit on the owner of that property, the owner must 'elect' (choose) either to accept the benefit (and let the transfer of their property stand) or to reject the benefit (and keep their own property).
+Quick Tip
+The Doctrine of Election (S.35) can be summarized as: "You can't have your cake and eat it too." If a deal gives you a benefit but also requires you to give up your own property, you must choose one or the other, not both.
+34
+
+63. Which of the following is not a ground for cancellation of registration of a Trade Mark under Section 57 of the Trade Marks Act, 1999? (A) The mark was registered without sufficient cause. (B) The mark has become a generic term due to the acts of the registered proprietor. (C) The mark is likely to deceive or cause confusion. (D) The mark has been used continuously for five years without any objection.
+Correct Answer: (D)
+Solution: Section 57 of the Trade Marks Act, 1999, allows an aggrieved person to apply for the cancellation or varying of the registration of a trademark. The grounds include:
+· **(A) (C):** The entry was made in the register without sufficient cause, or is wrongly remaining on the register (e.g., it was non-distinctive or deceptive at the time of registration).
+· **(B):** The mark has lost its distinctiveness and has become a generic term for the product (a process called 'genericide'), often due to the proprietor's failure to protect it.
+· **(D):** Continuous use of a mark without objection is a factor that *strengthens* a trademark's validity and can be a defense against cancellation, particularly under Section 32. It is not a ground for cancellation.
+Quick Tip Trademarks are cancelled if they were wrongly registered in the first place or have lost their distinctiveness. Continuous use strengthens a trademark; it does not provide a reason to cancel it.
+64. Which of the following sections of the Indian Penal Code, 1860, defines 'Dishonest Misappropriation of Property' ? (A) Section 403 (B) Section 404 (C) Section 405 (D) Section 406
+Correct Answer: (A)
+Solution: Section 403 of the IPC defines 'Dishonest Misappropriation of Property'. The key elements are the dishonest misappropriation or conversion of movable property for one's own use. The initial possession of the property is often innocent or neutral (e.g., finding a lost wallet), but a subsequent dishonest intention to keep it for oneself constitutes the offence. This is distinct from Theft (S.378), where the initial taking is dishonest, and Criminal Breach of Trust (S.405), where the initial possession is based on entrustment.
+35
+
+Quick Tip
+Remember the difference: · **Theft (S.378):** Initial taking is dishonest. · **Dishonest Misappropriation (S.403):** Initial taking is innocent, but a later intention becomes dishonest. · **Criminal Breach of Trust (S.405):** Initial possession is based on trust, which is then broken.
+65. Under which Article of the Constitution of India, the Governor of a State has the power to promulgate ordinances during recess of the State Legislature? (A) Article 123 (B) Article 213 (C) Article 356 (D) Article 357
+Correct Answer: (B)
+Solution: Article 213 of the Constitution of India grants the Governor of a State the power to promulgate Ordinances. This is a legislative power that can be exercised only when the State Legislative Assembly (or both Houses, where applicable) is not in session and the Governor is satisfied that circumstances exist which render it necessary for him to take immediate action. An ordinance has the same force and effect as an act of the legislature but must be laid before the legislature when it reassembles and ceases to operate after six weeks from reassembly if not approved. This power is analogous to the President's ordinance-making power under Article 123.
+Quick Tip
+A simple mnemonic for ordinance-making powers: President is at the center, Article **123**. Governor is in the state, just rearrange the numbers: Article **213**.
+66. Which of the following writs is issued by a court to enforce the performance of a public duty? (A) Habeas Corpus (B) Mandamus (C) Certiorari (D) Quo Warranto
+Correct Answer: (B)
+Solution: The writ of 'Mandamus', which literally means "We command," is a judicial remedy in the form of an order from a superior court to any government, subordinate court, corporation, or public authority to do some specific act which that body is obliged under law to do, and which is in the nature of public duty. It is used to compel the performance of a mandatory duty, not a discretionary one.
+36
+
+Quick Tip
+Remember: Mandamus = **M**andatory **D**uty. It's a positive command from the court to *do your job*. It cannot be issued against a private individual or to enforce a discretionary power.
+67. Which of the following sections of the Code of Criminal Procedure, 1973, deals with the power of the Magistrate to order a person to execute a bond for keeping peace? (A) Section 106 (B) Section 107 (C) Section 108 (D) Section 109
+Correct Answer: (B)
+Solution: Chapter VIII of the CrPC deals with 'Security for Keeping the Peace and for Good Behaviour'. Section 107 specifically empowers an Executive Magistrate to take action when they receive information that a person is likely to commit a breach of the peace or disturb public tranquility. The Magistrate can require such a person to show cause why they should not be ordered to execute a bond for keeping the peace for a period not exceeding one year. It is a preventive, not punitive, measure.
+Quick Tip Section 107 of the CrPC is a key tool of preventive justice. It's not about punishing someone for a crime they've committed, but about preventing them from disturbing the peace in the future by taking a security bond.
+68. Which of the following is not a ground for rejection of a plaint under Order VII Rule 11 of the Code of Civil Procedure, 1908? (A) The plaint does not disclose a cause of action. (B) The suit is barred by limitation. (C) The plaintiff fails to pay the court fees. (D) The defendant agrees to settle the dispute out of court.
+Correct Answer: (D)
+Solution: Order VII, Rule 11 of the CPC provides for the rejection of a plaint at the threshold. The grounds are related to defects in the plaint itself:
+· (a) It does not disclose a cause of action. · (b) The relief claimed is undervalued. · (c) The relief is properly valued, but the plaint is written on insufficiently stamped paper. · (d) The suit appears from the statement in the plaint to be barred by any law (like
+limitation).
+37
+
+A settlement between the parties (D) is an event that occurs during the pendency of the suit and leads to its disposal or withdrawal by agreement, not rejection of the plaint for a technical defect.
+Quick Tip Rejection of a plaint under Order VII Rule 11 happens when the plaint is fundamentally flawed from the start (e.g., no legal basis for the case). A settlement is a successful resolution of the case after it has been properly filed.
+69. Which of the following is a condition for a valid gift under the Transfer of Property Act, 1882? (A) Acceptance by the donee after the donor's death. (B) Delivery of possession or right to possession. (C) Registration of the gift deed with the local authority. (D) Payment of consideration by the donee.
+Correct Answer: (B)
+Solution: Section 122 of the Transfer of Property Act defines a 'gift' and its essentials. A valid gift requires: (1) a transfer of ownership, (2) of existing property, (3) made voluntarily and without consideration, and (4) accepted by the donee *during the lifetime of the donor*.
+· (A) is incorrect; acceptance must be before the donor's death. · (D) is incorrect; a gift must be without consideration. · (C) Registration is the required *mode of transfer* for a gift of immovable property (under
+S.123), but not a universal condition for all gifts (e.g., movable property). · (B) The transfer of ownership, which is completed by delivery of possession (for movable
+property) or registration (for immovable property), is a core component.
+Quick Tip The essentials of a valid gift are: a voluntary transfer without payment, and acceptance by the recipient before the giver dies. How the transfer is made (delivery or registration) depends on whether the property is movable or immovable.
+70. Which of the following cases laid down the principle that the right to life under Article 21 of the Constitution includes the right to a clean environment? (A) Maneka Gandhi v. Union of India (B) Subhash Kumar v. State of Bihar (C) Vishaka v. State of Rajasthan (D) Olga Tellis v. Bombay Municipal Corporation
+Correct Answer: (B)
+38
+
+Solution: Through a series of judgments, the Supreme Court has interpreted the 'Right to Life' under Article 21 in an expansive manner. In the case of Subhash Kumar v. State of Bihar (1991), the Court explicitly held that the Right to Life includes the right to the enjoyment of pollution-free water and air for the full enjoyment of life. The Court stated that if anything endangers or impairs that quality of life in derogation of laws, a citizen has the right to have recourse to Article 32 of the Constitution for removing the pollution.
+Quick Tip
+The Supreme Court connected 'Right to Life' (Article 21) with a dignified existence, which is impossible without a healthy environment. Subhash Kumar is a key case that formally recognized the right to a clean environment as a fundamental right.
+71. Which of the following sections of the Indian Penal Code, 1860, defines 'Theft' ? (A) Section 378 (B) Section 379 (C) Section 380 (D) Section 381
+Correct Answer: (A)
+Solution: Section 378 of the Indian Penal Code defines the offence of 'Theft'. It lays down five essential ingredients: (1) Dishonest intention to take property; (2) The property must be movable; (3) It should be taken out of the possession of another person; (4) It should be taken without the consent of that person; and (5) There must be some moving of the property to effectuate the taking. Section 379 is the corresponding section that provides for the punishment for theft.
+Quick Tip
+Remember the distinction: Section 378 *defines* theft by listing its five essential elements. Section 379 *punishes* the act of theft.
+72. Under which Article of the Constitution of India, the President can declare a National Emergency? (A) Article 352 (B) Article 356 (C) Article 360 (D) Article 365
+Correct Answer: (A)
+Solution: Article 352 of the Constitution of India empowers the President to proclaim a National Emergency if they are satisfied that a grave emergency exists whereby the security of India or of any part of its territory is threatened by war, external aggression, or armed rebellion.
+39
+
+This is distinct from Article 356 (President's Rule due to failure of constitutional machinery in a state) and Article 360 (Financial Emergency).
+Quick Tip Remember the three types of emergencies in the Constitution:
+· **Article 352:** National Emergency (war, external aggression, armed rebellion). · **Article 356:** State Emergency (President's Rule). · **Article 360:** Financial Emergency.
+73. Which of the following writs is issued to secure the release of a person who is illegally detained? (A) Mandamus (B) Habeas Corpus (C) Prohibition (D) Quo Warranto
+Correct Answer: (B)
+Solution: The writ of 'Habeas Corpus', which literally means "to have the body of," is a judicial remedy to protect an individual's personal liberty against illegal detention. When this writ is issued, the court directs the detaining authority to produce the detained person before it, so the court can examine the legality of the detention. If the detention is found to be illegal, the court will order the person's immediate release. It is considered the most powerful writ for safeguarding individual freedom.
+Quick Tip Habeas Corpus is the fundamental 'writ of liberty'. It is a direct challenge to the legality of a person's detention and is used to secure their release from unlawful custody.
+74. Which of the following sections of the Code of Civil Procedure, 1908, deals with the transfer of suits? (A) Section 24 (B) Section 25 (C) Section 26 (D) Section 27
+Correct Answer: (A)
+Solution: Section 24 of the CPC grants general power of transfer and withdrawal to the High Court and the District Court. It allows these courts to, at any stage, transfer any suit, appeal, or other proceeding pending before a court subordinate to them to any other subordinate court competent to try it. This power is exercised to meet the ends of justice. It should be
+40
+
+distinguished from Section 25, which gives the Supreme Court the power to transfer suits from a court in one state to a court in another state.
+Quick Tip Remember the hierarchy of transfer powers:
+· **Intra-State Transfer** (within a state): High Court or District Court under Section 24.
+· **Inter-State Transfer** (between states): Supreme Court under Section 25.
+75. Which of the following is a ground for divorce under the Dissolution of Muslim Marriages Act, 1939? (A) Husband's failure to perform marital obligations for two years. (B) Husband's failure to perform marital obligations for three years. (C) Husband's failure to maintain the wife for two years. (D) Husband's failure to maintain the wife for three years.
+Correct Answer: (C)
+Solution: Section 2 of the Dissolution of Muslim Marriages Act, 1939, lists several grounds on which a wife can seek divorce. This question tests the specific time periods for different grounds:
+· Section 2(iv) allows divorce if the husband fails to perform marital obligations for **three years**. So, (A) and (B) are incorrect.
+· Section 2(ii) allows divorce if the husband has neglected or has failed to provide for her maintenance for a period of **two years**. So, (C) is correct and (D) is incorrect.
+Quick Tip This question requires careful reading. Remember the two key time-based grounds under the Act: **2 years** for failure to provide maintenance, and **3 years** for failure to perform marital obligations.
+76. Which of the following sections of the Indian Evidence Act, 1872, deals with the relevancy of facts forming part of the same transaction? (A) Section 6 (B) Section 7 (C) Section 8 (D) Section 9
+Correct Answer: (A)
+Solution: Section 6 of the Indian Evidence Act, 1872, deals with the relevancy of facts which, though not in issue, are so connected with a fact in issue as to form part of the same transaction.
+41
+
+This principle is known as the doctrine of *res gestae* (Latin for "things done"). It allows for the admission of spontaneous statements, acts, or events that are closely associated in time, place, and circumstances with the main fact, making them relevant to explain it. For example, statements made by a victim or bystanders immediately after a crime are relevant under this section.
+Quick Tip
+Remember: Section 6 = Same Transaction = *Res Gestae*. It's about events and statements that are so intertwined with the main event that they are considered part of it.
+77. Which of the following is not a type of bail under the Code of Criminal Procedure, 1973? (A) Regular Bail (B) Interim Bail (C) Anticipatory Bail (D) Conditional Bail
+Correct Answer: (B)
+Solution: The Code of Criminal Procedure primarily provides for two distinct categories of bail:
+1. **Regular Bail:** Granted to a person who is already in custody, under Sections 437 and 439.
+2. **Anticipatory Bail:** Granted to a person in anticipation of arrest, under Section 438. While courts often grant "Interim Bail" for a short, fixed period while the main bail application is pending consideration, it is a judicial practice and not a separate category defined in the statute. "Conditional Bail" is not a type of bail but a feature of a bail order, as courts can impose conditions under Section 437(3) and 439. Therefore, 'Interim Bail' is the term that does not represent a formally defined type of bail in the CrPC itself.
+Quick Tip
+The CrPC formally defines two main types of bail: Post-arrest (Regular Bail) and Prearrest (Anticipatory Bail). 'Interim bail' is a temporary measure created by judicial practice, not by the statute.
+78. Which of the following cases established the principle of 'Basic Structure' of the Constitution? (A) Kesavananda Bharati v. State of Kerala (B) Golaknath v. State of Punjab (C) Minerva Mills v. Union of India (D) Indira Nehru Gandhi v. Raj Narain
+Correct Answer: (A)
+42
+
+Solution: The doctrine of 'Basic Structure' is a judicial principle that holds that certain fundamental features of the Constitution of India are beyond the amending power of the Parliament. This doctrine was established by the Supreme Court in the historic case of Kesavananda Bharati v. State of Kerala (1973). The court, by a narrow majority, ruled that while Parliament has the power to amend any part of the Constitution, it cannot use this power to alter or destroy its "basic structure" or framework. This principle acts as a crucial check on the legislative power of Parliament.
+Quick Tip Remember the landmark: Kesavananda Bharati = Basic Structure Doctrine. This case is arguably the most important in Indian constitutional history for establishing limits on Parliament's amending power.
+79. Which of the following sections of the Arbitration and Conciliation Act, 1996, deals with the termination of arbitral proceedings? (A) Section 32 (B) Section 33 (C) Section 34 (D) Section 35
+Correct Answer: (A)
+Solution: Section 32 of the Arbitration and Conciliation Act, 1996, outlines the specific circumstances under which arbitral proceedings are terminated. According to this section, proceedings can be terminated by:
+· The final arbitral award. · An order of the arbitral tribunal if the claimant withdraws the claim, the parties agree to
+terminate, or the tribunal finds the continuation of proceedings unnecessary or impossible. This is distinct from Section 34, which deals with the separate process of applying to a court to set aside an arbitral award after the proceedings have terminated.
+Quick Tip
+Think of the process: Section 32 is about *ending* the arbitration process itself. Section 34 is about *challenging* the final outcome (the award) in court after the process has ended.
+80. Which of the following is a ground for setting aside an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996? (A) The award is against public policy of India. (B) The arbitral tribunal exceeded its jurisdiction. (C) The party was unable to present its case. (D) All of the above
+43
+
+Correct Answer: (D)
+Solution: Section 34 of the Arbitration and Conciliation Act, 1996, provides a limited and exhaustive list of grounds on which a court can set aside an arbitral award. The objective is to ensure minimal judicial intervention. The grounds listed in the section include:
+· A party being under some incapacity. · The arbitration agreement not being valid. · (C) The party making the application was not given proper notice or was otherwise unable
+to present his case. · (B) The award deals with a dispute not contemplated by or falling within the terms of
+the submission to arbitration, or it contains decisions on matters beyond the scope of the submission. · The composition of the arbitral tribunal was not in accordance with the agreement. · (A) The court finds that the subject-matter of the dispute is not capable of settlement by arbitration or the arbitral award is in conflict with the public policy of India. Since all the options are valid grounds, the correct answer is (D).
+Quick Tip The grounds for setting aside an award under Section 34 are very specific and limited, mostly focusing on procedural fairness (like the ability to present one's case), jurisdictional issues, and conflict with the fundamental policy of Indian law (public policy).
+81. Which of the following sections of the Code of Criminal Procedure, 1973, deals with the procedure for summary trials? (A) Section 260 (B) Section 261 (C) Section 262 (D) Section 263
+Correct Answer: (A)
+Solution: Chapter XXI of the Code of Criminal Procedure, containing Sections 260 to 265, deals with 'Summary Trials'. Section 260 specifically grants the "Power to try summarily" to certain magistrates (Chief Judicial Magistrate, Metropolitan Magistrate, or a Magistrate of the first class empowered by the High Court). This section lists the offences which can be tried in this expedited manner, which are generally minor offences where the punishment does not exceed two years of imprisonment. Subsequent sections like S.262 and S.263 lay down the procedure and the record to be maintained in summary trials.
+44
+
+Quick Tip Summary Trial = Speedy Trial. Section 260 of the CrPC is the key provision that empowers magistrates to use a shortened procedure for minor offences to ensure quick disposal of cases and reduce the burden on courts.
+82. Under which Article of the Constitution of India, the High Court has the power to issue writs? (A) Article 32 (B) Article 226 (C) Article 227 (D) Article 228
+Correct Answer: (B)
+Solution: Article 226 of the Constitution of India grants every High Court the power to issue to any person or authority, including the government, directions, orders, or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto, and certiorari. This power can be exercised for the enforcement of any of the Fundamental Rights (Part III) and for "any other purpose." This makes the writ jurisdiction of the High Court wider than that of the Supreme Court under Article 32, which is confined to the enforcement of Fundamental Rights only.
+Quick Tip Remember the distinction:
+· **Article 32 (Supreme Court):** Writ power for Fundamental Rights ONLY. · **Article 226 (High Court):** Writ power for Fundamental Rights + "any other
+purpose" (i.e., for enforcement of any legal right).
+83. Which of the following is not a fundamental duty under the Constitution of India? (A) To abide by the Constitution and respect its ideals. (B) To promote harmony and the spirit of common brotherhood. (C) To pay taxes promptly. (D) To protect and improve the natural environment.
+Correct Answer: (C)
+Solution: The Fundamental Duties of citizens are listed in Article 51-A of the Constitution, which was added by the 42nd Amendment in 1976. The list includes duties such as abiding by the Constitution (51-A(a)), promoting harmony (51-A(e)), and protecting the environment (51-A(g)). However, "to pay taxes promptly" is not listed as one of the eleven Fundamental Duties. While paying taxes is a crucial legal obligation of every citizen under various tax laws, it is not constitutionally enshrined as a Fundamental Duty in Part IV-A.
+45
+
+Quick Tip
+Fundamental Duties (Article 51-A) are primarily moral and civic in nature, intended to guide the conduct of citizens. Paying taxes, while a vital duty, is a statutory legal obligation, not a Fundamental Duty under the Constitution.
+84. Which of the following cases laid down the principle that the right to education is a fundamental right under Article 21A of the Constitution? (A) Unni Krishnan v. State of Andhra Pradesh (B) Mohini Jain v. State of Karnataka (C) T.M.A. Pai Foundation v. State of Karnataka (D) P.A. Inamdar v. State of Maharashtra
+Correct Answer: (B)
+Solution: The journey to making education a fundamental right involved key judicial pronouncements. In Mohini Jain v. State of Karnataka (1992), the Supreme Court for the first time held that the 'Right to Education' is an integral part of the 'Right to Life' under Article 21. This was a broad declaration. The principle was later refined in Unni Krishnan v. State of A.P. (1993), where the court held that this right is applicable to children up to the age of 14. These judicial pronouncements ultimately led to the 86th Constitutional Amendment in 2002, which inserted Article 21A, making the right to free and compulsory education for children aged 6 to 14 an explicit fundamental right. Mohini Jain was the case that initiated this legal evolution.
+Quick Tip
+Remember the timeline for the Right to Education: 1. Mohini Jain (1992): First declared it part of Article 21. 2. Unni Krishnan (1993): Refined it to age 14. 3. **Article 21A** (2002): Made it an explicit Fundamental Right.
+85. Which of the following sections of the Indian Succession Act, 1925, deals with the rules of intestate succession for Hindus? (A) Section 29 (B) Section 30 (C) Section 31 (D) Section 32
+Correct Answer: None of the above.
+Solution: This question is fundamentally flawed. The Indian Succession Act, 1925, does **not** govern the intestate succession (succession without a will) of Hindus. Section 2(2) of the Act, combined with Section 5, explicitly excludes Hindus, Buddhists, Sikhs, and Jains from its intestate succession provisions. The intestate succession for Hindus is governed by a separate and specific law: the **Hindu Succession Act, 1956**. The rules for devolution of
+46
+
+property for Hindu males are primarily found in Sections 8, 9, and 10 of the Hindu Succession Act, 1956. Therefore, none of the options provided are correct.
+Quick Tip A crucial point in succession law: The Indian Succession Act, 1925, primarily governs Christians, Parsis, and those married under the Special Marriage Act. Hindus, Buddhists, Sikhs, and Jains have their own law for succession, the Hindu Succession Act, 1956.
+86. Which of the following is a ground for divorce under the Special Marriage Act, 1954? (A) Mutual consent (B) Cruelty (C) Desertion for a continuous period of two years (D) All of the above
+Correct Answer: (D)
+Solution: The Special Marriage Act, 1954, which provides for a secular form of marriage, contains comprehensive provisions for divorce.
+· **Section 27** of the Act lists several fault-based grounds for divorce, which include both **Cruelty** and **Desertion** for a period of not less than two years.
+· **Section 28** of the Act provides for divorce by **Mutual Consent**, which is a no-fault ground where both parties agree to dissolve the marriage.
+Since all the grounds listed in the options--mutual consent, cruelty, and desertion for two years--are valid grounds for divorce under the Special Marriage Act, the correct answer is (D) All of the above.
+Quick Tip The Special Marriage Act, 1954, offers a complete set of divorce options, including both fault-based grounds (like cruelty and desertion under S.27) and a no-fault ground (mutual consent under S.28).
+87. Which of the following sections of the Limitation Act, 1963, prescribes the limitation period for filing a suit for recovery of movable property? (A) Article 91 (B) Article 92 (C) Article 93 (D) Article 94
+Correct Answer: None of the above.
+Solution: This question is flawed as the options provided are incorrect. The limitation period for suits relating to movable property is primarily governed by Articles 68 and 69 in the Schedule to the Limitation Act, 1963.
+47
+
+· **Article 68:** For recovery of specific movable property lost, or acquired by theft, or dishonest misappropriation or conversion. The limitation period is **3 years** from when the person having the right to the possession of the property first learns in whose possession it is.
+· **Article 69:** For recovery of any other specific movable property. The limitation period is **3 years** from when the property is wrongfully taken.
+Article 91, listed in the options, deals with suits to cancel or set aside an instrument, not the recovery of movable property.
+Quick Tip For limitation periods, always refer to the Schedule of the Act. For recovery of movable property, the key articles are 68 and 69, both of which prescribe a 3-year limitation period.
+88. Which of the following is not a form of decree under the Code of Civil Procedure, 1908? (A) Preliminary decree (B) Final decree (C) Interlocutory decree (D) Ex parte decree
+Correct Answer: (C)
+Solution: Section 2(2) of the CPC defines a 'decree' and its types. A decree can be: · **Preliminary:** When further proceedings have to be taken before the suit can be completely disposed of. · **Final:** When such adjudication completely disposes of the suit. · Partly preliminary and partly final.
+An **Ex parte decree** is a final decree passed when the defendant does not appear. The term "Interlocutory decree" is not used or defined in the CPC. The CPC recognizes "Interlocutory Orders" (under Order XXXIX), which are interim orders that do not conclusively determine the rights of the parties and are therefore distinct from decrees.
+Quick Tip The CPC recognizes 'decrees' (which are final and conclusive) and 'orders' (which are often procedural or interim). There is no such category as an "interlocutory decree"; there are only interlocutory orders.
+89. Which of the following cases established the principle of 'absolute liability' in India? (A) M.C. Mehta v. Union of India (Oleum Gas Leak Case)
+48
+
+(B) Rylands v. Fletcher (C) Donoghue v. Stevenson (D) Bhopal Gas Tragedy Case
+Correct Answer: (A)
+Solution: The principle of 'Absolute Liability' was a significant judicial innovation by the Supreme Court of India in the case of M.C. Mehta v. Union of India (1987), also known as the Oleum Gas Leak Case. The court held that an enterprise engaged in a hazardous or inherently dangerous activity has an absolute and non-delegable duty to ensure that no harm results to anyone. If harm does occur, the enterprise is absolutely liable to compensate for it, and it cannot plead any of the exceptions (like Act of God or plaintiff's fault) that are available under the rule of 'Strict Liability' laid down in the English case of Rylands v. Fletcher.
+Quick Tip
+Remember the progression: Rylands v. Fletcher gave us Strict Liability (with exceptions). M.C. Mehta gave India Absolute Liability (with NO exceptions) for hazardous industries.
+90. Which of the following sections of the Consumer Protection Act, 2019, deals with the establishment of the Central Consumer Protection Authority? (A) Section 10 (B) Section 11 (C) Section 12 (D) Section 13
+Correct Answer: (A)
+Solution: One of the major changes introduced by the Consumer Protection Act, 2019, was the creation of a new regulatory body with significant enforcement powers. Chapter III of the Act is dedicated to this body. Section 10(1) of the Act explicitly provides for the "Establishment of Central Consumer Protection Authority." This authority, known as the CCPA, is tasked with promoting, protecting, and enforcing the rights of consumers as a class. Its powers include conducting investigations, ordering recalls of unsafe goods, and imposing penalties for unfair trade practices.
+Quick Tip The Consumer Protection Act, 2019, created a powerful new regulator, the Central Consumer Protection Authority (CCPA). Its establishment is mandated right at the beginning of Chapter III, in Section 10.
+91. Which of the following sections of the Code of Criminal Procedure, 1973, deals with the power of the High Court to transfer cases? (A) Section 406
+49
+
+(B) Section 407 (C) Section 408 (D) Section 409
+Correct Answer: (B)
+Solution: The power to transfer criminal cases is distributed among different courts based on their hierarchy. Section 407 of the CrPC specifically grants the "Power of High Court to transfer cases and appeals." A High Court can order the transfer of a case from one criminal court to another within its jurisdiction if it is expedient for the ends of justice, for instance, to ensure a fair and impartial inquiry or trial. This is distinct from:
+· **Section 406:** Supreme Court's power to transfer cases between states. · **Section 408:** Session Judge's power to transfer cases within their sessions division.
+Quick Tip Remember the transfer hierarchy in CrPC:
+· **Supreme Court (S.406):** Inter-State transfers. · **High Court (S.407):** Intra-State transfers (between districts). · **Sessions Judge (S.408):** Intra-District transfers.
+92. Under which Article of the Constitution of India, the Union Public Service Commission is constituted? (A) Article 315 (B) Article 316 (C) Article 317 (D) Article 318
+Correct Answer: (A)
+Solution: Part XIV of the Constitution of India deals with "Services under the Union and the States." Article 315 is the foundational article that provides for the establishment of Public Service Commissions. Article 315(1) states, "Subject to the provisions of this article, there shall be a Public Service Commission for the Union and a Public Service Commission for each State." This establishes the constitutional basis for the Union Public Service Commission (UPSC) and the State Public Service Commissions (SPSCs). The subsequent articles deal with the appointment (Art. 316), removal (Art. 317), and functions of these bodies.
+Quick Tip Think of the articles in logical order: Article 315 *creates* the Public Service Commissions. Subsequent articles like 316 (Appointment) and 317 (Removal) deal with their composition and functioning.
+50
+
+93. Which of the following is a ground for rejection of a trademark application under the Trade Marks Act, 1999? (A) The mark is distinctive and well-known. (B) The mark is likely to deceive or cause confusion. (C) The mark has been used continuously for five years. (D) The mark is registered in a foreign country.
+Correct Answer: (B)
+Solution: The Trade Marks Act, 1999, lays down grounds for refusing registration. Section 9 provides "Absolute grounds for refusal." Under Section 9(2)(a), a mark shall not be registered if it is of such a nature as to deceive the public or cause confusion. This is a fundamental principle to protect consumers from being misled. In contrast, distinctiveness (A) and continuous use (C) are factors that *support* registration. Registration in a foreign country (D) is generally not a ground for rejection in India, though it can be relevant for claiming priority.
+Quick Tip
+The primary goal of trademark law is to prevent consumer confusion. Therefore, any mark that is "likely to deceive or cause confusion" is a prime candidate for rejection.
+94. Which of the following sections of the Indian Contract Act, 1872, deals with the communication of acceptance? (A) Section 3 (B) Section 4 (C) Section 5 (D) Section 6
+Correct Answer: (B)
+Solution: Section 4 of the Indian Contract Act, 1872, is titled "Communication when complete." It provides the crucial rules for determining the exact moment a contract is formed through correspondence. It states:
+· The communication of an acceptance is complete as against the proposer (offeror) when it is put in a course of transmission to him, so as to be out of the power of the acceptor. (This is the postal rule).
+· As against the acceptor, the communication is complete when it comes to the knowledge of the proposer.
+Section 3 deals with communication generally, while Sections 5 and 6 deal with the revocation of proposals and acceptances.
+Quick Tip
+Remember the key sections for offer and acceptance: Section 3 (Communication), Section 4 (When communication is complete), Section 5 (Revocation). Section 4 is the most important for pinpointing when the contract is legally formed.
+51
+
+95. Which of the following cases established the principle of 'vicarious liability' of the State in India? (A) State of Rajasthan v. Vidyawati (B) Kasturi Lal Ralia Ram Jain v. State of Uttar Pradesh (C) Rudul Sah v. State of Bihar (D) Nilabati Behera v. State of Orissa
+Correct Answer: (A)
+Solution: The principle of the State's vicarious liability for the torts of its employees was firmly established in post-independence India by the Supreme Court in State of Rajasthan v. Vidyawati (1962). In this case, a government jeep driver negligently killed a person. The court rejected the old doctrine of sovereign immunity and held the state liable, stating that the state should be as much liable for torts committed by its employees in the course of their employment as any other employer. While the later case of Kasturi Lal seemingly revived the sovereign immunity defence, the trend since then has been to follow the liberal approach of Vidyawati.
+Quick Tip
+Vidyawati (1962) is the landmark case that held the government liable for its employees' torts, rejecting the old 'sovereign immunity' excuse. It established the modern principle of state liability in India.
+96. Which of the following sections of the Negotiable Instruments Act, 1881, deals with the dishonor of a cheque? (A) Section 138 (B) Section 139 (C) Section 140 (D) Section 141
+Correct Answer: (A)
+Solution: Section 138 of the Negotiable Instruments Act, 1881, is the primary provision that makes the dishonour of a cheque for insufficiency of funds a criminal offence. It creates a statutory offence, making a person who issues a cheque that bounces liable for imprisonment for a term which may extend to two years, or with a fine which may extend to twice the amount of the cheque, or with both. The subsequent sections (139-142) lay down the presumptions, defences, and procedures related to the prosecution of an offence under Section 138.
+Quick Tip Section 138 of the NI Act is the famous "cheque bounce" section. It's the core provision that criminalizes the act of issuing a cheque without sufficient funds in the account.
+52
+
+97. Which of the following is a condition for a valid adoption under the Hindu Adoption and Maintenance Act, 1956? (A) The adopter must be of sound mind. (B) The adoptee must be a minor. (C) The adoption must be registered with the local authority. (D) Both A and B
+Correct Answer: (D)
+Solution: The Hindu Adoptions and Maintenance Act, 1956, lays down several mandatory conditions for a valid adoption.
+· **Section 7** requires that any male Hindu who wishes to adopt must be of **sound mind** and not a minor. (A is correct).
+· **Section 10** states the persons who may be adopted. It requires the child to be a Hindu and not already adopted. Crucially, it also states that the child must not have completed the age of fifteen years (**a minor**), unless there is a custom or usage applicable to the parties which permits adoption of older children. (B is correct).
+· Registration is not a mandatory condition for the validity of the adoption itself, although a registered adoption deed creates a presumption of validity (Section 16).
+Since both (A) and (B) are essential conditions, (D) is the correct answer.
+Quick Tip
+For a valid Hindu adoption, you need a capable adopter (e.g., of sound mind) and a capable adoptee (e.g., generally a minor). Both conditions must be met.
+98. Which of the following sections of the Information Technology Act, 2000, deals with the punishment for tampering with computer source documents? (A) Section 65 (B) Section 66 (C) Section 67 (D) Section 68
+Correct Answer: (A)
+Solution: Section 65 of the Information Technology Act, 2000, specifically addresses the offence of "Tampering with computer source documents." It criminalizes the act of knowingly or intentionally concealing, destroying, or altering any computer source code used for a computer or computer network, when that source code is required to be kept or maintained by law. This provision is crucial for protecting the intellectual property and integrity of software. It is distinct from Section 66 (Hacking with computer systems) and Section 67 (Publishing obscene information in electronic form).
+Quick Tip
+Think of Section 65 of the IT Act as the specific rule protecting the "DNA" of a computer program--its source code. Tampering with it is a distinct offence.
+53
+
+99. Which of the following is not a part of the 'triple test' for determining the validity of a reservation policy under Article 16(4) of the Constitution? (A) Backwardness of the class (B) Inadequacy of representation (C) Overall administrative efficiency (D) Extent of reservation
+Correct Answer: (D)
+Solution: The 'triple test' for justifying reservation in public employment, particularly in promotions, was laid down by the Supreme Court in cases like M. Nagaraj v. Union of India. The state is required to provide quantifiable data to satisfy three conditions:
+1. (A) The backwardness of the class seeking reservation. 2. (B) The inadequacy of representation of that class in public services. 3. (C) The maintenance of overall administrative efficiency (as mandated by Article 335). The "extent of reservation," while a crucial factor governed by the 50
+Quick Tip
+The 'triple test' asks *why* reservation is needed for a group (backwardness, underrepresentation) and its *impact* (on efficiency). The 'extent' (how much) is a separate question, generally capped at 50
+100. Which of the following cases held that the right to privacy is a fundamental right under Article 21 of the Constitution? (A) Maneka Gandhi v. Union of India (B) Justice K.S. Puttaswamy v. Union of India (C) Kharak Singh v. State of Uttar Pradesh (D) Govind v. State of Madhya Pradesh
+Correct Answer: (B)
+Solution: While earlier cases like Kharak Singh and Govind had discussed the right to privacy with differing conclusions, the definitive and authoritative ruling came from the nine-judge Constitution Bench of the Supreme Court in Justice K.S. Puttaswamy (Retd.) v. Union of India (2017). The court unanimously held that the Right to Privacy is a fundamental right, protected as an intrinsic part of the Right to Life and Personal Liberty under Article 21 and as a part of the freedoms guaranteed by Part III of the Constitution. This landmark judgment overruled the earlier decisions that had held otherwise and firmly established privacy as a fundamental right in India.
+Quick Tip
+Puttaswamy (2017) is the landmark, definitive judgment on the Right to Privacy. It settled the debate and unanimously declared privacy to be a fundamental right intrinsic to Article 21.
+54
+
+55
+
+

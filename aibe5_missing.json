@@ -1,0 +1,46 @@
+[
+  {
+    "question_number": 10,
+    "question_text": "is to enable subordinate courts to obtain in non-appealable cases the opinion of the High Court in the absence of a question of law and thereby avoid the commission of an error which could not be remedied later on.",
+    "option_a": "Review",
+    "option_b": "Reference",
+    "option_c": "Appeal",
+    "option_d": "Revision",
+    "correct_option": "B",
+    "subject": "General Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 13,
+    "question_text": "is a suit filed by or against one or more persons on behalf of themselves and others having the same interest in the suit.",
+    "option_a": "Joint suit",
+    "option_b": "Representative suit",
+    "option_c": "Collusive suit",
+    "option_d": "Collective suit",
+    "correct_option": "B",
+    "subject": "Civil Procedure",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 97,
+    "question_text": "According to the Indian law in a lawful contract, consideration",
+    "option_a": "Must move from promisee only",
+    "option_b": "May move from promisee or any other person",
+    "option_c": "is not necessary at all",
+    "option_d": "None of the above",
+    "correct_option": "B",
+    "subject": "Contract Law",
+    "explanation": "No explanation"
+  },
+  {
+    "question_number": 100,
+    "question_text": "Which type of loss are not covered by a contract of indemnity",
+    "option_a": "Loss arising from accidents like fire or perils of the sea",
+    "option_b": "Loss caused by the promisor himself or by a third person",
+    "option_c": "Loss arising by human agency",
+    "option_d": "None of the above",
+    "correct_option": "A",
+    "subject": "Contract Law",
+    "explanation": "No explanation"
+  }
+]

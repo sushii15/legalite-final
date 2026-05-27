@@ -1,0 +1,1029 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard — Legalite.ai</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --cream: #F5F0E8;
+            --dark-brown: #3D2E1E;
+            --gold: #C9A96E;
+            --warm-tan: #D4C5A9;
+            --beige: #EDE6D6;
+            --light-beige: #F9F7F3;
+            --body-text: #5A4A3A;
+            --border-color: #E8DFD3;
+            --ink: #3D2E1E;
+            --ink-2: #5a4730;
+            --ink-3: #806a4f;
+            --gold-deep: #b59154;
+            --line: rgba(61, 46, 30, 0.12);
+            --line-2: rgba(61, 46, 30, 0.18);
+            --shadow-sm: 0 1px 2px rgba(61,46,30,0.06), 0 1px 1px rgba(61,46,30,0.04);
+            --shadow-md: 0 8px 24px -10px rgba(61,46,30,0.18), 0 2px 6px rgba(61,46,30,0.06);
+            --serif: 'Cormorant Garamond', serif;
+            --sans: 'DM Sans', -apple-system, system-ui, sans-serif;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: var(--sans);
+            background-color: var(--cream);
+            color: var(--body-text);
+            line-height: 1.55;
+            margin: 0;
+            padding: 0;
+            -webkit-font-smoothing: antialiased;
+            text-rendering: optimizeLegibility;
+        }
+
+        /* NAVBAR - MATCHES HOMEPAGE */
+        nav {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(245, 240, 232, 0.82);
+            backdrop-filter: blur(14px) saturate(140%);
+            -webkit-backdrop-filter: blur(14px) saturate(140%);
+            border-bottom: 1px solid transparent;
+            transition: border-color 220ms ease, box-shadow 220ms ease, background 220ms ease;
+        }
+
+        nav.scrolled {
+            border-bottom-color: var(--line);
+            box-shadow: 0 1px 0 rgba(61,46,30,0.02);
+        }
+
+        .nav-inner {
+            max-width: 1240px;
+            margin: 0 auto;
+            padding: 0 40px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 76px;
+        }
+
+        .nav-logo {
+            font-family: var(--serif);
+            font-size: 28px;
+            letter-spacing: -0.01em;
+            font-weight: 600;
+            color: var(--ink);
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            margin: 0;
+        }
+
+        .nav-logo .brand-dot {
+            color: var(--gold);
+            font-style: italic;
+            font-weight: 500;
+        }
+
+        .nav-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            font-family: var(--sans);
+            font-size: 14px;
+            font-weight: 500;
+            padding: 12px 22px;
+            border-radius: 999px;
+            border: 1px solid transparent;
+            cursor: pointer;
+            transition: transform 200ms cubic-bezier(.2,.7,.2,1), box-shadow 220ms ease, background 200ms ease, color 200ms ease;
+            background: var(--ink);
+            color: var(--cream);
+            box-shadow: var(--shadow-sm);
+            text-decoration: none;
+            white-space: nowrap;
+        }
+
+        .nav-button:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-md);
+            background: #2d2114;
+        }
+
+        .nav-button:active {
+            transform: translateY(0);
+        }
+
+        .nav-button:disabled {
+            opacity: 0.7;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        /* MAIN CONTENT */
+        main {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 60px;
+        }
+
+        /* HERO SECTION */
+        .hero {
+            padding: 48px 0 32px 0;
+            text-align: center;
+            animation: fadeInUp 0.8s ease;
+            margin-bottom: 32px;
+        }
+
+        .eyebrow {
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--gold);
+            margin-bottom: 8px;
+        }
+
+        .hero h1 {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 44px;
+            font-weight: 400;
+            color: var(--dark-brown);
+            margin-bottom: 12px;
+            letter-spacing: 0.5px;
+        }
+
+        .hero-subtext {
+            font-size: 14px;
+            color: var(--body-text);
+            margin-bottom: 72px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* QUICK STATS */
+        .quick-stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 32px;
+            margin-bottom: 64px;
+        }
+
+        .stat-card {
+            background-color: var(--light-beige);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 32px 28px;
+            text-align: center;
+            animation: fadeInUp 0.8s ease 0.2s both;
+            transition: all 0.4s ease;
+        }
+
+        .stat-card:hover {
+            background-color: var(--beige);
+            transform: translateY(-4px);
+            box-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
+            border-color: var(--warm-tan);
+        }
+
+        .stat-label {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--body-text);
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+
+        .stat-value {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 32px;
+            font-weight: 600;
+            color: var(--dark-brown);
+            margin-bottom: 4px;
+        }
+
+        .stat-meta {
+            font-size: 12px;
+            color: var(--warm-tan);
+        }
+
+        /* SECTION TITLE */
+        .section-title {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 28px;
+            font-weight: 400;
+            color: var(--dark-brown);
+            margin-bottom: 8px;
+            letter-spacing: 0.5px;
+        }
+
+        .section-subtitle {
+            font-size: 13px;
+            color: var(--body-text);
+            margin-bottom: 28px;
+        }
+
+        /* PRACTICE PAPERS SECTION */
+        .practice-papers {
+            margin-bottom: 56px;
+            animation: fadeInUp 0.8s ease 0.4s both;
+        }
+
+        .papers-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 32px;
+        }
+
+        .paper-card {
+            background-color: var(--light-beige);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 36px;
+            transition: all 0.4s ease;
+            display: flex;
+            flex-direction: column;
+            gap: 24px;
+        }
+
+        .paper-card:hover {
+            background-color: var(--beige);
+            transform: translateY(-4px);
+            box-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
+            border-color: var(--warm-tan);
+        }
+
+        .paper-header {
+            display: flex;
+            gap: 32px;
+            align-items: center;
+        }
+
+        .circular-progress {
+            position: relative;
+            width: 120px;
+            height: 120px;
+            flex-shrink: 0;
+        }
+
+        .circular-progress svg {
+            width: 100%;
+            height: 100%;
+            transform: rotate(-90deg);
+        }
+
+        .progress-circle-bg {
+            fill: none;
+            stroke: var(--beige);
+            stroke-width: 2.5;
+        }
+
+        .progress-circle-fill {
+            fill: none;
+            stroke: var(--gold);
+            stroke-width: 2.5;
+            stroke-linecap: round;
+            transition: stroke-dashoffset 0.6s ease;
+        }
+
+        .progress-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+
+        .progress-percent {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 28px;
+            font-weight: 400;
+            color: var(--dark-brown);
+            line-height: 1;
+        }
+
+        .progress-label-small {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            color: var(--warm-tan);
+            margin-top: 4px;
+        }
+
+        .paper-info {
+            flex: 1;
+        }
+
+        .paper-name {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 26px;
+            font-weight: 400;
+            color: var(--dark-brown);
+            margin-bottom: 10px;
+            letter-spacing: 0.3px;
+        }
+
+        .paper-meta {
+            font-size: 13px;
+            color: var(--body-text);
+            line-height: 1.8;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 14px;
+            margin-top: auto;
+        }
+
+        .button-primary,
+        .button-secondary {
+            padding: 10px 16px;
+            font-family: 'DM Sans', sans-serif;
+            font-size: 11px;
+            font-weight: 600;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            transition: all 0.3s ease;
+            flex: 1;
+            text-align: center;
+        }
+
+        .button-primary {
+            background-color: var(--gold);
+            color: var(--dark-brown);
+        }
+
+        .button-primary:hover {
+            background-color: #B8956A;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(201, 169, 110, 0.25);
+        }
+
+        .button-secondary {
+            background-color: transparent;
+            color: var(--dark-brown);
+            border: 1px solid var(--warm-tan);
+        }
+
+        .button-secondary:hover {
+            background-color: var(--warm-tan);
+            color: white;
+            transform: translateY(-2px);
+        }
+
+        .button-secondary:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        /* PAST ATTEMPTS SECTION */
+        .past-attempts {
+            margin-bottom: 56px;
+            animation: fadeInUp 0.8s ease 0.5s both;
+        }
+
+        .attempts-container {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .attempt-card {
+            background-color: var(--light-beige);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 28px 32px;
+            display: grid;
+            grid-template-columns: 1fr auto auto auto auto;
+            align-items: center;
+            gap: 28px;
+            transition: all 0.4s ease;
+        }
+
+        .attempt-card:hover {
+            background-color: var(--beige);
+            border-color: var(--warm-tan);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+        }
+
+        .attempt-paper-name {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 16px;
+            font-weight: 500;
+            color: var(--dark-brown);
+        }
+
+        .attempt-date {
+            font-size: 12px;
+            color: var(--body-text);
+            text-align: center;
+        }
+
+        .attempt-score {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 20px;
+            font-weight: 600;
+            color: var(--gold);
+            text-align: center;
+            min-width: 70px;
+        }
+
+        .attempt-time {
+            font-size: 12px;
+            color: var(--body-text);
+            text-align: center;
+            min-width: 90px;
+        }
+
+        .attempt-button {
+            padding: 8px 18px;
+            background-color: var(--gold);
+            color: var(--dark-brown);
+            border: none;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: 600;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+
+        .attempt-button:hover {
+            background-color: #B8956A;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(201, 169, 110, 0.3);
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 64px 32px;
+            background-color: var(--light-beige);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            border-style: dashed;
+        }
+
+        .empty-state-icon {
+            font-size: 48px;
+            margin-bottom: 16px;
+            opacity: 0.5;
+        }
+
+        .empty-state-text {
+            font-size: 15px;
+            color: var(--body-text);
+        }
+
+        /* PROGRESS SECTION */
+        .progress-section {
+            margin-bottom: 56px;
+            animation: fadeInUp 0.8s ease 0.6s both;
+        }
+
+        .progress-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 24px;
+        }
+
+        .progress-card {
+            background-color: var(--light-beige);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 36px;
+        }
+
+        .progress-card h3 {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 20px;
+            font-weight: 400;
+            color: var(--dark-brown);
+            margin-bottom: 28px;
+            letter-spacing: 0.3px;
+        }
+
+        .subject-list {
+            display: flex;
+            flex-direction: column;
+            gap: 18px;
+        }
+
+        .subject-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-bottom: 16px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .subject-item:last-child {
+            border-bottom: none;
+        }
+
+        .subject-name {
+            font-size: 13px;
+            color: var(--body-text);
+            font-weight: 500;
+        }
+
+        .subject-percent {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--gold);
+        }
+
+        /* FOOTER */
+        footer {
+            background-color: var(--dark-brown);
+            color: var(--cream);
+            text-align: center;
+            padding: 32px 60px;
+            margin-top: 64px;
+            font-size: 12px;
+        }
+
+        footer a {
+            color: var(--gold);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        footer a:hover {
+            color: var(--warm-tan);
+        }
+
+        /* ANIMATIONS */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* RESPONSIVE */
+        @media (max-width: 768px) {
+            main {
+                padding: 0 24px;
+            }
+
+            nav {
+                padding: 16px 24px;
+            }
+
+            .hero {
+                padding: 48px 0;
+            }
+
+            .hero h1 {
+                font-size: 36px;
+            }
+
+            .quick-stats {
+                grid-template-columns: 1fr;
+                gap: 20px;
+                margin-bottom: 64px;
+            }
+
+            .papers-grid {
+                grid-template-columns: 1fr;
+                gap: 24px;
+            }
+
+            .attempt-card {
+                grid-template-columns: 1fr;
+                gap: 16px;
+                text-align: left;
+            }
+
+            .attempt-date,
+            .attempt-score,
+            .attempt-time {
+                text-align: left;
+            }
+
+            .attempt-button {
+                width: 100%;
+            }
+
+            .progress-grid {
+                grid-template-columns: 1fr;
+                gap: 24px;
+            }
+
+            .section-title {
+                font-size: 24px;
+            }
+
+            .stat-value {
+                font-size: 32px;
+            }
+
+            footer {
+                padding: 32px 24px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .hero h1 {
+                font-size: 28px;
+            }
+
+            .paper-name {
+                font-size: 20px;
+            }
+
+            .button-group {
+                flex-direction: column;
+            }
+
+            .button-primary,
+            .button-secondary {
+                flex: 1;
+            }
+        }
+        /* Locked paper card styling */
+        .paper-card.locked {
+            position: relative;
+            pointer-events: none;
+            opacity: 0.6;
+        }
+
+        .paper-card.locked::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: rgba(245, 240, 232, 0.7);
+            border-radius: 6px;
+            z-index: 2;
+        }
+
+        .locked-badge {
+            position: absolute;
+            top: 16px;
+            left: 16px;
+            z-index: 3;
+            background: rgba(61, 46, 30, 0.12);
+            color: #806a4f;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 10px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+        }
+
+        .lock-icon {
+            position: absolute;
+            top: 16px;
+            right: 16px;
+            z-index: 3;
+            font-size: 28px;
+        }
+
+        .unlock-button {
+            width: 100%;
+            background-color: var(--gold);
+            color: var(--dark-brown);
+            border: none;
+            padding: 12px 20px;
+            border-radius: 999px;
+            font-weight: 600;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s ease;
+            font-family: 'DM Sans', sans-serif;
+        }
+
+        .unlock-button:hover {
+            background-color: #B8956A;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+        }
+
+        .your-plan-badge {
+            position: absolute;
+            top: 16px;
+            right: 16px;
+            z-index: 3;
+            background: var(--gold);
+            color: var(--dark-brown);
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 10px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+        }
+
+    </style>
+</head>
+<body>
+    <!-- NAVBAR -->
+    <nav id="nav">
+        <div class="nav-inner">
+            <a href="#" class="nav-logo">Legalite<span class="brand-dot">.ai</span></a>
+            <button class="nav-button" id="nav-button">Upgrade</button>
+        </div>
+    </nav>
+
+    <main>
+        <!-- HERO SECTION -->
+        <section class="hero">
+            <div class="eyebrow">Dashboard</div>
+            <h1>Welcome back, Arjun</h1>
+            <p class="hero-subtext">AIBE 21 is in 14 days. You've completed 2/20 papers.</p>
+
+            <!-- QUICK STATS -->
+            <div class="quick-stats">
+                <div class="stat-card">
+                    <div class="stat-label">Papers Completed</div>
+                    <div class="stat-value">2/20</div>
+                    <div class="stat-meta">10% progress</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Average Score</div>
+                    <div class="stat-value">68%</div>
+                    <div class="stat-meta">Improving steadily</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Weak Subjects</div>
+                    <div class="stat-value">3</div>
+                    <div class="stat-meta">Criminal Law, Torts, Family</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- PRACTICE PAPERS SECTION -->
+        <section class="practice-papers">
+            <h2 class="section-title">Practice Papers</h2>
+            <p class="section-subtitle">Real AIBE exams from past years. Start where you left off.</p>
+
+            <div class="papers-grid" id="papers-container">
+                <!-- Papers will be generated by JavaScript -->
+            </div>
+        </section>
+
+        <!-- AI MOCK TESTS SECTION -->
+        <section class="practice-papers">
+            <h2 class="section-title">AI Mock Tests</h2>
+            <p class="section-subtitle">AI-generated custom tests tailored to your weak areas.</p>
+
+            <div class="papers-grid" id="mocks-container">
+                <!-- Mock tests will be generated by JavaScript -->
+            </div>
+        </section>
+
+        <!-- PAST ATTEMPTS SECTION -->
+        <section class="past-attempts">
+            <h2 class="section-title">Recent Attempts</h2>
+            <p class="section-subtitle">Your test history and performance.</p>
+
+            <div class="attempts-container">
+                <div class="attempt-card">
+                    <div class="attempt-paper-name">AIBE 20</div>
+                    <div class="attempt-date">May 20, 2026</div>
+                    <div class="attempt-score">68/100</div>
+                    <div class="attempt-time">2h 45m</div>
+                    <button class="attempt-button">Review</button>
+                </div>
+                <div class="attempt-card">
+                    <div class="attempt-paper-name">AIBE 18</div>
+                    <div class="attempt-date">May 12, 2026</div>
+                    <div class="attempt-score">62/100</div>
+                    <div class="attempt-time">3h 12m</div>
+                    <button class="attempt-button">Review</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- PROGRESS SECTION -->
+        <section class="progress-section">
+            <h2 class="section-title">Your Progress</h2>
+
+            <div class="progress-grid">
+                <!-- Strong Subjects -->
+                <div class="progress-card">
+                    <h3>Strong Subjects</h3>
+                    <div class="subject-list">
+                        <div class="subject-item">
+                            <span class="subject-name">Constitution</span>
+                            <span class="subject-percent">92%</span>
+                        </div>
+                        <div class="subject-item">
+                            <span class="subject-name">CPC</span>
+                            <span class="subject-percent">85%</span>
+                        </div>
+                        <div class="subject-item">
+                            <span class="subject-name">Contract</span>
+                            <span class="subject-percent">78%</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Weak Subjects -->
+                <div class="progress-card">
+                    <h3>Weak Subjects</h3>
+                    <div class="subject-list">
+                        <div class="subject-item">
+                            <span class="subject-name">Criminal Law</span>
+                            <span class="subject-percent">54%</span>
+                        </div>
+                        <div class="subject-item">
+                            <span class="subject-name">Torts</span>
+                            <span class="subject-percent">48%</span>
+                        </div>
+                        <div class="subject-item">
+                            <span class="subject-name">Family Law</span>
+                            <span class="subject-percent">61%</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>&copy; 2026 Legalite.ai. All rights reserved. | <a href="#">Privacy</a> | <a href="#">Terms</a></p>
+    </footer>
+
+    <script>
+        // Set user plan at page load
+        const USER_PLAN = 'premium'; // Toggle: 'free' | 'paid' | 'premium'
+        document.body.classList.add(`plan-${USER_PLAN}`);
+
+        // Sticky nav shadow on scroll (matches homepage)
+        const nav = document.getElementById('nav');
+        const onScroll = () => {
+            if (window.scrollY > 8) nav.classList.add('scrolled');
+            else nav.classList.remove('scrolled');
+        };
+        window.addEventListener('scroll', onScroll, { passive: true });
+        onScroll();
+
+        // Paper data from AIBE 20 to AIBE 5
+        const papersData = [
+            { aibe: 20, progress: 68, attempted: true, date: 'May 20' },
+            { aibe: 19, progress: 0, attempted: false, date: null },
+            { aibe: 18, progress: 0, attempted: false, date: null },
+            { aibe: 17, progress: 0, attempted: false, date: null },
+            { aibe: 16, progress: 0, attempted: false, date: null },
+            { aibe: 15, progress: 0, attempted: false, date: null },
+            { aibe: 14, progress: 0, attempted: false, date: null },
+            { aibe: 13, progress: 0, attempted: false, date: null },
+            { aibe: 12, progress: 0, attempted: false, date: null },
+            { aibe: 11, progress: 0, attempted: false, date: null },
+            { aibe: 10, progress: 0, attempted: false, date: null },
+            { aibe: 9, progress: 0, attempted: false, date: null },
+            { aibe: 8, progress: 0, attempted: false, date: null },
+            { aibe: 7, progress: 0, attempted: false, date: null },
+            { aibe: 6, progress: 0, attempted: false, date: null },
+            { aibe: 5, progress: 0, attempted: false, date: null },
+        ];
+
+        // Determine which papers to show based on plan
+        function getPaperLimit() {
+            if (USER_PLAN === 'free') return 1; // Only AIBE 20
+            if (USER_PLAN === 'paid') return 11; // AIBE 20 to AIBE 10
+            if (USER_PLAN === 'premium') return 16; // AIBE 20 to AIBE 5
+            return 1;
+        }
+
+        // Determine AI mock test limit based on plan
+        function getMockTestLimit() {
+            if (USER_PLAN === 'free') return 0; // No mocks
+            if (USER_PLAN === 'paid') return 5; // 5 AI mocks
+            if (USER_PLAN === 'premium') return 10; // 10 AI mocks
+            return 0;
+        }
+
+        const paperLimit = getPaperLimit();
+        const visiblePapers = papersData.slice(0, paperLimit);
+
+        // Generate paper cards
+        const container = document.getElementById('papers-container');
+        visiblePapers.forEach((paper, index) => {
+            const dashOffset = 282.74 * (1 - paper.progress / 100);
+            const isLocked = false; // All visible papers are unlocked for their tier
+            const metaText = paper.attempted 
+                ? `100 Questions • 3.5 Hours<br>Last attempted: ${paper.date}<br>${Math.round(paper.progress)}/100 completed`
+                : `100 Questions • 3.5 Hours<br>Not started<br>0/100 completed`;
+            const buttonText = paper.attempted ? 'Continue' : 'Start Test';
+            
+            const card = document.createElement('div');
+            card.className = 'paper-card';
+            card.id = `paper-${paper.aibe}`;
+            card.innerHTML = `
+                <div class="paper-header">
+                    <div class="circular-progress">
+                        <svg viewBox="0 0 100 100">
+                            <circle class="progress-circle-bg" cx="50" cy="50" r="45"></circle>
+                            <circle class="progress-circle-fill" cx="50" cy="50" r="45" 
+                                style="stroke-dasharray: 282.74; stroke-dashoffset: ${dashOffset};"></circle>
+                        </svg>
+                        <div class="progress-text">
+                            <div class="progress-percent">${paper.progress}%</div>
+                            <div class="progress-label-small">${paper.attempted ? 'Progress' : 'Start'}</div>
+                        </div>
+                    </div>
+                    <div class="paper-info">
+                        <h3 class="paper-name">AIBE ${paper.aibe}</h3>
+                        <p class="paper-meta">${metaText}</p>
+                    </div>
+                </div>
+                <div class="button-group">
+                    <button class="button-primary">${buttonText}</button>
+                    <button class="button-secondary" ${paper.progress === 0 ? 'disabled' : ''}>Review</button>
+                </div>
+            `;
+            container.appendChild(card);
+        });
+
+        // Generate AI mock tests
+        const mockLimit = getMockTestLimit();
+        const mocksContainer = document.getElementById('mocks-container');
+        
+        if (mockLimit > 0) {
+            for (let i = 1; i <= mockLimit; i++) {
+                const mockProgress = Math.floor(Math.random() * 60); // Random progress 0-60%
+                const dashOffset = 282.74 * (1 - mockProgress / 100);
+                
+                const mockCard = document.createElement('div');
+                mockCard.className = 'paper-card';
+                mockCard.id = `mock-${i}`;
+                mockCard.innerHTML = `
+                    <div class="paper-header">
+                        <div class="circular-progress">
+                            <svg viewBox="0 0 100 100">
+                                <circle class="progress-circle-bg" cx="50" cy="50" r="45"></circle>
+                                <circle class="progress-circle-fill" cx="50" cy="50" r="45" 
+                                    style="stroke-dasharray: 282.74; stroke-dashoffset: ${dashOffset};"></circle>
+                            </svg>
+                            <div class="progress-text">
+                                <div class="progress-percent">${mockProgress}%</div>
+                                <div class="progress-label-small">Progress</div>
+                            </div>
+                        </div>
+                        <div class="paper-info">
+                            <h3 class="paper-name">Mock Test ${i}</h3>
+                            <p class="paper-meta">100 Questions • 3.5 Hours<br>Adaptive • Custom topics<br>${mockProgress}/100 completed</p>
+                        </div>
+                    </div>
+                    <div class="button-group">
+                        <button class="button-primary">${mockProgress > 0 ? 'Continue' : 'Start Test'}</button>
+                        <button class="button-secondary" ${mockProgress === 0 ? 'disabled' : ''}>Review</button>
+                    </div>
+                `;
+                mocksContainer.appendChild(mockCard);
+            }
+        } else {
+            mocksContainer.innerHTML = `
+                <div style="grid-column: 1 / -1; text-align: center; padding: 60px 32px; background: var(--light-beige); border: 1px dashed var(--border-color); border-radius: 6px;">
+                    <div style="font-size: 48px; margin-bottom: 16px; opacity: 0.5;">🔒</div>
+                    <p style="font-size: 15px; color: var(--body-text); margin-bottom: 16px;">AI Mock Tests are available in the ₹299 plan.</p>
+                    <button onclick="alert('Opening Razorpay checkout for ₹299/month')" style="background: var(--gold); color: var(--dark-brown); border: none; padding: 12px 24px; border-radius: 6px; font-weight: 600; cursor: pointer; font-size: 14px;">
+                        Upgrade to ₹299 →
+                    </button>
+                </div>
+            `;
+        }
+
+        // Wait for DOM to be ready before accessing elements
+        document.addEventListener('DOMContentLoaded', function() {
+            // Navbar button logic
+            const navButton = document.getElementById('nav-button');
+            
+            if (USER_PLAN === 'free') {
+                navButton.textContent = 'Upgrade to ₹299 →';
+                navButton.onclick = () => alert('Opening Razorpay checkout for ₹299/month');
+            } else if (USER_PLAN === 'paid') {
+                navButton.textContent = 'Upgrade to ₹799 →';
+                navButton.onclick = () => alert('Opening Razorpay checkout for ₹799/6-months');
+            } else if (USER_PLAN === 'premium') {
+                navButton.textContent = '✓ Premium';
+                navButton.disabled = true;
+            }
+        });
+    </script>
+</body>
+</html>
