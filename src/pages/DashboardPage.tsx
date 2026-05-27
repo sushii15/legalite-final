@@ -252,7 +252,7 @@ export function DashboardPage({ user, userPlan, onUpgradeClick }: DashboardProps
       {/* HERO SECTION */}
       <section className="hero">
         <div className="eyebrow">Dashboard</div>
-        <h1>Welcome back, {userName}</h1>
+        <h1>Welcome back</h1>
         <p className="hero-subtext">
           AIBE 21 is in {daysUntilExam} days. You've completed {papersCompleted}/{paperLimit} papers.
         </p>
