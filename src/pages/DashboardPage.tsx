@@ -199,7 +199,8 @@ export function DashboardPage({ user, userPlan, onUpgradeClick }: DashboardProps
     }
 
     generateAnalysis()
-  }, [subjectPerformance.weak])
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [weakSubjectsCount, weakSubjectsList.join(',')])
 
   // Calculate days until exam
   const daysUntilExam = user?.exam_date
