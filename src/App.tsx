@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom'
-import { Analytics } from '@vercel/analytics/react'
 import { getCurrentUser, getUserProfile } from '@/lib/auth'
 import { createRazorpayOrder, openRazorpayModal, verifyPaymentAndUpdatePlan } from '@/lib/payments'
 import { Navbar } from '@/components/Navbar'
@@ -75,7 +74,6 @@ function App() {
 
   return (
     <Router>
-      <Analytics />
       <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
         <Navbar user={user} userPlan={userPlan} onUpgradeClick={handleUpgradeClick} />
         <main style={{ flex: 1 }}>
