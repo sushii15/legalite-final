@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom'
+import { Analytics } from '@vercel/analytics/react'
 import { getCurrentUser, getUserProfile } from '@/lib/auth'
 import { createRazorpayOrder, openRazorpayModal, verifyPaymentAndUpdatePlan } from '@/lib/payments'
 import { Navbar } from '@/components/Navbar'
@@ -95,6 +96,7 @@ function App() {
           </Routes>
         </main>
         <Footer />
+        <Analytics />
       </div>
     </Router>
   )
