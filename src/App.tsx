@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom'
+import { Analytics } from '@vercel/analytics/react'
 import { getCurrentUser, getUserProfile } from '@/lib/auth'
 import { createRazorpayOrder, openRazorpayModal, verifyPaymentAndUpdatePlan } from '@/lib/payments'
 import { Navbar } from '@/components/Navbar'
@@ -73,30 +74,33 @@ function App() {
   }
 
   return (
-    <Router>
-      <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
-        <Navbar user={user} userPlan={userPlan} onUpgradeClick={handleUpgradeClick} />
-        <main style={{ flex: 1 }}>
-          <Routes>
-            <Route path="/" element={<HomePage />} />
-            <Route path="/login" element={<LoginPageComponent />} />
-            <Route path="/signup" element={<SignupPageComponent />} />
-            <Route path="/how-it-works" element={<HowItWorksPage />} />
-            <Route
-              path="/dashboard"
-              element={<ProtectedRoute><DashboardPage user={user} userPlan={userPlan} onUpgradeClick={handleUpgradeClick} /></ProtectedRoute>}
-            />
-            <Route path="/test/:paperId" element={<ProtectedRoute><TestPage user={user} userPlan={userPlan} /></ProtectedRoute>} />
-            <Route path="/review/:attemptId" element={<ProtectedRoute><ReviewPage user={user} userPlan={userPlan} /></ProtectedRoute>} />
-            <Route path="/mock/:mockId" element={<ProtectedRoute><MockTestPage user={user} userPlan={userPlan} /></ProtectedRoute>} />
-            <Route path="/mock-review/:attemptId" element={<ProtectedRoute><ReviewPage user={user} userPlan={userPlan} /></ProtectedRoute>} />
-            <Route path="/companion/:attemptId" element={<ProtectedRoute><CompanionPage user={user} userPlan={userPlan} /></ProtectedRoute>} />
-            <Route path="*" element={<Navigate to="/" />} />
-          </Routes>
-        </main>
-        <Footer />
-      </div>
-    </Router>
+    <>
+      <Router>
+        <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
+          <Navbar user={user} userPlan={userPlan} onUpgradeClick={handleUpgradeClick} />
+          <main style={{ flex: 1 }}>
+            <Routes>
+              <Route path="/" element={<HomePage />} />
+              <Route path="/login" element={<LoginPageComponent />} />
+              <Route path="/signup" element={<SignupPageComponent />} />
+              <Route path="/how-it-works" element={<HowItWorksPage />} />
+              <Route
+                path="/dashboard"
+                element={<ProtectedRoute><DashboardPage user={user} userPlan={userPlan} onUpgradeClick={handleUpgradeClick} /></ProtectedRoute>}
+              />
+              <Route path="/test/:paperId" element={<ProtectedRoute><TestPage user={user} userPlan={userPlan} /></ProtectedRoute>} />
+              <Route path="/review/:attemptId" element={<ProtectedRoute><ReviewPage user={user} userPlan={userPlan} /></ProtectedRoute>} />
+              <Route path="/mock/:mockId" element={<ProtectedRoute><MockTestPage user={user} userPlan={userPlan} /></ProtectedRoute>} />
+              <Route path="/mock-review/:attemptId" element={<ProtectedRoute><ReviewPage user={user} userPlan={userPlan} /></ProtectedRoute>} />
+              <Route path="/companion/:attemptId" element={<ProtectedRoute><CompanionPage user={user} userPlan={userPlan} /></ProtectedRoute>} />
+              <Route path="*" element={<Navigate to="/" />} />
+            </Routes>
+          </main>
+          <Footer />
+        </div>
+      </Router>
+      <Analytics />
+    </>
   )
 }
 
