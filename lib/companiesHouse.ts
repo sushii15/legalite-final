@@ -3,27 +3,18 @@ const BASE_URL = "https://api.company-information.service.gov.uk";
 function getAuthHeader(): string {
   const key = process.env.COMPANIES_HOUSE_API_KEY_4;
   if (!key) throw new Error("Missing COMPANIES_HOUSE_API_KEY_4 env var");
-  // Companies House API uses Basic Auth with the API key as username and empty password
-  return "Basic " + Buffer.from(`${key}:`).toString("base64");
+  // Companies House API uses Basic Auth with the API key only (no colon, no password)
+  return "Basic " + Buffer.from(key).toString("base64");
 }
 
 async function chFetch(path: string) {
-  const url = `${BASE_URL}${path}`;
-  console.log("[v0] Fetching from Companies House:", url);
-  
-  const res = await fetch(url, {
+  const res = await fetch(`${BASE_URL}${path}`, {
     headers: { Authorization: getAuthHeader() },
     cache: "no-store",
   });
 
-  console.log("[v0] Companies House response status:", res.status);
-  
   if (res.status === 404) throw new Error("Company not found");
-  if (!res.ok) {
-    const body = await res.text();
-    console.log("[v0] Companies House error response:", body);
-    throw new Error(`Companies House API error: ${res.status}`);
-  }
+  if (!res.ok) throw new Error(`Companies House API error: ${res.status}`);
 
   return res.json();
 }
