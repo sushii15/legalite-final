@@ -1,8 +1,8 @@
 const BASE_URL = "https://api.company-information.service.gov.uk";
 
 function getAuthHeader(): string {
-  const key = process.env.COMPANIES_HOUSE_API_KEY;
-  if (!key) throw new Error("Missing COMPANIES_HOUSE_API_KEY env var");
+  const key = process.env.COMPANIES_HOUSE_API_KEY_4;
+  if (!key) throw new Error("Missing COMPANIES_HOUSE_API_KEY_4 env var");
   return "Basic " + Buffer.from(`${key}:`).toString("base64");
 }
 
