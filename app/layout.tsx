@@ -46,36 +46,19 @@ export default function RootLayout({
       className={`${barlowCondensed.variable} ${mulish.variable} h-full antialiased`}
     >
       <head>
-        {/* Google Analytics (G-VME96B6VMJ) */}
+        {/* Google tag (gtag.js) */}
         <Script
           async
           src="https://www.googletagmanager.com/gtag/js?id=G-VME96B6VMJ"
         />
         <Script
-          id="google-analytics-ga4"
+          id="google-analytics"
           dangerouslySetInnerHTML={{
             __html: `
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
               gtag('config', 'G-VME96B6VMJ');
-            `,
-          }}
-        />
-        
-        {/* Google Ads (AW-17160170075) */}
-        <Script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=AW-17160170075"
-        />
-        <Script
-          id="google-ads"
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', 'AW-17160170075');
             `,
           }}
         />
