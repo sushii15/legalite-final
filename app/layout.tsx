@@ -46,10 +46,10 @@ export default function RootLayout({
       className={`${barlowCondensed.variable} ${mulish.variable} h-full antialiased`}
     >
       <head>
-        {/* Google Tag Manager */}
+        {/* Google Analytics */}
         <Script
           async
-          src="https://www.googletagmanager.com/gtag/js?id=AW-17160170075"
+          src="https://www.googletagmanager.com/gtag/js?id=G-VME96B6VMJ"
         />
         <Script
           id="google-analytics"
@@ -58,7 +58,7 @@ export default function RootLayout({
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'AW-17160170075');
+              gtag('config', 'G-VME96B6VMJ');
             `,
           }}
         />
